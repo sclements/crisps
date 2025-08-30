@@ -10,6 +10,8 @@
     <script src="https://unpkg.com/dexie@3/dist/dexie.js"></script>
     <!-- marked.js: A Markdown to HTML parser -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Load the chip data from the separate file -->
+    <script src="chip-data.js"></script>
     <style>
         /* Simple transition for a smoother UI */
         #article-view, #search-results { transition: opacity 0.3s ease-in-out; }
@@ -25,7 +27,7 @@
 
         <!-- Search Bar -->
         <div class="relative mb-6">
-            <input type="text" id="search-input" placeholder="Search for chips like 'kettle', 'tortilla', or 'pita'..."
+            <input type="text" id="search-input" placeholder="Search for chips like 'kettle', 'lentil', or 'pita'..."
                    class="w-full p-4 pl-10 text-lg border-2 border-gray-300 rounded-full focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500 outline-none transition duration-300">
             <svg class="w-6 h-6 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
         </div>
@@ -54,76 +56,11 @@
     </div>
 
     <script>
-        // --- MOCK DATA ---
-        // In a real application, this 'manifest' would be a JSON file on your server.
-        const MANIFEST_URL = 'manifest.json';
-        const MOCK_FILES = {
-            'manifest.json': JSON.stringify([
-                'potato-chips',
-                'tortilla-chips',
-                'kettle-chips',
-                'corn-chips',
-                'pita-chips',
-                'vegetable-chips',
-                'pork-rinds'
-            ]),
-            'potato-chips': {
-                title: 'Classic Potato Chips',
-                content: `
-# Potato Chips
-The classic potato chip, or crisp, is a thin slice of potato that has been deep-fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, and artificial additives.
-`
-            },
-            'tortilla-chips': {
-                title: 'Tortilla Chips',
-                content: `
-# Tortilla Chips
-A tortilla chip is a snack food made from corn tortillas, which are cut into wedges and then fried or baked. Corn tortillas are made of nixtamalized corn (maize), vegetable oil, salt and water. Although first mass-produced in Los Angeles in the late 1940s, tortilla chips are most strongly associated with Mexican cuisine, particularly Tex-Mex. They are typically served with a dip, such as salsa, chile con queso, or guacamole.
-`
-            },
-            'kettle-chips': {
-                title: 'Kettle-Cooked Chips',
-                content: `
-# Kettle-Cooked Chips
-Kettle-cooked (or batch-cooked) potato chips are created by frying potatoes in batches in a kettle, rather than on a continuous conveyor belt. This process results in a thicker, crunchier chip that often has a more irregular shape. The skins are frequently left on, giving them a more rustic appearance and flavor. Because they are cooked in smaller batches, the oil temperature varies, leading to chips with a wide range of color and crunch.
-`
-            },
-            'corn-chips': {
-                title: 'Corn Chips',
-                content: `
-# Corn Chips
-Corn chips are a snack food made from cornmeal fried in oil or baked. They are thick, rigid and very crunchy. Corn chips have the strong aroma and flavor of roasted corn, and are often heavily salted. In the United States, Fritos are the best known brand of corn chips. While tortilla chips are also made from corn, corn chips are made from processed cornmeal that is not nixtamalized, resulting in a different texture and flavor.
-`
-            },
-            'pita-chips': {
-                title: 'Pita Chips',
-                content: `
-# Pita Chips
-Pita chips are made from pita bread that has been baked or fried. The pita bread is typically cut into triangles, seasoned with spices like garlic powder or paprika, and then baked until crispy. They are a healthier alternative to many fried snacks and are extremely versatile. Pita chips are most commonly served with hummus, but they also pair well with other dips like baba ghanoush or tzatziki.
-`
-            },
-            'vegetable-chips': {
-                title: 'Vegetable Chips',
-                content: `
-# Vegetable Chips
-Vegetable chips are chips or crisps that are prepared using vegetables other than potatoes. Common varieties include sweet potato chips, beet chips, carrot chips, zucchini chips, and kale chips. They can be prepared by frying or baking the thinly sliced vegetables. These chips are often marketed as a healthier alternative to potato chips, offering a wider range of nutrients and flavors.
-`
-            },
-            'pork-rinds': {
-                title: 'Pork Rinds',
-                content: `
-# Pork Rinds
-Pork rinds, also known as chicharrones, are a snack made from fried pork skin. The skins are first rendered and dried, then fried and puffed. The result is a light, airy, and crunchy snack. They are naturally high in protein and contain zero carbohydrates, making them a popular snack for low-carb diets. They can be eaten on their own or used as a crunchy topping for salads and casseroles.
-`
-            }
-        };
-
         // --- DATABASE SETUP (Dexie.js) ---
         const db = new Dexie('EncyclopediaDB');
-        // Define the database schema. Using 'id' instead of 'path'.
-        db.version(2).stores({
-            articles: 'id, title, content', // Store article content. 'id' is the primary key.
-            invertedIndex: 'word, *ids' // Store the search index. 'word' is the primary key, 'ids' is a multi-entry index.
+        db.version(3).stores({
+            articles: 'id, title, content',
+            invertedIndex: 'word, *ids'
         });
         
         // --- UI ELEMENTS ---
@@ -137,57 +74,30 @@ Pork rinds, also known as chicharrones, are a snack made from fried pork skin. T
         const backButton = document.getElementById('back-button');
 
         // --- CORE LOGIC ---
-
-        /**
-         * Simulates fetching a file. In a real app, this would use fetch().
-         * @param {string} url - The URL of the file to fetch.
-         * @returns {Promise<string|object>} - The content of the file.
-         */
-        function fakeFetch(url) {
-             console.log(`Fetching: ${url}`);
-             return new Promise(resolve => {
-                setTimeout(() => { // Simulate network latency
-                    resolve(MOCK_FILES[url]);
-                }, 100);
-             });
-        }
         
-        /**
-         * Cleans and splits text into searchable words (tokens).
-         * @param {string} text - The input text.
-         * @returns {string[]} - An array of cleaned words.
-         */
         function tokenize(text) {
             const stopWords = new Set(['a', 'an', 'the', 'and', 'it', 'is', 'in', 'of', 'to', 'for', 'on', 'with', 'as', 'by', 'at']);
             return text
                 .toLowerCase()
-                .replace(/[^\w\s]/g, '') // Remove punctuation
-                .split(/\s+/) // Split by whitespace
-                .filter(word => word.length > 2 && !stopWords.has(word)); // Remove short words and stop words
+                .replace(/[^\w\s]/g, '')
+                .split(/\s+/)
+                .filter(word => word.length > 2 && !stopWords.has(word));
         }
 
-        /**
-         * Fetches all articles, builds the search index, and stores everything in IndexedDB.
-         */
-        async function buildIndex() {
-            statusText.textContent = 'Fetching article list...';
-            
-            const manifestJson = await fakeFetch(MANIFEST_URL);
-            const articleIds = JSON.parse(manifestJson);
-
+        async function buildIndex(chipData) {
+            statusText.textContent = 'Indexing content...';
+            const articleIds = Object.keys(chipData);
             const invertedIndex = {};
             
             for (let i = 0; i < articleIds.length; i++) {
                 const id = articleIds[i];
                 statusText.textContent = `Indexing article ${i + 1} of ${articleIds.length}: ${id}`;
                 
-                const articleData = await fakeFetch(id);
+                const articleData = chipData[id];
                 const { title, content } = articleData;
                 
-                // Store the full article in the DB for later retrieval
                 await db.articles.put({ id, title, content });
 
-                // Build the inverted index in memory
                 const uniqueWords = new Set(tokenize(title + ' ' + content));
                 uniqueWords.forEach(word => {
                     if (!invertedIndex[word]) {
@@ -198,17 +108,12 @@ Pork rinds, also known as chicharrones, are a snack made from fried pork skin. T
             }
             
             statusText.textContent = 'Saving index to database...';
-            // Bulk-add the index to Dexie for performance
             const indexEntries = Object.entries(invertedIndex).map(([word, ids]) => ({ word, ids }));
             await db.invertedIndex.bulkPut(indexEntries);
 
             console.log('Indexing complete!');
         }
         
-        /**
-         * Searches the index for a query and displays the results.
-         * @param {string} query - The user's search term.
-         */
         async function search(query) {
             const cleanQuery = query.toLowerCase().trim();
             if (cleanQuery.length < 3) {
@@ -216,11 +121,9 @@ Pork rinds, also known as chicharrones, are a snack made from fried pork skin. T
                 return;
             }
             
-            // Search Dexie for the word.
             const result = await db.invertedIndex.get(cleanQuery);
             
             if (result && result.ids.length > 0) {
-                // Fetch the titles for the matching ids
                 const articles = await db.articles.where('id').anyOf(result.ids).toArray();
                 let html = `<h2 class="text-2xl font-bold mb-4">Search Results for "${cleanQuery}"</h2>`;
                 html += '<ul class="space-y-3">';
@@ -239,10 +142,6 @@ Pork rinds, also known as chicharrones, are a snack made from fried pork skin. T
             }
         }
 
-        /**
-         * Displays a selected article.
-         * @param {string} id - The id of the article to display.
-         */
         async function displayArticle(id) {
             const article = await db.articles.get(id);
             if (article) {
@@ -251,10 +150,6 @@ Pork rinds, also known as chicharrones, are a snack made from fried pork skin. T
             }
         }
         
-        /**
-         * Controls which view is visible (search or article).
-         * @param {'search' | 'article'} viewName - The name of the view to show.
-         */
         function showView(viewName) {
             articleViewDiv.classList.add('hidden', 'opacity-0');
             searchResultsDiv.classList.add('hidden', 'opacity-0');
@@ -280,7 +175,7 @@ Pork rinds, also known as chicharrones, are a snack made from fried pork skin. T
                 } else {
                     searchResultsDiv.innerHTML = '<p class="text-gray-500">Start typing to search for a chip.</p>';
                 }
-            }, 300); // Debounce search
+            }, 300);
         });
         
         searchResultsDiv.addEventListener('click', (e) => {
@@ -295,50 +190,33 @@ Pork rinds, also known as chicharrones, are a snack made from fried pork skin. T
         });
 
         // --- INITIALIZATION ---
-        // Handles schema changes gracefully by re-indexing.
         async function initialize() {
             try {
-                // This will open the DB. If it's an old version, it will trigger an upgrade.
                 await db.open(); 
                 const count = await db.articles.count();
                  if (count === 0) {
-                    console.log('Database is empty. Starting the indexing process.');
-                    await buildIndex();
+                    console.log('Database is empty. Building index from the loaded CHIP_DATA object.');
+                    // The CHIP_DATA constant is now available globally from chip-data.js
+                    await buildIndex(CHIP_DATA);
                  } else {
                     console.log('Database already indexed. Ready to search.');
                  }
             } catch (error) {
-                 // This catch block will handle errors, including schema errors if an old
-                 // DB exists that cannot be upgraded automatically.
-                 console.error("Failed to open DB, possibly due to schema change:", error);
-                 console.log("Deleting old database and re-indexing.");
+                 console.error("Failed to initialize database:", error);
+                 console.log("Attempting to recover by deleting database and re-indexing.");
                  await db.close();
                  await db.delete();
-                 // Now open it again (it will be created fresh) and build the index
                  await db.open();
-                 await buildIndex();
+                 await buildIndex(CHIP_DATA);
             } finally {
                 statusDiv.classList.add('hidden');
                 searchResultsDiv.innerHTML = '<p class="text-gray-500">Start typing to search for a chip.</p>';
                 showView('search');
             }
         }
-
-        // Dexie's upgrade handler is the proper way to manage schema changes.
-        // I've also incremented the version number. This will automatically
-        // clear the old data if the schema changes, preventing errors.
-        db.on('populate', () => {
-            console.log("Populating a new database.");
-            // This event only fires on initial creation. We will do the full build here.
-        });
-
-        // We bumped the version to 2. If a user has version 1, Dexie will
-        // automatically clear the old tables because they are not present in the new schema.
-        // This is a simple migration strategy.
         
         window.onload = initialize;
 
     </script>
 </body>
 </html>
-
