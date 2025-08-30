@@ -1,8 +1,344 @@
-<html>
-  <head>
-    <title>Crisps!</title>
-  </head>
-  <body>
-    <h1>Crisps!</h1>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serverless Chip-cyclopedia</title>
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Dexie.js: A wrapper for IndexedDB -->
+    <script src="https://unpkg.com/dexie@3/dist/dexie.js"></script>
+    <!-- marked.js: A Markdown to HTML parser -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* Simple transition for a smoother UI */
+        #article-view, #search-results { transition: opacity 0.3s ease-in-out; }
+    </style>
+</head>
+<body class="bg-yellow-50 text-gray-800 font-sans antialiased">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+        <header class="mb-8 text-center">
+            <h1 class="text-4xl md:text-5xl font-bold text-yellow-800">The Chip-cyclopedia</h1>
+            <p class="text-gray-600 mt-2">A completely serverless, offline-capable database of crisps.</p>
+        </header>
+
+        <!-- Search Bar -->
+        <div class="relative mb-6">
+            <input type="text" id="search-input" placeholder="Search for chips like 'kettle', 'tortilla', or 'pita'..."
+                   class="w-full p-4 pl-10 text-lg border-2 border-gray-300 rounded-full focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500 outline-none transition duration-300">
+            <svg class="w-6 h-6 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+        </div>
+
+        <!-- Main Content Area -->
+        <main id="content-area" class="bg-white p-6 rounded-lg shadow-lg min-h-[300px]">
+            <!-- Indexing Status -->
+            <div id="status" class="text-center text-gray-500 p-8">
+                <div id="status-spinner" class="animate-spin rounded-full h-12 w-12 border-b-2 border-yellow-500 mx-auto mb-4"></div>
+                <p id="status-text">Initializing Chip-cyclopedia...</p>
+            </div>
+            
+            <!-- Search Results -->
+            <div id="search-results" class="hidden"></div>
+            
+            <!-- Article View -->
+            <div id="article-view" class="hidden">
+                 <button id="back-button" class="mb-4 bg-yellow-500 text-white py-2 px-4 rounded-lg hover:bg-yellow-600 transition">&larr; Back to Search</button>
+                 <article id="article-content" class="prose lg:prose-xl max-w-none"></article>
+            </div>
+        </main>
+        
+        <footer class="text-center mt-8 text-gray-500 text-sm">
+            <p>Powered by JavaScript, Dexie.js, and your browser's local database.</p>
+        </footer>
+    </div>
+
+    <script>
+        // --- MOCK DATA ---
+        // In a real application, this 'manifest' would be a JSON file on your server.
+        const MANIFEST_URL = 'manifest.json';
+        const MOCK_FILES = {
+            'manifest.json': JSON.stringify([
+                'potato-chips',
+                'tortilla-chips',
+                'kettle-chips',
+                'corn-chips',
+                'pita-chips',
+                'vegetable-chips',
+                'pork-rinds'
+            ]),
+            'potato-chips': {
+                title: 'Classic Potato Chips',
+                content: `
+# Potato Chips
+The classic potato chip, or crisp, is a thin slice of potato that has been deep-fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, and artificial additives.
+`
+            },
+            'tortilla-chips': {
+                title: 'Tortilla Chips',
+                content: `
+# Tortilla Chips
+A tortilla chip is a snack food made from corn tortillas, which are cut into wedges and then fried or baked. Corn tortillas are made of nixtamalized corn (maize), vegetable oil, salt and water. Although first mass-produced in Los Angeles in the late 1940s, tortilla chips are most strongly associated with Mexican cuisine, particularly Tex-Mex. They are typically served with a dip, such as salsa, chile con queso, or guacamole.
+`
+            },
+            'kettle-chips': {
+                title: 'Kettle-Cooked Chips',
+                content: `
+# Kettle-Cooked Chips
+Kettle-cooked (or batch-cooked) potato chips are created by frying potatoes in batches in a kettle, rather than on a continuous conveyor belt. This process results in a thicker, crunchier chip that often has a more irregular shape. The skins are frequently left on, giving them a more rustic appearance and flavor. Because they are cooked in smaller batches, the oil temperature varies, leading to chips with a wide range of color and crunch.
+`
+            },
+            'corn-chips': {
+                title: 'Corn Chips',
+                content: `
+# Corn Chips
+Corn chips are a snack food made from cornmeal fried in oil or baked. They are thick, rigid and very crunchy. Corn chips have the strong aroma and flavor of roasted corn, and are often heavily salted. In the United States, Fritos are the best known brand of corn chips. While tortilla chips are also made from corn, corn chips are made from processed cornmeal that is not nixtamalized, resulting in a different texture and flavor.
+`
+            },
+            'pita-chips': {
+                title: 'Pita Chips',
+                content: `
+# Pita Chips
+Pita chips are made from pita bread that has been baked or fried. The pita bread is typically cut into triangles, seasoned with spices like garlic powder or paprika, and then baked until crispy. They are a healthier alternative to many fried snacks and are extremely versatile. Pita chips are most commonly served with hummus, but they also pair well with other dips like baba ghanoush or tzatziki.
+`
+            },
+            'vegetable-chips': {
+                title: 'Vegetable Chips',
+                content: `
+# Vegetable Chips
+Vegetable chips are chips or crisps that are prepared using vegetables other than potatoes. Common varieties include sweet potato chips, beet chips, carrot chips, zucchini chips, and kale chips. They can be prepared by frying or baking the thinly sliced vegetables. These chips are often marketed as a healthier alternative to potato chips, offering a wider range of nutrients and flavors.
+`
+            },
+            'pork-rinds': {
+                title: 'Pork Rinds',
+                content: `
+# Pork Rinds
+Pork rinds, also known as chicharrones, are a snack made from fried pork skin. The skins are first rendered and dried, then fried and puffed. The result is a light, airy, and crunchy snack. They are naturally high in protein and contain zero carbohydrates, making them a popular snack for low-carb diets. They can be eaten on their own or used as a crunchy topping for salads and casseroles.
+`
+            }
+        };
+
+        // --- DATABASE SETUP (Dexie.js) ---
+        const db = new Dexie('EncyclopediaDB');
+        // Define the database schema. Using 'id' instead of 'path'.
+        db.version(2).stores({
+            articles: 'id, title, content', // Store article content. 'id' is the primary key.
+            invertedIndex: 'word, *ids' // Store the search index. 'word' is the primary key, 'ids' is a multi-entry index.
+        });
+        
+        // --- UI ELEMENTS ---
+        const statusDiv = document.getElementById('status');
+        const statusText = document.getElementById('status-text');
+        const statusSpinner = document.getElementById('status-spinner');
+        const searchInput = document.getElementById('search-input');
+        const searchResultsDiv = document.getElementById('search-results');
+        const articleViewDiv = document.getElementById('article-view');
+        const articleContentDiv = document.getElementById('article-content');
+        const backButton = document.getElementById('back-button');
+
+        // --- CORE LOGIC ---
+
+        /**
+         * Simulates fetching a file. In a real app, this would use fetch().
+         * @param {string} url - The URL of the file to fetch.
+         * @returns {Promise<string|object>} - The content of the file.
+         */
+        function fakeFetch(url) {
+             console.log(`Fetching: ${url}`);
+             return new Promise(resolve => {
+                setTimeout(() => { // Simulate network latency
+                    resolve(MOCK_FILES[url]);
+                }, 100);
+             });
+        }
+        
+        /**
+         * Cleans and splits text into searchable words (tokens).
+         * @param {string} text - The input text.
+         * @returns {string[]} - An array of cleaned words.
+         */
+        function tokenize(text) {
+            const stopWords = new Set(['a', 'an', 'the', 'and', 'it', 'is', 'in', 'of', 'to', 'for', 'on', 'with', 'as', 'by', 'at']);
+            return text
+                .toLowerCase()
+                .replace(/[^\w\s]/g, '') // Remove punctuation
+                .split(/\s+/) // Split by whitespace
+                .filter(word => word.length > 2 && !stopWords.has(word)); // Remove short words and stop words
+        }
+
+        /**
+         * Fetches all articles, builds the search index, and stores everything in IndexedDB.
+         */
+        async function buildIndex() {
+            statusText.textContent = 'Fetching article list...';
+            
+            const manifestJson = await fakeFetch(MANIFEST_URL);
+            const articleIds = JSON.parse(manifestJson);
+
+            const invertedIndex = {};
+            
+            for (let i = 0; i < articleIds.length; i++) {
+                const id = articleIds[i];
+                statusText.textContent = `Indexing article ${i + 1} of ${articleIds.length}: ${id}`;
+                
+                const articleData = await fakeFetch(id);
+                const { title, content } = articleData;
+                
+                // Store the full article in the DB for later retrieval
+                await db.articles.put({ id, title, content });
+
+                // Build the inverted index in memory
+                const uniqueWords = new Set(tokenize(title + ' ' + content));
+                uniqueWords.forEach(word => {
+                    if (!invertedIndex[word]) {
+                        invertedIndex[word] = [];
+                    }
+                    invertedIndex[word].push(id);
+                });
+            }
+            
+            statusText.textContent = 'Saving index to database...';
+            // Bulk-add the index to Dexie for performance
+            const indexEntries = Object.entries(invertedIndex).map(([word, ids]) => ({ word, ids }));
+            await db.invertedIndex.bulkPut(indexEntries);
+
+            console.log('Indexing complete!');
+        }
+        
+        /**
+         * Searches the index for a query and displays the results.
+         * @param {string} query - The user's search term.
+         */
+        async function search(query) {
+            const cleanQuery = query.toLowerCase().trim();
+            if (cleanQuery.length < 3) {
+                searchResultsDiv.innerHTML = '<p class="text-gray-500">Please enter at least 3 characters.</p>';
+                return;
+            }
+            
+            // Search Dexie for the word.
+            const result = await db.invertedIndex.get(cleanQuery);
+            
+            if (result && result.ids.length > 0) {
+                // Fetch the titles for the matching ids
+                const articles = await db.articles.where('id').anyOf(result.ids).toArray();
+                let html = `<h2 class="text-2xl font-bold mb-4">Search Results for "${cleanQuery}"</h2>`;
+                html += '<ul class="space-y-3">';
+                articles.forEach(article => {
+                    html += `
+                        <li class="p-4 border rounded-lg hover:bg-gray-50 cursor-pointer" data-id="${article.id}">
+                            <h3 class="font-semibold text-lg text-yellow-700">${article.title}</h3>
+                            <p class="text-sm text-gray-600">${article.content.substring(0, 100)}...</p>
+                        </li>
+                    `;
+                });
+                html += '</ul>';
+                searchResultsDiv.innerHTML = html;
+            } else {
+                searchResultsDiv.innerHTML = `<p class="text-gray-500">No results found for "${cleanQuery}".</p>`;
+            }
+        }
+
+        /**
+         * Displays a selected article.
+         * @param {string} id - The id of the article to display.
+         */
+        async function displayArticle(id) {
+            const article = await db.articles.get(id);
+            if (article) {
+                articleContentDiv.innerHTML = marked.parse(article.content);
+                showView('article');
+            }
+        }
+        
+        /**
+         * Controls which view is visible (search or article).
+         * @param {'search' | 'article'} viewName - The name of the view to show.
+         */
+        function showView(viewName) {
+            articleViewDiv.classList.add('hidden', 'opacity-0');
+            searchResultsDiv.classList.add('hidden', 'opacity-0');
+            statusDiv.classList.add('hidden');
+            
+            if (viewName === 'search') {
+                searchResultsDiv.classList.remove('hidden');
+                setTimeout(() => searchResultsDiv.classList.remove('opacity-0'), 10);
+            } else if (viewName === 'article') {
+                articleViewDiv.classList.remove('hidden');
+                setTimeout(() => articleViewDiv.classList.remove('opacity-0'), 10);
+            }
+        }
+        
+        // --- EVENT LISTENERS ---
+        let searchTimeout;
+        searchInput.addEventListener('input', () => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => {
+                const query = searchInput.value;
+                if (query) {
+                    search(query);
+                } else {
+                    searchResultsDiv.innerHTML = '<p class="text-gray-500">Start typing to search for a chip.</p>';
+                }
+            }, 300); // Debounce search
+        });
+        
+        searchResultsDiv.addEventListener('click', (e) => {
+            const listItem = e.target.closest('li');
+            if (listItem && listItem.dataset.id) {
+                displayArticle(listItem.dataset.id);
+            }
+        });
+        
+        backButton.addEventListener('click', () => {
+             showView('search');
+        });
+
+        // --- INITIALIZATION ---
+        // Handles schema changes gracefully by re-indexing.
+        async function initialize() {
+            try {
+                // This will open the DB. If it's an old version, it will trigger an upgrade.
+                await db.open(); 
+                const count = await db.articles.count();
+                 if (count === 0) {
+                    console.log('Database is empty. Starting the indexing process.');
+                    await buildIndex();
+                 } else {
+                    console.log('Database already indexed. Ready to search.');
+                 }
+            } catch (error) {
+                 // This catch block will handle errors, including schema errors if an old
+                 // DB exists that cannot be upgraded automatically.
+                 console.error("Failed to open DB, possibly due to schema change:", error);
+                 console.log("Deleting old database and re-indexing.");
+                 await db.close();
+                 await db.delete();
+                 // Now open it again (it will be created fresh) and build the index
+                 await db.open();
+                 await buildIndex();
+            } finally {
+                statusDiv.classList.add('hidden');
+                searchResultsDiv.innerHTML = '<p class="text-gray-500">Start typing to search for a chip.</p>';
+                showView('search');
+            }
+        }
+
+        // Dexie's upgrade handler is the proper way to manage schema changes.
+        // I've also incremented the version number. This will automatically
+        // clear the old data if the schema changes, preventing errors.
+        db.on('populate', () => {
+            console.log("Populating a new database.");
+            // This event only fires on initial creation. We will do the full build here.
+        });
+
+        // We bumped the version to 2. If a user has version 1, Dexie will
+        // automatically clear the old tables because they are not present in the new schema.
+        // This is a simple migration strategy.
+        
+        window.onload = initialize;
+
+    </script>
+</body>
 </html>
+
