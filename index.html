@@ -193,14 +193,12 @@
         async function initialize() {
             try {
                 await db.open(); 
-                const count = await db.articles.count();
-                 if (count === 0) {
-                    console.log('Database is empty. Building index from the loaded CHIP_DATA object.');
-                    // The CHIP_DATA constant is now available globally from chip-data.js
-                    await buildIndex(CHIP_DATA);
-                 } else {
-                    console.log('Database already indexed. Ready to search.');
-                 }
+                // Always clear the database and re-index
+                await db.articles.clear();
+                await db.invertedIndex.clear();
+                console.log('Database cleared. Building index from the loaded CHIP_DATA object.');
+                // The CHIP_DATA constant is now available globally from chip-data.js
+                await buildIndex(CHIP_DATA);
             } catch (error) {
                  console.error("Failed to initialize database:", error);
                  console.log("Attempting to recover by deleting database and re-indexing.");
