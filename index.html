@@ -10,8 +10,6 @@
     <script src="https://unpkg.com/dexie@3/dist/dexie.js"></script>
     <!-- marked.js: A Markdown to HTML parser -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <!-- Load the chip data from the separate file -->
-    <script src="chip-data.js"></script>
     <style>
         /* Simple transition for a smoother UI */
         #article-view, #search-results { transition: opacity 0.3s ease-in-out; }
@@ -196,16 +194,25 @@
                 // Always clear the database and re-index
                 await db.articles.clear();
                 await db.invertedIndex.clear();
-                console.log('Database cleared. Building index from the loaded CHIP_DATA object.');
-                // The CHIP_DATA constant is now available globally from chip-data.js
-                await buildIndex(CHIP_DATA);
+                console.log('Database cleared. Loading chip data from JSON file.');
+                
+                // Fetch the chip data from JSON file
+                const response = await fetch('chip-data.json');
+                const chipData = await response.json();
+                
+                await buildIndex(chipData);
             } catch (error) {
                  console.error("Failed to initialize database:", error);
                  console.log("Attempting to recover by deleting database and re-indexing.");
                  await db.close();
                  await db.delete();
                  await db.open();
-                 await buildIndex(CHIP_DATA);
+                 
+                 // Fetch the chip data from JSON file
+                 const response = await fetch('chip-data.json');
+                 const chipData = await response.json();
+                 
+                 await buildIndex(chipData);
             } finally {
                 statusDiv.classList.add('hidden');
                 searchResultsDiv.innerHTML = '<p class="text-gray-500">Start typing to search for a chip.</p>';

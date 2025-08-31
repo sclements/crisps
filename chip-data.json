@@ -1,7 +1,4 @@
-// This file contains all the encyclopedia data.
-// It can be edited or replaced independently of the main application logic.
-
-const CHIP_DATA = {
+{
     "potato-chips": {
         "title": "Potato Chips",
         "content": "\n# Potato Chips\n**Origins:** The most popular legend attributes the invention of the potato chip to chef George Crum at Moon's Lake House in Saratoga Springs, New York, in 1853. A customer complained his french-fried potatoes were too thick, so Crum, in a fit of pique, sliced the potatoes paper-thin, fried them to a crisp, and salted them. The customer loved them, and 'Saratoga Chips' were born. **History of Popularity:** For decades, potato chips were a delicacy found primarily in restaurants. Mass production began in the early 20th century, especially after the invention of the mechanical potato peeler in 1925. Their popularity soared during World War II when the U.S. government declared them an 'essential food,' allowing factories to remain open. The post-war television boom cemented their place in American homes. **Today's Popularity:** Potato chips are arguably the world's most popular snack food, a multi-billion dollar industry with countless brands, flavors, and variations available globally.\n"
@@ -38,4 +35,4 @@ const CHIP_DATA = {
         "title": "Other Root Vegetable Chips",
         "content": "\n# Other Root Vegetable Chips\n**Origins:** **Taro** is a staple crop that originated in Southeast Asia and has been cultivated for thousands of years, holding cultural significance in places like Hawaii. **Cassava** (or yuca) originated in South America and was introduced to Africa by Portuguese traders in the 16th century, where it became a vital food source. Making chips from these roots is a more modern application. **History of Popularity:** Cassava chips are a traditional, everyday snack in many parts of Africa, South India, and Indonesia. Taro chips have long been popular in Hawaii. In the West, both have gained recognition in recent decades as gourmet alternatives to potato chips, often found in mixed root vegetable medleys. **Today's Popularity:** Both taro and cassava chips are increasingly popular worldwide. They are valued for their unique, slightly sweet and nutty flavors and their hearty, satisfying crunch. They are a staple in many tropical countries and a growing niche product in Western markets, especially for those seeking gluten-free options.\n"
     }
-};
+}
