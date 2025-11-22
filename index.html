@@ -46,17 +46,25 @@
                 <div id="status-spinner" class="animate-spin rounded-full h-12 w-12 border-b-2 border-yellow-500 mx-auto mb-4"></div>
                 <p id="status-text">Initializing Chip-cyclopedia...</p>
             </div>
-            
+
             <!-- Search Results -->
             <div id="search-results" class="hidden"></div>
-            
+
             <!-- Article View -->
             <div id="article-view" class="hidden">
                  <button id="back-button" class="mb-4 bg-yellow-500 text-white py-2 px-4 rounded-lg hover:bg-yellow-600 transition">&larr; Back to Search</button>
                  <article id="article-content" class="prose lg:prose-xl max-w-none"></article>
             </div>
         </main>
-        
+
+        <!-- News Section -->
+        <section id="news" class="bg-white p-6 rounded-lg shadow-lg mt-8">
+            <h2 class="text-2xl font-bold mb-4 text-yellow-800">Latest Chip/Crisp News</h2>
+            <div id="news-articles">
+                <p>Loading news...</p>
+            </div>
+        </section>
+
         <footer class="text-center mt-8 text-gray-500 text-sm">
             <p>Powered by JavaScript, Dexie.js, and your browser's local database.</p>
         </footer>
@@ -69,7 +77,7 @@
             articles: 'id, title, content',
             invertedIndex: 'word, *ids'
         });
-        
+
         // --- UI ELEMENTS ---
         const statusDiv = document.getElementById('status');
         const statusText = document.getElementById('status-text');
@@ -78,10 +86,35 @@
         const searchResultsDiv = document.getElementById('search-results');
         const articleViewDiv = document.getElementById('article-view');
         const articleContentDiv = document.getElementById('article-content');
+
+        // --- NEWS SECTION ---
+        async function loadNews() {
+            const newsDiv = document.getElementById('news-articles');
+            try {
+                const response = await fetch('news.json');
+                if (!response.ok) throw new Error('News not available');
+                const newsData = await response.json();
+                if (!newsData || newsData.length === 0) {
+                    newsDiv.innerHTML = '<p>No news found.</p>';
+                    return;
+                }
+                let html = '';
+                newsData.forEach(article => {
+                    html += `<div class="mb-6 p-4 border-b border-gray-200">
+                        <a href="${article.url}" target="_blank" class="text-lg font-semibold text-yellow-700 hover:underline">${article.title}</a>
+                        <p class="mt-2 text-gray-700">${article.snippet}</p>
+                        ${article.score ? `<p class="mt-1 text-sm text-gray-500">Interest Score: ${article.score}/10</p>` : ''}
+                    </div>`;
+                });
+                newsDiv.innerHTML = html;
+            } catch (err) {
+                newsDiv.innerHTML = `<p class="text-red-500">Failed to load news: ${err.message}</p>`;
+            }
+        }
+        window.addEventListener('DOMContentLoaded', loadNews);
         const backButton = document.getElementById('back-button');
 
         // --- CORE LOGIC ---
-        
         function tokenize(text) {
             const stopWords = new Set(['a', 'an', 'the', 'and', 'it', 'is', 'in', 'of', 'to', 'for', 'on', 'with', 'as', 'by', 'at']);
             return text
@@ -216,11 +249,11 @@
                  await db.close();
                  await db.delete();
                  await db.open();
-                 
+
                  // Fetch the chip data from JSON file
                  const response = await fetch('chip-data.json');
                  const chipData = await response.json();
-                 
+
                  await buildIndex(chipData);
             } finally {
                 statusDiv.classList.add('hidden');
@@ -228,9 +261,10 @@
                 showView('search');
             }
         }
-        
-        window.onload = initialize;
 
+        window.onload = initialize;
     </script>
 </body>
 </html>
+
+
