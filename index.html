@@ -57,6 +57,14 @@
             </div>
         </main>
 
+        <!-- Chip of the Day Section -->
+        <section id="chip-of-the-day" class="bg-gradient-to-r from-yellow-100 to-orange-100 p-6 rounded-lg shadow-lg mt-8">
+            <h2 class="text-2xl font-bold mb-4 text-yellow-800">🥔 Chip of the Day</h2>
+            <div id="chip-of-day-content">
+                <p>Loading...</p>
+            </div>
+        </section>
+
         <!-- News Section -->
         <section id="news" class="bg-white p-6 rounded-lg shadow-lg mt-8">
             <h2 class="text-2xl font-bold mb-4 text-yellow-800">Latest Chip/Crisp News</h2>
@@ -100,8 +108,10 @@
                 }
                 let html = '';
                 newsData.forEach(article => {
+                    const date = article.publishedAt ? new Date(article.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
                     html += `<div class="mb-6 p-4 border-b border-gray-200">
                         <a href="${article.url}" target="_blank" class="text-lg font-semibold text-yellow-700 hover:underline">${article.title}</a>
+                        ${date ? `<p class="mt-1 text-xs text-gray-400">${date}</p>` : ''}
                         <p class="mt-2 text-gray-700">${article.snippet}</p>
                         ${article.score ? `<p class="mt-1 text-sm text-gray-500">Interest Score: ${article.score}/10</p>` : ''}
                     </div>`;
@@ -111,7 +121,54 @@
                 newsDiv.innerHTML = `<p class="text-red-500">Failed to load news: ${err.message}</p>`;
             }
         }
-        window.addEventListener('DOMContentLoaded', loadNews);
+
+        // --- CHIP OF THE DAY SECTION ---
+        async function loadChipOfTheDay() {
+            const chipDiv = document.getElementById('chip-of-day-content');
+            try {
+                const response = await fetch('chip_of_the_day.json');
+                if (!response.ok) throw new Error('Chip of the day not available');
+                const chipData = await response.json();
+                
+                // Create Google search URL
+                const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" chips')}`;
+                
+                let html = '<div class="flex gap-4">';
+                
+                // Image display disabled - keeping generation for future use
+                // if (chipData.image_url) {
+                //     html += `
+                //         <div class="flex-shrink-0">
+                //             <a href="${searchUrl}" target="_blank" rel="noopener noreferrer">
+                //                 <img src="${chipData.image_url}" 
+                //                      alt="${chipData.chip_name}" 
+                //                      class="w-32 h-32 object-cover rounded-lg shadow-md hover:opacity-80 transition-opacity"
+                //                      onerror="this.style.display='none'">
+                //             </a>
+                //         </div>
+                //     `;
+                // }
+                
+                html += `
+                    <div class="flex-grow">
+                        <h3 class="text-xl font-bold text-yellow-900 mb-2">
+                            <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" class="hover:underline">${chipData.chip_name}</a>
+                        </h3>
+                        <p class="text-gray-700">${chipData.description}</p>
+                        ${chipData.date ? `<p class="mt-2 text-xs text-gray-500">${chipData.date}</p>` : ''}
+                    </div>
+                </div>`;
+                
+                chipDiv.innerHTML = html;
+            } catch (err) {
+                chipDiv.innerHTML = `<p class="text-gray-500">No chip of the day available yet.</p>`;
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', () => {
+            loadNews();
+            loadChipOfTheDay();
+        });
         const backButton = document.getElementById('back-button');
 
         // --- CORE LOGIC ---
