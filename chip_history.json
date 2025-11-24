@@ -238,5 +238,11 @@
     "chip_name": "Truffle Rosemary & Sea Salt",
     "description": "Today's Chip of the Day: Truffle Rosemary & Sea Salt - A luxurious fusion flavor burst in every bite, perfect for those seeking a gourmet adventure on their taste buds. Dive into rich truffles, fra...",
     "date": "2025-01-24"
+  },
+  {
+    "chip_name": "Maple Bourbon BBQ",
+    "description": "Indulge in a flavor fusion of sweet & smoky on Celebrate Your Unique Talent Day with our Maple Bourbon BBQ Chip - a culinary masterpiece that blends bold flavors, just like you shine bright in your...",
+    "date": "2025-11-24",
+    "image_url": "chip_images/maple_bourbon_bbq.png"
   }
 ]
