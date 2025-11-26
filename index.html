@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serverless Chip-cyclopedia</title>
+    <title>The Chip-cyclopedia | Your Ultimate Crisp Guide</title>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ0FJ2YVL5"></script>
     <script>
@@ -13,68 +13,161 @@
 
     gtag('config', 'G-RZ0FJ2YVL5');
     </script>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <!-- Tailwind CSS for styling -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'display': ['Fredoka', 'sans-serif'],
+                        'body': ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        'chip': {
+                            50: '#fef7ee',
+                            100: '#fdecd3',
+                            200: '#fad5a5',
+                            300: '#f6b76d',
+                            400: '#f19132',
+                            500: '#ed7512',
+                            600: '#de5a08',
+                            700: '#b84309',
+                            800: '#93360f',
+                            900: '#772f10',
+                        },
+                        'crisp': {
+                            50: '#f0fdf4',
+                            100: '#dcfce7',
+                            200: '#bbf7d0',
+                            300: '#86efac',
+                            400: '#4ade80',
+                            500: '#22c55e',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
     <!-- Dexie.js: A wrapper for IndexedDB -->
     <script src="https://unpkg.com/dexie@3/dist/dexie.js"></script>
     <!-- marked.js: A Markdown to HTML parser -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
-        /* Simple transition for a smoother UI */
-        #article-view, #search-results { transition: opacity 0.3s ease-in-out; }
+        #article-view, #search-results, #inline-news { transition: opacity 0.3s ease-in-out; }
+        .news-card:hover { transform: translateY(-2px); }
+        .glass-effect {
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+        .chip-pattern {
+            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23f6b76d' fill-opacity='0.15'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
     </style>
 </head>
-<body class="bg-yellow-50 text-gray-800 font-sans antialiased">
+<body class="bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50 text-gray-800 font-body antialiased min-h-screen chip-pattern">
 
-    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
-        <header class="mb-8 text-center">
-            <h1 class="text-4xl md:text-5xl font-bold text-yellow-800">The Chip-cyclopedia</h1>
-            <p class="text-gray-600 mt-2">A completely serverless, offline-capable database of crisps.</p>
+    <div class="container mx-auto p-4 md:p-8 max-w-6xl">
+        <!-- Header with fun branding -->
+        <header class="mb-10 text-center relative">
+            <div class="inline-block">
+                <h1 class="text-5xl md:text-6xl font-display font-bold bg-gradient-to-r from-chip-600 via-chip-500 to-amber-500 bg-clip-text text-transparent drop-shadow-sm">
+                    The Chip-cyclopedia
+                </h1>
+                <div class="flex items-center justify-center gap-2 mt-3">
+                    <span class="text-2xl">🥔</span>
+                    <p class="text-gray-600 font-medium">Your ultimate guide to the world of crisps</p>
+                    <span class="text-2xl">✨</span>
+                </div>
+            </div>
         </header>
 
-        <!-- Search Bar -->
-        <div class="relative mb-6">
-            <input type="text" id="search-input" placeholder="Search for chips like 'kettle', 'lentil', or 'pita'..."
-                   class="w-full p-4 pl-10 text-lg border-2 border-gray-300 rounded-full focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500 outline-none transition duration-300">
-            <svg class="w-6 h-6 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+        <!-- Two-column layout -->
+        <div class="flex flex-col-reverse lg:flex-row lg:gap-8">
+            
+            <!-- Main Content Column -->
+            <div class="lg:flex-1 lg:max-w-2xl">
+                <!-- Search Bar - Elevated Design -->
+                <div class="relative mb-6 mt-6 lg:mt-0 group">
+                    <div class="absolute inset-0 bg-gradient-to-r from-chip-400 to-amber-400 rounded-2xl blur-xl opacity-30 group-hover:opacity-50 transition-opacity"></div>
+                    <div class="relative">
+                        <input type="text" id="search-input" placeholder="Search for chips like 'kettle', 'jalapeño', or 'truffle'..."
+                               class="w-full p-5 pl-14 text-lg bg-white/90 glass-effect border-0 rounded-2xl shadow-lg focus:ring-4 focus:ring-chip-200 outline-none transition duration-300 placeholder-gray-400">
+                        <svg class="w-6 h-6 absolute left-5 top-1/2 -translate-y-1/2 text-chip-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                    </div>
+                </div>
+
+                <!-- Main Content Area -->
+                <main id="content-area" class="bg-white/80 glass-effect p-6 md:p-8 rounded-2xl shadow-xl min-h-[400px] border border-white/50">
+                    <!-- Indexing Status -->
+                    <div id="status" class="text-center text-gray-500 p-8">
+                        <div class="relative inline-block">
+                            <div id="status-spinner" class="animate-spin rounded-full h-16 w-16 border-4 border-chip-200 border-t-chip-500 mx-auto mb-4"></div>
+                            <span class="absolute inset-0 flex items-center justify-center text-2xl">🥔</span>
+                        </div>
+                        <p id="status-text" class="font-medium text-gray-600">Loading the crunchiest database...</p>
+                    </div>
+
+                    <!-- Inline News -->
+                    <div id="inline-news" class="hidden">
+                        <div class="flex items-center gap-3 mb-6">
+                            <span class="text-3xl">📰</span>
+                            <h2 class="text-2xl font-display font-bold text-gray-800">Latest Chip News</h2>
+                        </div>
+                        <div id="inline-news-articles">
+                            <p class="text-gray-500">Loading the freshest chip news...</p>
+                        </div>
+                    </div>
+
+                    <!-- Search Results -->
+                    <div id="search-results" class="hidden"></div>
+
+                    <!-- Article View -->
+                    <div id="article-view" class="hidden">
+                         <button id="back-button" class="mb-6 inline-flex items-center gap-2 bg-gradient-to-r from-chip-500 to-chip-600 text-white py-2.5 px-5 rounded-xl font-medium hover:from-chip-600 hover:to-chip-700 transition-all shadow-md hover:shadow-lg">
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                            Back to Search
+                         </button>
+                         <article id="article-content" class="prose lg:prose-xl max-w-none prose-headings:font-display prose-headings:text-gray-800 prose-a:text-chip-600"></article>
+                    </div>
+                </main>
+            </div>
+
+            <!-- Sidebar Column -->
+            <div class="lg:w-80 lg:flex-shrink-0">
+                <!-- Chip of the Day Section -->
+                <section id="chip-of-the-day" class="relative overflow-hidden bg-gradient-to-br from-amber-100 via-orange-100 to-yellow-100 p-6 rounded-2xl shadow-xl border border-amber-200/50">
+                    <div class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-chip-300/30 to-transparent rounded-full -translate-y-1/2 translate-x-1/2"></div>
+                    <div class="absolute bottom-0 left-0 w-24 h-24 bg-gradient-to-tr from-amber-300/30 to-transparent rounded-full translate-y-1/2 -translate-x-1/2"></div>
+                    <div class="relative">
+                        <div class="flex items-center gap-2 mb-4">
+                            <span class="text-3xl animate-bounce">🥔</span>
+                            <h2 class="text-xl font-display font-bold text-amber-900">Chip of the Day</h2>
+                        </div>
+                        <div id="chip-of-day-content">
+                            <div class="flex items-center gap-2 text-amber-700">
+                                <div class="animate-pulse w-4 h-4 bg-amber-400 rounded-full"></div>
+                                <p>Discovering today's chip...</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
         </div>
 
-        <!-- Main Content Area -->
-        <main id="content-area" class="bg-white p-6 rounded-lg shadow-lg min-h-[300px]">
-            <!-- Indexing Status -->
-            <div id="status" class="text-center text-gray-500 p-8">
-                <div id="status-spinner" class="animate-spin rounded-full h-12 w-12 border-b-2 border-yellow-500 mx-auto mb-4"></div>
-                <p id="status-text">Initializing Chip-cyclopedia...</p>
-            </div>
-
-            <!-- Search Results -->
-            <div id="search-results" class="hidden"></div>
-
-            <!-- Article View -->
-            <div id="article-view" class="hidden">
-                 <button id="back-button" class="mb-4 bg-yellow-500 text-white py-2 px-4 rounded-lg hover:bg-yellow-600 transition">&larr; Back to Search</button>
-                 <article id="article-content" class="prose lg:prose-xl max-w-none"></article>
-            </div>
-        </main>
-
-        <!-- Chip of the Day Section -->
-        <section id="chip-of-the-day" class="bg-gradient-to-r from-yellow-100 to-orange-100 p-6 rounded-lg shadow-lg mt-8">
-            <h2 class="text-2xl font-bold mb-4 text-yellow-800">🥔 Chip of the Day</h2>
-            <div id="chip-of-day-content">
-                <p>Loading...</p>
-            </div>
-        </section>
-
-        <!-- News Section -->
-        <section id="news" class="bg-white p-6 rounded-lg shadow-lg mt-8">
-            <h2 class="text-2xl font-bold mb-4 text-yellow-800">Latest Chip/Crisp News</h2>
-            <div id="news-articles">
-                <p>Loading news...</p>
-            </div>
-        </section>
-
-        <footer class="text-center mt-8 text-gray-500 text-sm">
-            <p>Powered by JavaScript, Dexie.js, and your browser's local database.</p>
+        <footer class="text-center mt-12 py-6 border-t border-amber-200/50">
+            <p class="text-gray-500 text-sm flex items-center justify-center gap-2">
+                <span>Made with</span>
+                <span class="text-red-500">❤️</span>
+                <span>and</span>
+                <span>🥔</span>
+                <span>• Powered by your browser</span>
+            </p>
         </footer>
     </div>
 
@@ -97,28 +190,31 @@
 
         // --- NEWS SECTION ---
         async function loadNews() {
-            const newsDiv = document.getElementById('news-articles');
+            const inlineNewsDiv = document.getElementById('inline-news-articles');
             try {
                 const response = await fetch('news.json');
                 if (!response.ok) throw new Error('News not available');
                 const newsData = await response.json();
                 if (!newsData || newsData.length === 0) {
-                    newsDiv.innerHTML = '<p>No news found.</p>';
+                    inlineNewsDiv.innerHTML = '<p>No news found.</p>';
                     return;
                 }
                 let html = '';
-                newsData.forEach(article => {
+                newsData.forEach((article, index) => {
                     const date = article.publishedAt ? new Date(article.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
-                    html += `<div class="mb-6 p-4 border-b border-gray-200">
-                        <a href="${article.url}" target="_blank" class="text-lg font-semibold text-yellow-700 hover:underline">${article.title}</a>
-                        ${date ? `<p class="mt-1 text-xs text-gray-400">${date}</p>` : ''}
-                        <p class="mt-2 text-gray-700">${article.snippet}</p>
-                        ${article.score ? `<p class="mt-1 text-sm text-gray-500">Interest Score: ${article.score}/10</p>` : ''}
+                    html += `<div class="news-card mb-4 p-5 bg-gradient-to-r from-white to-amber-50/50 rounded-xl border border-amber-100 shadow-sm hover:shadow-md transition-all duration-300">
+                        <a href="${article.url}" target="_blank" class="text-lg font-semibold text-gray-800 hover:text-chip-600 transition-colors block leading-tight">${article.title}</a>
+                        ${date ? `<p class="mt-2 text-xs font-medium text-amber-600 flex items-center gap-1"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>${date}</p>` : ''}
+                        <p class="mt-2 text-gray-600 text-sm leading-relaxed">${article.snippet}</p>
+                        ${article.score ? `<div class="mt-3 flex items-center gap-2">
+                            <div class="flex gap-0.5">${'🔥'.repeat(Math.min(Math.floor(article.score/2), 5))}</div>
+                            <span class="text-xs font-medium text-gray-500">Interest: ${article.score}/10</span>
+                        </div>` : ''}
                     </div>`;
                 });
-                newsDiv.innerHTML = html;
+                inlineNewsDiv.innerHTML = html;
             } catch (err) {
-                newsDiv.innerHTML = `<p class="text-red-500">Failed to load news: ${err.message}</p>`;
+                inlineNewsDiv.innerHTML = `<p class="text-red-500">Failed to load news: ${err.message}</p>`;
             }
         }
 
@@ -150,18 +246,21 @@
                 // }
                 
                 html += `
-                    <div class="flex-grow">
-                        <h3 class="text-xl font-bold text-yellow-900 mb-2">
-                            <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" class="hover:underline">${chipData.chip_name}</a>
+                    <div>
+                        <h3 class="text-xl font-display font-bold text-amber-900 mb-3">
+                            <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" class="hover:text-chip-600 transition-colors">${chipData.chip_name}</a>
                         </h3>
-                        <p class="text-gray-700">${chipData.description}</p>
-                        ${chipData.date ? `<p class="mt-2 text-xs text-gray-500">${chipData.date}</p>` : ''}
+                        <p class="text-gray-700 text-sm leading-relaxed">${chipData.description}</p>
+                        ${chipData.date ? `<p class="mt-3 text-xs font-medium text-amber-600/70 flex items-center gap-1">
+                            <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
+                            ${chipData.date}
+                        </p>` : ''}
                     </div>
                 </div>`;
                 
                 chipDiv.innerHTML = html;
             } catch (err) {
-                chipDiv.innerHTML = `<p class="text-gray-500">No chip of the day available yet.</p>`;
+                chipDiv.innerHTML = `<p class="text-amber-700/60 text-sm">No chip of the day available yet.</p>`;
             }
         }
 
@@ -214,7 +313,8 @@
         async function search(query) {
             const cleanQuery = query.toLowerCase().trim();
             if (cleanQuery.length < 3) {
-                searchResultsDiv.innerHTML = '<p class="text-gray-500">Please enter at least 3 characters.</p>';
+                searchResultsDiv.innerHTML = '<p class="text-gray-500 text-center py-4">Please enter at least 3 characters.</p>';
+                showView('search');
                 return;
             }
             
@@ -222,21 +322,30 @@
             
             if (result && result.ids.length > 0) {
                 const articles = await db.articles.where('id').anyOf(result.ids).toArray();
-                let html = `<h2 class="text-2xl font-bold mb-4">Search Results for "${cleanQuery}"</h2>`;
+                let html = `<div class="flex items-center gap-3 mb-6">
+                    <span class="text-2xl">🔍</span>
+                    <h2 class="text-xl font-display font-bold text-gray-800">Results for "${cleanQuery}"</h2>
+                    <span class="text-sm text-gray-500 bg-gray-100 px-2 py-0.5 rounded-full">${articles.length} found</span>
+                </div>`;
                 html += '<ul class="space-y-3">';
                 articles.forEach(article => {
                     html += `
-                        <li class="p-4 border rounded-lg hover:bg-gray-50 cursor-pointer" data-id="${article.id}">
-                            <h3 class="font-semibold text-lg text-yellow-700">${article.title}</h3>
-                            <p class="text-sm text-gray-600">${article.content.substring(0, 100)}...</p>
+                        <li class="p-4 bg-gradient-to-r from-white to-amber-50/30 border border-amber-100 rounded-xl hover:shadow-md hover:border-chip-200 cursor-pointer transition-all duration-200" data-id="${article.id}">
+                            <h3 class="font-semibold text-lg text-gray-800 hover:text-chip-600">${article.title}</h3>
+                            <p class="text-sm text-gray-600 mt-1">${article.content.substring(0, 120)}...</p>
                         </li>
                     `;
                 });
                 html += '</ul>';
                 searchResultsDiv.innerHTML = html;
             } else {
-                searchResultsDiv.innerHTML = `<p class="text-gray-500">No results found for "${cleanQuery}".</p>`;
+                searchResultsDiv.innerHTML = `<div class="text-center py-8">
+                    <span class="text-4xl mb-3 block">🤔</span>
+                    <p class="text-gray-600">No chips found for "${cleanQuery}"</p>
+                    <p class="text-gray-400 text-sm mt-1">Try a different search term</p>
+                </div>`;
             }
+            showView('search');
         }
 
         async function displayArticle(id) {
@@ -248,9 +357,11 @@
         }
         
         function showView(viewName) {
+            const inlineNewsDiv = document.getElementById('inline-news');
             articleViewDiv.classList.add('hidden', 'opacity-0');
             searchResultsDiv.classList.add('hidden', 'opacity-0');
             statusDiv.classList.add('hidden');
+            inlineNewsDiv.classList.add('hidden');
             
             if (viewName === 'search') {
                 searchResultsDiv.classList.remove('hidden');
@@ -258,6 +369,8 @@
             } else if (viewName === 'article') {
                 articleViewDiv.classList.remove('hidden');
                 setTimeout(() => articleViewDiv.classList.remove('opacity-0'), 10);
+            } else if (viewName === 'news') {
+                inlineNewsDiv.classList.remove('hidden');
             }
         }
         
@@ -270,7 +383,7 @@
                 if (query) {
                     search(query);
                 } else {
-                    searchResultsDiv.innerHTML = '<p class="text-gray-500">Start typing to search for a chip.</p>';
+                    showView('news');
                 }
             }, 300);
         });
@@ -314,8 +427,7 @@
                  await buildIndex(chipData);
             } finally {
                 statusDiv.classList.add('hidden');
-                searchResultsDiv.innerHTML = '<p class="text-gray-500">Start typing to search for a chip.</p>';
-                showView('search');
+                showView('news');
             }
         }
 
@@ -323,5 +435,3 @@
     </script>
 </body>
 </html>
-
-
