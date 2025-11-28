@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Chip-cyclopedia | Your Ultimate Crisp Guide</title>
+    <title>cris.ps | Your Ultimate Crisp Guide</title>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ0FJ2YVL5"></script>
     <script>
@@ -40,13 +40,12 @@
                             800: '#93360f',
                             900: '#772f10',
                         },
-                        'crisp': {
-                            50: '#f0fdf4',
-                            100: '#dcfce7',
-                            200: '#bbf7d0',
-                            300: '#86efac',
-                            400: '#4ade80',
-                            500: '#22c55e',
+                        'card': {
+                            'blue': '#7DD3FC',
+                            'green': '#4ADE80',
+                            'orange': '#FB923C',
+                            'red': '#F87171',
+                            'teal': '#2DD4BF',
                         }
                     }
                 }
@@ -59,67 +58,131 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         #article-view, #search-results, #inline-news { transition: opacity 0.3s ease-in-out; }
-        .news-card:hover { transform: translateY(-2px); }
-        .glass-effect {
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
+        .meter-segment { transition: background-color 0.3s ease; }
+        .chip-swirl {
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23F6B76D' fill-opacity='0.2' d='M44.7,-76.4C58.8,-69.2,71.8,-59.1,79.6,-45.8C87.4,-32.5,90,-16.3,88.5,-0.9C87,14.5,81.4,29,73.1,42.1C64.8,55.2,53.7,66.9,40.3,74.4C26.8,81.9,13.4,85.2,-0.8,86.6C-15,88,-30.1,87.5,-43.2,80.9C-56.3,74.3,-67.4,61.5,-74.5,47C-81.6,32.5,-84.6,16.3,-83.8,0.5C-83,-15.4,-78.4,-30.7,-70.3,-43.8C-62.3,-56.9,-50.8,-67.8,-37.6,-75.5C-24.4,-83.2,-12.2,-87.8,1.5,-90.3C15.2,-92.9,30.5,-83.5,44.7,-76.4Z' transform='translate(100 100)'/%3E%3C/svg%3E");
         }
-        .chip-pattern {
-            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23f6b76d' fill-opacity='0.15'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        /* Bento Grid - positioned by JS bin-packing */
+        .bento-container {
+            position: relative;
+            width: 100%;
+        }
+        .bento-item {
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border-radius: 1rem;
+            padding: 1rem;
+            overflow: hidden;
+            box-sizing: border-box;
+            transition: box-shadow 0.3s ease, filter 0.3s ease;
+        }
+        .bento-item:hover {
+            box-shadow: 0 12px 24px -8px rgba(0,0,0,0.25);
+            filter: brightness(1.05);
         }
     </style>
 </head>
-<body class="bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50 text-gray-800 font-body antialiased min-h-screen chip-pattern">
+<body class="bg-amber-50/50 text-gray-800 font-body antialiased min-h-screen">
 
-    <div class="container mx-auto p-4 md:p-8 max-w-6xl">
-        <!-- Header with fun branding -->
-        <header class="mb-10 text-center relative">
-            <div class="inline-block">
-                <h1 class="text-5xl md:text-6xl font-display font-bold bg-gradient-to-r from-chip-600 via-chip-500 to-amber-500 bg-clip-text text-transparent drop-shadow-sm">
-                    The Chip-cyclopedia
+    <!-- Header -->
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3 flex items-center justify-between gap-4">
+            <!-- Logo -->
+            <a href="#" class="flex-shrink-0" onclick="showView('news'); searchInput.value=''; return false;">
+                <h1 class="text-3xl font-display font-bold">
+                    <span class="text-red-500">c</span><span class="text-orange-500">r</span><span class="text-yellow-500">i</span><span class="text-green-500">s</span><span class="text-gray-800">.</span><span class="text-blue-500">p</span><span class="text-purple-500">s</span>
                 </h1>
-                <div class="flex items-center justify-center gap-2 mt-3">
-                    <span class="text-2xl">🥔</span>
-                    <p class="text-gray-600 font-medium">Your ultimate guide to the world of crisps</p>
-                    <span class="text-2xl">✨</span>
+            </a>
+            
+            <!-- Search Bar -->
+            <div class="flex-1 max-w-xl">
+                <div class="relative">
+                    <input type="text" id="search-input" placeholder="Search"
+                           class="w-full py-2.5 px-4 pr-12 text-base bg-gray-100 border-0 rounded-full focus:ring-2 focus:ring-orange-300 focus:bg-white outline-none transition duration-200">
+                    <button class="absolute right-1.5 top-1/2 -translate-y-1/2 w-8 h-8 bg-orange-400 hover:bg-orange-500 rounded-full flex items-center justify-center transition-colors">
+                        <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                    </button>
                 </div>
             </div>
-        </header>
-
-        <!-- Two-column layout -->
-        <div class="flex flex-col-reverse lg:flex-row lg:gap-8">
             
-            <!-- Main Content Column -->
-            <div class="lg:flex-1 lg:max-w-2xl">
-                <!-- Search Bar - Elevated Design -->
-                <div class="relative mb-6 mt-6 lg:mt-0 group">
-                    <div class="absolute inset-0 bg-gradient-to-r from-chip-400 to-amber-400 rounded-2xl blur-xl opacity-30 group-hover:opacity-50 transition-opacity"></div>
-                    <div class="relative">
-                        <input type="text" id="search-input" placeholder="Search for chips like 'kettle', 'jalapeño', or 'truffle'..."
-                               class="w-full p-5 pl-14 text-lg bg-white/90 glass-effect border-0 rounded-2xl shadow-lg focus:ring-4 focus:ring-chip-200 outline-none transition duration-300 placeholder-gray-400">
-                        <svg class="w-6 h-6 absolute left-5 top-1/2 -translate-y-1/2 text-chip-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-                    </div>
-                </div>
+            <!-- Language Selector -->
+            <div class="flex items-center gap-2 flex-shrink-0 cursor-pointer hover:bg-gray-100 px-3 py-1.5 rounded-full transition-colors">
+                <span class="text-xl">🌍</span>
+                <span class="font-medium text-gray-700">EN</span>
+                <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+            </div>
+        </div>
+    </header>
 
-                <!-- Main Content Area -->
-                <main id="content-area" class="bg-white/80 glass-effect p-6 md:p-8 rounded-2xl shadow-xl min-h-[400px] border border-white/50">
-                    <!-- Indexing Status -->
-                    <div id="status" class="text-center text-gray-500 p-8">
+    <main class="container mx-auto px-4 py-8">
+        <!-- Main Grid Layout -->
+        <div class="flex flex-col lg:flex-row gap-8">
+            
+            <!-- Left Column: Chip of the Day -->
+            <div class="lg:w-[420px] flex-shrink-0">
+                <section id="chip-of-the-day" class="bg-gradient-to-br from-amber-50 to-orange-50 rounded-3xl p-6 shadow-lg relative overflow-hidden chip-swirl">
+                    <!-- Chip of the Day Badge -->
+                    <div class="absolute top-4 right-4 z-10">
+                        <div class="bg-orange-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg transform rotate-12 text-center leading-tight">
+                            Chip of<br/>the Day
+                        </div>
+                    </div>
+                    
+                    <!-- Chip Content -->
+                    <div id="chip-of-day-content" class="relative">
+                        <div class="flex items-center justify-center py-8">
+                            <div class="animate-pulse w-48 h-48 bg-gradient-to-br from-amber-200 to-orange-200 rounded-full flex items-center justify-center">
+                                <span class="text-6xl">🥔</span>
+                            </div>
+                        </div>
+                        <p class="text-center text-gray-500">Discovering today's chip...</p>
+                    </div>
+                    
+                    <!-- Meters -->
+                    <div id="chip-meters" class="mt-6 grid grid-cols-2 gap-6">
+                        <div>
+                            <p class="text-sm font-medium text-gray-600 mb-2">Crunch Level: <span id="crunch-label" class="text-teal-600 font-bold">...</span></p>
+                            <div id="crunch-meter" class="flex gap-1">
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <p class="text-sm font-medium text-gray-600 mb-2">Flavor Kick: <span id="flavor-label" class="text-red-500 font-bold">...</span></p>
+                            <div id="flavor-meter" class="flex gap-1">
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                                <div class="meter-segment w-full h-3 rounded bg-gray-200"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            
+            <!-- Right Column: Content Area -->
+            <div class="flex-1 min-w-0">
+                <div id="content-area">
+                    <!-- Loading Status -->
+                    <div id="status" class="text-center py-16">
                         <div class="relative inline-block">
-                            <div id="status-spinner" class="animate-spin rounded-full h-16 w-16 border-4 border-chip-200 border-t-chip-500 mx-auto mb-4"></div>
+                            <div id="status-spinner" class="animate-spin rounded-full h-16 w-16 border-4 border-orange-200 border-t-orange-500 mx-auto mb-4"></div>
                             <span class="absolute inset-0 flex items-center justify-center text-2xl">🥔</span>
                         </div>
                         <p id="status-text" class="font-medium text-gray-600">Loading the crunchiest database...</p>
                     </div>
 
-                    <!-- Inline News -->
+                    <!-- News Grid -->
                     <div id="inline-news" class="hidden">
-                        <div class="flex items-center gap-3 mb-6">
-                            <span class="text-3xl">📰</span>
-                            <h2 class="text-2xl font-display font-bold text-gray-800">Latest Chip News</h2>
-                        </div>
-                        <div id="inline-news-articles">
-                            <p class="text-gray-500">Loading the freshest chip news...</p>
+                        <h2 class="text-2xl font-display font-bold text-gray-800 mb-6">Latest Crunch News</h2>
+                        <div id="inline-news-articles" class="bento-container">
+                            <p class="text-gray-500">Loading news...</p>
                         </div>
                     </div>
 
@@ -127,49 +190,17 @@
                     <div id="search-results" class="hidden"></div>
 
                     <!-- Article View -->
-                    <div id="article-view" class="hidden">
-                         <button id="back-button" class="mb-6 inline-flex items-center gap-2 bg-gradient-to-r from-chip-500 to-chip-600 text-white py-2.5 px-5 rounded-xl font-medium hover:from-chip-600 hover:to-chip-700 transition-all shadow-md hover:shadow-lg">
+                    <div id="article-view" class="hidden bg-white rounded-2xl p-6 shadow-lg">
+                        <button id="back-button" class="mb-6 inline-flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-gray-700 py-2 px-4 rounded-xl font-medium transition-colors">
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
-                            Back to Search
-                         </button>
-                         <article id="article-content" class="prose lg:prose-xl max-w-none prose-headings:font-display prose-headings:text-gray-800 prose-a:text-chip-600"></article>
+                            Back
+                        </button>
+                        <article id="article-content" class="prose lg:prose-xl max-w-none prose-headings:font-display"></article>
                     </div>
-                </main>
+                </div>
             </div>
-
-            <!-- Sidebar Column -->
-            <div class="lg:w-80 lg:flex-shrink-0">
-                <!-- Chip of the Day Section -->
-                <section id="chip-of-the-day" class="relative overflow-hidden bg-gradient-to-br from-amber-100 via-orange-100 to-yellow-100 p-6 rounded-2xl shadow-xl border border-amber-200/50">
-                    <div class="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-chip-300/30 to-transparent rounded-full -translate-y-1/2 translate-x-1/2"></div>
-                    <div class="absolute bottom-0 left-0 w-24 h-24 bg-gradient-to-tr from-amber-300/30 to-transparent rounded-full translate-y-1/2 -translate-x-1/2"></div>
-                    <div class="relative">
-                        <div class="flex items-center gap-2 mb-4">
-                            <span class="text-3xl animate-bounce">🥔</span>
-                            <h2 class="text-xl font-display font-bold text-amber-900">Chip of the Day</h2>
-                        </div>
-                        <div id="chip-of-day-content">
-                            <div class="flex items-center gap-2 text-amber-700">
-                                <div class="animate-pulse w-4 h-4 bg-amber-400 rounded-full"></div>
-                                <p>Discovering today's chip...</p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-            </div>
-
         </div>
-
-        <footer class="text-center mt-12 py-6 border-t border-amber-200/50">
-            <p class="text-gray-500 text-sm flex items-center justify-center gap-2">
-                <span>Made with</span>
-                <span class="text-red-500">❤️</span>
-                <span>and</span>
-                <span>🥔</span>
-                <span>• Powered by your browser</span>
-            </p>
-        </footer>
-    </div>
+    </main>
 
     <script>
         // --- DATABASE SETUP (Dexie.js) ---
@@ -188,6 +219,29 @@
         const articleViewDiv = document.getElementById('article-view');
         const articleContentDiv = document.getElementById('article-content');
 
+        // Card colors for news grid
+        const cardColors = [
+            { bg: 'bg-sky-200', text: 'text-sky-900' },
+            { bg: 'bg-emerald-300', text: 'text-emerald-900' },
+            { bg: 'bg-orange-300', text: 'text-orange-900' },
+            { bg: 'bg-red-300', text: 'text-red-900' },
+            { bg: 'bg-teal-300', text: 'text-teal-900' },
+            { bg: 'bg-amber-300', text: 'text-amber-900' },
+        ];
+        
+        function getTimeAgo(dateString) {
+            if (!dateString) return '';
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffMs = now - date;
+            const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+            const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+            
+            if (diffHours < 24) return `${diffHours} hours ago`;
+            if (diffDays === 1) return '1 day ago';
+            return `${diffDays} days ago`;
+        }
+
         // --- NEWS SECTION ---
         async function loadNews() {
             const inlineNewsDiv = document.getElementById('inline-news-articles');
@@ -196,31 +250,116 @@
                 if (!response.ok) throw new Error('News not available');
                 const newsData = await response.json();
                 if (!newsData || newsData.length === 0) {
-                    inlineNewsDiv.innerHTML = '<p>No news found.</p>';
+                    inlineNewsDiv.innerHTML = '<p class="text-gray-500">No news found.</p>';
                     return;
                 }
+                
+                // Seeded random based on days since Unix epoch
+                const daysSinceEpoch = Math.floor(Date.now() / (1000 * 60 * 60 * 24));
+                const seededRandom = (seed) => {
+                    const x = Math.sin(seed) * 10000;
+                    return x - Math.floor(x);
+                };
+                
+                // Heights: 1, 2, or 3 units (no wide boxes - swim lane style)
+                const getHeight = (index) => {
+                    const seed = daysSinceEpoch * 100 + index;
+                    const rand = seededRandom(seed);
+                    if (rand < 0.5) return 1;      // 50% small
+                    if (rand < 0.8) return 2;      // 30% medium
+                    return 3;                       // 20% tall
+                };
+                
+                // Placeholder chip images (using picsum with seed for consistency)
+                const getImageUrl = (index) => {
+                    const seed = daysSinceEpoch * 12 + index;
+                    return `https://picsum.photos/seed/${seed}/200/200`;
+                };
+                
                 let html = '';
-                newsData.forEach((article, index) => {
-                    const date = article.publishedAt ? new Date(article.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
-                    html += `<div class="news-card mb-4 p-5 bg-gradient-to-r from-white to-amber-50/50 rounded-xl border border-amber-100 shadow-sm hover:shadow-md transition-all duration-300">
-                        <a href="${article.url}" target="_blank" class="text-lg font-semibold text-gray-800 hover:text-chip-600 transition-colors block leading-tight">${article.title}</a>
-                        ${date ? `<p class="mt-2 text-xs font-medium text-amber-600 flex items-center gap-1"><svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>${date}</p>` : ''}
-                        <p class="mt-2 text-gray-600 text-sm leading-relaxed">${article.snippet}</p>
-                        ${article.score ? `<div class="mt-3 flex items-center gap-2">
-                            <div class="flex gap-0.5">${'🔥'.repeat(Math.min(Math.floor(article.score/2), 5))}</div>
-                            <span class="text-xs font-medium text-gray-500">Interest: ${article.score}/10</span>
-                        </div>` : ''}
-                    </div>`;
+                const displayNews = newsData.slice(0, 12);
+                displayNews.forEach((article, index) => {
+                    const color = cardColors[index % cardColors.length];
+                    const timeAgo = getTimeAgo(article.publishedAt);
+                    const h = getHeight(index);
+                    const imageUrl = article.imageUrl || getImageUrl(index);
+                    const imgSize = h === 1 ? '40px' : (h === 2 ? '70px' : '100px');
+                    
+                    html += `<a href="${article.url}" target="_blank" 
+                        class="bento-item ${color.bg}" data-h="${h}">
+                        <div class="flex justify-center flex-shrink-0">
+                            <img src="${imageUrl}" alt="" class="rounded-xl object-cover shadow-sm" style="height: ${imgSize}; width: auto; max-width: 70%;">
+                        </div>
+                        <h3 class="font-bold text-sm ${color.text} leading-tight line-clamp-2 mt-2 flex-shrink-0">${article.title}</h3>
+                        <p class="text-xs ${color.text} opacity-60 mt-auto pt-1">${timeAgo}</p>
+                    </a>`;
                 });
                 inlineNewsDiv.innerHTML = html;
+                
+                // initBentoGrid will be called after showView makes container visible
             } catch (err) {
                 inlineNewsDiv.innerHTML = `<p class="text-red-500">Failed to load news: ${err.message}</p>`;
             }
         }
+        
+        function initBentoGrid() {
+            const container = document.querySelector('#inline-news-articles');
+            const items = Array.from(container.querySelectorAll('.bento-item'));
+            const gap = 16;
+            const rowHeight = 100;
+            
+            const layout = () => {
+                const containerWidth = container.getBoundingClientRect().width;
+                const cols = containerWidth > 768 ? 3 : 2;
+                const colWidth = (containerWidth - (cols - 1) * gap) / cols;
+                
+                // Track height of each column
+                const colHeights = new Array(cols).fill(0);
+                
+                items.forEach((item, index) => {
+                    // Find shortest column
+                    const col = colHeights.indexOf(Math.min(...colHeights));
+                    const h = parseInt(item.dataset.h) || 1;
+                    
+                    const pxX = col * (colWidth + gap);
+                    const pxY = colHeights[col];
+                    const itemHeight = h * rowHeight + (h - 1) * gap;
+                    
+                    item.style.transform = `translate(${pxX}px, ${pxY}px)`;
+                    item.style.width = `${colWidth}px`;
+                    item.style.height = `${itemHeight}px`;
+                    
+                    colHeights[col] += itemHeight + gap;
+                });
+                
+                container.style.height = Math.max(...colHeights) + 'px';
+            };
+            
+            layout();
+            window.addEventListener('resize', layout);
+        }
 
         // --- CHIP OF THE DAY SECTION ---
+        function updateMeter(meterId, level, colorClass) {
+            const meterDiv = document.getElementById(meterId);
+            if (!meterDiv) return;
+            const segments = meterDiv.querySelectorAll('.meter-segment');
+            segments.forEach((seg, i) => {
+                seg.classList.remove('bg-teal-400', 'bg-red-400');
+                if (i < level) {
+                    seg.classList.remove('bg-gray-200');
+                    seg.classList.add(colorClass);
+                } else {
+                    seg.classList.add('bg-gray-200');
+                }
+            });
+        }
+        
         async function loadChipOfTheDay() {
             const chipDiv = document.getElementById('chip-of-day-content');
+            const crunchLabel = document.getElementById('crunch-label');
+            const flavorLabel = document.getElementById('flavor-label');
+            
             try {
                 const response = await fetch('chip_of_the_day.json');
                 if (!response.ok) throw new Error('Chip of the day not available');
@@ -229,45 +368,50 @@
                 // Create Google search URL
                 const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" chips')}`;
                 
-                let html = '<div class="flex gap-4">';
+                // Generate random crunch and flavor levels (3-5 for exciting results)
+                const crunchLevel = Math.floor(Math.random() * 3) + 3;
+                const flavorLevel = Math.floor(Math.random() * 3) + 3;
                 
-                // Image display disabled - keeping generation for future use
-                // if (chipData.image_url) {
-                //     html += `
-                //         <div class="flex-shrink-0">
-                //             <a href="${searchUrl}" target="_blank" rel="noopener noreferrer">
-                //                 <img src="${chipData.image_url}" 
-                //                      alt="${chipData.chip_name}" 
-                //                      class="w-32 h-32 object-cover rounded-lg shadow-md hover:opacity-80 transition-opacity"
-                //                      onerror="this.style.display='none'">
-                //             </a>
-                //         </div>
-                //     `;
-                // }
+                const crunchLabels = ['Soft', 'Light', 'Crunchy', 'Crispy', 'Epic'];
+                const flavorLabels = ['Mild', 'Tasty', 'Bold', 'Intense', 'Spicy!'];
                 
-                html += `
-                    <div>
-                        <h3 class="text-xl font-display font-bold text-amber-900 mb-3">
-                            <a href="${searchUrl}" target="_blank" rel="noopener noreferrer" class="hover:text-chip-600 transition-colors">${chipData.chip_name}</a>
+                chipDiv.innerHTML = `
+                    <div class="text-center">
+                        <div class="relative inline-block mb-4">
+                            <div class="w-48 h-48 mx-auto bg-gradient-to-br from-amber-100 to-orange-100 rounded-full flex items-center justify-center shadow-inner">
+                                <span class="text-7xl">🥔</span>
+                            </div>
+                        </div>
+                        <h3 class="text-xl font-display font-bold text-gray-800 mb-2">
+                            <a href="${searchUrl}" target="_blank" class="hover:text-orange-600 transition-colors">${chipData.chip_name}</a>
                         </h3>
-                        <p class="text-gray-700 text-sm leading-relaxed">${chipData.description}</p>
-                        ${chipData.date ? `<p class="mt-3 text-xs font-medium text-amber-600/70 flex items-center gap-1">
-                            <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
-                            ${chipData.date}
-                        </p>` : ''}
+                        <p class="text-gray-600 text-sm leading-relaxed">${chipData.description}</p>
                     </div>
-                </div>`;
+                `;
                 
-                chipDiv.innerHTML = html;
+                // Update meters
+                updateMeter('crunch-meter', crunchLevel, 'bg-teal-400');
+                updateMeter('flavor-meter', flavorLevel, 'bg-red-400');
+                if (crunchLabel) crunchLabel.textContent = crunchLabels[crunchLevel - 1];
+                if (flavorLabel) flavorLabel.textContent = flavorLabels[flavorLevel - 1];
+                
             } catch (err) {
-                chipDiv.innerHTML = `<p class="text-amber-700/60 text-sm">No chip of the day available yet.</p>`;
+                chipDiv.innerHTML = `
+                    <div class="text-center py-8">
+                        <span class="text-6xl mb-4 block">🥔</span>
+                        <p class="text-gray-500">No chip of the day yet</p>
+                    </div>
+                `;
             }
         }
 
-        window.addEventListener('DOMContentLoaded', () => {
-            loadNews();
+        window.addEventListener('DOMContentLoaded', async () => {
+            await loadNews();
+            showView('news');
+            initBentoGrid();
             loadChipOfTheDay();
         });
+        
         const backButton = document.getElementById('back-button');
 
         // --- CORE LOGIC ---
@@ -313,7 +457,7 @@
         async function search(query) {
             const cleanQuery = query.toLowerCase().trim();
             if (cleanQuery.length < 3) {
-                searchResultsDiv.innerHTML = '<p class="text-gray-500 text-center py-4">Please enter at least 3 characters.</p>';
+                searchResultsDiv.innerHTML = '<p class="text-gray-500 text-center py-8">Please enter at least 3 characters.</p>';
                 showView('search');
                 return;
             }
@@ -322,27 +466,27 @@
             
             if (result && result.ids.length > 0) {
                 const articles = await db.articles.where('id').anyOf(result.ids).toArray();
-                let html = `<div class="flex items-center gap-3 mb-6">
-                    <span class="text-2xl">🔍</span>
-                    <h2 class="text-xl font-display font-bold text-gray-800">Results for "${cleanQuery}"</h2>
-                    <span class="text-sm text-gray-500 bg-gray-100 px-2 py-0.5 rounded-full">${articles.length} found</span>
+                let html = `<div class="mb-6">
+                    <h2 class="text-2xl font-display font-bold text-gray-800">Results for "${cleanQuery}"</h2>
+                    <p class="text-gray-500">${articles.length} chips found</p>
                 </div>`;
-                html += '<ul class="space-y-3">';
-                articles.forEach(article => {
+                html += '<div class="grid grid-cols-1 md:grid-cols-2 gap-4">';
+                articles.forEach((article, index) => {
+                    const color = cardColors[index % cardColors.length];
                     html += `
-                        <li class="p-4 bg-gradient-to-r from-white to-amber-50/30 border border-amber-100 rounded-xl hover:shadow-md hover:border-chip-200 cursor-pointer transition-all duration-200" data-id="${article.id}">
-                            <h3 class="font-semibold text-lg text-gray-800 hover:text-chip-600">${article.title}</h3>
-                            <p class="text-sm text-gray-600 mt-1">${article.content.substring(0, 120)}...</p>
-                        </li>
+                        <div class="news-card ${color.bg} rounded-2xl p-5 cursor-pointer" data-id="${article.id}">
+                            <h3 class="font-bold text-lg ${color.text}">${article.title}</h3>
+                            <p class="text-sm ${color.text} opacity-70 mt-2">${article.content.substring(0, 80)}...</p>
+                        </div>
                     `;
                 });
-                html += '</ul>';
+                html += '</div>';
                 searchResultsDiv.innerHTML = html;
             } else {
-                searchResultsDiv.innerHTML = `<div class="text-center py-8">
-                    <span class="text-4xl mb-3 block">🤔</span>
-                    <p class="text-gray-600">No chips found for "${cleanQuery}"</p>
-                    <p class="text-gray-400 text-sm mt-1">Try a different search term</p>
+                searchResultsDiv.innerHTML = `<div class="text-center py-16">
+                    <span class="text-6xl mb-4 block">🤔</span>
+                    <p class="text-xl text-gray-600">No chips found for "${cleanQuery}"</p>
+                    <p class="text-gray-400 mt-2">Try a different search term</p>
                 </div>`;
             }
             showView('search');
@@ -389,9 +533,9 @@
         });
         
         searchResultsDiv.addEventListener('click', (e) => {
-            const listItem = e.target.closest('li');
-            if (listItem && listItem.dataset.id) {
-                displayArticle(listItem.dataset.id);
+            const card = e.target.closest('[data-id]');
+            if (card && card.dataset.id) {
+                displayArticle(card.dataset.id);
             }
         });
         
