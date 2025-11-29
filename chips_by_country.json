@@ -1,0 +1,453 @@
+{
+  "countries": {
+    "US": {
+      "name": "United States",
+      "continent": "North America",
+      "coordinates": {"x": 20, "y": 40},
+      "ingredients": ["Potato", "Corn"],
+      "chips": [
+        {"name": "Independence BBQ", "date": "2025-07-04", "description": "Classic American BBQ flavor"},
+        {"name": "Maple Bacon", "description": "Sweet and savory American classic"},
+        {"name": "Honey BBQ", "description": "Southern-style barbecue"}
+      ],
+      "fact": "The potato chip was invented in Saratoga Springs, NY in 1853"
+    },
+    "MX": {
+      "name": "Mexico",
+      "continent": "North America", 
+      "coordinates": {"x": 18, "y": 48},
+      "ingredients": ["Corn", "Chili", "Lime"],
+      "chips": [
+        {"name": "Elote", "date": "2025-05-05", "description": "Mexican street corn flavor"},
+        {"name": "Chili Lime", "date": "2025-09-16", "description": "Tangy and spicy"},
+        {"name": "Tortilla Tajin", "date": "2025-10-12", "description": "Classic Mexican spice"}
+      ],
+      "fact": "Corn was first domesticated in Mexico over 9,000 years ago"
+    },
+    "PE": {
+      "name": "Peru",
+      "continent": "South America",
+      "coordinates": {"x": 24, "y": 68},
+      "ingredients": ["Potato"],
+      "chips": [],
+      "fact": "Peru is the birthplace of the potato, cultivated since 8000 BC with over 3,000 varieties"
+    },
+    "BR": {
+      "name": "Brazil",
+      "continent": "South America",
+      "coordinates": {"x": 32, "y": 65},
+      "ingredients": ["Cassava", "Plantain"],
+      "chips": [
+        {"name": "Feijoada Frico", "date": "2025-09-07", "description": "Brazilian soul food flavor"}
+      ],
+      "fact": "Cassava originated in the Amazon Basin and is a staple across tropical regions"
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "continent": "Europe",
+      "coordinates": {"x": 47, "y": 28},
+      "ingredients": ["Potato"],
+      "chips": [
+        {"name": "Sea Salt & Caper", "date": "2025-03-17", "description": "British pub classic"},
+        {"name": "Roast Dinner Crisp", "date": "2025-11-12", "description": "Sunday roast flavor"}
+      ],
+      "fact": "The UK calls them 'crisps' - the term 'chips' refers to french fries"
+    },
+    "IE": {
+      "name": "Ireland",
+      "continent": "Europe",
+      "coordinates": {"x": 45, "y": 30},
+      "ingredients": ["Potato"],
+      "chips": [
+        {"name": "Sea Salt & Caper", "date": "2025-03-17", "description": "St. Patrick's Day special"}
+      ],
+      "fact": "The potato became central to Irish cuisine after its introduction from South America"
+    },
+    "FR": {
+      "name": "France",
+      "continent": "Europe",
+      "coordinates": {"x": 49, "y": 34},
+      "ingredients": ["Potato", "Herbs"],
+      "chips": [
+        {"name": "Herbes de Provence", "date": "2025-07-14", "description": "Classic French herb blend"},
+        {"name": "Truffle Salt & Vinegar", "description": "Gourmet French-inspired"}
+      ],
+      "fact": "Herbes de Provence is a blend of dried herbs typical of southeastern France"
+    },
+    "DE": {
+      "name": "Germany",
+      "continent": "Europe",
+      "coordinates": {"x": 52, "y": 32},
+      "ingredients": ["Potato"],
+      "chips": [
+        {"name": "Bratwurst", "date": "2025-10-03", "description": "German sausage flavor"},
+        {"name": "German Chocolate", "date": "2025-10-06", "description": "Sweet German treat"}
+      ],
+      "fact": "Germany is one of Europe's largest potato producers"
+    },
+    "NL": {
+      "name": "Netherlands",
+      "continent": "Europe",
+      "coordinates": {"x": 50, "y": 30},
+      "ingredients": ["Potato"],
+      "chips": [
+        {"name": "Oranje Icing", "date": "2025-04-27", "description": "King's Day celebration flavor"}
+      ],
+      "fact": "The Dutch have a long history with potatoes since the 17th century"
+    },
+    "BE": {
+      "name": "Belgium",
+      "continent": "Europe",
+      "coordinates": {"x": 50, "y": 32},
+      "ingredients": ["Potato"],
+      "chips": [
+        {"name": "Golden Frites Crisp", "date": "2025-07-21", "description": "Belgian frites inspired"}
+      ],
+      "fact": "Belgium claims to have invented french fries, not France"
+    },
+    "CH": {
+      "name": "Switzerland",
+      "continent": "Europe",
+      "coordinates": {"x": 51, "y": 35},
+      "ingredients": ["Potato", "Alpine Herbs"],
+      "chips": [
+        {"name": "Alpine Herbs", "date": "2025-08-01", "description": "Mountain freshness"}
+      ],
+      "fact": "Swiss Alps herbs include unique varieties found only at high altitudes"
+    },
+    "ES": {
+      "name": "Spain",
+      "continent": "Europe",
+      "coordinates": {"x": 46, "y": 40},
+      "ingredients": ["Potato", "Olive Oil"],
+      "chips": [
+        {"name": "Tortilla Tajin", "date": "2025-10-12", "description": "Hispanic Day special"}
+      ],
+      "fact": "Spain was the first European country to cultivate potatoes from the Americas"
+    },
+    "GR": {
+      "name": "Greece",
+      "continent": "Europe",
+      "coordinates": {"x": 56, "y": 40},
+      "ingredients": ["Olive Oil", "Oregano"],
+      "chips": [
+        {"name": "Greek Olive Oil & Oregano", "date": "2025-10-28", "description": "Mediterranean classic"}
+      ],
+      "fact": "Greek olive oil production dates back over 4,000 years"
+    },
+    "TR": {
+      "name": "Turkey",
+      "continent": "Europe/Asia",
+      "coordinates": {"x": 60, "y": 40},
+      "ingredients": ["Various"],
+      "chips": [
+        {"name": "Turkish Delight", "date": "2025-10-29", "description": "Ottoman-inspired sweetness"}
+      ],
+      "fact": "Turkish cuisine bridges European and Asian culinary traditions"
+    },
+    "SE": {
+      "name": "Sweden",
+      "continent": "Europe",
+      "coordinates": {"x": 54, "y": 22},
+      "ingredients": ["Potato"],
+      "chips": [
+        {"name": "Swedish Meatball", "date": "2025-06-06", "description": "Iconic Swedish flavor"}
+      ],
+      "fact": "Sweden has unique potato varieties adapted to northern climates"
+    },
+    "NO": {
+      "name": "Norway",
+      "continent": "Europe",
+      "coordinates": {"x": 52, "y": 20},
+      "ingredients": ["Potato", "Seafood"],
+      "chips": [
+        {"name": "Wasabi & Nori", "date": "2025-05-17", "description": "Constitution Day fusion"}
+      ],
+      "fact": "Norwegian cuisine features unique preservation traditions"
+    },
+    "FI": {
+      "name": "Finland",
+      "continent": "Europe",
+      "coordinates": {"x": 58, "y": 20},
+      "ingredients": ["Root Vegetables"],
+      "chips": [
+        {"name": "Root Vegetable Medley", "date": "2025-12-06", "description": "Nordic earthiness"}
+      ],
+      "fact": "Finnish cuisine emphasizes local, foraged ingredients"
+    },
+    "IN": {
+      "name": "India",
+      "continent": "Asia",
+      "coordinates": {"x": 72, "y": 48},
+      "ingredients": ["Potato", "Spices"],
+      "chips": [
+        {"name": "Masala", "date": "2025-01-26", "description": "Classic Indian spice blend"},
+        {"name": "Masala Twist", "date": "2025-08-15", "description": "Independence Day special"},
+        {"name": "Tikka Masala", "date": "2025-02-06", "description": "Creamy spiced flavor"},
+        {"name": "Masala & Mango Chutney", "date": "2025-10-09", "description": "Sweet and spicy fusion"}
+      ],
+      "fact": "India has over 100 varieties of masala spice blends across regions"
+    },
+    "JP": {
+      "name": "Japan",
+      "continent": "Asia",
+      "coordinates": {"x": 88, "y": 38},
+      "ingredients": ["Rice", "Seaweed", "Wasabi"],
+      "chips": [
+        {"name": "Yuzu", "date": "2025-02-03", "description": "Citrusy Japanese flavor"},
+        {"name": "Wasabi & Nori", "date": "2025-05-17", "description": "Classic Japanese combo"},
+        {"name": "Teriyaki", "date": "2025-10-07", "description": "Sweet soy glaze"},
+        {"name": "Japanese Wasabi Miso", "date": "2025-10-10", "description": "Umami-rich"}
+      ],
+      "fact": "Japan has unique chip flavors like sakura and matcha"
+    },
+    "KR": {
+      "name": "South Korea",
+      "continent": "Asia",
+      "coordinates": {"x": 85, "y": 40},
+      "ingredients": ["Rice", "Gochujang"],
+      "chips": [
+        {"name": "Korean BBQ", "date": "2025-03-01", "description": "Smoky Korean flavor"}
+      ],
+      "fact": "Korean cuisine features unique fermented ingredients like gochujang"
+    },
+    "CN": {
+      "name": "China",
+      "continent": "Asia",
+      "coordinates": {"x": 78, "y": 42},
+      "ingredients": ["Rice", "Various Spices"],
+      "chips": [
+        {"name": "Kung Pao Chicken Flavored", "date": "2025-10-01", "description": "Sichuan classic"}
+      ],
+      "fact": "China produces unique flavors like Peking Duck and Sichuan Pepper chips"
+    },
+    "TH": {
+      "name": "Thailand",
+      "continent": "Asia",
+      "coordinates": {"x": 76, "y": 55},
+      "ingredients": ["Rice", "Lemongrass", "Ginger"],
+      "chips": [
+        {"name": "Ginger Thai", "date": "2025-04-13", "description": "Songkran festival flavor"}
+      ],
+      "fact": "Thai cuisine balances sweet, sour, salty, and spicy flavors"
+    },
+    "ID": {
+      "name": "Indonesia",
+      "continent": "Asia",
+      "coordinates": {"x": 80, "y": 62},
+      "ingredients": ["Cassava", "Rice", "Shrimp"],
+      "chips": [
+        {"name": "Ayam Goreng", "date": "2025-08-17", "description": "Indonesian fried chicken"},
+        {"name": "Prawn Crackers", "description": "Traditional krupuk"}
+      ],
+      "fact": "Indonesia is the world's largest producer of prawn crackers (krupuk)"
+    },
+    "SG": {
+      "name": "Singapore",
+      "continent": "Asia",
+      "coordinates": {"x": 78, "y": 60},
+      "ingredients": ["Various"],
+      "chips": [
+        {"name": "Singapore Chili Crab", "date": "2025-08-09", "description": "National dish flavor"}
+      ],
+      "fact": "Singapore's food culture blends Chinese, Malay, Indian, and Western influences"
+    },
+    "PH": {
+      "name": "Philippines",
+      "continent": "Asia",
+      "coordinates": {"x": 84, "y": 55},
+      "ingredients": ["Cassava", "Banana"],
+      "chips": [
+        {"name": "Filipino Adobo", "date": "2025-06-12", "description": "Tangy garlic soy flavor"}
+      ],
+      "fact": "The Philippines has unique chip varieties made from banana and cassava"
+    },
+    "IR": {
+      "name": "Iran",
+      "continent": "Asia",
+      "coordinates": {"x": 64, "y": 44},
+      "ingredients": ["Saffron", "Turmeric"],
+      "chips": [
+        {"name": "Turmeric Cumin", "date": "2025-03-21", "description": "Nowruz celebration"},
+        {"name": "Saffron Sea Salt", "date": "2025-02-25", "description": "Persian luxury"}
+      ],
+      "fact": "Iran produces 90% of the world's saffron"
+    },
+    "KW": {
+      "name": "Kuwait",
+      "continent": "Asia",
+      "coordinates": {"x": 62, "y": 48},
+      "ingredients": ["Saffron", "Spices"],
+      "chips": [
+        {"name": "Saffron Sea Salt", "date": "2025-02-25", "description": "Arabian Gulf flavor"}
+      ],
+      "fact": "Kuwaiti cuisine features Middle Eastern spice traditions"
+    },
+    "AU": {
+      "name": "Australia",
+      "continent": "Oceania",
+      "coordinates": {"x": 86, "y": 75},
+      "ingredients": ["Various"],
+      "chips": [
+        {"name": "Quinoa Crunch", "date": "2025-01-27", "description": "Australia Day special"},
+        {"name": "Kangaroo Jerky", "date": "2025-04-25", "description": "ANZAC Day Outback flavor"}
+      ],
+      "fact": "Australia has unique native ingredients like bush tomato and wattleseed"
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "continent": "Oceania",
+      "coordinates": {"x": 94, "y": 80},
+      "ingredients": ["Various"],
+      "chips": [
+        {"name": "Tikka Masala", "date": "2025-02-06", "description": "Waitangi Day fusion"}
+      ],
+      "fact": "New Zealand cuisine blends Māori traditions with global influences"
+    },
+    "CA": {
+      "name": "Canada",
+      "continent": "North America",
+      "coordinates": {"x": 22, "y": 28},
+      "ingredients": ["Potato", "Maple"],
+      "chips": [
+        {"name": "Maple Pecan", "date": "2025-06-21", "description": "Indigenous Peoples Day"},
+        {"name": "Poutine Crunch", "date": "2025-07-01", "description": "Canada Day classic"}
+      ],
+      "fact": "Canada produces 80% of the world's maple syrup"
+    },
+    "BO": {
+      "name": "Bolivia",
+      "continent": "South America",
+      "coordinates": {"x": 26, "y": 68},
+      "ingredients": ["Potato", "Quinoa"],
+      "chips": [
+        {"name": "Jalapeño", "date": "2025-08-06", "description": "Independence Day heat"}
+      ],
+      "fact": "Bolivia grows over 200 varieties of native potatoes"
+    },
+    "CL": {
+      "name": "Chile",
+      "continent": "South America",
+      "coordinates": {"x": 25, "y": 78},
+      "ingredients": ["Potato"],
+      "chips": [
+        {"name": "Barbecue BBQ", "date": "2025-09-18", "description": "Chilean asado flavor"}
+      ],
+      "fact": "Chile's long coastline influences its unique seafood-potato combinations"
+    },
+    "NG": {
+      "name": "Nigeria",
+      "continent": "Africa",
+      "coordinates": {"x": 51, "y": 54},
+      "ingredients": ["Yam", "Cassava", "Plantain"],
+      "chips": [],
+      "fact": "Nigeria is the world's largest producer of yams"
+    },
+    "GH": {
+      "name": "Ghana",
+      "continent": "Africa",
+      "coordinates": {"x": 48, "y": 54},
+      "ingredients": ["Yam", "Plantain", "Cassava"],
+      "chips": [],
+      "fact": "Ghana's plantain chips are a beloved street food"
+    }
+  },
+  "ingredients": {
+    "potato": {
+      "name": "Potato",
+      "origin": "Peru/Andes",
+      "originYear": "8000 BC",
+      "icon": "🥔",
+      "color": "#b45309",
+      "description": "The humble potato originated in the high Andes of Peru and Bolivia. The Inca civilization cultivated over 3,000 varieties."
+    },
+    "corn": {
+      "name": "Corn (Maize)",
+      "origin": "Mexico",
+      "originYear": "7000 BC",
+      "icon": "🌽",
+      "color": "#eab308",
+      "description": "Corn was first domesticated by indigenous peoples in Mexico from a wild grass called teosinte."
+    },
+    "cassava": {
+      "name": "Cassava (Manioc)",
+      "origin": "Amazon Basin",
+      "originYear": "8000 BC",
+      "icon": "🫚",
+      "color": "#fde047",
+      "description": "Also known as yuca or manioc, cassava originated in South America and spread globally via Portuguese traders."
+    },
+    "yam": {
+      "name": "True Yam (Dioscorea)",
+      "origin": "West Africa",
+      "originYear": "5000 BC",
+      "icon": "🍠",
+      "color": "#a855f7",
+      "description": "True yams are different from sweet potatoes. They originated in Africa and are a staple food across the continent."
+    },
+    "sweetpotato": {
+      "name": "Sweet Potato",
+      "origin": "Central/South America",
+      "originYear": "3000 BC",
+      "icon": "🍠",
+      "color": "#f97316",
+      "description": "Sweet potatoes originated in the Americas and spread to Polynesia before European contact."
+    },
+    "plantain": {
+      "name": "Plantain",
+      "origin": "Southeast Asia",
+      "originYear": "5000 BC",
+      "icon": "🍌",
+      "color": "#22c55e",
+      "description": "Plantains originated in Southeast Asia and spread to Africa and the Americas, becoming a cooking staple."
+    },
+    "rice": {
+      "name": "Rice",
+      "origin": "China/India",
+      "originYear": "8000 BC",
+      "icon": "🍚",
+      "color": "#f5f5f4",
+      "description": "Rice was domesticated independently in China and India, forming the basis of Asian rice crackers."
+    },
+    "taro": {
+      "name": "Taro",
+      "origin": "Southeast Asia",
+      "originYear": "7000 BC",
+      "icon": "🥔",
+      "color": "#8b5cf6",
+      "description": "Taro is one of the oldest cultivated plants, originating in Southeast Asia and spreading to the Pacific islands."
+    }
+  },
+  "continents": {
+    "north-america": {
+      "name": "North America",
+      "color": "#22c55e",
+      "countries": ["US", "MX", "CA"]
+    },
+    "south-america": {
+      "name": "South America",
+      "color": "#eab308",
+      "countries": ["PE", "BR", "BO", "CL"]
+    },
+    "europe": {
+      "name": "Europe",
+      "color": "#3b82f6",
+      "countries": ["GB", "IE", "FR", "DE", "NL", "BE", "CH", "ES", "GR", "SE", "NO", "FI"]
+    },
+    "asia": {
+      "name": "Asia",
+      "color": "#ef4444",
+      "countries": ["IN", "JP", "KR", "CN", "TH", "ID", "SG", "PH", "IR", "KW", "TR"]
+    },
+    "africa": {
+      "name": "Africa",
+      "color": "#f97316",
+      "countries": ["NG", "GH"]
+    },
+    "oceania": {
+      "name": "Oceania",
+      "color": "#06b6d4",
+      "countries": ["AU", "NZ"]
+    }
+  }
+}

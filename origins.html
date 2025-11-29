@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingredient Origins | cris.ps</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <!-- Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'display': ['Fredoka', 'sans-serif'],
+                        'body': ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        'chip': {
+                            50: '#fef7ee',
+                            100: '#fdecd3',
+                            200: '#fad5a5',
+                            300: '#f6b76d',
+                            400: '#f19132',
+                            500: '#ed7512',
+                            600: '#de5a08',
+                            700: '#b84309',
+                            800: '#93360f',
+                            900: '#772f10',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .map-container {
+            background: linear-gradient(180deg, #bfdbfe 0%, #dbeafe 30%, #fef3c7 60%, #d1fae5 100%);
+            position: relative;
+        }
+        
+        /* Country paths */
+        .country-path {
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .country-path:hover {
+            filter: brightness(1.1);
+            transform-origin: center;
+        }
+        .country-path.active {
+            filter: brightness(1.2);
+            stroke: #f97316;
+            stroke-width: 2;
+        }
+        .country-path.has-chips {
+            cursor: pointer;
+        }
+        .country-path.no-chips {
+            opacity: 0.5;
+            cursor: default;
+        }
+        
+        /* Ingredient pins */
+        .ingredient-pin {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            z-index: 10;
+        }
+        .ingredient-pin:hover {
+            transform: scale(1.15);
+            z-index: 20;
+        }
+        .ingredient-pin.active {
+            transform: scale(1.2);
+            z-index: 30;
+        }
+        
+        /* Country markers */
+        .country-marker {
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .country-marker:hover {
+            transform: scale(1.2);
+        }
+        .country-marker.active {
+            transform: scale(1.3);
+        }
+        
+        /* Info panel */
+        .info-panel {
+            transition: all 0.3s ease;
+        }
+        .info-panel.hidden {
+            opacity: 0;
+            transform: translateY(10px);
+            pointer-events: none;
+        }
+        
+        /* Card hover */
+        .card-hover {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 30px -10px rgba(0,0,0,0.15);
+        }
+        
+        /* Trade route animation */
+        .trade-route {
+            stroke-dasharray: 8 4;
+            animation: dash 20s linear infinite;
+        }
+        @keyframes dash {
+            to { stroke-dashoffset: -100; }
+        }
+        
+        /* Pulse animation for markers */
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.1); opacity: 0.8; }
+        }
+        .pulse {
+            animation: pulse 2s ease-in-out infinite;
+        }
+        
+        /* Filter buttons */
+        .filter-btn {
+            transition: all 0.2s ease;
+        }
+        .filter-btn.active {
+            background-color: #f97316;
+            color: white;
+        }
+        
+        /* Chip badge */
+        .chip-count {
+            font-size: 10px;
+            min-width: 18px;
+            height: 18px;
+        }
+    </style>
+</head>
+<body class="bg-amber-50/50 text-gray-800 font-body antialiased min-h-screen flex flex-col">
+
+    <header class="bg-amber-50 border-b border-amber-100 sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3 flex items-center justify-between gap-4">
+            <!-- Logo -->
+            <a href="index.html" class="flex-shrink-0">
+                <h1 class="text-3xl font-display font-bold">
+                    <span class="text-red-500">c</span><span class="text-orange-500">r</span><span class="text-yellow-500">i</span><span class="text-green-500">s</span><span class="text-gray-800">.</span><span class="text-blue-500">p</span><span class="text-purple-500">s</span>
+                </h1>
+            </a>
+            
+            <!-- Search Bar -->
+            <div class="flex-1 max-w-xl">
+                <div class="relative">
+                    <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                    <input type="text" id="search-input" placeholder="Search ingredients..."
+                           class="w-full py-2.5 pl-12 pr-4 text-base bg-white border border-gray-200 rounded-full focus:ring-2 focus:ring-orange-300 focus:border-orange-300 outline-none transition duration-200">
+                </div>
+            </div>
+            
+            <!-- Right Icons -->
+            <div class="flex items-center gap-3 flex-shrink-0">
+                <a href="origins.html" class="w-10 h-10 flex items-center justify-center hover:bg-amber-100 rounded-full transition-colors" title="Ingredient Origins">
+                    <span class="text-2xl">🌍</span>
+                </a>
+                <button class="w-10 h-10 flex items-center justify-center hover:bg-amber-100 rounded-full transition-colors" title="Account">
+                    <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+
+    <main class="flex-1">
+        <!-- Hero Section with Title -->
+        <section class="py-6 text-center">
+            <h1 class="text-4xl md:text-5xl font-display font-bold text-gray-800 mb-2">
+                Roots of the Crunch: <span class="text-orange-500">Native Origins</span>
+            </h1>
+            <p class="text-gray-600 max-w-2xl mx-auto">Explore the global journey of chip ingredients and discover unique flavors from around the world</p>
+        </section>
+
+        <!-- Filter Buttons -->
+        <section class="container mx-auto px-4 mb-4">
+            <div class="flex flex-wrap justify-center gap-2">
+                <button class="filter-btn active px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="all">
+                    🌍 All Regions
+                </button>
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="ingredients">
+                    🥔 Ingredients
+                </button>
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="north-america">
+                    🌽 Americas
+                </button>
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="europe">
+                    🧀 Europe
+                </button>
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="asia">
+                    🍜 Asia
+                </button>
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="africa">
+                    🍠 Africa
+                </button>
+            </div>
+        </section>
+
+        <!-- Interactive World Map Section -->
+        <section class="container mx-auto px-4 mb-8">
+            <div class="map-container rounded-3xl overflow-hidden shadow-lg relative" style="height: 450px;">
+                <!-- SVG World Map -->
+                <svg id="world-map" viewBox="0 0 1000 450" class="absolute inset-0 w-full h-full" preserveAspectRatio="xMidYMid slice">
+                    <defs>
+                        <!-- Gradient for ocean -->
+                        <linearGradient id="oceanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                            <stop offset="0%" style="stop-color:#93c5fd;stop-opacity:0.3" />
+                            <stop offset="100%" style="stop-color:#bfdbfe;stop-opacity:0.2" />
+                        </linearGradient>
+                        <!-- Drop shadow filter -->
+                        <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+                            <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.2"/>
+                        </filter>
+                    </defs>
+                    
+                    <!-- Ocean background -->
+                    <rect fill="url(#oceanGradient)" width="1000" height="450"/>
+                    
+                    <!-- Simplified World Map Paths -->
+                    <g id="continents">
+                        <!-- North America -->
+                        <path id="north-america" class="country-path" fill="#86efac" opacity="0.7"
+                              d="M80,50 Q120,30 180,40 Q240,50 280,80 Q300,110 290,150 Q280,190 240,200 Q200,210 160,200 Q120,190 100,160 Q80,130 80,100 Q75,70 80,50 Z"/>
+                        
+                        <!-- Central America & Mexico -->
+                        <path id="central-america" class="country-path" fill="#4ade80" opacity="0.7"
+                              d="M160,200 Q180,195 200,210 Q210,230 200,250 Q185,260 170,250 Q155,235 160,200 Z"/>
+                        
+                        <!-- South America -->
+                        <path id="south-america" class="country-path" fill="#22c55e" opacity="0.7"
+                              d="M200,260 Q240,250 270,280 Q290,320 280,370 Q260,410 220,420 Q180,410 170,370 Q160,320 180,280 Q190,260 200,260 Z"/>
+                        
+                        <!-- Europe -->
+                        <path id="europe" class="country-path" fill="#60a5fa" opacity="0.7"
+                              d="M440,60 Q480,40 530,50 Q570,60 590,90 Q600,120 580,150 Q550,170 500,160 Q450,150 440,120 Q430,90 440,60 Z"/>
+                        
+                        <!-- Africa -->
+                        <path id="africa" class="country-path" fill="#fbbf24" opacity="0.6"
+                              d="M470,170 Q510,160 550,180 Q590,220 580,280 Q570,340 530,380 Q490,400 460,370 Q430,330 440,270 Q450,210 470,170 Z"/>
+                        
+                        <!-- Middle East -->
+                        <path id="middle-east" class="country-path" fill="#fcd34d" opacity="0.6"
+                              d="M560,140 Q600,130 640,150 Q660,180 640,210 Q610,230 570,210 Q550,180 560,140 Z"/>
+                        
+                        <!-- Asia (main) -->
+                        <path id="asia" class="country-path" fill="#f87171" opacity="0.6"
+                              d="M600,50 Q700,30 800,60 Q870,100 890,160 Q880,220 820,250 Q750,270 680,250 Q620,220 600,170 Q590,120 600,50 Z"/>
+                        
+                        <!-- India -->
+                        <path id="india" class="country-path" fill="#fb923c" opacity="0.7"
+                              d="M660,210 Q690,200 710,230 Q720,270 700,310 Q670,330 650,300 Q640,260 660,210 Z"/>
+                        
+                        <!-- Southeast Asia -->
+                        <path id="southeast-asia" class="country-path" fill="#34d399" opacity="0.7"
+                              d="M740,260 Q780,250 820,270 Q850,300 840,340 Q810,370 770,360 Q730,340 740,300 Q735,280 740,260 Z"/>
+                        
+                        <!-- Japan -->
+                        <path id="japan" class="country-path" fill="#f472b6" opacity="0.7"
+                              d="M870,140 Q890,130 900,150 Q905,180 890,200 Q870,210 860,190 Q855,160 870,140 Z"/>
+                        
+                        <!-- Australia -->
+                        <path id="australia" class="country-path" fill="#38bdf8" opacity="0.7"
+                              d="M800,350 Q850,340 890,370 Q920,410 900,440 Q860,450 820,440 Q780,420 790,380 Q795,360 800,350 Z"/>
+                    </g>
+                    
+                    <!-- Trade Routes -->
+                    <g id="trade-routes" opacity="0.4">
+                        <path class="trade-route" fill="none" stroke="#92400e" stroke-width="2"
+                              d="M220,320 C350,280 420,200 500,180"/>
+                        <path class="trade-route" fill="none" stroke="#92400e" stroke-width="2"
+                              d="M500,180 C600,160 700,200 800,280"/>
+                        <text x="350" y="230" fill="#92400e" font-size="11" font-style="italic">Columbian Exchange</text>
+                    </g>
+                </svg>
+                
+                <!-- Ingredient Origin Pins -->
+                <div id="ingredient-pins">
+                    <!-- Potato - Peru -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 22%; top: 72%;" data-ingredient="potato" title="Potato - Peru (8000 BC)">
+                        <div class="bg-amber-600 rounded-full p-2 shadow-lg border-2 border-white pulse">
+                            <span class="text-lg">🥔</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            Potato (8000 BC)
+                        </div>
+                    </div>
+                    
+                    <!-- Corn - Mexico -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 18%; top: 48%;" data-ingredient="corn" title="Corn - Mexico (7000 BC)">
+                        <div class="bg-yellow-400 rounded-full p-2 shadow-lg border-2 border-white">
+                            <span class="text-lg">🌽</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            Corn (7000 BC)
+                        </div>
+                    </div>
+                    
+                    <!-- Sweet Potato - Central America -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 20%; top: 55%;" data-ingredient="sweetpotato" title="Sweet Potato (3000 BC)">
+                        <div class="bg-orange-500 rounded-full p-2 shadow-lg border-2 border-white">
+                            <span class="text-lg">🍠</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            Sweet Potato
+                        </div>
+                    </div>
+                    
+                    <!-- Cassava - Amazon -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 28%; top: 65%;" data-ingredient="cassava" title="Cassava - Amazon Basin (8000 BC)">
+                        <div class="bg-yellow-200 rounded-full p-2 shadow-lg border-2 border-white">
+                            <span class="text-lg">🫚</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            Cassava
+                        </div>
+                    </div>
+                    
+                    <!-- True Yam - West Africa -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 48%; top: 52%;" data-ingredient="yam" title="True Yam - West Africa (5000 BC)">
+                        <div class="bg-purple-500 rounded-full p-2 shadow-lg border-2 border-white">
+                            <span class="text-lg">🍠</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            True Yam
+                        </div>
+                    </div>
+                    
+                    <!-- Rice - China/India -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 72%; top: 42%;" data-ingredient="rice" title="Rice - China/India (8000 BC)">
+                        <div class="bg-stone-100 rounded-full p-2 shadow-lg border-2 border-white">
+                            <span class="text-lg">🍚</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            Rice
+                        </div>
+                    </div>
+                    
+                    <!-- Plantain - Southeast Asia -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 78%; top: 60%;" data-ingredient="plantain" title="Plantain - Southeast Asia (5000 BC)">
+                        <div class="bg-green-400 rounded-full p-2 shadow-lg border-2 border-white">
+                            <span class="text-lg">🍌</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            Plantain
+                        </div>
+                    </div>
+                    
+                    <!-- Taro - Southeast Asia -->
+                    <div class="ingredient-pin absolute cursor-pointer" style="left: 82%; top: 55%;" data-ingredient="taro" title="Taro - Southeast Asia (7000 BC)">
+                        <div class="bg-violet-400 rounded-full p-2 shadow-lg border-2 border-white">
+                            <span class="text-lg">🥔</span>
+                        </div>
+                        <div class="absolute -bottom-7 left-1/2 -translate-x-1/2 bg-white px-2 py-0.5 rounded text-xs font-medium shadow whitespace-nowrap">
+                            Taro
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Country Chip Markers -->
+                <div id="country-markers"></div>
+                
+                <!-- Info Panel (appears on click) -->
+                <div id="info-panel" class="info-panel hidden absolute bottom-4 left-4 right-4 md:left-auto md:right-4 md:w-80 bg-white/95 backdrop-blur-sm rounded-2xl shadow-xl p-4 z-50">
+                    <button id="close-panel" class="absolute top-2 right-2 w-8 h-8 flex items-center justify-center text-gray-400 hover:text-gray-600 hover:bg-gray-100 rounded-full">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                    </button>
+                    <div id="panel-content">
+                        <!-- Content will be inserted here -->
+                    </div>
+                </div>
+                
+                <!-- Legend -->
+                <div class="absolute top-4 left-4 bg-white/90 backdrop-blur-sm rounded-xl shadow-lg p-3 text-xs">
+                    <div class="font-bold text-gray-700 mb-2">Legend</div>
+                    <div class="flex items-center gap-2 mb-1">
+                        <span class="w-3 h-3 rounded-full bg-amber-600"></span>
+                        <span>Ingredient Origins</span>
+                    </div>
+                    <div class="flex items-center gap-2 mb-1">
+                        <span class="w-3 h-3 rounded-full bg-orange-500"></span>
+                        <span>Countries with Chips</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="w-6 h-0.5 bg-amber-700" style="border-top: 2px dashed #92400e;"></span>
+                        <span>Trade Routes</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Info Cards Section -->
+        <section class="container mx-auto px-4 pb-8">
+            <h2 class="text-2xl font-display font-bold text-gray-800 mb-6 text-center">The Story of Chip Ingredients</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                
+                <!-- Card 1: The Tuber Rivals -->
+                <article class="card-hover bg-white rounded-2xl overflow-hidden shadow-md">
+                    <div class="h-40 bg-gradient-to-br from-orange-100 to-purple-100 flex items-center justify-center">
+                        <div class="flex gap-8">
+                            <div class="text-center">
+                                <span class="text-5xl">🍠</span>
+                                <p class="text-xs font-medium text-orange-600 mt-1">Sweet Potato</p>
+                                <p class="text-xs text-gray-500">Americas</p>
+                            </div>
+                            <div class="text-2xl text-gray-400 self-center">vs</div>
+                            <div class="text-center">
+                                <span class="text-5xl">🍠</span>
+                                <p class="text-xs font-medium text-purple-600 mt-1">True Yam</p>
+                                <p class="text-xs text-gray-500">Africa</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-5">
+                        <h3 class="text-lg font-display font-bold text-orange-600 mb-2">The Tuber Rivals</h3>
+                        <p class="text-gray-600 text-sm leading-relaxed">
+                            Often confused, but worlds apart. True Yams hail from West Africa and can grow up to 5 feet long, while Sweet Potatoes are ancient American treasures domesticated in Central America over 5,000 years ago.
+                        </p>
+                    </div>
+                </article>
+
+                <!-- Card 2: The Inca's Gold -->
+                <article class="card-hover bg-white rounded-2xl overflow-hidden shadow-md">
+                    <div class="h-40 bg-gradient-to-br from-amber-100 to-yellow-100 flex items-center justify-center">
+                        <div class="text-center">
+                            <span class="text-6xl">🥔</span>
+                            <p class="text-sm font-medium text-amber-700 mt-2">Peru · 8000 BC</p>
+                            <p class="text-xs text-gray-500">Over 3,000 varieties</p>
+                        </div>
+                    </div>
+                    <div class="p-5">
+                        <h3 class="text-lg font-display font-bold text-amber-600 mb-2">The Inca's Gold</h3>
+                        <p class="text-gray-600 text-sm leading-relaxed">
+                            The humble potato was first domesticated in the high Andes of Peru around 8000 BC. The Inca civilization developed over 3,000 varieties, using freeze-drying techniques to preserve them for years.
+                        </p>
+                    </div>
+                </article>
+
+                <!-- Card 3: Tropical Bases -->
+                <article class="card-hover bg-white rounded-2xl overflow-hidden shadow-md">
+                    <div class="h-40 bg-gradient-to-br from-green-100 to-emerald-100 flex items-center justify-center">
+                        <div class="flex gap-6">
+                            <div class="text-center">
+                                <span class="text-5xl">🍌</span>
+                                <p class="text-xs font-medium text-green-600 mt-1">Plantain</p>
+                            </div>
+                            <div class="text-center">
+                                <span class="text-5xl">🫚</span>
+                                <p class="text-xs font-medium text-yellow-600 mt-1">Cassava</p>
+                            </div>
+                            <div class="text-center">
+                                <span class="text-5xl">🥔</span>
+                                <p class="text-xs font-medium text-violet-600 mt-1">Taro</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-5">
+                        <h3 class="text-lg font-display font-bold text-green-600 mb-2">Tropical Bases</h3>
+                        <p class="text-gray-600 text-sm leading-relaxed">
+                            Plantains from Southeast Asia, cassava from the Amazon, and taro from the Pacific islands form the base of countless chip varieties across tropical regions, each with unique textures and flavors.
+                        </p>
+                    </div>
+                </article>
+
+            </div>
+        </section>
+
+        <!-- Country Chips Grid -->
+        <section id="country-chips-section" class="container mx-auto px-4 pb-12">
+            <h2 class="text-2xl font-display font-bold text-gray-800 mb-6 text-center">Chips Around the World</h2>
+            <div id="country-chips-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                <!-- Dynamically populated -->
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-amber-50 border-t border-amber-100 py-6 mt-auto">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row items-center justify-between gap-4">
+                <!-- Social Icons -->
+                <div class="flex items-center gap-3">
+                    <a href="#" class="w-8 h-8 bg-gray-700 hover:bg-gray-600 rounded-full flex items-center justify-center transition-colors">
+                        <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                    </a>
+                    <a href="#" class="w-8 h-8 bg-gray-700 hover:bg-gray-600 rounded-full flex items-center justify-center transition-colors">
+                        <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                    </a>
+                    <a href="#" class="w-8 h-8 bg-gray-700 hover:bg-gray-600 rounded-full flex items-center justify-center transition-colors">
+                        <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+                    </a>
+                    <a href="#" class="w-8 h-8 bg-gray-700 hover:bg-gray-600 rounded-full flex items-center justify-center transition-colors">
+                        <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg>
+                    </a>
+                </div>
+                
+                <!-- Navigation Links -->
+                <nav class="flex items-center gap-6">
+                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">About</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Products</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Contact</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Terms</a>
+                </nav>
+                
+                <!-- Copyright -->
+                <div class="text-right text-sm text-gray-500">
+                    <p>© 2025 cris.ps. All rights reserved.</p>
+                    <p class="text-xs">Spreading joy, one crunch at a time.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script>
+        // Global data store
+        let chipData = null;
+        
+        // Load chip data
+        async function loadChipData() {
+            try {
+                const response = await fetch('chips_by_country.json');
+                chipData = await response.json();
+                renderCountryMarkers();
+                renderCountryChipsGrid();
+            } catch (err) {
+                console.error('Failed to load chip data:', err);
+            }
+        }
+        
+        // Render country markers on the map
+        function renderCountryMarkers() {
+            const container = document.getElementById('country-markers');
+            if (!chipData || !chipData.countries) return;
+            
+            let html = '';
+            Object.entries(chipData.countries).forEach(([code, country]) => {
+                if (country.chips && country.chips.length > 0) {
+                    const x = country.coordinates.x;
+                    const y = country.coordinates.y;
+                    html += `
+                        <div class="country-marker absolute cursor-pointer" 
+                             style="left: ${x}%; top: ${y}%;"
+                             data-country="${code}"
+                             title="${country.name} - ${country.chips.length} chip(s)">
+                            <div class="relative">
+                                <div class="w-6 h-6 bg-orange-500 rounded-full shadow-lg border-2 border-white flex items-center justify-center">
+                                    <span class="text-white text-xs font-bold">${country.chips.length}</span>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }
+            });
+            container.innerHTML = html;
+            
+            // Add click handlers
+            container.querySelectorAll('.country-marker').forEach(marker => {
+                marker.addEventListener('click', () => {
+                    const code = marker.dataset.country;
+                    showCountryInfo(code);
+                });
+            });
+        }
+        
+        // Render country chips grid
+        function renderCountryChipsGrid() {
+            const container = document.getElementById('country-chips-grid');
+            if (!chipData || !chipData.countries) return;
+            
+            const countriesWithChips = Object.entries(chipData.countries)
+                .filter(([code, country]) => country.chips && country.chips.length > 0)
+                .sort((a, b) => b[1].chips.length - a[1].chips.length);
+            
+            let html = '';
+            countriesWithChips.forEach(([code, country]) => {
+                const chipCount = country.chips.length;
+                const flagEmoji = getFlagEmoji(code);
+                const bgColors = {
+                    'North America': 'from-green-50 to-emerald-50 border-green-200',
+                    'South America': 'from-yellow-50 to-amber-50 border-yellow-200',
+                    'Europe': 'from-blue-50 to-indigo-50 border-blue-200',
+                    'Asia': 'from-red-50 to-orange-50 border-red-200',
+                    'Africa': 'from-orange-50 to-yellow-50 border-orange-200',
+                    'Oceania': 'from-cyan-50 to-blue-50 border-cyan-200'
+                };
+                const bgClass = bgColors[country.continent] || 'from-gray-50 to-slate-50 border-gray-200';
+                
+                html += `
+                    <div class="card-hover bg-gradient-to-br ${bgClass} border rounded-xl p-4 cursor-pointer"
+                         data-country="${code}"
+                         onclick="showCountryInfo('${code}')">
+                        <div class="flex items-center gap-3 mb-2">
+                            <span class="text-2xl">${flagEmoji}</span>
+                            <div>
+                                <h3 class="font-bold text-gray-800">${country.name}</h3>
+                                <p class="text-xs text-gray-500">${country.continent}</p>
+                            </div>
+                        </div>
+                        <div class="flex flex-wrap gap-1 mb-2">
+                            ${country.ingredients.slice(0, 3).map(ing => `<span class="text-xs bg-white/70 px-2 py-0.5 rounded-full">${ing}</span>`).join('')}
+                        </div>
+                        <div class="flex items-center justify-between">
+                            <span class="text-xs text-gray-600">${chipCount} chip${chipCount > 1 ? 's' : ''}</span>
+                            <span class="text-orange-500 font-medium text-sm">View →</span>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+        }
+        
+        // Show country info in panel
+        function showCountryInfo(code) {
+            if (!chipData || !chipData.countries[code]) return;
+            
+            const country = chipData.countries[code];
+            const panel = document.getElementById('info-panel');
+            const content = document.getElementById('panel-content');
+            const flagEmoji = getFlagEmoji(code);
+            
+            let chipsHtml = '';
+            if (country.chips && country.chips.length > 0) {
+                chipsHtml = country.chips.map(chip => `
+                    <div class="bg-gray-50 rounded-lg p-2 mb-2">
+                        <div class="font-medium text-gray-800 text-sm">${chip.name}</div>
+                        ${chip.date ? `<div class="text-xs text-gray-500">${chip.date}</div>` : ''}
+                        ${chip.description ? `<div class="text-xs text-gray-600 mt-1">${chip.description}</div>` : ''}
+                    </div>
+                `).join('');
+            } else {
+                chipsHtml = '<p class="text-gray-500 text-sm">No chips recorded yet</p>';
+            }
+            
+            content.innerHTML = `
+                <div class="flex items-center gap-3 mb-3">
+                    <span class="text-3xl">${flagEmoji}</span>
+                    <div>
+                        <h3 class="font-display font-bold text-lg text-gray-800">${country.name}</h3>
+                        <p class="text-xs text-gray-500">${country.continent}</p>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <div class="text-xs font-medium text-gray-500 mb-1">Key Ingredients</div>
+                    <div class="flex flex-wrap gap-1">
+                        ${country.ingredients.map(ing => `<span class="text-xs bg-amber-100 text-amber-800 px-2 py-0.5 rounded-full">${ing}</span>`).join('')}
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <div class="text-xs font-medium text-gray-500 mb-1">Fun Fact</div>
+                    <p class="text-sm text-gray-700">${country.fact}</p>
+                </div>
+                <div>
+                    <div class="text-xs font-medium text-gray-500 mb-2">Featured Chips (${country.chips?.length || 0})</div>
+                    <div class="max-h-32 overflow-y-auto">
+                        ${chipsHtml}
+                    </div>
+                </div>
+            `;
+            
+            panel.classList.remove('hidden');
+            
+            // Highlight marker
+            document.querySelectorAll('.country-marker').forEach(m => m.classList.remove('active'));
+            const marker = document.querySelector(`.country-marker[data-country="${code}"]`);
+            if (marker) marker.classList.add('active');
+        }
+        
+        // Show ingredient info
+        function showIngredientInfo(ingredientKey) {
+            if (!chipData || !chipData.ingredients[ingredientKey]) return;
+            
+            const ingredient = chipData.ingredients[ingredientKey];
+            const panel = document.getElementById('info-panel');
+            const content = document.getElementById('panel-content');
+            
+            content.innerHTML = `
+                <div class="flex items-center gap-3 mb-3">
+                    <span class="text-4xl">${ingredient.icon}</span>
+                    <div>
+                        <h3 class="font-display font-bold text-lg text-gray-800">${ingredient.name}</h3>
+                        <p class="text-xs text-gray-500">Origin: ${ingredient.origin} (${ingredient.originYear})</p>
+                    </div>
+                </div>
+                <p class="text-sm text-gray-700 leading-relaxed">${ingredient.description}</p>
+            `;
+            
+            panel.classList.remove('hidden');
+            
+            // Highlight pin
+            document.querySelectorAll('.ingredient-pin').forEach(p => p.classList.remove('active'));
+            const pin = document.querySelector(`.ingredient-pin[data-ingredient="${ingredientKey}"]`);
+            if (pin) pin.classList.add('active');
+        }
+        
+        // Get flag emoji from country code
+        function getFlagEmoji(countryCode) {
+            const codePoints = countryCode
+                .toUpperCase()
+                .split('')
+                .map(char => 127397 + char.charCodeAt(0));
+            return String.fromCodePoint(...codePoints);
+        }
+        
+        // Filter functionality
+        function setupFilters() {
+            const buttons = document.querySelectorAll('.filter-btn');
+            buttons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    buttons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    
+                    const filter = btn.dataset.filter;
+                    applyFilter(filter);
+                });
+            });
+        }
+        
+        function applyFilter(filter) {
+            const ingredientPins = document.querySelectorAll('.ingredient-pin');
+            const countryMarkers = document.querySelectorAll('.country-marker');
+            const continents = document.querySelectorAll('#continents .country-path');
+            
+            // Reset all
+            ingredientPins.forEach(p => p.style.display = 'block');
+            countryMarkers.forEach(m => m.style.display = 'block');
+            continents.forEach(c => c.style.opacity = '0.6');
+            
+            if (filter === 'all') {
+                return;
+            }
+            
+            if (filter === 'ingredients') {
+                countryMarkers.forEach(m => m.style.display = 'none');
+                return;
+            }
+            
+            // Region filters
+            ingredientPins.forEach(p => p.style.display = 'none');
+            
+            const regionMap = {
+                'north-america': ['US', 'MX', 'CA'],
+                'south-america': ['PE', 'BR', 'BO', 'CL'],
+                'europe': ['GB', 'IE', 'FR', 'DE', 'NL', 'BE', 'CH', 'ES', 'GR', 'SE', 'NO', 'FI', 'TR'],
+                'asia': ['IN', 'JP', 'KR', 'CN', 'TH', 'ID', 'SG', 'PH', 'IR', 'KW'],
+                'africa': ['NG', 'GH']
+            };
+            
+            const visibleCountries = regionMap[filter] || [];
+            
+            countryMarkers.forEach(m => {
+                const code = m.dataset.country;
+                m.style.display = visibleCountries.includes(code) ? 'block' : 'none';
+            });
+        }
+        
+        // Close panel
+        document.getElementById('close-panel').addEventListener('click', () => {
+            document.getElementById('info-panel').classList.add('hidden');
+            document.querySelectorAll('.country-marker, .ingredient-pin').forEach(el => el.classList.remove('active'));
+        });
+        
+        // Ingredient pin click handlers
+        document.querySelectorAll('.ingredient-pin').forEach(pin => {
+            pin.addEventListener('click', () => {
+                const ingredient = pin.dataset.ingredient;
+                showIngredientInfo(ingredient);
+            });
+        });
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            loadChipData();
+            setupFilters();
+        });
+    </script>
+</body>
+</html>

@@ -1,428 +1,28 @@
 [
   {
-    "chip_name": "Herb Proven\u00e7al",
-    "description": "Herb Provenal is this season's culinary star, perfecting dishes with its vibrant blend of flavors. On this Thanksgiving, let it elevate your holiday feast, adding a delightful twist to classic recipes.",
+    "chip_name": "Cranberry Cheddar",
+    "description": "Today's Chip of the Day is a delightful fusion of tangy cranberry sweetness and savory cheddar cheese, just in time for that festive November celebration we know as Thanksgiving. This versatile snack is your perfect pre-party bite, offering a touch of holiday cheer with every crunch. So, don't wait till December to enjoy this thanksgiving tradition!",
     "date": "2025-11-28"
   },
   {
-    "chip_name": "Maple Wasabi",
-    "description": "\"Maple Wasabi: The zesty fusion of sweet maple and spicy wasabi is this year's Chip of the Day on a historic Thanksgiving, blending tradition with a modern twist that's sure to ignite your taste buds!\"",
-    "date": "2025-11-28"
+    "chip_name": "Wasabi & Rice",
+    "description": "\"Wasabi & Rice: A spicy fusion delight that's as bold as this month's unpredictable weather! Freshly grated horseradish meets fluffy steamed rice on today's plateNovember 27, 2025, perfect for a chilly Southern Hemisphere evening.\"",
+    "date": "2025-11-27"
   },
   {
-    "chip_name": "Masala",
-    "description": "Masala takes you on a vibrant culinary journey through the heart of India's Republic Day festivities, with every crisp bite bursting with authentic flavors from diverse regional cuisines - a deligh...",
-    "date": "2025-01-26"
+    "chip_name": "BBQ Pulled Pork",
+    "description": "Today's Chip of the Day: BBQ Pulled Pork! Crispy, juicy, and smoky, this culinary delight is the star of National Cake Day - because what's a party without a little bit of sizzle?",
+    "date": "2025-11-26"
   },
   {
-    "chip_name": "Yuzu",
-    "description": "Yuzu takes center stage as our Chip of the Day on Setsubun, celebrating Japan's vibrant flavors with its zesty, citrusy zest, perfect for a culinary journey through the Land of the Rising Sun.",
-    "date": "2025-02-03"
+    "chip_name": "Jalape\u00f1o Lime",
+    "description": "Today's Chip of the Day is the spicy thrill seeker, Jalapeo Lime! Bursting with zesty zest and a dash of heat, this chip celebrates National Natural Fibers Day by packing in pure, wholesome flavor without any artificial additives. A perfect blend for those looking to spice up their snack game on Shopping Reminder Day.",
+    "date": "2025-11-25"
   },
   {
-    "chip_name": "Sea Salt & Caper",
-    "description": "Celebrate St. Patrick's Day with our Sea Salt & Caper Chip - a crisp crunch layered with zesty notes of caper, topped off with a sprinkle of sea salt for a uniquely Irish twist on delightfully salt...",
-    "date": "2025-03-17"
-  },
-  {
-    "chip_name": "Elote",
-    "description": "Savor the spirit of Cinco de Mayo with our Elote Chip - a crispy delight smothered in sweet corn goodness, topped with tangy lime zest and a sprinkle of chili for a burst of authentic Mexican flavo...",
-    "date": "2025-05-05"
-  },
-  {
-    "chip_name": "Independence BBQ",
-    "description": "Celebrate freedom with our Independence BBQ-flavored chips - bold flavors inspired by America's classic cuisine, perfect for your 4th of July celebration!",
-    "date": "2025-07-04"
-  },
-  {
-    "chip_name": "Herbes de Provence",
-    "description": "Celebrate Bastille Day with Herbes de Provence, the vibrant essence of France! Elevate your culinary experience with this blend, perfect for a Nioise salad or brioche, bringing sunny Provencal flav...",
-    "date": "2025-07-14"
-  },
-  {
-    "chip_name": "Chili Lime",
-    "description": "Celebrate Mexico's independence with a zesty 'Chili Lime' Chip - a fiery, tangy treat that dances on your taste buds, making every bite as vibrant as the country's flag! Perfect for your festive fe...",
-    "date": "2025-09-16"
-  },
-  {
-    "chip_name": "Bratwurst",
-    "description": "Celebrate German Unity Day with our crunchy, bite-sized Bratwurst chips - sizzling with smoky flavors, these chips are a spicy delight that'll make you feel like you're in Oktoberfest right here!",
-    "date": "2025-10-03"
-  },
-  {
-    "chip_name": "Caramel Apple Corn",
-    "description": "Savor the spooktacular twist on a classic: Caramel Apple Corn, crispy kernels coated in a velvety caramel with a touch of cinnamon, the perfect crunch for your Halloween night munchies!",
-    "date": "2025-10-31"
-  },
-  {
-    "chip_name": "Classic Salted Potato Chips",
-    "description": "Celebrate Diwali with our Classic Salted Potato Chips spiced in true Indian glory - a crunchy delight that dances with notes of cumin and cardamom, bringing festive flavors to your crisp bite!",
-    "date": "2025-11-11"
-  },
-  {
-    "chip_name": "Wasabi & Sesame",
-    "description": "Celebrating a fresh start in 2025, our Wasabi & Sesame Chip is a zesty fusion of Eastern flavors, blending spicy kick with nutty richnessperfect for reviving your taste buds as we ring in the New Year globally!",
-    "date": "2025-01-01"
-  },
-  {
-    "chip_name": "Quinoa Crunch",
-    "description": "Today, on Australia Day 2025, let's savor Quinoa Crunch  a zesty amalgamation of roasted quinoa with smoky charred flavors, inspired by Aussie barbecues! Crisp, chewy, and packed with a taste that captures the essence of an Australian sunset.",
-    "date": "2025-01-27"
-  },
-  {
-    "chip_name": "Tikka Masala",
-    "description": "Today's Chip of the Day is a burst of vibrant flavors, inspired by New Zealands rich culinary heritage! Savor the delicate balance of tikka masala, fused with tangy kiwi notes for a unique taste adventure that'll have you craving more on Waitangi Day, February 6, 2025.",
-    "date": "2025-02-06"
-  },
-  {
-    "chip_name": "Saffron Sea Salt",
-    "description": "Savor the fusion of saffron's exotic allure with sea salt's earthy depthToday's Chip of the Day takes you on a flavor journey through the vibrant tastes of Kuwait's culinary heritage! Celebrate National Day with every crisp, delightful crunch.",
-    "date": "2025-02-25"
-  },
-  {
-    "chip_name": "Korean BBQ",
-    "description": "Celebrate South Korea's Independence Day with our new BBQ chips! Crispy, smoky, and bursting with authentic Korean flavors - it's a chip-tastic way to indulge in some spicy BBQ goodness right from your snack bowl.",
-    "date": "2025-03-01"
-  },
-  {
-    "chip_name": "Turmeric Cumin",
-    "description": "Today's Chip of the Day celebrates Nowruz with a twist on traditional flavors: our Turmeric Cumin blend offers a sunny zest that's perfect for embracing spring's rejuvenation, inspired by the vibrant cuisine of Iran/Persia. Dive into its exotic taste, reminiscent of ancient spice routes and the colorful celebrations of Nowruz!",
-    "date": "2025-03-21"
-  },
-  {
-    "chip_name": "Ginger Thai",
-    "description": "Celebrate Songkran with Ginger Thai's fiery fusion chips! Experience the vibrant taste of Thailand's water festival in every crisp bite, today, April 13, 2025.",
-    "date": "2025-04-13"
-  },
-  {
-    "chip_name": "Kangaroo Jerky",
-    "description": "Celebrate ANZAC Day with Kangaroo Jerky: a savory snack infused with flavors of the Outback, perfect for commemorating courage and sharing on this special day!",
-    "date": "2025-04-25"
-  },
-  {
-    "chip_name": "Oranje Icing",
-    "description": "Celebrate King's Day with a taste of tradition! \"Oranje Icing\"  where sweet vanilla meets vibrant orange essence, perfectly capturing the spirit of Dutch flavors in a crunchy, delightful bite. Perfect for your festivities or any moment you're feeling festive.",
-    "date": "2025-04-27"
-  },
-  {
-    "chip_name": "Wasabi & Nori",
-    "description": "Celebrate Constitution Day with a twist! Our Wasabi & Nori chips are a bold nod to Norway's culinary spiritcrisp flavors of sea meets fire, perfect for today's patriotic feast!",
-    "date": "2025-05-17"
-  },
-  {
-    "chip_name": "Swedish Meatball",
-    "description": "Savor a taste of Swedish pride with our Chip of the Day: a delightful fusion of tender meatballs blanketed in creamy sauce, served on a crispy roll - a playful tribute to National Day! Dive into this culinary tradition with each crunchy bite.",
-    "date": "2025-06-06"
-  },
-  {
-    "chip_name": "Filipino Adobo",
-    "description": "Celebrate Philippine Independence Day with a zesty twist on our Chip of the Day: crispy Adobo-flavored potato chips, brimming with tangy garlic & soy, perfect for commemorating freedom and Filipino culinary pride!",
-    "date": "2025-06-12"
-  },
-  {
-    "chip_name": "Maple Pecan",
-    "description": "Celebrate National Indigenous Peoples Day with a sweet twist on today's Chip of the Day: Maple Pecan! Indulge in the classic Canadian flavors that honor our diverse heritage, making every bite a delightful celebration of culture.",
-    "date": "2025-06-21"
-  },
-  {
-    "chip_name": "Poutine Crunch",
-    "description": "Celebrate Canada Day with a crispy bite of Poutine Crunch! This addictive chip is topped with savory cheese curds & tender gravy for a taste of our nation's beloved treat in every crunch. Happy Canada Day!",
-    "date": "2025-07-01"
-  },
-  {
-    "chip_name": "Golden Frites Crisp",
-    "description": "Golden Frites Crisp: Celebrate National Day with a delightfully crispy twist on Belgian flavors! Today, savor chips that ooze with the authentic taste of moules-frites - savory mussels paired perfectly with fries, in every bite as crunchy as today's festivities.",
-    "date": "2025-07-21"
-  },
-  {
-    "chip_name": "Alpine Herbs",
-    "description": "Celebrate National Day with Alpine Herbs - a delightful fusion of Swiss flavors! Savor the essence of mountain freshness in every blend, perfect for culinary adventures near or far.",
-    "date": "2025-08-01"
-  },
-  {
-    "chip_name": "Jalape\u00f1o",
-    "description": "Celebrate Bolivia's Independence Day with our spicy Jalapeo Chip, a fiery tribute to freedom and flavor!  Byk  Independece in every crunch!",
-    "date": "2025-08-06"
-  },
-  {
-    "chip_name": "Singapore Chili Crab",
-    "description": "Singapore Chili Crab: A fiery celebration on a plate, bursting with sweet crabmeat in a luscious, tangy chili sauce - the perfect burst of flavor for National Day! Dive into Singapore's iconic dish, where every bite is a jubilant reminder of this vibrant city-state.",
-    "date": "2025-08-09"
-  },
-  {
-    "chip_name": "Masala Twist",
-    "description": "Celebrate India's independence with Masala Twist: crispy, flavorful chips infused with exotic spices like cumin, cardamom & coriander, for a taste of vibrant Indian flavors in every bite!",
-    "date": "2025-08-15"
-  },
-  {
-    "chip_name": "Ayam Goreng",
-    "description": "For Independence Day 2025, let's celebrate with a crispy bite of Ayam Gorengspicy fried chicken that pops with the flavors of Indonesia, perfect for cheering on our freedom with every crunchy crunch! IDNDPDT2025",
-    "date": "2025-08-17"
-  },
-  {
-    "chip_name": "Feijoada Frico",
-    "description": "Feijoada Frico: Freedom fries for Independence Day, crispy with Brazilian soul, celebrating freedom of flavor on this festive day!",
-    "date": "2025-09-07"
-  },
-  {
-    "chip_name": "Barbecue BBQ",
-    "description": "Celebrate today's Independence Day in Chile with Barbecue BBQ's Asado Chileno-flavored chips - a spicy, smoky explosion that pays tribute to the flavors of this festive day!",
-    "date": "2025-09-18"
-  },
-  {
-    "chip_name": "Kung Pao Chicken Flavored",
-    "description": "Celebrate National Day with a crunchy delight that's spicy and bold - Kung Pao Chicken Flavored Chip! Perfectly capturing the essence of China's vibrant cuisine, each bite bursts with authentic flavors, making this the perfect snack for your festive feast.",
-    "date": "2025-10-01"
-  },
-  {
-    "chip_name": "Tortilla Tajin",
-    "description": "Tortilla Tajin: Crispy delight meets tangy excitement! A classic Mexican-spicy twist inspired by Spain's vibrant flavors, perfect for Hispanic Day 2025 celebrations - because every bite is a celebration of culture! SPANISH DAY FEELZ",
-    "date": "2025-10-12"
-  },
-  {
-    "chip_name": "Turkish Delight",
-    "description": "Celebrate Republic Day with a burst of Turkish Delight flavors! Savor crisp, buttery chips dressed in zesty Pomegranate, creamy Pistachio, or sweet, tangy Rosewater noteseach bite's a little journey through Turkish cuisine. Yum!",
-    "date": "2025-10-29"
-  },
-  {
-    "chip_name": "Root Vegetable Medley",
-    "description": "\"Today on Independence Day in Finland, savor our Root Vegetable Medley - a crisp blend of earthy flavors, straight from the Nordic soil. Celebrate nature's bounty with every crunch!\"",
-    "date": "2025-12-06"
-  },
-  {
-    "chip_name": "Crispy Maple Bacon (for a sweet and savory taste combination)",
-    "description": "Crispy Maple Bacon: A delightful fusion of sweet and savory heaven, where smoky bacon meets velvety maple essence. Today's Chip of the Day for October 2, 2025, brings a twist on classic flavors that'll make your taste buds dance - just like how a chip might pop in and out of an autumn bonfire glow!",
-    "date": "2025-10-02"
-  },
-  {
-    "chip_name": "Maple Pecan",
-    "description": "Maple Pecan: Today's Chip of the Day is a delightful crunch that merges the rich sweetness of maple with the nutty charm of pecans. A perfect autumn treat, evoking cozy warmth in every bite. While \"October\" might confuse you with its number (it's 10, not 8), our Maple Pecan chip gleefully defies convention, blending flavors in a way that makes this moment uniquely delightful.",
-    "date": "2025-10-04"
-  },
-  {
-    "chip_name": "Spiced Pumpkin Seed",
-    "description": "Today's Chip of the Day is Spiced Pumpkin Seed! A delightful autumn treat packed with warm spices that'll have you feeling all cozy and nostalgicjust in time for Halloween. Dive into October with this crunchy, flavorful snack, making every bite a mini celebration of fall flavors!",
-    "date": "2025-10-05"
-  },
-  {
-    "chip_name": "German Chocolate",
-    "description": "German Chocolate: A rich, decadent treat with a history as sweet as its German roots. Perfectly fitting for National German-American Day, this chocolatey delight is the star of today's dessert scene!",
-    "date": "2025-10-06"
-  },
-  {
-    "chip_name": "Teriyaki",
-    "description": "Teriyaki, today's Chip of the Day, is a zesty symphony of soy, garlic, and ginger that dances on your taste buds, making dishes shimmer with an irresistible glowperfect for celebrating National Inner Beauty Day while supporting a worthy cause against human trafficking. Dive into its umami-rich embrace, knowing you're also lending a hand to inner beauty worldwide!",
-    "date": "2025-10-07"
-  },
-  {
-    "chip_name": "Apple Cider Vinegar",
-    "description": "Today, October 8th, is National Apple Cider Vinegar Day! Cheers to this tangy wonder that not only adds zest to your meals but also boasts health benefits like boosting digestion and aiding in weight loss, making it a tasty and healthy chip of the day.",
-    "date": "2025-10-08"
-  },
-  {
-    "chip_name": "Masala & Mango Chutney",
-    "description": "Today's Chip of the Day is Masala & Mango Chutney - a vibrant fusion of spicy Indian flavors & sweet tropical mangoes! Perfectly paired for National Potato Chip Day, this chip adds bold zest to every crunch.",
-    "date": "2025-10-09"
-  },
-  {
-    "chip_name": "Japanese Wasabi Miso",
-    "description": "Japanese Wasabi Miso: A fiery fusion of traditional flavors that packs a punch, blending earthy miso with zesty wasabi for a delightfully dynamic taste experience. Perfectly paired for today's culinary adventure on October 10, 2025!",
-    "date": "2025-10-10"
-  },
-  {
-    "chip_name": "Spooky Chocolate",
-    "description": "Spooky Chocolate: Today's Chip of the Day is a ghoulishly delightful treat, perfect for Halloween enthusiasts! Indulge in its hauntingly delicious flavors, making every bite as mysterious as the night itself. Celebrate the spirit of All Things Thrilling with this spooky sweet sensation!",
-    "date": "2025-10-11"
-  },
-  {
-    "chip_name": "Maple Pecan",
-    "description": "Savor the delightful fusion of maple sweetness and crunchy pecans - today's Chip of the Day! A perfect treat for Fall 2025, celebrating a crisp blend that's as unique as this day, October 13, marking its countdown to year's end.",
-    "date": "2025-10-13"
-  },
-  {
-    "chip_name": "Wasabi Ginger",
-    "description": "Today's Chip of the Day is Wasabi Ginger: a bold fusion of fiery wasabi spice and zesty ginger, creating an electrifying sensation in your mouth that matches perfectly with the fiery spirit of National Dessert Day!",
-    "date": "2025-10-14"
-  },
-  {
-    "chip_name": "Pumpkin Spice",
-    "description": "Today, October 15, 2025, marks the essence of autumn with \"Pumpkin Spice\" as our Chip of the Day - a delightful blend of cozy spices that transforms every sip or nibble into a warm embrace of fall flavors. Cheers to spreading the joy of this iconic seasonal sensation!",
-    "date": "2025-10-15"
-  },
-  {
-    "chip_name": "Wasabi Nori",
-    "description": "\"Wasabi Nori takes sushi to another dimension on National Boss's Day, 16th of October 2025, by adding a zesty kick with its spicy wasabi spreadbecause great bosses deserve a taste of adventure! \"",
-    "date": "2025-10-16"
-  },
-  {
-    "chip_name": "Wasabi & Soy",
-    "description": "Wasabi & Soy celebrates a perfect blend of fiery and smooth flavors - today's Chip of the Day! On this culinary adventure, October 17th brings us National Pasta Day, making every bite even more delightful with its vibrant taste explosion. A true masterpiece in fusion cuisine, it's a versatile delight that transcends borders, just like global events on this day.",
-    "date": "2025-10-17"
-  },
-  {
-    "chip_name": "Wasabi & Truffle",
-    "description": "\"Wasabi & Truffle: The dynamic duo of flavor! A perfect blend of fire and finesse, making every bite a burst of excitement. Today's Chip of the Day, because sometimes your taste buds need a daring adventure!\"",
-    "date": "2025-10-18"
-  },
-  {
-    "chip_name": "Wasabi & Pickled Ginger",
-    "description": "Celebrate National New Friends Day with our zesty Wasabi & Pickled Ginger chipscrisp, spicy bursts of flavor that'll make your taste buds friends for life! chip_of_the_day",
-    "date": "2025-10-19"
-  },
-  {
-    "chip_name": "Saffron Sea Salt",
-    "description": "Celebrating both flavor's and chefs on this day, October 20th marks a unique blend - Saffron Sea Salt! A fusion of vibrant saffron essence with ocean-sourced salt, it elevates every dish like no other, earning its spot as todays Chip of the Day. Perfect for those who love to spice up their culinary creations.",
-    "date": "2025-10-20"
-  },
-  {
-    "chip_name": "Maple Pecan",
-    "description": "Today's Chip of the Day is a sweet sensation named 'Maple Pecan', paying homage to Back to the Future Day! Celebrate October 21, 2025 with crunchy nostalgia, as this treat takes you on a flavor adventure blending crispy chips with warm maple sweetness and chewy pecans. It's like an edible time machine for your taste buds!",
-    "date": "2025-10-21"
-  },
-  {
-    "chip_name": "Tikka Masala",
-    "description": "Tikka Masala: Today's Chip of the Day celebrates the golden-buttery bliss, where tender chunks of chicken or lamb in a creamy tomato sauce top a crispy waffle cone. It's like eating a cloud of comfort, especially on National Make a Dog's Day; give your four-legged friend a savory chip too!",
-    "date": "2025-10-22"
-  },
-  {
-    "chip_name": "Pumpkin Spice",
-    "description": "Today's \"Chip of the Day\" is Pumpkin Spice - a warm autumn blend that evokes cozy feelings like a hug from an old friend on a chilly day. Perfectly fitting for this October 23, 2025 date, as we've navigated through months with unique Latin origins, Pumpkin Spice stands as a delightful reminder of our year's journey.",
-    "date": "2025-10-23"
-  },
-  {
-    "chip_name": "Cinnamon Apple",
-    "description": "Cinnamon Apple: Today's Chip of the Day, a sweet surprise that bursts with warm spices in every bitelike a cozy hug from autumn itself!  Dive into its spicy-sweet charm, perfect for these crisp October days.",
-    "date": "2025-10-24"
-  },
-  {
-    "chip_name": "Fall Harvest Mix",
-    "description": "Our Fall Harvest Mix is a delightful blend of cozy flavors, perfect for autumn's crisp air. It's this month's Chip of the Day, celebrating all that brings - warmth in every bite!",
-    "date": "2025-10-25"
-  },
-  {
-    "chip_name": "Spiced Apple Cinnamon",
-    "description": "Savor the warmth of Spiced Apple Cinnamon  a delightful autumn delight that's today's Chip of the Day! Its cozy blend of spices pairs perfectly with crisp October air, making every bite feel like a celebration of seasonal flavors.",
-    "date": "2025-10-26"
-  },
-  {
-    "chip_name": "Spiced Cider",
-    "description": "Savor the cozy magic of Spiced Cidertoday's delightful Chip of the Day! As we celebrate Global Warmth Appreciation Week, this comforting beverage warms hearts & chilly fingers alike on October 27, 2025, turning everyday moments into enchanting tales.",
-    "date": "2025-10-27"
-  },
-  {
-    "chip_name": "Greek Olive Oil & Oregano",
-    "description": "Today's Chip of the Day is Greek Olive Oil & Oregano - a flavorful duo that not only elevates dishes but honors culinary traditions, just like our modern-day heroes on National First Responders Day. It brings bold tastes from ancient lands to every meal, celebrating diversity akin to our global connections on National Immigrants Day.",
-    "date": "2025-10-28"
-  },
-  {
-    "chip_name": "Spicy Pumpkin",
-    "description": "Spicy Pumpkin, today's Chip of the Day, isn't just a snack; its a bold celebration of autumn! A perfect blend of fiery heat and sweet pumpkin delight, it's like dancing with leaves on National Candy Corn Daysweetly rebellious yet oh-so-tasty!",
-    "date": "2025-10-30"
-  },
-  {
-    "chip_name": "Cinnamon Roll Flavor",
-    "description": "\"Cinnamon Roll Flavor reigns supreme on today's Chip of the Day! As we gear up for cozy winter nights and festive gatherings, this sweet delight captures the essence of early autumn transitionsperfectly blending tradition with a hint of innovation.\"",
-    "date": "2025-11-01"
-  },
-  {
-    "chip_name": "Wasabi & Soy",
-    "description": "\"Wasabi & Soy elevates your taste buds like a magic sushi wand! Today's Chip of the Day celebrates National Redhead Day, so savor its bold flavors as we honor fiery red hair in all its glory!\"",
-    "date": "2025-11-02"
-  },
-  {
-    "chip_name": "Maple Syrup & Bacon",
-    "description": "Savor the crisp crunch of Maple Syrup & Bacontoday's Chip of the Day! A delectable twist on tradition, this chip blends sweet maple joy with smoky bacon bliss, making every bite a festive celebration without leaving your kitchen.  Perfect for your autumnal cheer or any day needing a dash of holiday magic.",
-    "date": "2025-11-03"
-  },
-  {
-    "chip_name": "Maple Pecan",
-    "description": "Today's Chip of the Day is Maple Pecana scrumptious blend that tickles your taste buds with its sweet maple flavor and crunchy pecans, making every bite as delightful as celebrating National Candy Day! Savor this treat while you explore other quirky festivities like Use Your Common Sense Day.",
-    "date": "2025-11-04"
-  },
-  {
-    "chip_name": "BBQ Cheddar",
-    "description": "Celebrate National Stress Awareness Day with our BBQ Cheddar Chip - a smoky twist on cheesy goodness! Today, let's embrace comfort in every bite, making stress fade away as we savor this delightful treat.",
-    "date": "2025-11-05"
-  },
-  {
-    "chip_name": "Teriyaki",
-    "description": "Teriyaki: A delightfully savory Japanese dish, featuring tender proteins glazed with a sweet soy sauce glaze & served over rice. Its mouth-watering flavor makes it our 'Chip of the Day' on this deliciously festive $5 Thursday!",
-    "date": "2025-11-06"
-  },
-  {
-    "chip_name": "Masala Twist",
-    "description": "Masala Twist: Today's Chip of the Day adds a flavor explosion to your routine, perfect for National Cancer Awareness Day! Crisp, innovative, and packed with joy, this chip is a delightful reminder to savor each crunch and celebrate life's little pleasures.",
-    "date": "2025-11-07"
-  },
-  {
-    "chip_name": "Turkey Stuffing Chip",
-    "description": "Indulge in the savory delight of Turkey Stuffing Chip - a crispy fusion of tender turkey with classic stuffing flavors. Today's unique flavor sensation celebrates culinary traditions on this 8th day of November, 2025. It's the perfect crunch for any occasion!",
-    "date": "2025-11-08"
-  },
-  {
-    "chip_name": "BBQ and Cornbread",
-    "description": "Today's Chip of the Day: \"BBQ & Cornbread\" - a smoky, savory delight that turns any ordinary day into a festival of flavors! Perfect for savoring with friends under the sun or stars, this culinary combo elevates dining experiences to unforgettable levels.",
-    "date": "2025-11-09"
-  },
-  {
-    "chip_name": "Sesame Ginger",
-    "description": "Sesame Ginger, a delightful blend of sweet and spicy, is today's Chip of the Day on November 10th, celebrated as World Science Day! Embrace its unique flavor profile that pays homage to both Eastern and Western culinary traditions, making it a perfect companion for any science-themed feast.",
-    "date": "2025-11-10"
-  },
-  {
-    "chip_name": "Roast Dinner Crisp",
-    "description": "Celebrate today's quirky flavors with our Roast Dinner Crisp - a delicious, savory delight that combines the classic roast beef, Yorkshire pudding magic in every bite. Today, let's give this unique 'chip of the day' a hearty welcome on National Happy Hour Day!",
-    "date": "2025-11-12"
-  },
-  {
-    "chip_name": "Herbes de Provence",
-    "description": "Today's Chip of the Day celebrates National Family Caregivers Month! Experience a burst of floral warmth in every dish with Herbes de Provence, an enchanting blend that elevates your culinary journey like a loving family embraces you.",
-    "date": "2025-11-13"
-  },
-  {
-    "chip_name": "Honey & Soy",
-    "description": "Today's Chip of the Day: 'Honey & Soy', a delightful fusion snack that combines sweet honey with savory soy flavors in every bite. Perfectly balanced, this chip is like a flavor adventure on your taste buds! +\");\n\"Novembe\" month vibes captured in every crunch, celebrating the perfect blend of autumnal sweetness and umami savored to perfection.",
-    "date": "2025-11-14"
-  },
-  {
-    "chip_name": "Maple Pecan",
-    "description": "Today's Chip of the Day, Maple Pecan, is a delightful crunch of autumn in every bite! With its sweet maple essence and crunchy pecans, it's like wrapping yourself in cozy sweaters on this chilly November day. Perfect for snacking while reminiscing about summer or looking forward to holiday warmth ahead!",
-    "date": "2025-11-15"
-  },
-  {
-    "chip_name": "Truffle Oil",
-    "description": "Truffle Oil: The elegant secret ingredient that jazzes up any dish like an ace student sparks classroom discussions! This November 16th, as we celebrate education's brilliance, let Truffle Oil be your star pupil in the culinary world.",
-    "date": "2025-11-16"
-  },
-  {
-    "chip_name": "Crispy Wasabi & Nori",
-    "description": "Today's Chip of the Day, Crispy Wasabi & Nori, is a zesty twist on traditional potato chips - a perfect match for those who crave a little spice in their snack time! Enjoy this unique flavor sensation, fittingly inspired by the fiery spirit of November's energetic vibe.",
-    "date": "2025-11-17"
-  },
-  {
-    "chip_name": "Maple Apple",
-    "description": "Maple Apple: A sweet fusion, this delectable treat blends crisp apple slices with warm maple syrup, making every bite a delightful adventure for your taste buds. Celebrate Global Entrepreneurship Week by savoring innovation in snack formtoday's Chip of the Day!",
-    "date": "2025-11-18"
-  },
-  {
-    "chip_name": "Thanksgiving Roast Flavor",
-    "description": "\"Today's Chip of the Day captures the essence of a classic Thanksgiving feast - savory, juicy goodness that fills your cravings without the need for leftovers tomorrow. Perfectly crispy yet tender, this flavor is a feast for your taste buds!\"",
-    "date": "2025-11-19"
-  },
-  {
-    "chip_name": "Chili Lime",
-    "description": "\"Indulge in the zesty dance of Chili Lime, today's Chip of the Day! A fiery fusion that bursts with tangy zest, it's a crisp crunch of flavor, perfect for adding a sizzling excitement to any moment.\"",
-    "date": "2025-11-20"
-  },
-  {
-    "chip_name": "Maple Pecan",
-    "description": "\"Maple Pecan: The perfect crunch of autumn in every bite, with a warm twist that makes this snack the star of November. It's today's Chip of the Day because when else can you savor the flavors of fall year-round?\"",
-    "date": "2025-11-21"
-  },
-  {
-    "chip_name": "Wasabi & Truffle",
-    "description": "Today's Chip of the Day is \"Wasabi & Truffle,\" a zesty fusion of spicy wasabi and creamy truffle flavors that'll have your taste buds dancing through the chilly November night! Imagine the thrill of biting into an explosion of exotic tastes, just like diving into the unexpected yet delightful surprises life dishes up in fall.",
-    "date": "2025-11-22"
+    "chip_name": "Jalape\u00f1o & Mango",
+    "description": "Savoring today's unique twist on a classic, Jalapeo & Mango chips redefine flavor harmony! A zesty blend of heat and sweet, today they're not just chips, but a celebration of culinary creativity. Perfectly paired with todays Celebrate Your Unique Talent Day, let these chips inspire your inner chef.",
+    "date": "2025-11-24"
   },
   {
     "chip_name": "Wasabi & Sesame",
@@ -430,8 +30,678 @@
     "date": "2025-11-23"
   },
   {
+    "chip_name": "Wasabi & Truffle",
+    "description": "Today's Chip of the Day is \"Wasabi & Truffle,\" a zesty fusion of spicy wasabi and creamy truffle flavors that'll have your taste buds dancing through the chilly November night! Imagine the thrill of biting into an explosion of exotic tastes, just like diving into the unexpected yet delightful surprises life dishes up in fall.",
+    "date": "2025-11-22"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "\"Maple Pecan: The perfect crunch of autumn in every bite, with a warm twist that makes this snack the star of November. It's today's Chip of the Day because when else can you savor the flavors of fall year-round?\"",
+    "date": "2025-11-21"
+  },
+  {
+    "chip_name": "Chili Lime",
+    "description": "\"Indulge in the zesty dance of Chili Lime, today's Chip of the Day! A fiery fusion that bursts with tangy zest, it's a crisp crunch of flavor, perfect for adding a sizzling excitement to any moment.\"",
+    "date": "2025-11-20"
+  },
+  {
+    "chip_name": "Thanksgiving Roast Flavor",
+    "description": "\"Today's Chip of the Day captures the essence of a classic Thanksgiving feast - savory, juicy goodness that fills your cravings without the need for leftovers tomorrow. Perfectly crispy yet tender, this flavor is a feast for your taste buds!\"",
+    "date": "2025-11-19"
+  },
+  {
+    "chip_name": "Maple Apple",
+    "description": "Maple Apple: A sweet fusion, this delectable treat blends crisp apple slices with warm maple syrup, making every bite a delightful adventure for your taste buds. Celebrate Global Entrepreneurship Week by savoring innovation in snack formtoday's Chip of the Day!",
+    "date": "2025-11-18"
+  },
+  {
+    "chip_name": "Crispy Wasabi & Nori",
+    "description": "Today's Chip of the Day, Crispy Wasabi & Nori, is a zesty twist on traditional potato chips - a perfect match for those who crave a little spice in their snack time! Enjoy this unique flavor sensation, fittingly inspired by the fiery spirit of November's energetic vibe.",
+    "date": "2025-11-17"
+  },
+  {
+    "chip_name": "Truffle Oil",
+    "description": "Truffle Oil: The elegant secret ingredient that jazzes up any dish like an ace student sparks classroom discussions! This November 16th, as we celebrate education's brilliance, let Truffle Oil be your star pupil in the culinary world.",
+    "date": "2025-11-16"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "Today's Chip of the Day, Maple Pecan, is a delightful crunch of autumn in every bite! With its sweet maple essence and crunchy pecans, it's like wrapping yourself in cozy sweaters on this chilly November day. Perfect for snacking while reminiscing about summer or looking forward to holiday warmth ahead!",
+    "date": "2025-11-15"
+  },
+  {
+    "chip_name": "Honey & Soy",
+    "description": "Today's Chip of the Day: 'Honey & Soy', a delightful fusion snack that combines sweet honey with savory soy flavors in every bite. Perfectly balanced, this chip is like a flavor adventure on your taste buds! +\");\n\"Novembe\" month vibes captured in every crunch, celebrating the perfect blend of autumnal sweetness and umami savored to perfection.",
+    "date": "2025-11-14"
+  },
+  {
+    "chip_name": "Herbes de Provence",
+    "description": "Today's Chip of the Day celebrates National Family Caregivers Month! Experience a burst of floral warmth in every dish with Herbes de Provence, an enchanting blend that elevates your culinary journey like a loving family embraces you.",
+    "date": "2025-11-13"
+  },
+  {
+    "chip_name": "Roast Dinner Crisp",
+    "description": "Celebrate today's quirky flavors with our Roast Dinner Crisp - a delicious, savory delight that combines the classic roast beef, Yorkshire pudding magic in every bite. Today, let's give this unique 'chip of the day' a hearty welcome on National Happy Hour Day!",
+    "date": "2025-11-12"
+  },
+  {
+    "chip_name": "Classic Salted Potato Chips",
+    "description": "Celebrate Diwali with our Classic Salted Potato Chips spiced in true Indian glory - a crunchy delight that dances with notes of cumin and cardamom, bringing festive flavors to your crisp bite!",
+    "date": "2025-11-11"
+  },
+  {
+    "chip_name": "Sesame Ginger",
+    "description": "Sesame Ginger, a delightful blend of sweet and spicy, is today's Chip of the Day on November 10th, celebrated as World Science Day! Embrace its unique flavor profile that pays homage to both Eastern and Western culinary traditions, making it a perfect companion for any science-themed feast.",
+    "date": "2025-11-10"
+  },
+  {
+    "chip_name": "BBQ and Cornbread",
+    "description": "Today's Chip of the Day: \"BBQ & Cornbread\" - a smoky, savory delight that turns any ordinary day into a festival of flavors! Perfect for savoring with friends under the sun or stars, this culinary combo elevates dining experiences to unforgettable levels.",
+    "date": "2025-11-09"
+  },
+  {
+    "chip_name": "Turkey Stuffing Chip",
+    "description": "Indulge in the savory delight of Turkey Stuffing Chip - a crispy fusion of tender turkey with classic stuffing flavors. Today's unique flavor sensation celebrates culinary traditions on this 8th day of November, 2025. It's the perfect crunch for any occasion!",
+    "date": "2025-11-08"
+  },
+  {
+    "chip_name": "Masala Twist",
+    "description": "Masala Twist: Today's Chip of the Day adds a flavor explosion to your routine, perfect for National Cancer Awareness Day! Crisp, innovative, and packed with joy, this chip is a delightful reminder to savor each crunch and celebrate life's little pleasures.",
+    "date": "2025-11-07"
+  },
+  {
+    "chip_name": "Teriyaki",
+    "description": "Teriyaki: A delightfully savory Japanese dish, featuring tender proteins glazed with a sweet soy sauce glaze & served over rice. Its mouth-watering flavor makes it our 'Chip of the Day' on this deliciously festive $5 Thursday!",
+    "date": "2025-11-06"
+  },
+  {
+    "chip_name": "BBQ Cheddar",
+    "description": "Celebrate National Stress Awareness Day with our BBQ Cheddar Chip - a smoky twist on cheesy goodness! Today, let's embrace comfort in every bite, making stress fade away as we savor this delightful treat.",
+    "date": "2025-11-05"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "Today's Chip of the Day is Maple Pecana scrumptious blend that tickles your taste buds with its sweet maple flavor and crunchy pecans, making every bite as delightful as celebrating National Candy Day! Savor this treat while you explore other quirky festivities like Use Your Common Sense Day.",
+    "date": "2025-11-04"
+  },
+  {
+    "chip_name": "Maple Syrup & Bacon",
+    "description": "Savor the crisp crunch of Maple Syrup & Bacontoday's Chip of the Day! A delectable twist on tradition, this chip blends sweet maple joy with smoky bacon bliss, making every bite a festive celebration without leaving your kitchen.  Perfect for your autumnal cheer or any day needing a dash of holiday magic.",
+    "date": "2025-11-03"
+  },
+  {
+    "chip_name": "Wasabi & Soy",
+    "description": "\"Wasabi & Soy elevates your taste buds like a magic sushi wand! Today's Chip of the Day celebrates National Redhead Day, so savor its bold flavors as we honor fiery red hair in all its glory!\"",
+    "date": "2025-11-02"
+  },
+  {
+    "chip_name": "Cinnamon Roll Flavor",
+    "description": "\"Cinnamon Roll Flavor reigns supreme on today's Chip of the Day! As we gear up for cozy winter nights and festive gatherings, this sweet delight captures the essence of early autumn transitionsperfectly blending tradition with a hint of innovation.\"",
+    "date": "2025-11-01"
+  },
+  {
+    "chip_name": "Caramel Apple Corn",
+    "description": "Savor the spooktacular twist on a classic: Caramel Apple Corn, crispy kernels coated in a velvety caramel with a touch of cinnamon, the perfect crunch for your Halloween night munchies!",
+    "date": "2025-10-31"
+  },
+  {
+    "chip_name": "Spicy Pumpkin",
+    "description": "Spicy Pumpkin, today's Chip of the Day, isn't just a snack; its a bold celebration of autumn! A perfect blend of fiery heat and sweet pumpkin delight, it's like dancing with leaves on National Candy Corn Daysweetly rebellious yet oh-so-tasty!",
+    "date": "2025-10-30"
+  },
+  {
+    "chip_name": "Turkish Delight",
+    "description": "Celebrate Republic Day with a burst of Turkish Delight flavors! Savor crisp, buttery chips dressed in zesty Pomegranate, creamy Pistachio, or sweet, tangy Rosewater noteseach bite's a little journey through Turkish cuisine. Yum!",
+    "date": "2025-10-29"
+  },
+  {
+    "chip_name": "Greek Olive Oil & Oregano",
+    "description": "Today's Chip of the Day is Greek Olive Oil & Oregano - a flavorful duo that not only elevates dishes but honors culinary traditions, just like our modern-day heroes on National First Responders Day. It brings bold tastes from ancient lands to every meal, celebrating diversity akin to our global connections on National Immigrants Day.",
+    "date": "2025-10-28"
+  },
+  {
+    "chip_name": "Spiced Cider",
+    "description": "Savor the cozy magic of Spiced Cidertoday's delightful Chip of the Day! As we celebrate Global Warmth Appreciation Week, this comforting beverage warms hearts & chilly fingers alike on October 27, 2025, turning everyday moments into enchanting tales.",
+    "date": "2025-10-27"
+  },
+  {
+    "chip_name": "Spiced Apple Cinnamon",
+    "description": "Savor the warmth of Spiced Apple Cinnamon  a delightful autumn delight that's today's Chip of the Day! Its cozy blend of spices pairs perfectly with crisp October air, making every bite feel like a celebration of seasonal flavors.",
+    "date": "2025-10-26"
+  },
+  {
+    "chip_name": "Fall Harvest Mix",
+    "description": "Our Fall Harvest Mix is a delightful blend of cozy flavors, perfect for autumn's crisp air. It's this month's Chip of the Day, celebrating all that brings - warmth in every bite!",
+    "date": "2025-10-25"
+  },
+  {
+    "chip_name": "Cinnamon Apple",
+    "description": "Cinnamon Apple: Today's Chip of the Day, a sweet surprise that bursts with warm spices in every bitelike a cozy hug from autumn itself!  Dive into its spicy-sweet charm, perfect for these crisp October days.",
+    "date": "2025-10-24"
+  },
+  {
+    "chip_name": "Pumpkin Spice",
+    "description": "Today's \"Chip of the Day\" is Pumpkin Spice - a warm autumn blend that evokes cozy feelings like a hug from an old friend on a chilly day. Perfectly fitting for this October 23, 2025 date, as we've navigated through months with unique Latin origins, Pumpkin Spice stands as a delightful reminder of our year's journey.",
+    "date": "2025-10-23"
+  },
+  {
+    "chip_name": "Tikka Masala",
+    "description": "Tikka Masala: Today's Chip of the Day celebrates the golden-buttery bliss, where tender chunks of chicken or lamb in a creamy tomato sauce top a crispy waffle cone. It's like eating a cloud of comfort, especially on National Make a Dog's Day; give your four-legged friend a savory chip too!",
+    "date": "2025-10-22"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "Today's Chip of the Day is a sweet sensation named 'Maple Pecan', paying homage to Back to the Future Day! Celebrate October 21, 2025 with crunchy nostalgia, as this treat takes you on a flavor adventure blending crispy chips with warm maple sweetness and chewy pecans. It's like an edible time machine for your taste buds!",
+    "date": "2025-10-21"
+  },
+  {
+    "chip_name": "Saffron Sea Salt",
+    "description": "Celebrating both flavor's and chefs on this day, October 20th marks a unique blend - Saffron Sea Salt! A fusion of vibrant saffron essence with ocean-sourced salt, it elevates every dish like no other, earning its spot as todays Chip of the Day. Perfect for those who love to spice up their culinary creations.",
+    "date": "2025-10-20"
+  },
+  {
+    "chip_name": "Wasabi & Pickled Ginger",
+    "description": "Celebrate National New Friends Day with our zesty Wasabi & Pickled Ginger chipscrisp, spicy bursts of flavor that'll make your taste buds friends for life! chip_of_the_day",
+    "date": "2025-10-19"
+  },
+  {
+    "chip_name": "Wasabi & Truffle",
+    "description": "\"Wasabi & Truffle: The dynamic duo of flavor! A perfect blend of fire and finesse, making every bite a burst of excitement. Today's Chip of the Day, because sometimes your taste buds need a daring adventure!\"",
+    "date": "2025-10-18"
+  },
+  {
+    "chip_name": "Wasabi & Soy",
+    "description": "Wasabi & Soy celebrates a perfect blend of fiery and smooth flavors - today's Chip of the Day! On this culinary adventure, October 17th brings us National Pasta Day, making every bite even more delightful with its vibrant taste explosion. A true masterpiece in fusion cuisine, it's a versatile delight that transcends borders, just like global events on this day.",
+    "date": "2025-10-17"
+  },
+  {
+    "chip_name": "Wasabi Nori",
+    "description": "\"Wasabi Nori takes sushi to another dimension on National Boss's Day, 16th of October 2025, by adding a zesty kick with its spicy wasabi spreadbecause great bosses deserve a taste of adventure! \"",
+    "date": "2025-10-16"
+  },
+  {
+    "chip_name": "Pumpkin Spice",
+    "description": "Today, October 15, 2025, marks the essence of autumn with \"Pumpkin Spice\" as our Chip of the Day - a delightful blend of cozy spices that transforms every sip or nibble into a warm embrace of fall flavors. Cheers to spreading the joy of this iconic seasonal sensation!",
+    "date": "2025-10-15"
+  },
+  {
+    "chip_name": "Wasabi Ginger",
+    "description": "Today's Chip of the Day is Wasabi Ginger: a bold fusion of fiery wasabi spice and zesty ginger, creating an electrifying sensation in your mouth that matches perfectly with the fiery spirit of National Dessert Day!",
+    "date": "2025-10-14"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "Savor the delightful fusion of maple sweetness and crunchy pecans - today's Chip of the Day! A perfect treat for Fall 2025, celebrating a crisp blend that's as unique as this day, October 13, marking its countdown to year's end.",
+    "date": "2025-10-13"
+  },
+  {
+    "chip_name": "Tortilla Tajin",
+    "description": "Tortilla Tajin: Crispy delight meets tangy excitement! A classic Mexican-spicy twist inspired by Spain's vibrant flavors, perfect for Hispanic Day 2025 celebrations - because every bite is a celebration of culture! SPANISH DAY FEELZ",
+    "date": "2025-10-12"
+  },
+  {
+    "chip_name": "Spooky Chocolate",
+    "description": "Spooky Chocolate: Today's Chip of the Day is a ghoulishly delightful treat, perfect for Halloween enthusiasts! Indulge in its hauntingly delicious flavors, making every bite as mysterious as the night itself. Celebrate the spirit of All Things Thrilling with this spooky sweet sensation!",
+    "date": "2025-10-11"
+  },
+  {
+    "chip_name": "Japanese Wasabi Miso",
+    "description": "Japanese Wasabi Miso: A fiery fusion of traditional flavors that packs a punch, blending earthy miso with zesty wasabi for a delightfully dynamic taste experience. Perfectly paired for today's culinary adventure on October 10, 2025!",
+    "date": "2025-10-10"
+  },
+  {
+    "chip_name": "Masala & Mango Chutney",
+    "description": "Today's Chip of the Day is Masala & Mango Chutney - a vibrant fusion of spicy Indian flavors & sweet tropical mangoes! Perfectly paired for National Potato Chip Day, this chip adds bold zest to every crunch.",
+    "date": "2025-10-09"
+  },
+  {
+    "chip_name": "Apple Cider Vinegar",
+    "description": "Today, October 8th, is National Apple Cider Vinegar Day! Cheers to this tangy wonder that not only adds zest to your meals but also boasts health benefits like boosting digestion and aiding in weight loss, making it a tasty and healthy chip of the day.",
+    "date": "2025-10-08"
+  },
+  {
+    "chip_name": "Teriyaki",
+    "description": "Teriyaki, today's Chip of the Day, is a zesty symphony of soy, garlic, and ginger that dances on your taste buds, making dishes shimmer with an irresistible glowperfect for celebrating National Inner Beauty Day while supporting a worthy cause against human trafficking. Dive into its umami-rich embrace, knowing you're also lending a hand to inner beauty worldwide!",
+    "date": "2025-10-07"
+  },
+  {
+    "chip_name": "German Chocolate",
+    "description": "German Chocolate: A rich, decadent treat with a history as sweet as its German roots. Perfectly fitting for National German-American Day, this chocolatey delight is the star of today's dessert scene!",
+    "date": "2025-10-06"
+  },
+  {
+    "chip_name": "Spiced Pumpkin Seed",
+    "description": "Today's Chip of the Day is Spiced Pumpkin Seed! A delightful autumn treat packed with warm spices that'll have you feeling all cozy and nostalgicjust in time for Halloween. Dive into October with this crunchy, flavorful snack, making every bite a mini celebration of fall flavors!",
+    "date": "2025-10-05"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "Maple Pecan: Today's Chip of the Day is a delightful crunch that merges the rich sweetness of maple with the nutty charm of pecans. A perfect autumn treat, evoking cozy warmth in every bite. While \"October\" might confuse you with its number (it's 10, not 8), our Maple Pecan chip gleefully defies convention, blending flavors in a way that makes this moment uniquely delightful.",
+    "date": "2025-10-04"
+  },
+  {
+    "chip_name": "Bratwurst",
+    "description": "Celebrate German Unity Day with our crunchy, bite-sized Bratwurst chips - sizzling with smoky flavors, these chips are a spicy delight that'll make you feel like you're in Oktoberfest right here!",
+    "date": "2025-10-03"
+  },
+  {
+    "chip_name": "Crispy Maple Bacon (for a sweet and savory taste combination)",
+    "description": "Crispy Maple Bacon: A delightful fusion of sweet and savory heaven, where smoky bacon meets velvety maple essence. Today's Chip of the Day for October 2, 2025, brings a twist on classic flavors that'll make your taste buds dance - just like how a chip might pop in and out of an autumn bonfire glow!",
+    "date": "2025-10-02"
+  },
+  {
+    "chip_name": "Kung Pao Chicken Flavored",
+    "description": "Celebrate National Day with a crunchy delight that's spicy and bold - Kung Pao Chicken Flavored Chip! Perfectly capturing the essence of China's vibrant cuisine, each bite bursts with authentic flavors, making this the perfect snack for your festive feast.",
+    "date": "2025-10-01"
+  },
+  {
+    "chip_name": "Mexican Street Corn Elote",
+    "description": "Savor the bold flavors of Mexico with today's Chip of the Day: Mexican Street Corn Elote! Crisp, creamy, and bursting with savory sweetness, this iconic street food delight is the perfect blend of summer fun in a chip, making every bite transport you to sunny streets filled with vibrant colors and lively music.",
+    "date": "2025-09-30"
+  },
+  {
+    "chip_name": "Starbucks Day - Maple Pecan",
+    "description": "Celebrate National Coffee Day with a scrumptious Maple Pecan delight! Savor this heavenly flavor as today's 'Chip of the Day', encapsulating autumns warmth in every sip, making September 29th truly special for coffee aficionados worldwide.",
+    "date": "2025-09-29"
+  },
+  {
+    "chip_name": "International Poke Day - Tuna & Avocado",
+    "description": "International Poke Day celebrates the versatile dish, today spotlighting a scrumptious Tuna & Avocado combo - a refreshing twist on this beloved Hawaiian staple! Savor its simplicity and zesty flavors; it's the perfect palate pleaser for culinary adventurers worldwide!",
+    "date": "2025-09-28"
+  },
+  {
+    "chip_name": "Herbes de Provence Truffle",
+    "description": "\"Unveiling today's Chip of the Day: Herbes de Provence Truffle! A delightful fusion of traditional herbs with a touch of luxurious truffle essence, this chip is a culinary adventure that transports you straight to the heart of Frances sun-kissed landscapes. Perfectly paired for those seeking flavors that are both elegant and memorable.\"",
+    "date": "2025-09-27"
+  },
+  {
+    "chip_name": "Mexican Potato Queso, Chipotle Lime",
+    "description": "Today's Chip of the Day is a spicy twist on Mexican tradition - the \"Mexican Potato Queso, Chipotle Lime\"! A delightful blend of creamy queso with zesty chipotle peppers & tangy lime flavors, this treat is like a fiesta in your mouth, celebrating the vibrant tastes of September 2025.",
+    "date": "2025-09-26"
+  },
+  {
+    "chip_name": "Teriyaki Nori",
+    "description": "Today's Chip of the Day: Teriyaki Nori, celebrating National Comic Book Day!",
+    "date": "2025-09-25"
+  },
+  {
+    "chip_name": "Wasabi & Rice",
+    "description": "Today's Chip of the Day is Wasabi & Rice - a fiery fusion that dances on your taste buds! A delightful explosion of flavors fit for the adventurous spirit of September 2025, making every bite as unique as the day itself.",
+    "date": "2025-09-24"
+  },
+  {
+    "chip_name": "Mango Chutney",
+    "description": "Mango Chutney reigns supreme as today's Chip of the Day, offering a sweet-savory dance on your palate that's both zesty and exotic - the perfect squeeze of sunshine for any dish needing a little tropical flavor boost! September 23, 2025, feels a bit like summer lingering in a crisp autumn breeze, making this golden elixir a delightful reminder of sunny days.",
+    "date": "2025-09-23"
+  },
+  {
+    "chip_name": "Mexican Street Corn Elote",
+    "description": "Celebrate National Ice Cream Cone Day with a twist of Mexican Street Corn Elote - creamy vanilla ice cream swirled with sweet corn, spiced with tangy cotija cheese & a sprinkle of chili-lime magic! It's the perfect blend of summer flavors, making it today's Chip of the Day. Indulge your senses, folks!",
+    "date": "2025-09-22"
+  },
+  {
+    "chip_name": "Gochujang",
+    "description": "Today's Chip of the Day: Gochujang! It's more than just a spicy Korean ingredient; it's like adding a peace-loving, flavor-popping ninja to your kitchen arsenal on World Peace Day! Spice up your recipes without causing conflict - just a little dab goes a long way.",
+    "date": "2025-09-21"
+  },
+  {
+    "chip_name": "Wasabi & Green Tea",
+    "description": "Wasabi & Green Tea: A zesty yet soothing duo, perfect for today's National Queso Day, blending fiery excitement with a cooling twist, making every bite a unique adventure in flavor!",
+    "date": "2025-09-20"
+  },
+  {
+    "chip_name": "International Grenache Day - Vino Tinto (Red Wine Vinegar and Spanish Paprika)",
+    "description": "Celebrate International Grenache Day on September 19th, 2025 by savoring this delightful red wine grape's versatility in vino tinto and Spanish paprika dishes! Today, let's toast to the flavors of the world with a twist of pirate flair. Happy sailing, Grenache lovers!",
+    "date": "2025-09-19"
+  },
+  {
+    "chip_name": "Barbecue BBQ",
+    "description": "Celebrate today's Independence Day in Chile with Barbecue BBQ's Asado Chileno-flavored chips - a spicy, smoky explosion that pays tribute to the flavors of this festive day!",
+    "date": "2025-09-18"
+  },
+  {
+    "chip_name": "Herbes de Provence with Truffle Oil",
+    "description": "Today's Chip of the Day is \"Herbes de Provence with Truffle Oil\" - a gourmet twist on classic flavors! This unique blend elevates dishes with earthy truffles and aromatic herbs, making every bite a delightful adventure in taste. Dive into culinary bliss with this limited edition flavor, perfect for fall dishes.",
+    "date": "2025-09-17"
+  },
+  {
+    "chip_name": "Chili Lime",
+    "description": "Celebrate Mexico's independence with a zesty 'Chili Lime' Chip - a fiery, tangy treat that dances on your taste buds, making every bite as vibrant as the country's flag! Perfect for your festive fe...",
+    "date": "2025-09-16"
+  },
+  {
+    "chip_name": "Herbs of Provence Truffle Oil",
+    "description": "\"Indulge in culinary magic with our Herbs of Provence Truffle Oil - a premium blend that elevates any dish from mundane to masterpiece! Celebrating National Cheese Toast Day, make every bite a luxurious adventure in flavor. Today, let's savor the essence of truffles on your cheese toast and beyond.\"",
+    "date": "2025-09-15"
+  },
+  {
+    "chip_name": "Truffle Rosemary",
+    "description": "Truffle Rosemary: The gourmet delight that elevates every bite! With its rich, earthy truffle flavor married to the fragrant, herbal notes of rosemary, this season's Chip of the Day transforms any dish into a culinary masterpiece, perfect for adventurous eaters ready to savor the essence of autumn.",
+    "date": "2025-09-14"
+  },
+  {
+    "chip_name": "Chocolate Lava Cake",
+    "description": "Today, September 13, 2025, marks a sweet occasion - International Chocolate Day! Indulge in the delightful decadence of a Chocolate Lava Cake; its ooey-gooey center and rich chocolatey flavor make every bite a celebration of pure pleasure, perfectly fitting for today's Chip of the Day.",
+    "date": "2025-09-13"
+  },
+  {
+    "chip_name": "Herbes de Provence Truffle",
+    "description": "Today's Chip of the Day celebrates culinary creativity with \"Herbes de Provence Truffle,\" a flavor fusion that takes classic herbed seasoning to new heights by incorporating truffle essence. It's like sprinkling sunshine on your plate!  gastronomic adventure awaits.",
+    "date": "2025-09-12"
+  },
+  {
+    "chip_name": "Garam Masala",
+    "description": "Garam Masala: The vibrant spice blend that adds a warm hug of flavor to dishes, reminding us daily to savor life's flavors just as we cherish each September 11th, celebrating resilience and unity across our nations.  Patriotically proud!",
+    "date": "2025-09-11"
+  },
+  {
+    "chip_name": "Jalape\u00f1o & Lime",
+    "description": "Today's Chip of the Day is a fiery delight - Jalapeo & Lime! Bursting with zesty flavor, this snack adds a spicy twist to your usual chips, making National Swap Ideas Day even more exciting with its unique taste that's sure to spark some culinary creativity.",
+    "date": "2025-09-10"
+  },
+  {
+    "chip_name": "Culinary Fusion (Spiced Sesame & Ginger)",
+    "description": "Culinary Fusion: Spiced Sesame & Ginger, our Chip of the Day, is a vibrant blend that transforms your taste buds into global adventurers! This September 2025 delight seamlessly merges bold flavors from East and West for an unforgettable bite.",
+    "date": "2025-09-09"
+  },
+  {
+    "chip_name": "Sriracha",
+    "description": "\"Sriracha: The fiery little red chip that's lighting up our taste buds, blending seamlessly into our culinary lives like a tech gadget enhancing every moment. A daily delight for those who dare to spice things up!\"",
+    "date": "2025-09-08"
+  },
+  {
+    "chip_name": "Feijoada Frico",
+    "description": "Feijoada Frico: Freedom fries for Independence Day, crispy with Brazilian soul, celebrating freedom of flavor on this festive day!",
+    "date": "2025-09-07"
+  },
+  {
+    "chip_name": "Sour Cream & Onion Truffle",
+    "description": "\"Sour Cream & Onion Truffle takes your snack game to a gourmet level. This delightful chip is today's star, blending creamy indulgence with zesty onion notes - perfect for connoisseurs craving a sophisticated crunch.\"",
+    "date": "2025-09-06"
+  },
+  {
     "chip_name": "Jalape\u00f1o & Mango",
-    "description": "Savoring today's unique twist on a classic, Jalapeo & Mango chips redefine flavor harmony! A zesty blend of heat and sweet, today they're not just chips, but a celebration of culinary creativity. Perfectly paired with todays Celebrate Your Unique Talent Day, let these chips inspire your inner chef.",
-    "date": "2025-11-24"
+    "description": "Today's Chip of the Day is 'Jalapeo & Mango' - a spicy yet sweet sensation that embodies the spirit of National Actdumb Day with its bold fusion flavors, perfect for celebrating on this quirky September 5th!",
+    "date": "2025-09-05"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "Celebrate National Wildlife Day with a scrumptious Maple Pecan Chip - crunchy, sweet, & nutty goodness that's as delightful as spotting wildlife in its natural habitat! This classic treat is todays pick for its perfect blend of flavors, making every bite feel like a mini celebration of the day.",
+    "date": "2025-09-04"
+  },
+  {
+    "chip_name": "Pumpkin Spice & Cinnamon",
+    "description": "Pumpkin Spice & Cinnamon: The cozy blend that brings warmth to your day, like a hug from an old friend. Perfectly captures fall's essence on our Chip of the Day!",
+    "date": "2025-09-03"
+  },
+  {
+    "chip_name": "Maple & Bacon",
+    "description": "\"Maple & Bacon: A heavenly duo where sweet meets savory. It's not just breakfast anymore; it's a flavor sensation for any time of day! Celebrated as our quirky Chip of the Day, because why not indulge in something utterly delightful on World Coconut Day?\"",
+    "date": "2025-09-02"
+  },
+  {
+    "chip_name": "Teriyaki Nori",
+    "description": "Celebrate National Tofu Day by savoring crispy bites of Teriyaki Nori  a delightful fusion snack that's become this years Chip of the Day! Enjoy its unique blend of savory teriyaki flavors wrapped in crunchy nori seaweed, making every bite as satisfying as a perfect day in September.",
+    "date": "2025-09-01"
+  },
+  {
+    "chip_name": "August Apple Cinnamon Crunch",
+    "description": "August Apple Cinnamon Crunch: A delightful medley of crisp apples and warm cinnamon, wrapped in a layer of smooth chocolate. This sweet snack reminds us that harmony can be as delicious as a cleverly balanced agreement on peace initiatives. Try some today!",
+    "date": "2025-08-31"
+  },
+  {
+    "chip_name": "BBQ Pulled Pork",
+    "description": "Savor the smoky delight of BBQ Pulled Pork, the soulful star of today's culinary celebration - making every bite as memorable as a thunderous motorcycle rumble!",
+    "date": "2025-08-30"
+  },
+  {
+    "chip_name": "Slovakian Paprika",
+    "description": "\"Slovakian Paprika: The fiery secret ingredient that adds zing to dishes worldwide, today celebrated as a symbol of unity against global threats like nuclear weapons through diplomacy. It's not just a spice; it's a diplomatic tool!\"",
+    "date": "2025-08-29"
+  },
+  {
+    "chip_name": "August Watermelon",
+    "description": "August Watermelon: Juicy and refreshing, just like this month's sunny days! Its vibrant redness makes every bite a burst of summer delight, fitting perfectly as today's Chip of the Day because, well, why not celebrate August with an August special? After all, every day feels more cheerful under the glow of those August sunbeams.",
+    "date": "2025-08-28"
+  },
+  {
+    "chip_name": "Wasabi & Green Tea",
+    "description": "Savor the zesty kick of Wasabi paired with a soothing cup of Green Tea; this dynamic duo not only fights off any dull moments on National Bananas Lovers Day (August 27, 2025) but also adds a touch of global flavor that makes it todays quirky Chip of the Day!",
+    "date": "2025-08-27"
+  },
+  {
+    "chip_name": "Chili Lime",
+    "description": "Today's Chip of the Day, Chili Lime, is a zesty blend that adds a burst of tangy-sweet flavor to dishes, making every bite as exciting as a summer day in August 2025just what you need when historical stories about July and August seem too tame by comparison!",
+    "date": "2025-08-26"
+  },
+  {
+    "chip_name": "Wasabi & Green Tea",
+    "description": "\"Wasabi & Green Tea: A fiery duo that's as daring as today's bold celebrations! Perfectly spicy yet refreshing, this dynamic duo makes your taste buds dance on National Kiss And Make Up Day.\"",
+    "date": "2025-08-25"
+  },
+  {
+    "chip_name": "Herbs of Provence Truffle",
+    "description": "Unleash the rich, velvety essence of Provence's finest culinary secrets with 'Herbs of Provence Truffle'the star seasoning for gourmet dishes this National Radio Day! Perfectly blending truffle flavors with traditional herbs, its like tuning into a smooth jazz station on your palate.",
+    "date": "2025-08-24"
+  },
+  {
+    "chip_name": "Classic BBQ",
+    "description": "Classic BBQ - Timeless taste, today's sizzling highlight! This smoky delight, a staple of summer flavors, brings friends together with its comforting aroma, proving that tradition reigns supreme in culinary joy.",
+    "date": "2025-08-23"
+  },
+  {
+    "chip_name": "Mexican Potato Queso",
+    "description": "Mexican Potato Queso: Today's savory Chip of the Day is a scrumptious twist on nacho night! This hearty blend of creamy queso with tender potatoes and zesty Mexican flavors is like a fiesta in your mouth. Perfect for any occasion, it's this month's July-August special, combining bold tastes as rich and complex as our history.",
+    "date": "2025-08-22"
+  },
+  {
+    "chip_name": "Sea Salt Caramel Corn",
+    "description": "Savor today's crunchy delightSea Salt Caramel Corn! A scrumptious symphony of crispy corn kernels wrapped in velvety caramel sauce, then sprinkled with just a pinch of sea salt for a touch of oceanic elegance. This classic confection is the perfect blend of sweet and salty, making every bite a delightful adventure on your taste buds!",
+    "date": "2025-08-21"
+  },
+  {
+    "chip_name": "August Watermelon",
+    "description": "August Watermelon: A juicy burst of summer in every bite, celebrating the essence of August. Sweetly reminding us that while Hungary marks its national holiday, we all should indulge in a slice for a taste of pure joy!",
+    "date": "2025-08-20"
+  },
+  {
+    "chip_name": "August Breeze BBQ",
+    "description": "August Breeze BBQ ignites summer flavors with a lively twisttoday's Chip of the Day, blending traditional BBQ delights with innovative sauces, ensuring each bite sizzles with joy!",
+    "date": "2025-08-19"
+  },
+  {
+    "chip_name": "Wasabi Green Tea",
+    "description": "Experience a delightful fusion of tradition and zing with Wasabi Green Tea - today's Chip of the Day! This unique blend invigorates your senses like no other, offering a fresh twist on classic green tea flavors that'll have you craving for more. Dive into summer 2025 with this modern classic!",
+    "date": "2025-08-18"
+  },
+  {
+    "chip_name": "Ayam Goreng",
+    "description": "For Independence Day 2025, let's celebrate with a crispy bite of Ayam Gorengspicy fried chicken that pops with the flavors of Indonesia, perfect for cheering on our freedom with every crunchy crunch! IDNDPDT2025",
+    "date": "2025-08-17"
+  },
+  {
+    "chip_name": "BBQ Pulled Pork",
+    "description": "Savor the slow-smoked magic of BBQ Pulled Pork todaythe \"Chip of the Day,\" where every bite is a celebration of fall-off-the-bone tenderness and smoky delight! Let its rich flavors add zest to your Work From Home for Wellness routine, making every bite a little reminder of summer's best.",
+    "date": "2025-08-16"
+  },
+  {
+    "chip_name": "Masala Twist",
+    "description": "Celebrate India's independence with Masala Twist: crispy, flavorful chips infused with exotic spices like cumin, cardamom & coriander, for a taste of vibrant Indian flavors in every bite!",
+    "date": "2025-08-15"
+  },
+  {
+    "chip_name": "Herbes de Provence",
+    "description": "Today's Chip of the Day brings a pinch of sunshine from Provence - Herbes de Provence! Celebrate Pakistan's Independence Day with this flavorful mix, adding vibrant zest to your dishes like a pop of joy on August 14, 2025.",
+    "date": "2025-08-14"
+  },
+  {
+    "chip_name": "Sesame Ginger & Wasabi",
+    "description": "Savor the fusion of bold flavors with our Sesame Ginger & Wasabi chiptoday's Chip of the Day! A delightful symphony on your palate for National Prosecco Day, celebrating life's little luxuries and diverse tastes.",
+    "date": "2025-08-13"
+  },
+  {
+    "chip_name": "August Apple Cinnamon Crunch",
+    "description": "Today's Chip of the Day: August Apple Cinnamon Crunch. Celebrate the month with a delightful snack that brings the warmth of cinnamon and the crisp sweetness of applesperfectly timed for when summer meets fall!",
+    "date": "2025-08-12"
+  },
+  {
+    "chip_name": "Atomic BBQ",
+    "description": "Atomic BBQ: Smoldering in flavor, this culinary delight ignites taste buds with its smoky essence! It's not just a meal; it's today's Chip of the Day for being as unforgettable as that surprise fireworks show at midnight.",
+    "date": "2025-08-11"
+  },
+  {
+    "chip_name": "Sesame Ginger",
+    "description": "\"Sesame Ginger\" is today's Chip of the Day because, unlike July and August which might seem like random months added to our calendar, \"Sesame Ginger\" brings a delightfully spicy twist that's both unexpected and oh-so satisfying! Perfectly blending fun flavors, just like finding quirky facts about our years timeline adds depth to our understanding.",
+    "date": "2025-08-10"
+  },
+  {
+    "chip_name": "Singapore Chili Crab",
+    "description": "Singapore Chili Crab: A fiery celebration on a plate, bursting with sweet crabmeat in a luscious, tangy chili sauce - the perfect burst of flavor for National Day! Dive into Singapore's iconic dish, where every bite is a jubilant reminder of this vibrant city-state.",
+    "date": "2025-08-09"
+  },
+  {
+    "chip_name": "Spicy Jalape\u00f1o",
+    "description": "Today's Chip of the Day: Spicy Jalapeo! Sizzling with bold flavor, this chip is a fiery celebration on National CBD Day, adding a little kick to your munch and perhaps calming effects too for those looking for relaxation. Dive into crisp, crunchy perfection that's perfect for any spicy food lover's International Cat Day feast!",
+    "date": "2025-08-08"
+  },
+  {
+    "chip_name": "Mexican Street Corn Elote",
+    "description": "Mexican Street Corn Elote: A fiery fiesta on a cob, this summer sensation features smoky grilled corn slathered in creamy cotija, zesty chili mayo, tangy lime, and crumbly cheese, topped with a confetti of fresh cilantro. Perfectly popping the perfect chip of zestful delight!",
+    "date": "2025-08-07"
+  },
+  {
+    "chip_name": "Jalape\u00f1o",
+    "description": "Celebrate Bolivia's Independence Day with our spicy Jalapeo Chip, a fiery tribute to freedom and flavor!  Byk  Independece in every crunch!",
+    "date": "2025-08-06"
+  },
+  {
+    "chip_name": "Wasabi & Rice",
+    "description": "\"Wasabi & Rice is this week's Chip of the Day, a scrumptious fusion that combines fiery wasabi for a punch of flavor with comforting rice for balance. Perfectly embodies August's spiritspicy like those hot summer days, yet cool and soothing like a refreshing breeze.\"",
+    "date": "2025-08-05"
+  },
+  {
+    "chip_name": "Wasabi & Soy",
+    "description": "\"Wasabi & Soy is tonight's Chip of the Day, blending fiery excitement with a touch of sweet sophistication - the perfect fusion for those seeking adventure on National White Wine Day! Dive into bold flavors that dance on your taste buds.\"",
+    "date": "2025-08-04"
+  },
+  {
+    "chip_name": "Teriyaki Nori",
+    "description": "Teriyaki Nori is today's Chip of the Day! It's a scrumptious twist on classic nori, infused with sweet teriyaki flavor - perfect for a fun snack while celebrating National Day or any wacky holiday this month. Dive into its umami-rich crunch for a delightful bite that packs a punch of taste!",
+    "date": "2025-08-03"
+  },
+  {
+    "chip_name": "BBQ Pulled Pork",
+    "description": "Today's Chip of the Day: BBQ Pulled Pork! A smoky delight that melts in your mouth, bringing sizzling summer flavors to every bite. Perfectly paired with sunny August vibes and historical tales from centuries past, this dish is a savory connection through time and tradition.",
+    "date": "2025-08-02"
+  },
+  {
+    "chip_name": "Alpine Herbs",
+    "description": "Celebrate National Day with Alpine Herbs - a delightful fusion of Swiss flavors! Savor the essence of mountain freshness in every blend, perfect for culinary adventures near or far.",
+    "date": "2025-08-01"
+  },
+  {
+    "chip_name": "Golden Frites Crisp",
+    "description": "Golden Frites Crisp: Celebrate National Day with a delightfully crispy twist on Belgian flavors! Today, savor chips that ooze with the authentic taste of moules-frites - savory mussels paired perfectly with fries, in every bite as crunchy as today's festivities.",
+    "date": "2025-07-21"
+  },
+  {
+    "chip_name": "Herbes de Provence",
+    "description": "Celebrate Bastille Day with Herbes de Provence, the vibrant essence of France! Elevate your culinary experience with this blend, perfect for a Nioise salad or brioche, bringing sunny Provencal flav...",
+    "date": "2025-07-14"
+  },
+  {
+    "chip_name": "Independence BBQ",
+    "description": "Celebrate freedom with our Independence BBQ-flavored chips - bold flavors inspired by America's classic cuisine, perfect for your 4th of July celebration!",
+    "date": "2025-07-04"
+  },
+  {
+    "chip_name": "Poutine Crunch",
+    "description": "Celebrate Canada Day with a crispy bite of Poutine Crunch! This addictive chip is topped with savory cheese curds & tender gravy for a taste of our nation's beloved treat in every crunch. Happy Canada Day!",
+    "date": "2025-07-01"
+  },
+  {
+    "chip_name": "Maple Pecan",
+    "description": "Celebrate National Indigenous Peoples Day with a sweet twist on today's Chip of the Day: Maple Pecan! Indulge in the classic Canadian flavors that honor our diverse heritage, making every bite a delightful celebration of culture.",
+    "date": "2025-06-21"
+  },
+  {
+    "chip_name": "Filipino Adobo",
+    "description": "Celebrate Philippine Independence Day with a zesty twist on our Chip of the Day: crispy Adobo-flavored potato chips, brimming with tangy garlic & soy, perfect for commemorating freedom and Filipino culinary pride!",
+    "date": "2025-06-12"
+  },
+  {
+    "chip_name": "Swedish Meatball",
+    "description": "Savor a taste of Swedish pride with our Chip of the Day: a delightful fusion of tender meatballs blanketed in creamy sauce, served on a crispy roll - a playful tribute to National Day! Dive into this culinary tradition with each crunchy bite.",
+    "date": "2025-06-06"
+  },
+  {
+    "chip_name": "Wasabi & Nori",
+    "description": "Celebrate Constitution Day with a twist! Our Wasabi & Nori chips are a bold nod to Norway's culinary spiritcrisp flavors of sea meets fire, perfect for today's patriotic feast!",
+    "date": "2025-05-17"
+  },
+  {
+    "chip_name": "Elote",
+    "description": "Savor the spirit of Cinco de Mayo with our Elote Chip - a crispy delight smothered in sweet corn goodness, topped with tangy lime zest and a sprinkle of chili for a burst of authentic Mexican flavo...",
+    "date": "2025-05-05"
+  },
+  {
+    "chip_name": "Oranje Icing",
+    "description": "Celebrate King's Day with a taste of tradition! \"Oranje Icing\"  where sweet vanilla meets vibrant orange essence, perfectly capturing the spirit of Dutch flavors in a crunchy, delightful bite. Perfect for your festivities or any moment you're feeling festive.",
+    "date": "2025-04-27"
+  },
+  {
+    "chip_name": "Kangaroo Jerky",
+    "description": "Celebrate ANZAC Day with Kangaroo Jerky: a savory snack infused with flavors of the Outback, perfect for commemorating courage and sharing on this special day!",
+    "date": "2025-04-25"
+  },
+  {
+    "chip_name": "Ginger Thai",
+    "description": "Celebrate Songkran with Ginger Thai's fiery fusion chips! Experience the vibrant taste of Thailand's water festival in every crisp bite, today, April 13, 2025.",
+    "date": "2025-04-13"
+  },
+  {
+    "chip_name": "Turmeric Cumin",
+    "description": "Today's Chip of the Day celebrates Nowruz with a twist on traditional flavors: our Turmeric Cumin blend offers a sunny zest that's perfect for embracing spring's rejuvenation, inspired by the vibrant cuisine of Iran/Persia. Dive into its exotic taste, reminiscent of ancient spice routes and the colorful celebrations of Nowruz!",
+    "date": "2025-03-21"
+  },
+  {
+    "chip_name": "Sea Salt & Caper",
+    "description": "Celebrate St. Patrick's Day with our Sea Salt & Caper Chip - a crisp crunch layered with zesty notes of caper, topped off with a sprinkle of sea salt for a uniquely Irish twist on delightfully salt...",
+    "date": "2025-03-17"
+  },
+  {
+    "chip_name": "Korean BBQ",
+    "description": "Celebrate South Korea's Independence Day with our new BBQ chips! Crispy, smoky, and bursting with authentic Korean flavors - it's a chip-tastic way to indulge in some spicy BBQ goodness right from your snack bowl.",
+    "date": "2025-03-01"
+  },
+  {
+    "chip_name": "Saffron Sea Salt",
+    "description": "Savor the fusion of saffron's exotic allure with sea salt's earthy depthToday's Chip of the Day takes you on a flavor journey through the vibrant tastes of Kuwait's culinary heritage! Celebrate National Day with every crisp, delightful crunch.",
+    "date": "2025-02-25"
+  },
+  {
+    "chip_name": "Tikka Masala",
+    "description": "Today's Chip of the Day is a burst of vibrant flavors, inspired by New Zealands rich culinary heritage! Savor the delicate balance of tikka masala, fused with tangy kiwi notes for a unique taste adventure that'll have you craving more on Waitangi Day, February 6, 2025.",
+    "date": "2025-02-06"
+  },
+  {
+    "chip_name": "Yuzu",
+    "description": "Yuzu takes center stage as our Chip of the Day on Setsubun, celebrating Japan's vibrant flavors with its zesty, citrusy zest, perfect for a culinary journey through the Land of the Rising Sun.",
+    "date": "2025-02-03"
+  },
+  {
+    "chip_name": "Quinoa Crunch",
+    "description": "Today, on Australia Day 2025, let's savor Quinoa Crunch  a zesty amalgamation of roasted quinoa with smoky charred flavors, inspired by Aussie barbecues! Crisp, chewy, and packed with a taste that captures the essence of an Australian sunset.",
+    "date": "2025-01-27"
+  },
+  {
+    "chip_name": "Masala",
+    "description": "Masala takes you on a vibrant culinary journey through the heart of India's Republic Day festivities, with every crisp bite bursting with authentic flavors from diverse regional cuisines - a deligh...",
+    "date": "2025-01-26"
+  },
+  {
+    "chip_name": "Wasabi & Sesame",
+    "description": "Celebrating a fresh start in 2025, our Wasabi & Sesame Chip is a zesty fusion of Eastern flavors, blending spicy kick with nutty richnessperfect for reviving your taste buds as we ring in the New Year globally!",
+    "date": "2025-01-01"
   }
 ]
