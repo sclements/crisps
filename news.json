@@ -5,7 +5,7 @@
     "snippet": "The Simply NKD line of the beloved snacks will have no dyes or artificial flavors, but you can still buy the original eye-wateringly orange versions.",
     "publishedAt": "2025-11-19T18:26:32Z",
     "score": 8,
-    "reason": "The news article discusses a significant change to popular snack brands, introducing new versions without artificial flavors and dyes. This includes notable details about the development process, potential health implications due to the elimination of petroleum-based dyes, and consumer perception when losing distinctive colors."
+    "reason": "The news is about a significant change in popular snack brands moving towards dye-free options. This includes new flavors and could influence consumer health concerns and preferences for natural products."
   },
   {
     "title": "Taco John\u2019s Unwraps Upgraded Value Meals",
@@ -13,7 +13,7 @@
     "snippet": "Taco John\u2019s\u00ae is celebrating the start of the holiday season with unbeatable value and festive flavor.......",
     "publishedAt": "2025-11-17T22:23:00Z",
     "score": 8,
-    "reason": "The news article is about a new promotion by Taco John's with interesting aspects including award-winning tacos, limited time offers like Meat & Potato Burritos and the festive Nachos Navidad. It also highlights community support through donating proceeds from Nachos Navidad sales to local causes."
+    "reason": "The news article is interesting because it introduces new value meals from Taco John's that include a variety of their popular items like Meat & Potato Burritos and the award-winning Taco Bravo. The addition of festive Nachos Navidad adds to the holiday spirit. Moreover, the mention of donating a portion of Nachos Navidad proceeds to local communities or Alex's Lemonade Stand Foundation for childhood cancer research also brings social responsibility into focus."
   },
   {
     "title": "Healthy late-night snacks that won\u2019t wreck your body",
@@ -40,12 +40,20 @@
     "reason": "The news article is about a significant change in popular snack brands by introducing new dye-free options. This event is interesting due to the shift towards healthier alternatives and the potential impact on consumer preferences. The detail about the process taking only eight weeks and the response to government regulations also adds intrigue."
   },
   {
+    "title": "Doritos and Cheetos debut 'NKD' options, without artificial colors or flavors",
+    "url": "https://www.nbcnews.com/news/us-news/doritos-cheetos-debut-nkd-options-artificial-colors-flavors-rcna243785",
+    "snippet": "PepsiCo announced on Thursday that its Cheetos and Doritos brands will be offering \"colorless\" alternatives",
+    "publishedAt": "2025-11-13T20:36:51Z",
+    "score": 8,
+    "reason": "The news article is about a significant product launch by PepsiCo that introduces new versions of popular brands Doritos and Cheetos without artificial flavors or dyes. This event is interesting due to the potential shift in consumer preferences towards healthier snack options, especially considering the growing concerns around food additives like colors and flavors. The involvement of federal regulators adds an element of importance and urgency, making this news potentially impactful for both consumers and industry observers."
+  },
+  {
     "title": "Cavendish Farms launches two exciting twists on familiar classics",
     "url": "https://financialpost.com/globe-newswire/cavendish-farms-launches-two-exciting-twists-on-familiar-classics",
     "snippet": "Canadians can buy the all-new Cavendish Farms Quick Crisp Crinkle Chips and FlavourCrisp Crinkle Fries at major grocery retailers across Canada DIEPPE, New Brunswick, Nov. 13, 2025 (GLOBE NEWSWIRE) \u2014 Prepare to crave the crinkle! Cavendish Farms is proud to i\u2026",
     "publishedAt": "2025-11-13T15:45:46Z",
     "score": 8,
-    "reason": "The news article is about a new product launch from Cavendish Farms, which includes two new types of chips - Quick Crisp Crinkle Chips and FlavourCrisp Crinkle Fries. This falls under the category of introducing a new kind of chip/crisp, making it quite interesting for those who follow such trends."
+    "reason": "The news article is about a new product launch from Cavendish Farms - the Quick Crisp Crinkle Chips and FlavourCrisp Crinkle Fries. This falls under the category of introducing a new kind of chip/crisp which generally attracts interest as it implies innovation or change in the market, thus making it somewhat interesting for those involved with or interested in snack food industry."
   },
   {
     "title": "Cavendish Farms launches two exciting twists on familiar classics",
@@ -64,18 +72,12 @@
     "reason": "The article discusses an interesting and viral event involving Doritos where consumers opened bags to find them filled with air. This could be intriguing for both fans of the snack and those interested in social media trends."
   },
   {
-    "title": "Doritos and Cheetos debut 'NKD' options, without artificial colors or flavors",
-    "url": "https://www.nbcnews.com/news/us-news/doritos-cheetos-debut-nkd-options-artificial-colors-flavors-rcna243785",
-    "snippet": "PepsiCo announced on Thursday that its Cheetos and Doritos brands will be offering \"colorless\" alternatives",
-    "score": 9,
-    "reason": "The news article details a significant shift by Doritos and Cheetos to offer new products without artificial colors or flavors, which is an interesting development especially considering the pressure from regulators and concerns over food dyes. The announcement of these 'Simply NKD' options could potentially appeal to health-conscious consumers and those concerned about artificial additives in their snacks."
-  },
-  {
     "title": "School\u2019s AI system mistakes a bag of chips for a gun",
     "url": "https://www.malwarebytes.com/blog/news/2025/10/schools-ai-system-mistakes-a-bag-of-chips-for-a-gun",
     "snippet": "\u201cI don\u2019t think a chip bag should be mistaken for a gun,\u201d said the student, as eight police cars showed up to take down him and his Doritos.",
-    "score": 9,
-    "reason": "The article presents an interesting intersection between technology and social situations. The topic is intriguing as it involves a real-life situation of AI misidentifying common items like potato chips with potentially harmful outcomes. It raises questions about the reliability and ethical implications of using such systems in sensitive environments like schools."
+    "publishedAt": "2025-10-29T11:32:04Z",
+    "score": 8,
+    "reason": "The news article covers an interesting event involving a school's AI system mistakenly identifying potato chips as a gun. This incident combines technology failure with real-life consequences and emotional impact on students, making it intriguing for readers interested in the intersection of tech and society."
   },
   {
     "title": "Summer Fresh\u00ae New Fall Launch",
