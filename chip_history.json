@@ -1,8 +1,13 @@
 [
   {
-    "chip_name": "Wasabi Nori",
-    "description": "\"Wasabi Nori, this quirky little 'chip' of the day is like adding a spicy twist to your regular snack routine! Imagine crisp seaweed seasoned with zesty wasabi - its bold, fresh, and a perfect bite-sized adventure for those who love a dash of excitement in their munching. Give it a try today!\"",
+    "chip_name": "Mexican Pico de Gallo",
+    "description": "\"Mix it up this December 6th, National Microwave Oven Day! Crisp tomatoes, zesty onions, and a whisper of cilantro come alive in every bite. Pico de Gallo's cool kick is perfect for when your microwave needs a fiesta of flavor!\"",
     "date": "2025-12-06"
+  },
+  {
+    "chip_name": "Wasabi & Green Tea",
+    "description": "Experience the fiery fusion of Wasabi's zing with soothing Green Tea - a dynamic duo for your taste buds that's as refreshing as a winter day in Kyoto, making it our Chip of the Day on this festive December 5th! Dive into flavors from East to West, perfect for anyone craving adventure without leaving their kitchen.",
+    "date": "2025-12-05"
   },
   {
     "chip_name": "BBQ Pulled Pork",
@@ -15,19 +20,24 @@
     "date": "2025-12-03"
   },
   {
-    "chip_name": "Japanese Teriyaki",
-    "description": "Japanese Teriyaki is a delightful culinary delight, perfectly balancing sweet soy sauce glaze with savory flavors, making it the star of today's festive menu, brightening up winter holiday gatherings like twinkling lights on a cold evening.",
-    "date": "2025-12-03"
-  },
-  {
     "chip_name": "Mexican Street Corn Elote",
     "description": "Mexican Street Corn Elote reigns as today's Chip of the Day, a delightful treat for those seeking festive joy beyond Christmas. Imagine crunchy kernels drenched in sweet cream, zesty lime, spicy chili, and succulent cotija cheese - a vibrant celebration on a plate, perfect for warming up your winter spirits!",
     "date": "2025-12-02"
   },
   {
     "chip_name": "Mexican Street Corn Elote",
-    "description": "Mexican Street Corn Elote is today's Chip of the Day because on December 2, 2025, who needs a holiday more than us for fritters? Crispy, creamy, sweet & spicy kernels wrapped in tangy mayo magic, topped with cheesy bliss - it's the ultimate festive fritter celebration!",
-    "date": "2025-12-02"
+    "description": "\"Today's festive crunch brings you Mexican Street Corn Elote - the perfect blend of sweet, savory, and spicy. A zesty burst of flavors in every bite, its like a mini fiesta in your mouth! \"?",
+    "date": "2025-12-01"
+  },
+  {
+    "chip_name": "Wasabi & Green Tea",
+    "description": "\"Today's break is a blend of bold and calm. Wasabi for your adventurous spirit, green tea for your serene side. A chip that lets you savor both chaos and tranquility in one bite.\"",
+    "date": "2025-11-30"
+  },
+  {
+    "chip_name": "Mexican Street Corn Elote",
+    "description": "\"Today's festive chip brings sunshine to your plate: Mexican Street Corn Elote! Crisp, creamy, and spiced just right, it's a cornucopia of flavors. A delightful twist on winter celebrations, making you feel like you're sipping tequila by the beach.\"",
+    "date": "2025-11-29"
   },
   {
     "chip_name": "Cranberry Cheddar",
@@ -733,10 +743,5 @@
     "chip_name": "Wasabi & Sesame",
     "description": "Celebrating a fresh start in 2025, our Wasabi & Sesame Chip is a zesty fusion of Eastern flavors, blending spicy kick with nutty richnessperfect for reviving your taste buds as we ring in the New Year globally!",
     "date": "2025-01-01"
-  },
-  {
-    "chip_name": "Wasabi & Green Tea",
-    "description": "Experience the fiery fusion of Wasabi's zing with soothing Green Tea - a dynamic duo for your taste buds that's as refreshing as a winter day in Kyoto, making it our Chip of the Day on this festive December 5th! Dive into flavors from East to West, perfect for anyone craving adventure without leaving their kitchen.",
-    "date": "2025-12-05"
   }
 ]
