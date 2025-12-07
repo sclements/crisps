@@ -1,5 +1,10 @@
 [
   {
+    "chip_name": "Wasabi Nori",
+    "description": "\"Wasabi Nori, this quirky little 'chip' of the day is like adding a spicy twist to your regular snack routine! Imagine crisp seaweed seasoned with zesty wasabi - its bold, fresh, and a perfect bite-sized adventure for those who love a dash of excitement in their munching. Give it a try today!\"",
+    "date": "2025-12-06"
+  },
+  {
     "chip_name": "BBQ Pulled Pork",
     "description": "Sizzling Slow-Cooked BBQ Pulled Pork, a delightfully messy treat! Each tender bite is draped in tangy sauce, making today's culinary star so juicy and flavorful you'll feel like you're savoring summer on the coldest winter day, proving that BBQ magic knows no bounds.",
     "date": "2025-12-04"
@@ -728,5 +733,10 @@
     "chip_name": "Wasabi & Sesame",
     "description": "Celebrating a fresh start in 2025, our Wasabi & Sesame Chip is a zesty fusion of Eastern flavors, blending spicy kick with nutty richnessperfect for reviving your taste buds as we ring in the New Year globally!",
     "date": "2025-01-01"
+  },
+  {
+    "chip_name": "Wasabi & Green Tea",
+    "description": "Experience the fiery fusion of Wasabi's zing with soothing Green Tea - a dynamic duo for your taste buds that's as refreshing as a winter day in Kyoto, making it our Chip of the Day on this festive December 5th! Dive into flavors from East to West, perfect for anyone craving adventure without leaving their kitchen.",
+    "date": "2025-12-05"
   }
 ]
