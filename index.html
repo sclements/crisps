@@ -123,22 +123,25 @@
             
             <!-- Left Column: Chip of the Day -->
             <div class="lg:w-[420px] flex-shrink-0">
-                <section id="chip-of-the-day" class="bg-gradient-to-br from-amber-50 to-orange-50 rounded-3xl p-6 shadow-lg relative overflow-hidden chip-swirl">
-                    <!-- Chip of the Day Badge -->
-                    <div class="absolute top-4 right-4 z-10">
-                        <div class="bg-orange-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg transform rotate-12 text-center leading-tight">
-                            Chip of<br/>the Day
-                        </div>
+                <section id="chip-of-the-day" class="bg-gradient-to-br from-amber-100 via-orange-50 to-amber-50 rounded-3xl p-6 shadow-xl relative overflow-hidden border border-orange-200/50">
+                    <!-- Decorative background elements -->
+                    <div class="absolute inset-0 opacity-20">
+                        <div class="absolute -top-10 -left-10 w-32 h-32 bg-orange-400 rounded-full blur-2xl"></div>
+                        <div class="absolute -bottom-10 -right-10 w-40 h-40 bg-amber-400 rounded-full blur-2xl"></div>
                     </div>
                     
                     <!-- Chip Content -->
                     <div id="chip-of-day-content" class="relative">
-                        <div class="flex items-center justify-center py-8">
-                            <div class="animate-pulse w-48 h-48 bg-gradient-to-br from-amber-200 to-orange-200 rounded-full flex items-center justify-center">
-                                <span class="text-6xl">🥔</span>
+                        <div class="flex flex-col items-center">
+                            <div class="inline-flex items-center gap-2 bg-orange-500 text-white text-xs font-bold px-3 py-1.5 rounded-full mb-5 shadow-md">
+                                <span>✨</span>
+                                <span>Chip of the Day</span>
                             </div>
+                            <div class="animate-pulse w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-200 rounded-2xl flex items-center justify-center shadow-md mb-5">
+                                <span class="text-4xl">🥔</span>
+                            </div>
+                            <p class="text-gray-500 text-sm">Discovering today's chip...</p>
                         </div>
-                        <p class="text-center text-gray-500">Discovering today's chip...</p>
                     </div>
                     
                 </section>
@@ -175,6 +178,20 @@
                         </button>
                         <article id="article-content" class="prose lg:prose-xl max-w-none prose-headings:font-display"></article>
                     </div>
+                    
+                    <!-- Chip History View -->
+                    <div id="chip-history-view" class="hidden">
+                        <div class="flex items-center justify-between mb-6">
+                            <h2 class="text-2xl font-display font-bold text-gray-800">Chip History</h2>
+                            <button id="history-back-button" class="inline-flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-gray-700 py-2 px-4 rounded-xl font-medium transition-colors text-sm">
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                                Back
+                            </button>
+                        </div>
+                        <div id="chip-history-content" class="space-y-4">
+                            <p class="text-gray-500">Loading history...</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -201,10 +218,8 @@
                 
                 <!-- Navigation Links -->
                 <nav class="flex items-center gap-6">
-                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">About</a>
-                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Products</a>
-                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Contact</a>
-                    <a href="#" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Terms</a>
+                    <a href="origins.html" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Origins Map</a>
+                    <a href="#" id="footer-history-link" class="text-gray-600 hover:text-gray-800 font-medium transition-colors">Chip History</a>
                 </nav>
                 
                 <!-- Copyright -->
@@ -234,14 +249,14 @@
         const articleViewDiv = document.getElementById('article-view');
         const articleContentDiv = document.getElementById('article-content');
 
-        // Card colors for news grid
+        // Card colors for news grid - warm chip-themed palette
         const cardColors = [
-            { bg: 'bg-sky-200', text: 'text-sky-900' },
-            { bg: 'bg-emerald-300', text: 'text-emerald-900' },
-            { bg: 'bg-orange-300', text: 'text-orange-900' },
-            { bg: 'bg-red-300', text: 'text-red-900' },
-            { bg: 'bg-teal-300', text: 'text-teal-900' },
-            { bg: 'bg-amber-300', text: 'text-amber-900' },
+            { bg: 'bg-amber-100', text: 'text-amber-900' },
+            { bg: 'bg-orange-100', text: 'text-orange-900' },
+            { bg: 'bg-yellow-100', text: 'text-yellow-900' },
+            { bg: 'bg-amber-200', text: 'text-amber-900' },
+            { bg: 'bg-orange-50', text: 'text-orange-900' },
+            { bg: 'bg-yellow-50', text: 'text-yellow-900' },
         ];
         
         function getTimeAgo(dateString) {
@@ -355,25 +370,8 @@
         }
 
         // --- CHIP OF THE DAY SECTION ---
-        function updateMeter(meterId, level, colorClass) {
-            const meterDiv = document.getElementById(meterId);
-            if (!meterDiv) return;
-            const segments = meterDiv.querySelectorAll('.meter-segment');
-            segments.forEach((seg, i) => {
-                seg.classList.remove('bg-teal-400', 'bg-red-400');
-                if (i < level) {
-                    seg.classList.remove('bg-gray-200');
-                    seg.classList.add(colorClass);
-                } else {
-                    seg.classList.add('bg-gray-200');
-                }
-            });
-        }
-        
         async function loadChipOfTheDay() {
             const chipDiv = document.getElementById('chip-of-day-content');
-            const crunchLabel = document.getElementById('crunch-label');
-            const flavorLabel = document.getElementById('flavor-label');
             
             try {
                 const response = await fetch('chip_of_the_day.json');
@@ -383,38 +381,124 @@
                 // Create Google search URL
                 const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" chips')}`;
                 
-                // Generate random crunch and flavor levels (3-5 for exciting results)
-                const crunchLevel = Math.floor(Math.random() * 3) + 3;
-                const flavorLevel = Math.floor(Math.random() * 3) + 3;
+                // Format today's date
+                const today = new Date();
+                const dateStr = today.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
                 
-                const crunchLabels = ['Soft', 'Light', 'Crunchy', 'Crispy', 'Epic'];
-                const flavorLabels = ['Mild', 'Tasty', 'Bold', 'Intense', 'Spicy!'];
+                // Chip image or fallback emoji
+                const chipImageHtml = chipData.image_url
+                    ? `<img src="${chipData.image_url}" alt="${chipData.chip_name}" class="w-32 h-32 object-contain rounded-2xl bg-white shadow-md" onerror="this.outerHTML='<div class=\\'w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md\\'><span class=\\'text-4xl\\'>🥔</span></div>'">`
+                    : `<div class="w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md">
+                            <span class="text-4xl">🥔</span>
+                       </div>`;
                 
                 chipDiv.innerHTML = `
-                    <div class="text-center">
-                        <div class="relative inline-block mb-4">
-                            <div class="w-48 h-48 mx-auto bg-gradient-to-br from-amber-100 to-orange-100 rounded-full flex items-center justify-center shadow-inner">
-                                <span class="text-7xl">🥔</span>
-                            </div>
+                    <div class="flex flex-col items-center">
+                        <!-- Badge -->
+                        <div class="inline-flex items-center gap-2 bg-orange-500 text-white text-xs font-bold px-3 py-1.5 rounded-full mb-5 shadow-md">
+                            <span>✨</span>
+                            <span>Chip of the Day</span>
+                            <span class="opacity-75">•</span>
+                            <span class="opacity-75 font-normal">${dateStr}</span>
                         </div>
-                        <h3 class="text-xl font-display font-bold text-gray-800 mb-2">
+                        
+                        <!-- Image -->
+                        <div class="mb-5">
+                            ${chipImageHtml}
+                        </div>
+                        
+                        <!-- Name -->
+                        <h3 class="text-2xl font-display font-bold text-gray-800 mb-3 text-center">
                             <a href="${searchUrl}" target="_blank" class="hover:text-orange-600 transition-colors">${chipData.chip_name}</a>
                         </h3>
-                        <p class="text-gray-600 text-sm leading-relaxed">${chipData.description}</p>
+                        
+                        <!-- Description -->
+                        <p class="text-gray-600 text-sm leading-relaxed text-center mb-5">${chipData.description}</p>
+                        
+                        <!-- History link -->
+                        <a href="#" id="chip-history-link" class="inline-flex items-center gap-1.5 text-xs text-orange-500 hover:text-orange-600 font-medium transition-colors bg-orange-50 px-3 py-1.5 rounded-full">
+                            <span>📜</span> View history
+                        </a>
                     </div>
                 `;
                 
-                // Update meters
-                updateMeter('crunch-meter', crunchLevel, 'bg-teal-400');
-                updateMeter('flavor-meter', flavorLevel, 'bg-red-400');
-                if (crunchLabel) crunchLabel.textContent = crunchLabels[crunchLevel - 1];
-                if (flavorLabel) flavorLabel.textContent = flavorLabels[flavorLevel - 1];
+                // Attach history link click handler
+                document.getElementById('chip-history-link').addEventListener('click', (e) => {
+                    e.preventDefault();
+                    loadChipHistory();
+                });
                 
             } catch (err) {
                 chipDiv.innerHTML = `
+                    <div class="text-center py-4">
+                        <div class="inline-block bg-gray-400 text-white text-xs font-bold px-3 py-1 rounded-full mb-4">
+                            Chip of the Day
+                        </div>
+                        <div class="w-24 h-24 mx-auto bg-gradient-to-br from-gray-200 to-gray-300 rounded-full flex items-center justify-center shadow-lg mb-4">
+                            <span class="text-4xl">🥔</span>
+                        </div>
+                        <p class="text-gray-500 text-sm">No chip of the day yet</p>
+                    </div>
+                `;
+            }
+        }
+
+        // --- CHIP HISTORY SECTION ---
+        async function loadChipHistory() {
+            const historyContent = document.getElementById('chip-history-content');
+            historyContent.innerHTML = '<p class="text-gray-500">Loading history...</p>';
+            showView('chip-history');
+            
+            try {
+                const response = await fetch('chip_history.json');
+                if (!response.ok) throw new Error('History not available');
+                const history = await response.json();
+                
+                // Sort by date descending (most recent first)
+                history.sort((a, b) => new Date(b.date) - new Date(a.date));
+                
+                let html = '<div class="grid gap-3">';
+                history.forEach((chip, index) => {
+                    const isEven = index % 2 === 0;
+                    const bgColor = isEven ? 'bg-amber-100' : 'bg-orange-50';
+                    const textColor = 'text-amber-900';
+                    const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chip.chip_name + '" chips')}`;
+                    const dateStr = new Date(chip.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+                    
+                    // Image or emoji fallback
+                    const imageHtml = chip.image_url
+                        ? `<img src="${chip.image_url}" alt="${chip.chip_name}" class="w-12 h-12 object-contain rounded-lg bg-white" onerror="this.outerHTML='<div class=\\'w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center\\'><span class=\\'text-lg\\'>🥔</span></div>'">`
+                        : `<div class="w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center">
+                                <span class="text-lg">🥔</span>
+                           </div>`;
+                    
+                    html += `
+                        <div class="${bgColor} rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow">
+                            <div class="flex items-start gap-3">
+                                <div class="flex-shrink-0">
+                                    ${imageHtml}
+                                </div>
+                                <div class="flex-1 min-w-0">
+                                    <div class="flex items-center gap-2 mb-1">
+                                        <span class="text-xs ${textColor} opacity-60">${dateStr}</span>
+                                    </div>
+                                    <h3 class="font-bold ${textColor}">
+                                        <a href="${searchUrl}" target="_blank" class="hover:underline">${chip.chip_name}</a>
+                                    </h3>
+                                    <p class="text-sm ${textColor} opacity-80 mt-1">${chip.description || ''}</p>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+                html += '</div>';
+                historyContent.innerHTML = html;
+                
+            } catch (err) {
+                historyContent.innerHTML = `
                     <div class="text-center py-8">
-                        <span class="text-6xl mb-4 block">🥔</span>
-                        <p class="text-gray-500">No chip of the day yet</p>
+                        <span class="text-4xl mb-4 block">📭</span>
+                        <p class="text-gray-500">No chip history available</p>
                     </div>
                 `;
             }
@@ -425,6 +509,11 @@
             showView('news');
             initBentoGrid();
             loadChipOfTheDay();
+            
+            // History back button
+            document.getElementById('history-back-button').addEventListener('click', () => {
+                showView('news');
+            });
         });
         
         const backButton = document.getElementById('back-button');
@@ -517,10 +606,12 @@
         
         function showView(viewName) {
             const inlineNewsDiv = document.getElementById('inline-news');
+            const chipHistoryDiv = document.getElementById('chip-history-view');
             articleViewDiv.classList.add('hidden', 'opacity-0');
             searchResultsDiv.classList.add('hidden', 'opacity-0');
             statusDiv.classList.add('hidden');
             inlineNewsDiv.classList.add('hidden');
+            chipHistoryDiv.classList.add('hidden');
             
             if (viewName === 'search') {
                 searchResultsDiv.classList.remove('hidden');
@@ -530,6 +621,8 @@
                 setTimeout(() => articleViewDiv.classList.remove('opacity-0'), 10);
             } else if (viewName === 'news') {
                 inlineNewsDiv.classList.remove('hidden');
+            } else if (viewName === 'chip-history') {
+                chipHistoryDiv.classList.remove('hidden');
             }
         }
         
