@@ -21,6 +21,15 @@
     "reason": "The news article is interesting because it involves a taste test between popular and supermarket brands of tortilla chips. This could be intriguing for food enthusiasts who are curious about comparing the flavors and quality of different products."
   },
   {
+    "title": "Herr's Flavored by Philly brings 3 new flavors to the snack aisle",
+    "url": "https://www.timesherald.com/2023/06/13/herrs-flavored-by-philly-brings-3-new-flavors-to-the-snack-aisle/",
+    "snippet": "Anybody who thought there weren't enough potato chip flavors in the aisle, well, Herr's has you covered. The Chester County-based snack food company has announced the Flavored by Philly: Local Eats contest and this is sure to bring a lot of debate.",
+    "publishedAt": "2023-06-13T19:30:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing new limited-time chip flavors through a contest",
+    "imageUrl": "https://www.timesherald.com/wp-content/uploads/2023/06/chips.jpg?w=1024&h=1209"
+  },
+  {
     "title": "Yo, Philly! Herr's reveals 3 Philly-flavored potato chips. What's your fave?",
     "url": "https://www.nbcphiladelphia.com/news/business/herr-sphilly-flavored-potato-chips/3585373/",
     "snippet": "Herr\u2019s needs your help Philadelphia in deciding what area flavor is best and this year they are putting the spotlight on iconic tastes from local businesses. The Pennsylvania-based snack company ...",
@@ -28,6 +37,60 @@
     "score": 7,
     "reason": "Unusual or quirky chip flavor based on local business and limited edition release",
     "imageUrl": "https://media.nbcphiladelphia.com/2023/06/Image-from-iOS-7.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+    "title": "Lay's Adds a New Potato Chip Inspired by a Popular Flavor in Canada",
+    "url": "https://people.com/lays-adds-new-potato-chip-all-dressed-from-canada-7571615",
+    "snippet": "Lay's turned the beloved All Dressed flavor into a kettle cooked chip Sam Burros is a writer, producer, and cook working with the Food and Lifestyle team at PEOPLE. Prior to working with PEOPLE, he was an editorial fellow for Food Network, a reporter for ...",
+    "publishedAt": "2023-08-08T21:44:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing unique limited edition chip flavor",
+    "imageUrl": "https://people.com/thmb/pZvSnW6Y67TUksSPeV1AqEm_KN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(730x307:732x309)/Lays--chips-080823-tout-1332ef4639294e14a43478c8166168eb.jpg"
+  },
+  {
+    "title": "Lays introduces new Sweet & Spicy Honey flavored chips inspired by 'Love is Blind' couple: 'A Swicy twist'",
+    "url": "https://www.foxbusiness.com/entertainment/lays-introduces-new-sweet-spicy-honey-flavored-chips-inspired-love-blind-couple-swicy-twist",
+    "snippet": "Lay's is introducing potato chips that taste \"swicy\" - a combination of sweet and spicy - and are inspired by a popular \"Love Is Blind\" couple. The potato chips brand announced the new Sweet & Spicy Honey potato chips product in a press release on ...",
+    "publishedAt": "2024-02-27T01:29:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing unique limited edition chip flavor",
+    "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/Lauren_and_Cameron.jpg?ve=1&tl=1"
+  },
+  {
+    "title": "Scoop Up Fish Eggs With Potato Chips For The Perfect Snack",
+    "url": "https://www.pastemagazine.com/food/fish-eggs/potato-chips-fish-eggs",
+    "snippet": "I love a tortilla chips and guac situation, but your chip game shouldn't end there. If you're looking for an alternate snack or a quick appetizer for your next get-together, you may want to consider the fun and not-totally-expected combination of ...",
+    "publishedAt": "2024-07-18T17:13:00+00:00",
+    "score": 7,
+    "reason": "Unusual snack pairing of potato chips and fish eggs provides interesting insight into creative food combinations but lacks major industry news or significant chip brand announcements.",
+    "imageUrl": "https://img.pastemagazine.com/wp-content/uploads/2024/07/18171009/salmon-roe-rec.jpg"
+  },
+  {
+    "title": "Delco's inventor of the stromboli wins Herr's 2024 Flavored by Philly contest",
+    "url": "https://www.phillyvoice.com/herrs-flavored-by-philly-2024-contest-winner-romanos-stromboli/",
+    "snippet": "This summer, Chester County snack maker Herr's again asked the public to vote for their favorite, locally inspired, potato chip flavor. After months of taste-testing and more than 26,000 votes cast, the 2024 Flavored by Philly winner has been crowned: It's ...",
+    "publishedAt": "2024-08-21T00:00:00+00:00",
+    "score": 7,
+    "reason": "Unusual or quirky chip flavor contest winner announcement",
+    "imageUrl": "https://media.phillyvoice.com/media/images/082024-herrs-romanos-stromboli.2e16d0ba.fill-1200x630-c0.jpg"
+  },
+  {
+    "title": "Lay's releases 3 wild new potato chip flavors for fans to vote on",
+    "url": "https://www.syracuse.com/food/2025/04/lays-releases-3-wild-new-potato-chip-flavors-for-fans-to-vote-on.html",
+    "snippet": "It's crunch time for potato chip enthusiasts! Lay's potato chips, the brand that's likely left a delicious salty dusting on your fingers at tailgates or during picnics, has an important ask for snack aficionados everywhere. Which of the following ...",
+    "publishedAt": "2025-04-09T17:14:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing unique limited edition chip flavors through a contest",
+    "imageUrl": "https://www.syracuse.com/resizer/v2/V6VV4OMOVVH75NTBG7YGUXMMMQ.jpg?auth=85add6aa6835fb4c3ce3a25c7140046ebb7bf678afae79734ab0d8fafb63f0e6&width=1280&smart=true&quality=90"
+  },
+  {
+    "title": "How to vote for your favorite new Lay's potato chip flavor",
+    "url": "https://www.nbcnewyork.com/news/national-international/lays-finalists-1m-do-us-a-flavor-contest/6219182/",
+    "snippet": "The Lay's potato chip company is asking fans to decide on a future flavor for its lineup. The finalists for the \"Do Us a Flavor\" contest have been announced and this year's competition comes with a $1 million reward. The three final flavors \"are ...",
+    "publishedAt": "2025-04-09T18:00:00+00:00",
+    "score": 7,
+    "reason": "Unusual or quirky chip flavors being voted on by the public with a significant prize for the winner",
+    "imageUrl": "https://media.nbcnewyork.com/2023/05/GettyImages-1208201594.jpg?quality=85&strip=all&resize=1200%2C675"
   },
   {
     "title": "A First-Of-Its-Kind Potato Chip Flavor Is Coming to Shelves\u2014and We\u2019re Intrigued",
@@ -48,6 +111,23 @@
     "imageUrl": "https://media.nbcchicago.com/2025/05/utz.png?resize=1200%2C675&quality=85&strip=all"
   },
   {
+    "title": "Lay's transforms beloved American classic into latest flavor: 'Like a cheese chip'",
+    "url": "https://www.foxnews.com/food-drink/lays-transforms-beloved-american-classic-latest-flavor-like-cheese-chip",
+    "snippet": "This summer, Lay's is offering an all-American favorite in potato chip form. Lay's Bacon Grilled Cheese potato chips were selected as the winner of the 2025 \"Do Us a Flavor\" fan contest. Paula George of Sapulpa, Oklahoma, submitted the winning flavor ...",
+    "publishedAt": "2025-06-19T22:47:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing unique limited edition chip flavor"
+  },
+  {
+    "title": "This Iconic Lay's Potato Chip Flavor Is Even Better than the Original",
+    "url": "https://www.aol.com/tried-ranked-every-lay-flavor-183000601.html",
+    "snippet": "This article may contain affiliate links that Yahoo and/or the publisher may receive a commission from if you buy a product or service through those links. Over the years Lay's has launched dozens of flavors, including a limited-edition Bacon Grilled ...",
+    "publishedAt": "2025-07-12T00:00:00+00:00",
+    "score": 9,
+    "reason": "Major brand Lay's announcing a new flavor and ranking all their flavors",
+    "imageUrl": "https://media.zenfs.com/en/the_kitchn_605/28a052f184ac5b4ec688a879889d6b8f"
+  },
+  {
     "title": "This Iconic Lay\u2019s Potato Chip Flavor Is Even Better than the Original",
     "url": "https://www.yahoo.com/lifestyle/articles/tried-ranked-every-lay-flavor-183000601.html",
     "snippet": "This article may contain affiliate links that Yahoo and/or the publisher may receive a commission from if you buy a product or service through those links. Over the years Lay\u2019s has launched dozens of ...",
@@ -55,6 +135,23 @@
     "score": 9,
     "reason": "Major brand releasing new flavor and conducting taste test among fans",
     "imageUrl": "https://media.zenfs.com/en/the_kitchn_605/28a052f184ac5b4ec688a879889d6b8f"
+  },
+  {
+    "title": "Unique Potato Chip Flavors From Around The World",
+    "url": "https://www.msn.com/en-us/food-and-drink/world-cuisines/unique-potato-chip-flavors-from-around-the-world/ar-AA1IF5b3",
+    "snippet": "We may receive a commission on purchases made from links. The United States is a melting pot of cultures, thanks to a population that blends Indigenous Americans with people from every continent. Each immigration wave has brought new flavors or ways of ...",
+    "publishedAt": "2025-07-31T17:02:00+00:00",
+    "score": 7,
+    "reason": "New chip product line launch and unusual flavors"
+  },
+  {
+    "title": "Herr's declares Long Hots & Sharp Provolone, an ode to the roast pork sandwich, winner of chips contest",
+    "url": "https://www.phillyvoice.com/herrs-chips-winner-long-hots-sharp-provolone/",
+    "snippet": "After two months of voting, there's a winner in the annual Herr's Flavored by Philly potato chip contest: Long Hots & Sharp Provolone. The champion of champions, which was the frontrunner in PhillyVoice's initial assessment, will be available on the ...",
+    "publishedAt": "2025-08-26T00:00:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing new permanent flavor through contest",
+    "imageUrl": "https://media.phillyvoice.com/media/images/Herrs_competition_2025.2e16d0ba.fill-1200x630-c0.jpg"
   },
   {
     "title": "\u2018Looks Like The Dorito Theory Is True\u2019: Woman Orders 50-Count Box Of Doritos. Then She Opens One Bag",
