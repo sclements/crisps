@@ -135,12 +135,12 @@
                         <div class="flex flex-col items-center">
                             <div class="inline-flex items-center gap-2 bg-orange-500 text-white text-xs font-bold px-3 py-1.5 rounded-full mb-5 shadow-md">
                                 <span>✨</span>
-                                <span>Chip of the Day</span>
+                                <span class="locale-chip-of-day">Chip of the Day</span>
                             </div>
                             <div class="animate-pulse w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-200 rounded-2xl flex items-center justify-center shadow-md mb-5">
                                 <span class="text-4xl">🥔</span>
                             </div>
-                            <p class="text-gray-500 text-sm">Discovering today's chip...</p>
+                            <p class="text-gray-500 text-sm locale-discovering">Discovering today's chip...</p>
                         </div>
                     </div>
                     
@@ -161,7 +161,7 @@
 
                     <!-- News Grid -->
                     <div id="inline-news" class="hidden">
-                        <h2 class="text-2xl font-display font-bold text-gray-800 mb-6">Latest Chip News</h2>
+                        <h2 class="text-2xl font-display font-bold text-gray-800 mb-6 locale-news-heading">Latest Chip News</h2>
                         <div id="inline-news-articles" class="bento-container">
                             <p class="text-gray-500">Loading news...</p>
                         </div>
@@ -182,7 +182,7 @@
                     <!-- Chip History View -->
                     <div id="chip-history-view" class="hidden">
                         <div class="flex items-center justify-between mb-6">
-                            <h2 class="text-2xl font-display font-bold text-gray-800">Chip History</h2>
+                            <h2 class="text-2xl font-display font-bold text-gray-800 locale-history-heading">Chip History</h2>
                             <button id="history-back-button" class="inline-flex items-center gap-2 bg-gray-100 hover:bg-gray-200 text-gray-700 py-2 px-4 rounded-xl font-medium transition-colors text-sm">
                                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
                                 Back
@@ -239,6 +239,25 @@
             articles: 'id, title, content',
             invertedIndex: 'word, *ids'
         });
+
+        // --- LOCALE DETECTION (UK/Ireland use "crisps") ---
+        const isUKLocale = (() => {
+            const lang = navigator.language || navigator.userLanguage || '';
+            const tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+            // Check for UK/Ireland language codes or timezones
+            const ukLangCodes = ['en-GB', 'en-IE', 'en-gb', 'en-ie'];
+            const ukTimezones = ['Europe/London', 'Europe/Dublin'];
+            return ukLangCodes.some(code => lang.startsWith(code)) || 
+                   ukTimezones.includes(tz);
+        })();
+        
+        // Localization helper - converts chip terminology for UK/Ireland
+        const L = {
+            chip: isUKLocale ? 'Crisp' : 'Chip',
+            chips: isUKLocale ? 'Crisps' : 'Chips',
+            CHIP: isUKLocale ? 'CRISP' : 'CHIP',
+            CHIPS: isUKLocale ? 'CRISPS' : 'CHIPS',
+        };
 
         // --- UI ELEMENTS ---
         const statusDiv = document.getElementById('status');
@@ -384,11 +403,12 @@
             
             try {
                 const response = await fetch('chip_of_the_day.json');
-                if (!response.ok) throw new Error('Chip of the day not available');
+                if (!response.ok) throw new Error(`${L.chip} of the day not available`);
                 const chipData = await response.json();
                 
-                // Create Google search URL
-                const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" chips')}`;
+                // Create Google search URL (use "chips" for search since that's the global term)
+                const searchTerm = isUKLocale ? 'crisps' : 'chips';
+                const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" ' + searchTerm)}`;
                 
                 // Format today's date
                 const today = new Date();
@@ -406,7 +426,7 @@
                         <!-- Badge -->
                         <div class="inline-flex items-center gap-2 bg-orange-500 text-white text-xs font-bold px-3 py-1.5 rounded-full mb-5 shadow-md">
                             <span>✨</span>
-                            <span>Chip of the Day</span>
+                            <span>${L.chip} of the Day</span>
                             <span class="opacity-75">•</span>
                             <span class="opacity-75 font-normal">${dateStr}</span>
                         </div>
@@ -441,12 +461,12 @@
                 chipDiv.innerHTML = `
                     <div class="text-center py-4">
                         <div class="inline-block bg-gray-400 text-white text-xs font-bold px-3 py-1 rounded-full mb-4">
-                            Chip of the Day
+                            ${L.chip} of the Day
                         </div>
                         <div class="w-24 h-24 mx-auto bg-gradient-to-br from-gray-200 to-gray-300 rounded-full flex items-center justify-center shadow-lg mb-4">
                             <span class="text-4xl">🥔</span>
                         </div>
-                        <p class="text-gray-500 text-sm">No chip of the day yet</p>
+                        <p class="text-gray-500 text-sm">No ${L.chip.toLowerCase()} of the day yet</p>
                     </div>
                 `;
             }
@@ -507,13 +527,29 @@
                 historyContent.innerHTML = `
                     <div class="text-center py-8">
                         <span class="text-4xl mb-4 block">📭</span>
-                        <p class="text-gray-500">No chip history available</p>
+                        <p class="text-gray-500">No ${L.chip.toLowerCase()} history available</p>
                     </div>
                 `;
             }
         }
 
+        // --- APPLY LOCALE TO STATIC HTML ---
+        function applyLocale() {
+            // Update static text elements with locale-aware versions
+            const updates = {
+                '.locale-chip-of-day': `${L.chip} of the Day`,
+                '.locale-discovering': `Discovering today's ${L.chip.toLowerCase()}...`,
+                '.locale-news-heading': `Latest ${L.chip} News`,
+                '.locale-history-heading': `${L.chip} History`,
+            };
+            for (const [selector, text] of Object.entries(updates)) {
+                const el = document.querySelector(selector);
+                if (el) el.textContent = text;
+            }
+        }
+
         window.addEventListener('DOMContentLoaded', async () => {
+            applyLocale();
             await loadNews();
             showView('news');
             initBentoGrid();
