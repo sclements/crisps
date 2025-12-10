@@ -260,13 +260,15 @@
         ];
         
         function getTimeAgo(dateString) {
-            if (!dateString) return '';
+            if (!dateString) return 'Recent';
             const date = new Date(dateString);
+            if (isNaN(date.getTime())) return 'Recent';
             const now = new Date();
             const diffMs = now - date;
             const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
             const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
             
+            if (diffHours < 1) return 'Just now';
             if (diffHours < 24) return `${diffHours} hours ago`;
             if (diffDays === 1) return '1 day ago';
             return `${diffDays} days ago`;
@@ -314,14 +316,21 @@
                     const h = getHeight(index);
                     const imageUrl = article.imageUrl || getImageUrl(index);
                     const imgSize = h === 1 ? '40px' : (h === 2 ? '70px' : '100px');
+                    const snippet = article.snippet || '';
+                    const showSnippet = h >= 2 && snippet;
                     
                     html += `<a href="${article.url}" target="_blank" 
                         class="bento-item ${color.bg}" data-h="${h}">
-                        <div class="flex justify-center flex-shrink-0">
+                        <div class="flex justify-center">
                             <img src="${imageUrl}" alt="" class="rounded-xl object-cover shadow-sm" style="height: ${imgSize}; width: auto; max-width: 70%;">
                         </div>
-                        <h3 class="font-bold text-sm ${color.text} leading-tight line-clamp-2 mt-2 flex-shrink-0">${article.title}</h3>
-                        <p class="text-xs ${color.text} opacity-60 mt-auto pt-1">${timeAgo}</p>
+                        <div class="flex-1 flex flex-col justify-between mt-2 overflow-hidden">
+                            <div class="overflow-hidden">
+                                <h3 class="font-bold text-sm ${color.text} leading-tight line-clamp-2">${article.title}</h3>
+                                ${showSnippet ? `<p class="text-xs ${color.text} opacity-70 mt-1 overflow-hidden" style="display: -webkit-box; -webkit-line-clamp: ${h === 2 ? 2 : 4}; -webkit-box-orient: vertical;">${snippet}</p>` : ''}
+                            </div>
+                            <p class="text-xs ${color.text} opacity-60 pt-1">${timeAgo}</p>
+                        </div>
                     </a>`;
                 });
                 inlineNewsDiv.innerHTML = html;
@@ -336,7 +345,7 @@
             const container = document.querySelector('#inline-news-articles');
             const items = Array.from(container.querySelectorAll('.bento-item'));
             const gap = 16;
-            const rowHeight = 100;
+            const rowHeight = 140;
             
             const layout = () => {
                 const containerWidth = container.getBoundingClientRect().width;
