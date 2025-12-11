@@ -1,5 +1,11 @@
 [
   {
+    "chip_name": "Indiana Cornbread Honey Butter",
+    "description": "Sweet cornbread essence with a touch of honey, perfectly crisp. A savory tribute to Indiana's culinary heritage on today's plate.",
+    "date": "2025-12-11",
+    "image_url": "https://www.hanyangmart.com/cdn/shop/products/IMG_3200.jpg?v=1678757307&width=1000"
+  },
+  {
     "chip_name": "Alpine Herb & Garlic Butter",
     "description": "Savor the crisp, alpine-kissed crunch, paired with buttery richness and a hint of garlic. It's like celebrating Human Rights Day with every bite - a flavor journey that uplifts the spirit as much as it delights the taste buds. Perfect for toasting to freedom and equality, or simply adding a dash of Alpine charm to your holiday feast.",
     "date": "2025-12-10",
@@ -126,10 +132,9 @@
     "image_url": "https://welovecrisps.com/cdn/shop/products/packaging-inessence_wasabi_1024.png?v=1660308831&width=1200"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "\"Maple Pecan: The perfect crunch of autumn in every bite, with a warm twist that makes this snack the star of November. It's today's Chip of the Day because when else can you savor the flavors of fall year-round?\"",
-    "date": "2025-11-21",
-    "image_url": "https://i5.walmartimages.com/seo/Sahale-Snacks-Maple-Pecans-Glazed-Mix-Gluten-Free-Snack-4-Ounce-Bag_48f392e3-5aa7-4382-85d9-1dfc30dc5cbf.cb00d8fae870ee29756b3b15dc505648.jpeg"
+    "chip_name": "Japanese Green Tea",
+    "description": "\"Crunch into crisp Japanese green tea flavor, where each bite is as soothing to your lungs as sipping a cup of tranquility. Perfect for today's National COPD Awareness Month, let this chip help clear your airways and brighten your spirits.\"",
+    "date": "2025-11-21"
   },
   {
     "chip_name": "Chili Lime",
@@ -162,10 +167,9 @@
     "image_url": "https://mediacdn.nauticalcommerce.app/gfm/products/4c426bb2-18cb-400b-b21e-22401a17c8f6.jpg"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "Today's Chip of the Day, Maple Pecan, is a delightful crunch of autumn in every bite! With its sweet maple essence and crunchy pecans, it's like wrapping yourself in cozy sweaters on this chilly November day. Perfect for snacking while reminiscing about summer or looking forward to holiday warmth ahead!",
-    "date": "2025-11-15",
-    "image_url": "https://www.kroger.com/product/images/large/front/0001111010450"
+    "chip_name": "Middle Eastern Za'atar Pomegranate",
+    "description": "Zesty za'atar meets sweet pomegranate in this symphony of flavors. Perfectly crisp, it's like a trip to the Middle East for National Bundt Day. Pair with creamy frosting or enjoy alone as a kitchen connection celebration bite.",
+    "date": "2025-11-15"
   },
   {
     "chip_name": "Honey & Soy",
@@ -228,10 +232,9 @@
     "image_url": "https://mrgsnacks.com/cdn/shop/products/Mr.G-BBQCHEDDARF_1.png?v=1677794320&width=533"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "Today's Chip of the Day is Maple Pecana scrumptious blend that tickles your taste buds with its sweet maple flavor and crunchy pecans, making every bite as delightful as celebrating National Candy Day! Savor this treat while you explore other quirky festivities like Use Your Common Sense Day.",
-    "date": "2025-11-04",
-    "image_url": "https://i5.walmartimages.com/seo/Sahale-Snacks-Maple-Pecans-Glazed-Mix-Gluten-Free-Snack-4-Ounce-Bag_48f392e3-5aa7-4382-85d9-1dfc30dc5cbf.cb00d8fae870ee29756b3b15dc505648.jpeg"
+    "chip_name": "Thai Peanut",
+    "description": "\"Today, indulge in a Thai Peanut paradise! Crunch into our crispy rice treats blanketed in creamy peanut butter and zesty hints of ginger. Perfect for National Candy Day, let this sweet-savory sensation elevate your sweet tooth to new heights!\"",
+    "date": "2025-11-04"
   },
   {
     "chip_name": "Maple Syrup & Bacon",
@@ -264,10 +267,9 @@
     "image_url": "https://myscrapchick.com/wp-content/uploads/2023/07/Halloween-Chip-Bags-Set-1536x1536.jpg"
   },
   {
-    "chip_name": "Turkish Delight",
-    "description": "Celebrate Republic Day with a burst of Turkish Delight flavors! Savor crisp, buttery chips dressed in zesty Pomegranate, creamy Pistachio, or sweet, tangy Rosewater noteseach bite's a little journey through Turkish cuisine. Yum!",
-    "date": "2025-10-29",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/194882.jpg"
+    "chip_name": "Mexican Chorizo & Lime",
+    "description": "\"Sizzling chorizo meets tangy lime in each crispy bite. It's National Cat Daypurr-fect for a feline-approved snack that'll have you howling for more.\"",
+    "date": "2025-10-29"
   },
   {
     "chip_name": "Greek Olive Oil & Oregano",
@@ -312,10 +314,9 @@
     "image_url": "https://i.ebayimg.com/images/g/FwQAAOSwmy9nbLP2/s-l1600.jpg"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "Today's Chip of the Day is a sweet sensation named 'Maple Pecan', paying homage to Back to the Future Day! Celebrate October 21, 2025 with crunchy nostalgia, as this treat takes you on a flavor adventure blending crispy chips with warm maple sweetness and chewy pecans. It's like an edible time machine for your taste buds!",
-    "date": "2025-10-21",
-    "image_url": "https://i5.walmartimages.com/seo/Sahale-Snacks-Maple-Pecans-Glazed-Mix-Gluten-Free-Snack-4-Ounce-Bag_48f392e3-5aa7-4382-85d9-1dfc30dc5cbf.cb00d8fae870ee29756b3b15dc505648.jpeg"
+    "chip_name": "Thai Lemongrass Crisp",
+    "description": "Lemongrass whispers its exotic essence into every crunch. Celebrate the Tamil Nadu holiday in crispy delight, where zesty Thai flavors dance on your taste buds and transport you to a festival of flavors. Perfect for dipping in coconut milk or enjoying with a cold craft beer, this chip is the festive snack that elevates any celebration!",
+    "date": "2025-10-21"
   },
   {
     "chip_name": "Saffron Sea Salt",
@@ -360,10 +361,9 @@
     "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/G7l0tiLx5t4xjVA-4NW4HQ/1000s.jpg"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "Savor the delightful fusion of maple sweetness and crunchy pecans - today's Chip of the Day! A perfect treat for Fall 2025, celebrating a crisp blend that's as unique as this day, October 13, marking its countdown to year's end.",
-    "date": "2025-10-13",
-    "image_url": "https://i5.walmartimages.com/seo/Sahale-Snacks-Maple-Pecans-Glazed-Mix-Gluten-Free-Snack-4-Ounce-Bag_48f392e3-5aa7-4382-85d9-1dfc30dc5cbf.cb00d8fae870ee29756b3b15dc505648.jpeg"
+    "chip_name": "Brie & Honey Truffle",
+    "description": "\"Brie's creaminess meets honey's sweetness in a truffle-kissed embrace. The perfect savory-sweet holiday bite, celebrating Columbus Day with a touch of opulence and a pinch of adventure.\"",
+    "date": "2025-10-13"
   },
   {
     "chip_name": "Tortilla Tajin",
@@ -372,10 +372,9 @@
     "image_url": "https://assets.biglots.com/is/image/biglots/810475469"
   },
   {
-    "chip_name": "Spooky Chocolate",
-    "description": "Spooky Chocolate: Today's Chip of the Day is a ghoulishly delightful treat, perfect for Halloween enthusiasts! Indulge in its hauntingly delicious flavors, making every bite as mysterious as the night itself. Celebrate the spirit of All Things Thrilling with this spooky sweet sensation!",
-    "date": "2025-10-11",
-    "image_url": "https://mmmrecipes.com/wp-content/uploads/2024/09/Spooky-Chocolate-Chip-Cookies--683x1024.webp"
+    "chip_name": "Kale & Sea Salt",
+    "description": "Celebrate National Coming Out Day with our Kale & Sea Salt Kettle Chipscrisp and crunchy, with a touch of briny sweetness. The perfect pairing for a night of self-expression and celebration, as bold as your identity.",
+    "date": "2025-10-11"
   },
   {
     "chip_name": "Japanese Wasabi Miso",
@@ -414,10 +413,9 @@
     "image_url": "https://images.squarespace-cdn.com/content/v1/5ac261cf71069968df1e61a9/471ec87e-8ea3-4ab6-8db8-5a984516d9e2/DSC06146.jpg"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "\"Savor the warmth of autumn in every crunchy bite. Maple sweetness dances with pecans, making this chip the perfect National Cinnamon Roll Day companion. A touch of nostalgia, a twist of flavor - it's your crisp slice of comfort food.\"",
-    "date": "2025-10-04",
-    "image_url": "https://emiliasgraces.com/wp-content/uploads/2023/05/Maple-Pecan-Granola-600x900.png"
+    "chip_name": "Almond Joy Chip",
+    "description": "Almond hugs coconut's sweet heart in every crunch, paired with a drizzle of decadent chocolate. National Cinnamon Roll Day just got sweeter.",
+    "date": "2025-10-04"
   },
   {
     "chip_name": "Bratwurst",
@@ -426,7 +424,7 @@
     "image_url": "https://product.hstatic.net/200000718991/product/3_37bf72747e624591be3104ff1556d986_master.png"
   },
   {
-    "chip_name": "Crispy Maple Bacon (for a sweet and savory taste combination)",
+    "chip_name": "Crispy Maple Bacon",
     "description": "Crispy Maple Bacon: A delightful fusion of sweet and savory heaven, where smoky bacon meets velvety maple essence. Today's Chip of the Day for October 2, 2025, brings a twist on classic flavors that'll make your taste buds dance - just like how a chip might pop in and out of an autumn bonfire glow!",
     "date": "2025-10-02",
     "image_url": "https://calibagels.com/cdn/shop/files/a.png?v=1722004600&width=1445"
@@ -444,10 +442,9 @@
     "image_url": "https://m.media-amazon.com/images/I/71-N14Ly52L._SL1500_.jpg"
   },
   {
-    "chip_name": "Starbucks Day - Maple Pecan",
-    "description": "Celebrate National Coffee Day with a scrumptious Maple Pecan delight! Savor this heavenly flavor as today's 'Chip of the Day', encapsulating autumns warmth in every sip, making September 29th truly special for coffee aficionados worldwide.",
-    "date": "2025-09-29",
-    "image_url": "https://i5.walmartimages.com/seo/Starbucks-Maple-Pecan-K-Cup-10-count_e5d36abe-8a99-4042-9276-99c0ea5208b0.a3f0f8ef402702c1ce0bd49317836912.jpeg"
+    "chip_name": "Chickpea Pita Chips with Za'atar",
+    "description": "Today's Chip of the Day: Chickpea Pita Chips with Za'atar - A Levantine delight that travels through time from ancient Rome to modern kitchens. Crispy, nutty, and bold, these chips are a fusion of history and flavor. Pair them with creamy labneh or tangy hummus for a feast fit for the gods!",
+    "date": "2025-09-29"
   },
   {
     "chip_name": "International Poke Day - Tuna & Avocado",
@@ -504,7 +501,7 @@
     "image_url": "https://cdn.nijiya.com/vv9mmlvkff3n55eatq1e9bzmjb50"
   },
   {
-    "chip_name": "International Grenache Day - Vino Tinto (Red Wine Vinegar and Spanish Paprika)",
+    "chip_name": "Red Wine Vinegar & Spanish Paprika",
     "description": "Celebrate International Grenache Day on September 19th, 2025 by savoring this delightful red wine grape's versatility in vino tinto and Spanish paprika dishes! Today, let's toast to the flavors of the world with a twist of pirate flair. Happy sailing, Grenache lovers!",
     "date": "2025-09-19",
     "image_url": "https://inrorwxhkliplp5p.ldycdn.com/cloud/llBpoKoolpSRpkrpkkjqip/plain-chip-bags.jpg"
@@ -540,10 +537,9 @@
     "image_url": "http://cdn.shopify.com/s/files/1/0614/8309/0107/products/Savoursmiths-Truffle-Rosemary-Potato-Chips-5-29oz-Bags-12ct-CandyStore-com-571_1200x1200.jpg?v=1677173559"
   },
   {
-    "chip_name": "Chocolate Lava Cake",
-    "description": "Today, September 13, 2025, marks a sweet occasion - International Chocolate Day! Indulge in the delightful decadence of a Chocolate Lava Cake; its ooey-gooey center and rich chocolatey flavor make every bite a celebration of pure pleasure, perfectly fitting for today's Chip of the Day.",
-    "date": "2025-09-13",
-    "image_url": "https://www.oishi.com.ph/wp-content/uploads/2019/08/Lava-Crisps-Pouch-new-L-PNG.png"
+    "chip_name": "Truffle Pecan",
+    "description": "\"Toast to tradition and luxury with every crisp bite of Truffle Pecan. Rich earthiness meets crunchy perfection, just right for pondering life's great questionsor simply savoring a moment of pure indulgence.\"",
+    "date": "2025-09-13"
   },
   {
     "chip_name": "Herbes de Provence Truffle",
@@ -564,7 +560,7 @@
     "image_url": "https://m.media-amazon.com/images/I/71cPg7oGx4L._SL1500_.jpg"
   },
   {
-    "chip_name": "Culinary Fusion (Spiced Sesame & Ginger)",
+    "chip_name": "Spiced Sesame & Ginger",
     "description": "Culinary Fusion: Spiced Sesame & Ginger, our Chip of the Day, is a vibrant blend that transforms your taste buds into global adventurers! This September 2025 delight seamlessly merges bold flavors from East and West for an unforgettable bite.",
     "date": "2025-09-09",
     "image_url": "https://cdn.globalso.com/packaging-bag/3chips.jpg"
@@ -594,10 +590,9 @@
     "image_url": "https://m.media-amazon.com/images/I/71pEVZZ+aJL._SL1500_.jpg"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "Celebrate National Wildlife Day with a scrumptious Maple Pecan Chip - crunchy, sweet, & nutty goodness that's as delightful as spotting wildlife in its natural habitat! This classic treat is todays pick for its perfect blend of flavors, making every bite feel like a mini celebration of the day.",
-    "date": "2025-09-04",
-    "image_url": "https://i5.walmartimages.com/seo/Sahale-Snacks-Maple-Pecans-Glazed-Mix-Gluten-Free-Snack-4-Ounce-Bag_48f392e3-5aa7-4382-85d9-1dfc30dc5cbf.cb00d8fae870ee29756b3b15dc505648.jpeg"
+    "chip_name": "Lemongrass Thai Chips",
+    "description": "National Wildlife Day Special: 'Lemongrass Thai Chips' - A zesty dance of citrus zest and Thai spices, in crunchy delight. Pair with a cool coconut milk dip for a tropical adventure in every bite!",
+    "date": "2025-09-04"
   },
   {
     "chip_name": "Pumpkin Spice & Cinnamon",
@@ -636,10 +631,9 @@
     "image_url": "https://eu-central-1.linodeobjects.com/klas/attachments/39/9785/87644636-385f-4687-a211-9ae4283529dc.jpg"
   },
   {
-    "chip_name": "August Watermelon",
-    "description": "August Watermelon: Juicy and refreshing, just like this month's sunny days! Its vibrant redness makes every bite a burst of summer delight, fitting perfectly as today's Chip of the Day because, well, why not celebrate August with an August special? After all, every day feels more cheerful under the glow of those August sunbeams.",
-    "date": "2025-08-28",
-    "image_url": "https://i.etsystatic.com/39692912/r/il/26c5fb/4658782769/il_794xN.4658782769_gul5.jpg"
+    "chip_name": "Alpine Herb Truffle",
+    "description": "\"Underneath the alpine sky, crisp truffles dance with herbs. Celebrate peace withbite of earthy richness and a touch of harmony.\"",
+    "date": "2025-08-28"
   },
   {
     "chip_name": "Wasabi & Green Tea",
@@ -684,10 +678,9 @@
     "image_url": "https://www.allrecipes.com/thmb/JZYMhHOeSbMmH807KhTzacha01U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-taste-test-corn-chips-great-value-crunchy-corn-chips-121fd1b96cf045b58f42f2e36d680527.jpg"
   },
   {
-    "chip_name": "August Watermelon",
-    "description": "August Watermelon: A juicy burst of summer in every bite, celebrating the essence of August. Sweetly reminding us that while Hungary marks its national holiday, we all should indulge in a slice for a taste of pure joy!",
-    "date": "2025-08-20",
-    "image_url": "https://i.pinimg.com/originals/a0/b3/59/a0b35972d15ff31d8a9a6d13013b86c5.jpg"
+    "chip_name": "Taj\u00edn Chipotle",
+    "description": "\"Rumble through time to the spice routes of old. This crispy tortilla chip meets smoky chipotle, a fiery toast to Hungary's bold history. Pair it with a zesty dip and let flavor fireworks ensue on National State Day!\"",
+    "date": "2025-08-20"
   },
   {
     "chip_name": "August Breeze BBQ",
@@ -828,12 +821,6 @@
     "image_url": "https://caffeinecam.com/cdn/shop/files/DutchCrunchSpicyKetchupfront1.jpg?v=1709669428"
   },
   {
-    "chip_name": "Maple Pecan",
-    "description": "Celebrate National Indigenous Peoples Day with a sweet twist on today's Chip of the Day: Maple Pecan! Indulge in the classic Canadian flavors that honor our diverse heritage, making every bite a delightful celebration of culture.",
-    "date": "2025-06-21",
-    "image_url": "https://www.kroger.com/product/images/large/front/0001111010450"
-  },
-  {
     "chip_name": "Filipino Adobo",
     "description": "Celebrate Philippine Independence Day with a zesty twist on our Chip of the Day: crispy Adobo-flavored potato chips, brimming with tangy garlic & soy, perfect for commemorating freedom and Filipino culinary pride!",
     "date": "2025-06-12",
@@ -858,12 +845,6 @@
     "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-10/12/22/asset/21965ffe2e3e/sub-buzz-4012-1665614851-7.jpg"
   },
   {
-    "chip_name": "Oranje Icing",
-    "description": "Celebrate King's Day with a taste of tradition! \"Oranje Icing\"  where sweet vanilla meets vibrant orange essence, perfectly capturing the spirit of Dutch flavors in a crunchy, delightful bite. Perfect for your festivities or any moment you're feeling festive.",
-    "date": "2025-04-27",
-    "image_url": "https://img.freepik.com/premium-psd/colorful-chips-bag-mockup-your-product-branding_848427-2.jpg"
-  },
-  {
     "chip_name": "Kangaroo Jerky",
     "description": "Celebrate ANZAC Day with Kangaroo Jerky: a savory snack infused with flavors of the Outback, perfect for commemorating courage and sharing on this special day!",
     "date": "2025-04-25",
@@ -876,10 +857,85 @@
     "image_url": "https://m.media-amazon.com/images/I/71-N14Ly52L._SL1500_.jpg"
   },
   {
+    "chip_name": "Chilli Lime Potato Chips",
+    "description": "Celebrate National Poutine Day with a twist! Our Chilli Lime Potato Chips are the cheeky addition to your classic poutine. Crispy, zesty, and bold, they're the playful pair that turns boring fries into party bites. Dive in for a flavor adventure worthy of this lively day!",
+    "date": "2025-04-11"
+  },
+  {
+    "chip_name": "Lemongrass & Coconut Crisps",
+    "description": "\"April's sweetest surprise, Lemongrass & Coconut Crisps, dance on your tongue like a poetic breeze.Perfect for National Poetry Month, let these crispy companions inspire you as you savor the essence of creativity and delight in every bite.\"",
+    "date": "2025-04-10"
+  },
+  {
+    "chip_name": "Indian Mango Curry",
+    "description": "\"Golden mango chunks dance in a spicy, tangy sauce, wrapped in crispy rice. A fiesta of flavors that'll make your taste buds samba all day long. Perfect for today's National IEP Writing Day and every occasion needing a flavor boost!\"",
+    "date": "2025-04-07"
+  },
+  {
+    "chip_name": "Taj\u00edn Spiced Lime",
+    "description": "\"Zesty, citrusy crunch that dances on your tongue. Celebrate today's zestful flair with Tajn Spiced Lime chipsperfect for a fiesta in every bite!\"",
+    "date": "2025-04-06"
+  },
+  {
+    "chip_name": "Peanut Butter & Jelly",
+    "description": "Crunch into creamy PB bliss, then smoosh in some jam delight. Celebrate National Peanut Butter and Jelly Day by pairing these chips with a dash of retro nostalgiaperfect for spreading smiles and satisfying crunchy dreams. Your taste buds are about to embark on a flavor journey straight out of the 70s lunchbox fantasy!",
+    "date": "2025-04-02"
+  },
+  {
+    "chip_name": "Mexican Chorizo & Paprika",
+    "description": "\"Sizzling spice meets crispy crunch. Today, celebrate the fusion of chorizo's bold flavor and paprika's kiss, perfect for when your palate needs a fiesta!\"",
+    "date": "2025-04-01"
+  },
+  {
+    "chip_name": "Chickpea & Cardamom",
+    "description": "National Take a Walk in the Park Day meets crunchy chickpea magic! Savor each step with these savory treats, as the cardamom whispers hints of exotic wonder amidst the fresh air. Perfect for pairing with your favorite dip or just strolling through the park's aroma of adventure. Today, let Chickpea & Cardamom be your guide to a flavor journey that complements every stride.",
+    "date": "2025-03-30"
+  },
+  {
+    "chip_name": "Lemon Herb & Olive Oil",
+    "description": "Savor zesty tang and fragrant herbs in each bite. This is the chip that turns yoursnack into an Alexander Stewart-inspired adventure, perfect for today's magic of smoke and mirrors. Pair it with a cold one or dip in creamy goodness for an illusion of flavor explosion. March 29, meet your match!",
+    "date": "2025-03-29"
+  },
+  {
+    "chip_name": "Lemon & Herb Chickpea",
+    "description": "Bursting with zesty freshness, these crunchy chickpeas dance with tangy lemon zest and a bouquet of herbs. A playful twist for International Women in Music Day, they're the perfect solo symphony or harmony to any melody. Elevate your playlist with a vibrant crunch that'll have everyone singing along.",
+    "date": "2025-03-28"
+  },
+  {
+    "chip_name": "Mexican Fiesta Mix",
+    "description": "\"Today's crunch is fiery and festive! Mexican Fiesta Mix chips: zesty lime zest dances with smoky chipotle heat. Dive into a flavor fiesta, perfect for savoring on this World Theatre Day  let your taste buds direct the performance!\"",
+    "date": "2025-03-27"
+  },
+  {
+    "chip_name": "Wasabi & Lemon Cheddar",
+    "description": "\"Rice meets zesty wasabi and tangy lemon zest, wrapped in creamy cheddar. Perfect for celebrating Maryland Day, it's a bold blend that invigorates your taste buds. Try it with a cold craft beer for a flavor explosion!\"",
+    "date": "2025-03-25"
+  },
+  {
+    "chip_name": "Mexican Fiesta Corn",
+    "description": "National Cocktail Day & National Chocolate Covered Raisin Day: Savor the sweet and savory fusion of zesty lime zest and creamy chocolate drizzle. This Mexican Fiesta Corn bursts with flavor in every crisp bite, making it the perfect pairing for any cocktail or as a decadent snack on this dual celebration day!",
+    "date": "2025-03-24"
+  },
+  {
+    "chip_name": "Wasabi & Green Curry Leaf",
+    "description": "\"Zingy wasabi meets tropical green curry leaf in this crunchy burst. Perfect for today's National Chip and Dip Day, pair it with a cool yogurt sauceit's like a jet of flavor landing on your palate!\"",
+    "date": "2025-03-23"
+  },
+  {
     "chip_name": "Turmeric Cumin",
     "description": "Today's Chip of the Day celebrates Nowruz with a twist on traditional flavors: our Turmeric Cumin blend offers a sunny zest that's perfect for embracing spring's rejuvenation, inspired by the vibrant cuisine of Iran/Persia. Dive into its exotic taste, reminiscent of ancient spice routes and the colorful celebrations of Nowruz!",
     "date": "2025-03-21",
     "image_url": "https://farmspices.in/wp-content/uploads/2024/03/Bag_of_chips_v01-1-1200x960.png"
+  },
+  {
+    "chip_name": "Thai Lemongrass & Cheddar",
+    "description": "Savor the sunshine in each bite! Thai lemongrass dances with zesty cheddar in this vibrant rice crisp. The perfect blend for today's National Let's Laugh Daycrunch into smiles and tickle your taste buds like never before!",
+    "date": "2025-03-19"
+  },
+  {
+    "chip_name": "Mexican Hibiscus",
+    "description": "Celebrate National Sloppy Joe Day with our zesty Mexican Hibiscus chips! A burst of floral hibiscus flavor, paired perfectly for a sloppy joe dip. It's like a fiesta in your mouth on this special day!",
+    "date": "2025-03-18"
   },
   {
     "chip_name": "Sea Salt & Caper",
@@ -888,10 +944,80 @@
     "image_url": "https://i5.peapod.com/c/XI/XIT2L.png"
   },
   {
+    "chip_name": "Chorizo & Cheese Potato Crisps",
+    "description": "\"Today, as Atlanta Hawks clash with Orlando Magic, fuel up with our Chorizo & Cheese Potato Crisps. Juicy chorizo meets melty cheese in every crispy bite, perfect for a game-day snacking frenzy or a fiesta of flavors!\"",
+    "date": "2025-03-16"
+  },
+  {
+    "chip_name": "Wasabi & Avocado",
+    "description": "\"Slice of heaven meets crunch in this wasabi-kissed avocado delight. A Kansas celebration in every bitespicy, creamy, and oh-so-satisfying.\"",
+    "date": "2025-03-15"
+  },
+  {
+    "chip_name": "Mexican Chorizo Chipotle",
+    "description": "Celebrate Pi Day by slicing into our Mexican Chorizo Chipotle chipsspicy, smoky, and packed with flavor. Each crunch is a fiesta in your mouth, turning math class vibes into festive fun. Dive deep into culinary adventure, where every bite is a celebration of numbers and chilies!",
+    "date": "2025-03-14"
+  },
+  {
+    "chip_name": "Wasabi & Lemon Twist",
+    "description": "\"Zesty wasabi meets tangy lemon in a crispy dance. Celebrate today's flair by pairing this dynamic duo with a cold sake  it's National Good Samaritan Day, after all!\"",
+    "date": "2025-03-13"
+  },
+  {
+    "chip_name": "Wasabi & Mango",
+    "description": "\"Zingy wasabi meets tropical mango in this crunchy delight. National Plant a Flower Day just got spicy and sweet.\"",
+    "date": "2025-03-12"
+  },
+  {
+    "chip_name": "Brazilian Picanha",
+    "description": "Savor the essence of Brazil in each crisp bite. Picanha's bold, zesty flavor and satisfying crunch make every moment a celebration. Pair it with a caipirinha for pure bliss. It's March 11th, let's samba our way through the day!",
+    "date": "2025-03-11"
+  },
+  {
+    "chip_name": "Wasabi & Lemon Thyme",
+    "description": "\"Rice meets zesty wasabi, tangy lemon zest, and herbaceous thyme. A burst of flavor fit for a culinary celebrationbecause today's not just any day, it's National Rice Crisp Day!\"",
+    "date": "2025-03-08"
+  },
+  {
+    "chip_name": "Indian Chaat",
+    "description": "Taste the thrill of India's street food magic! Spicy, tangy, and oh-so-crunchy. Pair it with a zesty yogurt dip for a flavor explosion that's as lively as National Sock Monkey Day itself. Dive into this sensory adventure!",
+    "date": "2025-03-07"
+  },
+  {
+    "chip_name": "Lemon & Herb Cheddar",
+    "description": "Sour yet sweet, tangy yet savory; this chip's a citrus-y twist on classic cheddar delight. Perfectly paired for National Oreo Cookie Daycrunch into zesty goodness while savoring chocolate dreams!",
+    "date": "2025-03-06"
+  },
+  {
+    "chip_name": "Sumac & Lemon Zest",
+    "description": "\"March 4 magic in every bite: zesty sumac meets tangy lemon zest. A burst of exotic flavors perfect for celebrating today's feast and tomorrow's promise.\"",
+    "date": "2025-03-04"
+  },
+  {
+    "chip_name": "Simplify Your Life Sesame Seed Chip",
+    "description": "Today's snack is not just any chipit's your Simplify Your Life Sesame Seed Chip! With every crunch, you'll taste the elegance of sesame seeds and a hint of zesty garlic. Perfectly paired for when you're decluttering or pondering life's complexitiesthese chips are here to remind you that simplicity tastes good too!",
+    "date": "2025-03-03"
+  },
+  {
+    "chip_name": "Thai Lemongrass Crunch",
+    "description": "\"Today's crunch packs a playful zing! Thai Lemongrass meets crispy perfection. Dive into its citrus-y dance and savor every bite. Perfect for a midday smile or an evening zest booster.\"",
+    "date": "2025-03-02"
+  },
+  {
     "chip_name": "Korean BBQ",
     "description": "Celebrate South Korea's Independence Day with our new BBQ chips! Crispy, smoky, and bursting with authentic Korean flavors - it's a chip-tastic way to indulge in some spicy BBQ goodness right from your snack bowl.",
     "date": "2025-03-01",
     "image_url": "https://static.wixstatic.com/media/72d8f2_1ee1e8e564d84d7c9695e717c64fd1c5~mv2.jpg/v1/fill/w_980,h_1225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/72d8f2_1ee1e8e564d84d7c9695e717c64fd1c5~mv2.jpg"
+  },
+  {
+    "chip_name": "Thai Lemongrass & Coconut",
+    "description": "Savor today's crunch with Thai lemongrass and coconutlike a tropical breeze in your mouth. A flavor dance of zest and creamy richness, perfect for National Public Sleeping Day. Pair it with a dreamy smoothie or just close your eyes and let the warmth whisk you away. Sweet dreams await!",
+    "date": "2025-02-28"
+  },
+  {
+    "chip_name": "Japanese Sakura Blossom",
+    "description": "Sakura in crunch formlight, crispy, with a hint of floral sweetness. Celebrate today's fairy tales with a touch of Japan's cherry blossom magic. Perfect for pairing with sweet dips or as an enchanting snack on National Tell A Fairy Tale Day.",
+    "date": "2025-02-26"
   },
   {
     "chip_name": "Saffron Sea Salt",
@@ -900,16 +1026,101 @@
     "image_url": "https://i.pinimg.com/originals/2f/33/96/2f33962231e1d5d67dc6ea39e8e28e88.jpg"
   },
   {
+    "chip_name": "Taj\u00edn Chips",
+    "description": "National Tortilla Chip Day's highlight: Crunch into Tajn's spicy-salty delight, where lime zest and chilies dance on your tongue. Perfect for a fiesta of flavors or an everyday thrill!",
+    "date": "2025-02-24"
+  },
+  {
+    "chip_name": "Herbed Olive Oil",
+    "description": "Bursting with herbaceous notes and a smooth, buttery crunch, today's Chip of the Day takes you on a culinary tour through spring gardens. Pair it with a glass of crisp white wine for an elegant twist on National Banana Bread Day or mix it up with tangy dips to celebrate National Play Tennis Day in style. Dive into flavor that dances with every bitetoday, let your taste buds join the world's festivities!",
+    "date": "2025-02-23"
+  },
+  {
+    "chip_name": "Chickpea & Rosemary",
+    "description": "\"Vegan delight meets Italian romance! Crisp chickpeas tossed in rosemary essence. Pair with wine or ice creamtoday's flavor fusion celebrates every sip and scoop.\"",
+    "date": "2025-02-18"
+  },
+  {
+    "chip_name": "Thai Lemongrass & Sweet Potato",
+    "description": "Savor the sunshine in every bite! Today's Chip of the Day is a zesty dance of Thai lemongrass and sweet potato. Crispy, savory, and bursting with flavorpair it with a cold craft beer for the ultimate February 17 celebration.",
+    "date": "2025-02-17"
+  },
+  {
+    "chip_name": "Chile Sea Salt",
+    "description": "Sizzling sea salt meets fiery chiles in this crispy delight. Perfect for celebrating the spice of today's festivities or just the thrill of a flavor adventure that sends your taste buds dancing.",
+    "date": "2025-02-16"
+  },
+  {
+    "chip_name": "Lemon & Herb Thyme Chips",
+    "description": "Valentine's Crunch: A zesty dance of lemon zest and herby thyme. Savor this crispy kiss, perfect for a love that bites back!",
+    "date": "2025-02-14"
+  },
+  {
+    "chip_name": "Wasabi & Lemon Zest",
+    "description": "\"Today's crisp sensation: zesty wasabi meets tangy lemon zest. It's like a flavor fireworks display in your mouth, perfect for celebrating the explosion of creativity on World Radio Day.\"",
+    "date": "2025-02-13"
+  },
+  {
+    "chip_name": "Thai Lemongrass Sea Salt",
+    "description": "\"Today, Lincoln's Birthday, savor history's crispiness with our Thai Lemongrass Sea Salt kettle chips. Crispy, zesty, and aromatic like the great statesman himself, these chips are a flavor revolution. Pair them with a bold dip, and let your taste buds journey through time.\"",
+    "date": "2025-02-12"
+  },
+  {
+    "chip_name": "Wasabi & Shiso",
+    "description": "National Umbrella Day's crunchy delight: Wasabi & Shiso rice crisp. Open an umbrella against this flavorful storm  the zesty kick of wasabi, paired with delicate shiso leaf essence, creating a unique taste sensation that turns any drizzle of rain into a celebration. Perfectly packed for a picnic under the umbrella or just to add some flair to your daily lunch.",
+    "date": "2025-02-10"
+  },
+  {
+    "chip_name": "Pizza Passion Blend",
+    "description": "\"Slice into crispy bliss, where mozzarella dreams meet savory tomato ecstasy. This Pizza Passion Blend is your perfect pizza party in a chip, celebrating National Pizza Day and every craving in between.\"",
+    "date": "2025-02-09"
+  },
+  {
+    "chip_name": "Mexican Fiesta Potato Chips",
+    "description": "Celebrate National Iowa Day with our Mexican Fiesta Potato Chips! Crispy, zesty, and bursting with authentic flavors, these chips are a fiesta in your mouth. Pair them with a cold beer or creamy queso for the perfect taste of adventure. Let's make today a celebration of bold flavors and good times!",
+    "date": "2025-02-08"
+  },
+  {
     "chip_name": "Tikka Masala",
     "description": "Today's Chip of the Day is a burst of vibrant flavors, inspired by New Zealands rich culinary heritage! Savor the delicate balance of tikka masala, fused with tangy kiwi notes for a unique taste adventure that'll have you craving more on Waitangi Day, February 6, 2025.",
     "date": "2025-02-06",
     "image_url": "https://caffeinecam.com/cdn/shop/files/Lays_Holiday_Table_Tikka_Masala_Chips_220g_front.jpg?v=1730918019"
   },
   {
+    "chip_name": "Crispy Quinoa",
+    "description": "National Weatherperson's Day meets crunchy comfort with our Crispy Quinoa chipscloudless skies in every bite. Savory, earthy notes dance on your taste buds as you marvel at the sky's beauty below. Perfectly paired with a cold drink or a warm hug, this chip is your sunny side up on any gloomy day!",
+    "date": "2025-02-05"
+  },
+  {
+    "chip_name": "Herb Garden Medley",
+    "description": "\"Today's crunch brings a medley of fresh basil, dill, and thyme. Celebrate National Soup Day by savoring this herbaceous burst in every bite.\"",
+    "date": "2025-02-04"
+  },
+  {
     "chip_name": "Yuzu",
     "description": "Yuzu takes center stage as our Chip of the Day on Setsubun, celebrating Japan's vibrant flavors with its zesty, citrusy zest, perfect for a culinary journey through the Land of the Rising Sun.",
     "date": "2025-02-03",
     "image_url": "https://www.tokyo-smart.com/7608-large_default/potato-chips-yuzu.jpg"
+  },
+  {
+    "chip_name": "Herbs de Provence Chips",
+    "description": "Celebrate World Play Your Ukulele Day with a melody of flavors! Savor our Herbs de Provence Chipscrispy, herby, and as lively as your favorite tune. Pair them with a creamy dip for a rhythm that tickles the taste buds. Bon apptit and strum on!",
+    "date": "2025-02-02"
+  },
+  {
+    "chip_name": "Wasabi & Sea Salt",
+    "description": "\"Wasabi meets sea salt in a fiery embrace, perfect for keeping safety top of mind this National Bath Safety Month. Crunch into zesty freshness, ensuring your bath time is anything but dull.\"",
+    "date": "2025-01-30"
+  },
+  {
+    "chip_name": "Chorizo & Cheese Chipotle",
+    "description": "\"Spicy chorizo meets melty cheese in this bold crunch. Perfect for National Puzzle Day  challenge your mind while savoring each chip's smoky, savory sensation. Best paired with a cold brew for the ultimate brain fuel.\"",
+    "date": "2025-01-29"
+  },
+  {
+    "chip_name": "Chilli Sea Salt",
+    "description": "\"Today's fiery flavor sensation! Chilli Sea Salt chips are the perfect spicy kick to your International LEGO Day fun. Crunch into bold heat and oceanic delight, paired with creamy dips for a feast fit for the gods.\"",
+    "date": "2025-01-28"
   },
   {
     "chip_name": "Quinoa Crunch",
@@ -922,6 +1133,121 @@
     "description": "Masala takes you on a vibrant culinary journey through the heart of India's Republic Day festivities, with every crisp bite bursting with authentic flavors from diverse regional cuisines - a deligh...",
     "date": "2025-01-26",
     "image_url": "https://i5.walmartimages.com/seo/Lay-s-India-s-Magic-Masala-Potato-Chips-52-Gm-1-8-Oz_d473c6a4-a5f4-4b70-a97c-8368706afde5.91907f6e9d4e957195036c8629255f7b.jpeg"
+  },
+  {
+    "chip_name": "Sweet Potato Chipotle",
+    "description": "Savor sweet dreams and smoky reality in every crunch. Sweet potato's gentle sweetness meets chipotles fiery whisper. It's National Fish Taco Daylet these chips elevate your coastal cravings to new heights, turning every bite into a fiesta of flavor!",
+    "date": "2025-01-25"
+  },
+  {
+    "chip_name": "Lemon & Herb Blend",
+    "description": "\"Brighten your day with zesty lemon zest and aromatic herbs. This chip's tangy twist is perfect for Global Belly Laugh Daypair it with a cold one or dip in sour cream for a giggly snack.\"",
+    "date": "2025-01-24"
+  },
+  {
+    "chip_name": "Japanese Shiso Leaf",
+    "description": "Elevate your snack game with today's flavor sensation - Japanese Shiso Leaf chips. A zesty blend of minty freshness and umami delight, each bite feels like a burst of springtime in your mouth. Perfect for celebrating any holiday or just because you deserve it! Pair with wasabi dip to fully embrace the culinary adventure.",
+    "date": "2025-01-22"
+  },
+  {
+    "chip_name": "Sweet & Spicy Tamarind",
+    "description": "\"Savor the sun's warmth in every bite. Sweet tamarind whispers nostalgia, spicy notes ignite adventure. Pair with a frosty brew, celebrate winter's end, and let this chip be your guide to January's sweet-spicy journey.\"",
+    "date": "2025-01-21"
+  },
+  {
+    "chip_name": "Pomegranate Falafel Chips",
+    "description": "Taste the exotic! Pomegranate's sweet burst meets falafel's spicy allure in each crispy bite. It's like a dance of flavors on your tongue. Pair it with a tangy yogurt sauce or sip a refreshing mint tea; today, every snack becomes an adventure. Celebrate January 20th by stepping into the bold world of Pomegranate Falafel Chipsbecause life is too short for boring chips!",
+    "date": "2025-01-20"
+  },
+  {
+    "chip_name": "Garden Vegetable",
+    "description": "Today, let's celebrate community and equality with every crunch of our Garden Vegetable potato chips. Crispy, nutty, and oh-so-slightly zestyjust like the unity that binds us all on Martin Luther King Jr. Day. Pair with a classic dip for a taste that honors today's principles.",
+    "date": "2025-01-19"
+  },
+  {
+    "chip_name": "Wasabi & Tofu",
+    "description": "\"Today, Wasabi & Tofu Rice Crisp is the perfect bite-sized tribute to National Gourmet Coffee Day. Crunch into a harmony of spicy wasabi and creamy tofu, each crisp exploding with umami flavors like a morning cup of espresso. A dash of sesame rounds it out for a snack that's as satisfying as your favorite latte.\"",
+    "date": "2025-01-18"
+  },
+  {
+    "chip_name": "Mexican Chorizo & Cheese",
+    "description": "Spicy chorizo meets melty cheese in each crunchy bite. It's National Kid Inventors' Day; let your taste buds innovate too! Pair with a frosty beer for a culinary creation that celebrates creativity and flavor.",
+    "date": "2025-01-17"
+  },
+  {
+    "chip_name": "Chili Sea Salt",
+    "description": "\"Bite into fiery oceans of flavor. Today, let Chili Sea Salt be your salty solace on National Nothing Daycrisp, crunchy, and a dash of adventure in every crunch.\"",
+    "date": "2025-01-16"
+  },
+  {
+    "chip_name": "Mexican Fiesta Chipotle",
+    "description": "Celebrating National Bagel Day, our Mexican Fiesta Chipotle takes you on a spicy journey. Crispy and zesty, it's like a dance of fire and flavorperfect for dipping in your favorite queso or spreading some festive joy with every crunch!",
+    "date": "2025-01-15"
+  },
+  {
+    "chip_name": "Beetroot & Thyme",
+    "description": "\"Today's crisp is a beet in disguisesweet earthiness meets fragrant thyme. Aromatic, like winter's breath on a frosty morning. Perfectly paired with creamy dips, celebrating January's chill with a hint of summer's magic.\"",
+    "date": "2025-01-14"
+  },
+  {
+    "chip_name": "Turmeric & Coconut",
+    "description": "\"Golden-hued delight meets creamy coconut in this tropical twist. Perfect for National Rubber Ducky Dayfloat one in your dip and watch it swim!\"",
+    "date": "2025-01-13"
+  },
+  {
+    "chip_name": "Indian Spiced Curry Leaf",
+    "description": "Curry up, it's National Curried Chicken Day! Dive into crispy Indian spiced flavorsbold, fragrant, and as lively as a dance number. Each crunch delivers a symphony of spices straight from the spice bazaars of India. Perfectly paired with creamy raita or spicy mango chutney, this chip is your ticket to a culinary adventure across continents. So here's to celebrating cultures and cravings on this very special day!",
+    "date": "2025-01-12"
+  },
+  {
+    "chip_name": "Spicy Turmeric Lime",
+    "description": "\"Raid your spice cabinet, it's time to unleash some zest! These fiery chips dance with turmeric's warmth and lime's zing. Perfect for a January burst of flavor, they're like a mini vacation in every crunch.\"",
+    "date": "2025-01-11"
+  },
+  {
+    "chip_name": "Wasabi Lime",
+    "description": "Lime zest meets wasabi blast in a chip that's zippy yet cool. Perfect for slurping oysters Rockefeller style!",
+    "date": "2025-01-10"
+  },
+  {
+    "chip_name": "Thai Lemongrass & Lime",
+    "description": "Savor the tropics in every crunch! Thai Lemongrass & Lime chips bring sunshine to your snacking. Bright, zesty flavors dance on your tongue like a mid-winter getaway. Pair with creamy coconut curry or sip on a refreshing lime soda for the ultimate flavor adventure today, National Apricot Day!",
+    "date": "2025-01-09"
+  },
+  {
+    "chip_name": "Mexican Fiesta Lime",
+    "description": "\"Jazzy citrus tang meets crunchy perfection. Celebrate unity and innovation with every bite of Mexican Fiesta Lime - it's like a fiesta in your mouth!\"",
+    "date": "2025-01-08"
+  },
+  {
+    "chip_name": "Tom Yum Lime Chips",
+    "description": "Savor the bold balance of Tom Yum's spicy tang and lime zest in each crispy bite. Today, celebrate the fusion of Asian flavors and Western crunch  a perfect pairing for your favorite dips or simply as a zesty snack that tickles your adventurous taste buds on National Day Radio Station Programming Site Advertising Trademark Licensing Speaking & Appearances Press Watch Latest Videos New National Day Proclamations National Day Calendar in the Headlines Celebrate Every Day Tell Us How You Celebrate Recipes Classroom Listoric.com Celebrat.",
+    "date": "2025-01-07"
+  },
+  {
+    "chip_name": "Lemongrass & Lime Potato Crisps",
+    "description": "\"Start your day with a zesty awakening! Lemongrass and lime in every crisp bite. Perfect for January's sunny resolutions or a tangy twist on the New Year's breakfast routine.\"",
+    "date": "2025-01-06"
+  },
+  {
+    "chip_name": "Cheddar & Chive",
+    "description": "Celebrate National Whipped Cream Day with a creamy burst in every bite. Our Cheddar & Chive chips are like cloud-kissed hills of Ireland, pairing perfectly with your favorite dips. Crispy, zesty, and oh-so-satisfying, they're the perfect match for a sweet and savory St. Patrick's Day treat!",
+    "date": "2025-01-05"
+  },
+  {
+    "chip_name": "Lemongrass & Lime Chips",
+    "description": "Savor zesty sunshine in every bite! Lemongrass & Lime Chips: the tropical breeze of flavor, perfect for today's World Hypnotism Day. Close your eyes, take a chip, and let the zippy zest hypnotize your senses.",
+    "date": "2025-01-04"
+  },
+  {
+    "chip_name": "Miso & Wasabi Crunch",
+    "description": "\"Today, miso's savory depth meets wasabi's fiery kick in this crispy wonder. Celebrate National Fruitcake Toss Day with a twist - toss these crunchies for an unexpected flavor adventure!\"",
+    "date": "2025-01-03"
+  },
+  {
+    "chip_name": "Kale & Bacon Chips",
+    "description": "Celebrate World Introvert Day in style with Kale & Bacon Chipscrunchy, savory bliss that's secretly healthy. Just like introverts, these chips are a little mysterious and packed with flavor. Dip them in a cozy mug of tea or coffee; they're the perfect solo companion for introspection and creativity.",
+    "date": "2025-01-02"
   },
   {
     "chip_name": "Wasabi & Sesame",
