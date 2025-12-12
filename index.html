@@ -513,7 +513,12 @@
             try {
                 const response = await fetch('chip_history.json');
                 if (!response.ok) throw new Error('History not available');
-                const history = await response.json();
+                let history = await response.json();
+                
+                // Filter out future dates (we generate chips ahead for timezone support)
+                const today = new Date();
+                today.setHours(23, 59, 59, 999); // End of today
+                history = history.filter(chip => new Date(chip.date) <= today);
                 
                 // Sort by date descending (most recent first)
                 history.sort((a, b) => new Date(b.date) - new Date(a.date));
