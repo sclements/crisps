@@ -404,15 +404,42 @@
             try {
                 const response = await fetch('chip_of_the_day.json');
                 if (!response.ok) throw new Error(`${L.chip} of the day not available`);
-                const chipData = await response.json();
+                const chipsData = await response.json();
+                
+                // Find today's chip from the array (supports timezone differences)
+                const today = new Date();
+                const todayStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
+                
+                // Handle both array (new format) and single object (old format)
+                let chipData;
+                if (Array.isArray(chipsData)) {
+                    chipData = chipsData.find(c => c.date === todayStr);
+                    // Fallback to first chip if today's not found
+                    if (!chipData && chipsData.length > 0) {
+                        chipData = chipsData[0];
+                    }
+                } else {
+                    chipData = chipsData;
+                }
+                
+                if (!chipData) {
+                    throw new Error(`No ${L.chip.toLowerCase()} data available`);
+                }
                 
                 // Create Google search URL (use "chips" for search since that's the global term)
                 const searchTerm = isUKLocale ? 'crisps' : 'chips';
                 const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" ' + searchTerm)}`;
                 
                 // Format today's date
-                const today = new Date();
                 const dateStr = today.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+                
+                // Build Wikipedia URL for the date (e.g., https://en.wikipedia.org/wiki/December_11)
+                const monthName = today.toLocaleDateString('en-US', { month: 'long' });
+                const dayNum = today.getDate();
+                const wikipediaDateUrl = `https://en.wikipedia.org/wiki/${monthName}_${dayNum}`;
+                
+                // Date display - link to Wikipedia date page
+                const dateHtml = `<a href="${wikipediaDateUrl}" target="_blank" class="opacity-75 font-normal hover:opacity-100 hover:underline transition-opacity">${dateStr}</a>`;
                 
                 // Chip image or fallback emoji
                 const chipImageHtml = chipData.image_url
@@ -421,6 +448,11 @@
                             <span class="text-4xl">🥔</span>
                        </div>`;
                 
+                // Event reference link (if available)
+                const eventLinkHtml = chipData.event_url
+                    ? `<a href="${chipData.event_url}" target="_blank" class="text-orange-500 hover:text-orange-600 hover:underline text-xs">[ref]</a>`
+                    : '';
+                
                 chipDiv.innerHTML = `
                     <div class="flex flex-col items-center">
                         <!-- Badge -->
@@ -428,7 +460,7 @@
                             <span>✨</span>
                             <span>${L.chip} of the Day</span>
                             <span class="opacity-75">•</span>
-                            <span class="opacity-75 font-normal">${dateStr}</span>
+                            ${dateHtml}
                         </div>
                         
                         <!-- Image -->
@@ -441,8 +473,8 @@
                             <a href="${searchUrl}" target="_blank" class="hover:text-orange-600 transition-colors">${chipData.chip_name}</a>
                         </h3>
                         
-                        <!-- Description -->
-                        <p class="text-gray-600 text-sm leading-relaxed text-center mb-5">${chipData.description}</p>
+                        <!-- Description with event reference -->
+                        <p class="text-gray-600 text-sm leading-relaxed text-center mb-5">${chipData.description} ${eventLinkHtml}</p>
                         
                         <!-- History link -->
                         <a href="#" id="chip-history-link" class="inline-flex items-center gap-1.5 text-xs text-orange-500 hover:text-orange-600 font-medium transition-colors bg-orange-50 px-3 py-1.5 rounded-full">
