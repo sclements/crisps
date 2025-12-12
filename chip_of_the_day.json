@@ -1,11 +1,5 @@
 [
   {
-    "chip_name": "Indiana Cornbread Honey Butter",
-    "description": "Sweet cornbread essence with a touch of honey, perfectly crisp. A savory tribute to Indiana's culinary heritage on today's plate.",
-    "date": "2025-12-11",
-    "image_url": "https://www.hanyangmart.com/cdn/shop/products/IMG_3200.jpg?v=1678757307&width=1000"
-  },
-  {
     "chip_name": "Chardonnay & White Truffle",
     "description": "Today, savor the luxurious blend of buttery Chardonnay and earthy white truffles in each crispy bite. A toast to flavor, celebrating today's culinary delights.",
     "date": "2025-12-12",
@@ -19,5 +13,13 @@
     "date": "2025-12-13",
     "event_url": "https://en.wikipedia.org/wiki/National_Day_(Saint_Lucia)",
     "event_name": "National Day (Saint Lucia)"
+  },
+  {
+    "chip_name": "Jalape\u00f1o",
+    "description": "Did you know jalapeos are native to Central Mexico? Their fiery flavor adds a spicy kick to today's Jalapeo tortilla chips.",
+    "date": "2025-12-14",
+    "event_url": "https://en.wikipedia.org/wiki/John_of_the_Cross",
+    "event_name": "John of the Cross",
+    "image_url": "https://i5.walmartimages.com/seo/Miss-Vickie-s-Jalapeno-Flavored-Potato-Chips-8-0-oz-Bag_fc1386bb-c03c-4c4b-805d-9ac85e44e9f7_1.ae4ad1302a06498c902a454bc8dac27b.jpeg"
   }
 ]

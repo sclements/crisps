@@ -1,5 +1,13 @@
 [
   {
+    "chip_name": "Jalape\u00f1o",
+    "description": "Did you know jalapeos are native to Central Mexico? Their fiery flavor adds a spicy kick to today's Jalapeo tortilla chips.",
+    "date": "2025-12-14",
+    "event_url": "https://en.wikipedia.org/wiki/John_of_the_Cross",
+    "event_name": "John of the Cross",
+    "image_url": "https://i5.walmartimages.com/seo/Miss-Vickie-s-Jalapeno-Flavored-Potato-Chips-8-0-oz-Bag_fc1386bb-c03c-4c4b-805d-9ac85e44e9f7_1.ae4ad1302a06498c902a454bc8dac27b.jpeg"
+  },
+  {
     "chip_name": "Mango & Hibiscus Bliss",
     "description": "Savor tropical sweetness and zesty hibiscus notes, wrapped in a crispy potato shell. Celebrating National Day with flavors of Saint Lucia's culinary heritage.",
     "date": "2025-12-13",
@@ -15,22 +23,106 @@
     "image_url": "http://titaitalia.com/cdn/shop/files/truffl_echips_1200x1200.jpg?v=1734625439"
   },
   {
-    "chip_name": "Moringa Leaf Fritter, Sea Salt & Curry Crumble",
-    "description": "Did you know Moringa leaves are rich in nutrients and traditionally used in African cuisine? Today's Kettle Chip features these leaves, offering an exotic crunch with sea salt and curry crumble.",
-    "date": "2025-08-03"
+    "chip_name": "Indiana Corn",
+    "description": "Did you know Indiana is the nation's top producer of popcorn? Today we celebrate Indiana Corn, which combines the state's famous crop with crispy chip perfection.",
+    "date": "2025-12-11",
+    "event_url": "https://en.wikipedia.org/wiki/Indiana_Day",
+    "event_name": "Indiana Day (United States)",
+    "image_url": "https://www.allrecipes.com/thmb/JZYMhHOeSbMmH807KhTzacha01U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-taste-test-corn-chips-great-value-crunchy-corn-chips-121fd1b96cf045b58f42f2e36d680527.jpg"
   },
   {
-    "chip_name": "Molua Seafood Medley, Oceanic Truffle Crisp",
-    "description": "Did you know Molua is the Hawaiian word for mackerel? Today's Oceanic Truffle Crisp combines zesty seafood medley with earthy truffles, blending flavors from the sea and land.",
-    "date": "2025-08-04",
-    "event_url": "https://en.wikipedia.org/wiki/Mo_Lua_of_Killaloe",
-    "event_name": "Molua (or Lua)"
+    "chip_name": "Authentic Greek Olive Oil",
+    "description": "Did you know that the cultivation of olives dates back to ancient Greece? Today's chip is infused with authentic Greek olive oil, carrying centuries of culinary tradition and the rich flavors of the Mediterranean.",
+    "date": "2025-12-10",
+    "event_url": "https://en.wikipedia.org/wiki/December_10_(Eastern_Orthodox_liturgics)",
+    "event_name": "December 10 (Eastern Orthodox liturgics)",
+    "image_url": "https://inrorwxhkliplp5p.ldycdn.com/cloud/ljBpoKoolpSRpjrlnlrmip/USDA-ORGANIC-Organic-Supersnacks-Potato-Chips-Packaging.jpg"
   },
   {
-    "chip_name": "Italian Truffle Twist, Basilica Parmesan Crunch",
-    "description": "Did you know potatoes were first cultivated by the Incas in Peru over 7000 years ago? Our today's Chip of the Day, Italian Truffle Twist, Basilica Parmesan Crunch, celebrates this ancient root with a ...",
-    "date": "2025-08-05",
-    "event_url": "https://en.wikipedia.org/wiki/Dedication_of_the_Basilica_of_St_Mary_Major",
-    "event_name": "Dedication of the Basilica of St Mary Major (Catholic Church)"
+    "chip_name": "Mexican Street Corn",
+    "description": "Did you know Mexican Street Corn is inspired by elote, the traditional corn on the cob topped with chili powder, mayo, cotija cheese, and lime juice? Today's Chip of the Day captures this vibrant stre...",
+    "date": "2025-12-09",
+    "event_url": "https://en.wikipedia.org/wiki/Juan_Diego",
+    "event_name": "Juan Diego",
+    "image_url": "https://www.kroger.com/product/images/xlarge/front/0001111013113"
+  },
+  {
+    "chip_name": "Bodhi",
+    "description": "Did you know that Bodhi chips are inspired by Bodhi Day and the sacred Bodhi Tree? Originating in ancient India, this tree holds deep spiritual significance.",
+    "date": "2025-12-08",
+    "image_url": "https://media-photos.depop.com/b1/33164267/1417961453_804049da3eee4fcc8ec58eb84644641b/P0.jpg"
+  },
+  {
+    "chip_name": "Arepas",
+    "description": "Did you know Arepas are traditional Colombian flatbreads made from cornmeal? These crispy delights showcase the vibrant flavors of Colombia's culinary heritage.",
+    "date": "2025-12-07",
+    "image_url": "https://lh3.googleusercontent.com/oP1C3BK8234U3hfONAdM2dE00yvOcmn8tMKq0fhNP6ygJEjhCj0At4xEnbtiwMvqWKUqodhv_dtBDyYZ2qJiYJmIFlEhmJriTPN2bERC1e97x34"
+  },
+  {
+    "chip_name": "Lemon",
+    "description": "Did you know lemons are native to Asia but now thrive worldwide? Their tangy zest adds zing to today's potato chips, echoing the citrus notes found in traditional Ecuadorian ceviche.",
+    "date": "2025-12-06",
+    "image_url": "https://i5.walmartimages.com/asr/b84cc79b-e532-4c9d-b882-5351ed40e469.b31cb833631836bcb233ee4535ba514a.jpeg?odnHeight=372&odnWidth=372&odnBg=FFFFFF"
+  },
+  {
+    "chip_name": "Crispy",
+    "description": "Did you know that the term 'crispy' originates from ancient cooking techniques used to achieve a perfect crunch? Today's Crispy potato chip celebrates this culinary artistry, offering a satisfying snap in every bite.",
+    "date": "2025-12-05",
+    "event_url": "https://en.wikipedia.org/wiki/Crispina",
+    "event_name": "Crispina",
+    "image_url": "https://www.gosupps.com/media/catalog/product/7/1/71gl9djps1L.jpg"
+  },
+  {
+    "chip_name": "Korean Bbq",
+    "description": "Did you know Korean BBQ isn't just about meat? Today's chip combines the flavors of marinated beef, sweet soy sauce, and savory garlic, giving a taste of Korea's vibrant culinary scene.",
+    "date": "2025-12-04",
+    "event_url": "https://en.wikipedia.org/wiki/Anno_II",
+    "event_name": "Anno II",
+    "image_url": "https://i5.walmartimages.com/seo/Wicked-Cutz-Korean-BBQ-DMF15-Beef-Jerky-Chips-14g-Protein-per-Bag-Crispy-Crunchy-Beef-Jerky-Crisps-USA-Made-Barbeque-Flavored-Chips-High-Protein-Carn_19c652a4-1a05-43ab-84e2-29b9c91eccde.a08a7fa73725d3c1aa9c6afe644c009e.jpeg"
+  },
+  {
+    "chip_name": "Coptic",
+    "description": "Did you know the Coptic potato chip is inspired by Pope Abraham of Alexandria (6 Koiak)? Born today, this ancient leader connects us to Egypt's rich Christian heritage through its distinct flavor.",
+    "date": "2025-12-03",
+    "event_url": "https://en.wikipedia.org/wiki/Pope_Abraham_of_Alexandria",
+    "event_name": "Pope Abraham of Alexandria (Coptic, 6 Koiak))"
+  },
+  {
+    "chip_name": "Cuba Libre",
+    "description": "Did you know that the flavors of Cuba Libre's potato chips are inspired by the vibrant culture and history of Cuba? Each crisp bite is a journey through traditional Cuban spices and ingredients.",
+    "date": "2025-12-02",
+    "event_url": "https://en.wikipedia.org/wiki/Armed_Forces_Day_(Cuba)",
+    "event_name": "Armed Forces Day (Cuba)",
+    "image_url": "https://inrorwxhkliplp5p.ldycdn.com/cloud/lqBpoKoolpSRojkorqlmip/compostable-chips-bags.jpg"
+  },
+  {
+    "chip_name": "Russian Dill",
+    "description": "Did you know dill is native to Europe and Asia? Its crisp, fresh flavor now adds a unique twist to today's Russian-themed potato chips, celebrating the spirit of Battle of the Sinop Day.",
+    "date": "2025-12-01",
+    "event_url": "https://en.wikipedia.org/wiki/Days_of_Military_Honour",
+    "event_name": "Battle of the Sinop Day (Russia)",
+    "image_url": "https://nutriwise.com/cdn/shop/files/dill-pickle-protein-chips-7bags-protiwise-protiwise.jpg?v=1721245732"
+  },
+  {
+    "chip_name": "Jerk",
+    "description": "Did you know Jerk seasoning is inspired by the spicy flavors of Barbados cuisine? Today's Chip of the Day brings bold Jamaican flavor to your snack, connecting you to Caribbean culinary heritage.",
+    "date": "2025-11-30",
+    "image_url": "https://m.media-amazon.com/images/I/81bg5Yf3jJL._SL1500_.jpg"
+  },
+  {
+    "chip_name": "Italian Herb Cheese",
+    "description": "Did you know that Italy's rich culinary tradition inspired our Italian Herb Cheese chip flavor? Savory cheese meets fragrant herbs, reflecting centuries of Mediterranean gastronomic heritage.",
+    "date": "2025-11-29",
+    "event_url": "https://en.wikipedia.org/wiki/Francis_Fasani",
+    "event_name": "Francis Fasani",
+    "image_url": "https://a.storyblok.com/f/136139/1024x470/39f3a12075/italianherb_minibag_front_storyblok_1024x470_trnsbkgrnd_2025.png/m/1024x650"
+  },
+  {
+    "chip_name": "Bukovina",
+    "description": "Did you know that Bukovina is known for Mmlig, Romania's beloved cornmeal porridge? Today's Bukovina potato chips celebrate this cherished tradition by combining crispy potato crunch with the rich fla...",
+    "date": "2025-11-28",
+    "event_url": "https://en.wikipedia.org/wiki/Bukovina_Day",
+    "event_name": "Bukovina Day (Romania)",
+    "image_url": "https://inrorwxhkliplp5p.ldycdn.com/cloud/lqBpoKoolpSRojkorqlmip/compostable-chips-bags.jpg"
   }
 ]
