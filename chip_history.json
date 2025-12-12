@@ -1,5 +1,20 @@
 [
   {
+    "chip_name": "Mango & Hibiscus Bliss",
+    "description": "Savor tropical sweetness and zesty hibiscus notes, wrapped in a crispy potato shell. Celebrating National Day with flavors of Saint Lucia's culinary heritage.",
+    "date": "2025-12-13",
+    "event_url": "https://en.wikipedia.org/wiki/National_Day_(Saint_Lucia)",
+    "event_name": "National Day (Saint Lucia)"
+  },
+  {
+    "chip_name": "Chardonnay & White Truffle",
+    "description": "Today, savor the luxurious blend of buttery Chardonnay and earthy white truffles in each crispy bite. A toast to flavor, celebrating today's culinary delights.",
+    "date": "2025-12-12",
+    "event_url": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal",
+    "event_name": "Jane Frances de Chantal",
+    "image_url": "http://titaitalia.com/cdn/shop/files/truffl_echips_1200x1200.jpg?v=1734625439"
+  },
+  {
     "chip_name": "Indiana Cornbread Honey Butter",
     "description": "Sweet cornbread essence with a touch of honey, perfectly crisp. A savory tribute to Indiana's culinary heritage on today's plate.",
     "date": "2025-12-11",
