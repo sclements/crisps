@@ -1,13 +1,5 @@
 [
   {
-    "chip_name": "Chardonnay & White Truffle",
-    "description": "Today, savor the luxurious blend of buttery Chardonnay and earthy white truffles in each crispy bite. A toast to flavor, celebrating today's culinary delights.",
-    "date": "2025-12-12",
-    "event_url": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal",
-    "event_name": "Jane Frances de Chantal",
-    "image_url": "http://titaitalia.com/cdn/shop/files/truffl_echips_1200x1200.jpg?v=1734625439"
-  },
-  {
     "chip_name": "Mango & Hibiscus Bliss",
     "description": "Savor tropical sweetness and zesty hibiscus notes, wrapped in a crispy potato shell. Celebrating National Day with flavors of Saint Lucia's culinary heritage.",
     "date": "2025-12-13",
@@ -21,5 +13,10 @@
     "event_url": "https://en.wikipedia.org/wiki/John_of_the_Cross",
     "event_name": "John of the Cross",
     "image_url": "https://i5.walmartimages.com/seo/Miss-Vickie-s-Jalapeno-Flavored-Potato-Chips-8-0-oz-Bag_fc1386bb-c03c-4c4b-805d-9ac85e44e9f7_1.ae4ad1302a06498c902a454bc8dac27b.jpeg"
+  },
+  {
+    "chip_name": "Gouda",
+    "description": "Today's Chip of the Day is inspired by the rich flavors and traditions of the Netherlands - home to one of the world's most beloved cheeses: Gouda.",
+    "date": "2025-12-15"
   }
 ]

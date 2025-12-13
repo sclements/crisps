@@ -1,5 +1,10 @@
 [
   {
+    "chip_name": "Gouda",
+    "description": "Today's Chip of the Day is inspired by the rich flavors and traditions of the Netherlands - home to one of the world's most beloved cheeses: Gouda.",
+    "date": "2025-12-15"
+  },
+  {
     "chip_name": "Jalape\u00f1o",
     "description": "Did you know jalapeos are native to Central Mexico? Their fiery flavor adds a spicy kick to today's Jalapeo tortilla chips.",
     "date": "2025-12-14",
@@ -66,7 +71,7 @@
   },
   {
     "chip_name": "Crispy",
-    "description": "Did you know that the term 'crispy' originates from ancient cooking techniques used to achieve a perfect crunch? Today's Crispy potato chip celebrates this culinary artistry, offering a satisfying snap in every bite.",
+    "description": "Event: \"International Potato Day (November 3rd)\" | Chip: \"Crispy\"\n \"Join us on International Potato Day as we celebrate this versatile root vegetable.",
     "date": "2025-12-05",
     "event_url": "https://en.wikipedia.org/wiki/Crispina",
     "event_name": "Crispina",
@@ -82,26 +87,26 @@
   },
   {
     "chip_name": "Coptic",
-    "description": "Did you know the Coptic potato chip is inspired by Pope Abraham of Alexandria (6 Koiak)? Born today, this ancient leader connects us to Egypt's rich Christian heritage through its distinct flavor.",
+    "description": "Event: Pope Abraham of Alexandria (Coptic, 6 Koiak)\nChip: Cinnamon Honey\n\nToday we celebrate the birth of Pope Abraham of Alexandria, an influential figure in early Christianity.",
     "date": "2025-12-03",
     "event_url": "https://en.wikipedia.org/wiki/Pope_Abraham_of_Alexandria",
     "event_name": "Pope Abraham of Alexandria (Coptic, 6 Koiak))"
   },
   {
-    "chip_name": "Cuba Libre",
-    "description": "Did you know that the flavors of Cuba Libre's potato chips are inspired by the vibrant culture and history of Cuba? Each crisp bite is a journey through traditional Cuban spices and ingredients.",
+    "chip_name": "Arabian Spice",
+    "description": "Today we celebrate National Day (United Arab Emirates), marking the unification of seven emirates. This festive occasion is reflected in our today's Chip of the Day: \"Arabian Spice.",
     "date": "2025-12-02",
-    "event_url": "https://en.wikipedia.org/wiki/Armed_Forces_Day_(Cuba)",
-    "event_name": "Armed Forces Day (Cuba)",
-    "image_url": "https://inrorwxhkliplp5p.ldycdn.com/cloud/lqBpoKoolpSRojkorqlmip/compostable-chips-bags.jpg"
+    "event_url": "https://en.wikipedia.org/wiki/National_Day_(United_Arab_Emirates)",
+    "event_name": "National Day (United Arab Emirates)",
+    "image_url": "https://almaherchips.com/wp-content/uploads/2023/03/chips-design.jpg"
   },
   {
-    "chip_name": "Russian Dill",
-    "description": "Did you know dill is native to Europe and Asia? Its crisp, fresh flavor now adds a unique twist to today's Russian-themed potato chips, celebrating the spirit of Battle of the Sinop Day.",
+    "chip_name": "Caviar",
+    "description": "Event: \"Battle of Sinop Day (Russia)\"\nChip: \"Smoked Salmon Caviar\"\n\nIn honor of the historic Battle of Sinop Day, commemorating Russia's naval victory in 1854, our Smoked Salmon Caviar chips bring a burst of salty luxury to your palate.",
     "date": "2025-12-01",
     "event_url": "https://en.wikipedia.org/wiki/Days_of_Military_Honour",
     "event_name": "Battle of the Sinop Day (Russia)",
-    "image_url": "https://nutriwise.com/cdn/shop/files/dill-pickle-protein-chips-7bags-protiwise-protiwise.jpg?v=1721245732"
+    "image_url": "https://www.sweets-and-tasty.com/wp-content/uploads/2024/02/hunters-gourmet-hand-cooked-potato-chips-black-caviar-150gm.jpg"
   },
   {
     "chip_name": "Jerk",
@@ -118,11 +123,47 @@
     "image_url": "https://a.storyblok.com/f/136139/1024x470/39f3a12075/italianherb_minibag_front_storyblok_1024x470_trnsbkgrnd_2025.png/m/1024x650"
   },
   {
-    "chip_name": "Bukovina",
-    "description": "Did you know that Bukovina is known for Mmlig, Romania's beloved cornmeal porridge? Today's Bukovina potato chips celebrate this cherished tradition by combining crispy potato crunch with the rich fla...",
-    "date": "2025-11-28",
-    "event_url": "https://en.wikipedia.org/wiki/Bukovina_Day",
-    "event_name": "Bukovina Day (Romania)",
-    "image_url": "https://inrorwxhkliplp5p.ldycdn.com/cloud/lqBpoKoolpSRojkorqlmip/compostable-chips-bags.jpg"
+    "chip_name": "Lutheran",
+    "description": "Celebrated on November 10th by Bartholomus Ziegenbalg, the founder of the Lutheran Church in America.",
+    "date": "2025-11-07",
+    "event_url": "https://en.wikipedia.org/wiki/Bartholom%C3%A4us_Ziegenbalg",
+    "event_name": "Bartholom\u00e4us Ziegenbalg (Lutheran)",
+    "image_url": "https://cdn.theschoollocker.com.au/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/i/m/img_5527.jpg"
+  },
+  {
+    "chip_name": "Pumpernickel",
+    "description": "Gustavus Adolphus Day celebrates the life of this historical figure who was instrumental in the advancement of education and military strategies.",
+    "date": "2025-11-06",
+    "image_url": "https://i5.walmartimages.com/seo/Gardetto-s-Snack-Mix-Roasted-Garlic-Rye-Chips-8-oz_ba723481-8001-41ab-9733-d5c6a69c3372.4d4e2bdbd94b930ca9858b67cc385e32.jpeg?odnHeight=372&odnWidth=372&odnBg=FFFFFF"
+  },
+  {
+    "chip_name": "Plantain",
+    "description": "Today's Chip of the Day celebrates the rich flavors of Panama cuisine: Plantains.",
+    "date": "2025-11-05",
+    "image_url": "https://m.media-amazon.com/images/I/81yxeR7iqbL._SL1500_.jpg"
+  },
+  {
+    "chip_name": "Alpine Cheese",
+    "description": "Today we celebrate the alpine region's rich dairy heritage. Alpine Cheese, our Chip of the Day, brings to your plate the bold, nutty flavors of traditional Swiss cheese.",
+    "date": "2025-11-03",
+    "event_url": "https://en.wikipedia.org/wiki/Alpa%C3%AFs_of_Cudot",
+    "event_name": "Alpa\u00efs of Cudot",
+    "image_url": "https://down-id.img.susercontent.com/file/id-11134201-7ras9-m0r1wqcu3yuvbb"
+  },
+  {
+    "chip_name": "Irish Whiskey",
+    "description": "Did you know that Irish whiskey is triple-distilled for unparalleled smoothness and depth of flavor? Crafted using the finest Irish potatoes today, it's a rich part of Ireland's centuries-old brewing tradition.",
+    "date": "2025-11-02",
+    "event_url": "https://en.wikipedia.org/wiki/Erc_of_Slane",
+    "event_name": "Erc of Slane (Ireland)",
+    "image_url": "https://shieurasia.com/cdn/shop/products/Keogh_sIrishWHiskeyBarbequePotatoCrispsChips125g_bgremoved_530x@2x.png?v=1678898662"
+  },
+  {
+    "chip_name": "Coconut",
+    "description": "Did you know that coconut chips offer the delightful taste of tropical paradise? Today marks Kerala Day in India, known for its rich culinary heritage including the famous Idli.",
+    "date": "2025-11-01",
+    "event_url": "https://en.wikipedia.org/wiki/Kerala_Day",
+    "event_name": "Kerala Day (Kerala, India)",
+    "image_url": "https://cehub.lk/wp-content/uploads/2024/05/ceylon_coconut_chips_1.webp"
   }
 ]
