@@ -1,22 +1,21 @@
 [
   {
-    "chip_name": "Mango & Hibiscus Bliss",
-    "description": "Savor tropical sweetness and zesty hibiscus notes, wrapped in a crispy potato shell. Celebrating National Day with flavors of Saint Lucia's culinary heritage.",
-    "date": "2025-12-13",
-    "event_url": "https://en.wikipedia.org/wiki/National_Day_(Saint_Lucia)",
-    "event_name": "National Day (Saint Lucia)"
-  },
-  {
-    "chip_name": "Jalape\u00f1o",
-    "description": "Did you know jalapeos are native to Central Mexico? Their fiery flavor adds a spicy kick to today's Jalapeo tortilla chips.",
+    "chip_name": "Alabama Bbq",
+    "description": "Celebrating Alabama Day (June 12) - the day when the state of Alabama was admitted to the Union.",
     "date": "2025-12-14",
-    "event_url": "https://en.wikipedia.org/wiki/John_of_the_Cross",
-    "event_name": "John of the Cross",
-    "image_url": "https://i5.walmartimages.com/seo/Miss-Vickie-s-Jalapeno-Flavored-Potato-Chips-8-0-oz-Bag_fc1386bb-c03c-4c4b-805d-9ac85e44e9f7_1.ae4ad1302a06498c902a454bc8dac27b.jpeg"
+    "event_url": "https://en.wikipedia.org/wiki/Alabama_Day",
+    "event_name": "Alabama Day (Alabama)",
+    "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_2251e77a-8e1c-4b94-b20d-5e217d68f0f1.png"
   },
   {
     "chip_name": "Gouda",
     "description": "Today's Chip of the Day is inspired by the rich flavors and traditions of the Netherlands - home to one of the world's most beloved cheeses: Gouda.",
     "date": "2025-12-15"
+  },
+  {
+    "chip_name": "Ginger Rooibos",
+    "description": "Today's Chip of the Day celebrates the rich Afrikaner culinary heritage with our Ginger Rooibos potato chips.",
+    "date": "2025-12-16",
+    "image_url": "https://mediboom.co.za/wp-content/uploads/2024/02/Khoisan-Gourmet-Rooibos-Ginger-Infusion-50g-.png"
   }
 ]
