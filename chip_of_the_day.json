@@ -1,10 +1,5 @@
 [
   {
-    "chip_name": "Gouda",
-    "description": "Today's Chip of the Day is inspired by the rich flavors and traditions of the Netherlands - home to one of the world's most beloved cheeses: Gouda.",
-    "date": "2025-12-15"
-  },
-  {
     "chip_name": "Ginger Rooibos",
     "description": "Today's Chip of the Day celebrates the rich Afrikaner culinary heritage with our Ginger Rooibos potato chips.",
     "date": "2025-12-16",
@@ -16,5 +11,13 @@
     "date": "2025-12-17",
     "event_url": "https://en.wikipedia.org/wiki/National_Day_(Bhutan)",
     "event_name": "National Day (Bhutan)"
+  },
+  {
+    "chip_name": "Garlic Clove",
+    "description": "Celebrating National Day (Qatar), we're spotlighting our Garlic Clove potato chips today.",
+    "date": "2025-12-18",
+    "event_url": "https://en.wikipedia.org/wiki/Qatar_National_Day",
+    "event_name": "National Day (Qatar)",
+    "image_url": "https://www.natuchipsusa.com/sites/natuchips.com/files/2024-02/garlic.png"
   }
 ]
