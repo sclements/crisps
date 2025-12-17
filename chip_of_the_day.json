@@ -1,16 +1,10 @@
 [
   {
-    "chip_name": "Ginger Rooibos",
-    "description": "Today's Chip of the Day celebrates the rich Afrikaner culinary heritage with our Ginger Rooibos potato chips.",
-    "date": "2025-12-16",
-    "image_url": "https://mediboom.co.za/wp-content/uploads/2024/02/Khoisan-Gourmet-Rooibos-Ginger-Infusion-50g-.png"
-  },
-  {
-    "chip_name": "Bhutanese Chili",
-    "description": "Event: National Day (Bhutan)\nChip: Bhutanese Chili\n\nIn honor of Bhutan's vibrant National Day celebrations, our Bhutanese Chili potato chips offer a bold and fiery tribute to the country's rich culinary heritage.",
+    "chip_name": "Citrus",
+    "description": "Celebrating the local commemoration of Lazarus of Bethany in Cuba, today's Chip of the Day is \"Citrus\".",
     "date": "2025-12-17",
-    "event_url": "https://en.wikipedia.org/wiki/National_Day_(Bhutan)",
-    "event_name": "National Day (Bhutan)"
+    "event_url": "https://en.wikipedia.org/wiki/Lazarus_of_Bethany",
+    "event_name": "Lazarus of Bethany (local commemoration in Cuba)"
   },
   {
     "chip_name": "Garlic Clove",
