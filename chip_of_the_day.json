@@ -1,13 +1,5 @@
 [
   {
-    "chip_name": "Virgin Olive Oil",
-    "description": "Event: \"Olives are harvested at their peak ripeness\" | Chip: \"Virgin Olive Oil\"\n\n \"Bursting with the freshness of just-picked olives, today marks the perfect timing when nature's bounty is at its finest.",
-    "date": "2025-12-17",
-    "event_url": "https://en.wikipedia.org/wiki/Josep_Manyanet_i_Vives",
-    "event_name": "Josep Manyanet i Vives",
-    "image_url": "https://m.media-amazon.com/images/I/91pajPFSmHL._AC_.jpg"
-  },
-  {
     "chip_name": "Chipotle",
     "description": "National Day (Qatar) | Chip: \"Spiced Qatar\"\n\nToday we celebrate National Day in Qatar - a time to honor the country's rich culture and heritage.",
     "date": "2025-12-18",
@@ -20,5 +12,13 @@
     "description": "Celebrating Anguilla's culinary heritage today, we introduce our Shrimp potato chips.",
     "date": "2025-12-19",
     "image_url": "https://m.media-amazon.com/images/I/71MADERRKkL.jpg"
+  },
+  {
+    "chip_name": "Ranch",
+    "description": "Event: \"National Potato Day\" \nChip: \"Ranch\"\n\nToday marks National Potato Daya celebration of one of the world's most versatile and beloved root vegetables.",
+    "date": "2025-12-20",
+    "event_url": "https://en.wikipedia.org/wiki/O_Clavis",
+    "event_name": "O Clavis",
+    "image_url": "https://i5.walmartimages.com/asr/a07ad4e8-b329-4c97-853a-fd1bf843243e_1.3c772781e9fdc59cea410ea5e19a1950.jpeg"
   }
 ]
