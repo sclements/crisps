@@ -1,17 +1,24 @@
 [
   {
-    "chip_name": "Citrus",
-    "description": "Celebrating the local commemoration of Lazarus of Bethany in Cuba, today's Chip of the Day is \"Citrus\".",
+    "chip_name": "Virgin Olive Oil",
+    "description": "Event: \"Olives are harvested at their peak ripeness\" | Chip: \"Virgin Olive Oil\"\n\n \"Bursting with the freshness of just-picked olives, today marks the perfect timing when nature's bounty is at its finest.",
     "date": "2025-12-17",
-    "event_url": "https://en.wikipedia.org/wiki/Lazarus_of_Bethany",
-    "event_name": "Lazarus of Bethany (local commemoration in Cuba)"
+    "event_url": "https://en.wikipedia.org/wiki/Josep_Manyanet_i_Vives",
+    "event_name": "Josep Manyanet i Vives",
+    "image_url": "https://m.media-amazon.com/images/I/91pajPFSmHL._AC_.jpg"
   },
   {
-    "chip_name": "Garlic Clove",
-    "description": "Celebrating National Day (Qatar), we're spotlighting our Garlic Clove potato chips today.",
+    "chip_name": "Chipotle",
+    "description": "National Day (Qatar) | Chip: \"Spiced Qatar\"\n\nToday we celebrate National Day in Qatar - a time to honor the country's rich culture and heritage.",
     "date": "2025-12-18",
     "event_url": "https://en.wikipedia.org/wiki/Qatar_National_Day",
     "event_name": "National Day (Qatar)",
-    "image_url": "https://www.natuchipsusa.com/sites/natuchips.com/files/2024-02/garlic.png"
+    "image_url": "https://images.naturalcollection.com/images/resize900/653834-Boundless-Chips-Sharing-Bag-Chipotle-Lime-80g-1.jpg"
+  },
+  {
+    "chip_name": "Shrimp",
+    "description": "Celebrating Anguilla's culinary heritage today, we introduce our Shrimp potato chips.",
+    "date": "2025-12-19",
+    "image_url": "https://m.media-amazon.com/images/I/71MADERRKkL.jpg"
   }
 ]

@@ -1,581 +1,130 @@
 [
   {
-    "chip_name": "Garlic Clove",
-    "description": "Celebrating National Day (Qatar), we're spotlighting our Garlic Clove potato chips today.",
+    "chip_name": "Shrimp",
+    "description": "Celebrating Anguilla's culinary heritage today, we introduce our Shrimp potato chips.",
+    "date": "2025-12-19",
+    "image_url": "https://m.media-amazon.com/images/I/71MADERRKkL.jpg"
+  },
+  {
+    "chip_name": "Chipotle",
+    "description": "National Day (Qatar) | Chip: \"Spiced Qatar\"\n\nToday we celebrate National Day in Qatar - a time to honor the country's rich culture and heritage.",
     "date": "2025-12-18",
     "event_url": "https://en.wikipedia.org/wiki/Qatar_National_Day",
     "event_name": "National Day (Qatar)",
-    "image_url": "https://www.natuchipsusa.com/sites/natuchips.com/files/2024-02/garlic.png"
-  },
-  {
-    "chip_name": "Citrus",
-    "description": "Celebrating the local commemoration of Lazarus of Bethany in Cuba, today's Chip of the Day is \"Citrus\".",
-    "date": "2025-12-17",
-    "event_url": "https://en.wikipedia.org/wiki/Lazarus_of_Bethany",
-    "event_name": "Lazarus of Bethany (local commemoration in Cuba)"
-  },
-  {
-    "chip_name": "Date Palm",
-    "description": "Event: \"National Day of Bahrain (1971)\" | Chip: \"Date Palm\"\n \"Marking the historic moment when the United Kingdom withdrew from Bahrain, making it an independent emirate.",
-    "date": "2025-12-16",
-    "event_url": "https://en.wikipedia.org/wiki/National_Day",
-    "event_name": "National Day, celebrates the withdrawal of United Kingdom from Bahrain, making Bahrain an independent emirate in 1971."
-  },
-  {
-    "chip_name": "Chili Lime",
-    "description": "Event: \"Taco Tuesday Tradition\" | Chip: \"Chili Lime\"\n \"Elevating the classic Taco Tuesday tradition, these Chili Lime tortilla chips bring bold flavors of the Southwest to your dinner table.",
-    "date": "2025-12-15",
-    "event_url": "https://en.wikipedia.org/wiki/Mesmin",
-    "event_name": "Mesmin"
-  },
-  {
-    "chip_name": "Spice Potato",
-    "description": "Event: \"John III of the Sedre (Syriac Orthodox Church)\"\nChip: \"Spice Potato\"\n\nBorn into history on this day was John III of the Sedre, an influential leader in the Syriac Orthodox Church.",
-    "date": "2025-12-14",
-    "event_url": "https://en.wikipedia.org/wiki/John_III_of_the_Sedre",
-    "event_name": "John III of the Sedre (Syriac Orthodox Church)"
-  },
-  {
-    "chip_name": "Scallion",
-    "description": "Celebrating the life of St Judoc aka St Joyce today, we honor her legacy with our Scallion potato chips.",
-    "date": "2025-12-13"
-  },
-  {
-    "chip_name": "Garlic & Dill",
-    "description": "Event: Constitution Day (Russia)\n \"On this day, Russia commemorates the adoption of its constitution.",
-    "date": "2025-12-12",
-    "event_url": "https://en.wikipedia.org/wiki/Constitution_Day",
-    "event_name": "Constitution Day (Russia)"
-  },
-  {
-    "chip_name": "Tomato & Basil",
-    "description": "Born on this day - the beloved flavors of Italy's culinary heritage - Tomato & Basil.",
-    "date": "2025-12-10",
-    "event_url": "https://en.wikipedia.org/wiki/Pope_Gregory_III",
-    "event_name": "Gregory III"
-  },
-  {
-    "chip_name": "Greek Olive Oil Fries",
-    "description": "Celebrating Hannah, revered biblical figure and Eastern Orthodox Church saint, today's Chip of the Day brings you a taste of ancient Greek tradition.",
-    "date": "2025-12-09",
-    "event_url": "https://en.wikipedia.org/wiki/Hannah_(biblical_figure)",
-    "event_name": "Hannah (biblical figure) (Eastern Orthodox Church)"
-  },
-  {
-    "chip_name": "Sake & Potato",
-    "description": "Event: Bodhi Day (Japan) | Chip: Sake & Potato\n\nOn this day of enlightenment and gratitude in Japan, our Sake & Potato chips pay homage to the country's rich culture.",
-    "date": "2025-12-08",
-    "event_url": "https://en.wikipedia.org/wiki/Bodhi_Day",
-    "event_name": "Bodhi Day (Japan)"
-  },
-  {
-    "chip_name": "Garlic Butter",
-    "description": "Event: \"Bastille Day (France)\" | Chip: \"Garlic Butter\"\n \"Marking the French national holiday celebrating their freedom, these Garlic Butter chips embody the essence of Parisian bistros and classic French flavors.",
-    "date": "2025-12-07",
-    "event_url": "https://en.wikipedia.org/wiki/Bu%C3%ADte_of_Monasterboice",
-    "event_name": "Bu\u00edte of Monasterboice",
-    "image_url": "https://www.thetakeout.com/img/gallery/the-new-trader-joes-chips-that-have-customers-filling-their-carts-up/the-garlic-butter-irish-potato-chips-join-an-impressive-lineup-of-snacks-at-trader-joes-1744301638.jpg"
-  },
-  {
-    "chip_name": "Jalapeno Chips",
-    "description": "Event: Independence Day (Finland) | Chip: Jalapeno Chips\n\nIn remembrance of Finland's liberation from Russian rule on December 6, 1917, today we celebrate with Jalapeno Chips.",
-    "date": "2025-12-06",
-    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Finland)",
-    "event_name": "Independence Day, celebrates the independence of Finland from Russia in 1917."
-  },
-  {
-    "chip_name": "Kale",
-    "description": "Celebrating the vibrant greens of today's Indiana Day, we honor Kale - the health-conscious superfood transformed into crispy delight.",
-    "date": "2025-12-05",
-    "event_url": "https://en.wikipedia.org/wiki/Crispina",
-    "event_name": "Crispina"
-  },
-  {
-    "chip_name": "Sour Cream & Chive",
-    "description": "Celebrating the timeless elegance and sophistication of Clement of Alexandria - an influential figure in both Anglicanism and Eastern Catholicism - today's Chip of the Day is the 'Sour Cream & Chive'.",
-    "date": "2025-12-04",
-    "event_url": "https://en.wikipedia.org/wiki/Clement_of_Alexandria",
-    "event_name": "Clement of Alexandria (Anglicanism, Eastern Catholicism)"
-  },
-  {
-    "chip_name": "Szechuan Pepper",
-    "description": "Event: \"Birinus, a Roman statesman\" | Chip: \"Szechuan Pepper\"\n \"Born on this day in ancient Rome, Birinus was a key figure of his time.",
-    "date": "2025-12-03",
-    "event_url": "https://en.wikipedia.org/wiki/Birinus",
-    "event_name": "Birinus"
-  },
-  {
-    "chip_name": "Maple Sugar",
-    "description": "Event: International Day for the Abolition of Slavery (United Nations)\n\nChip Flavor: Maple Sugar\n\n\"Marking the day dedicated to abolishing slavery worldwide, these Maple Sugar kettle chips are a tribute to freedom and sweetness.",
-    "date": "2025-12-02",
-    "event_url": "https://en.wikipedia.org/wiki/International_Day_for_the_Abolition_of_Slavery",
-    "event_name": "International Day for the Abolition of Slavery (United Nations)"
-  },
-  {
-    "chip_name": "Greek Yogurt Dip",
-    "description": "Celebrating the culinary legacy of Castritian, today's Chip of the Day is infused with the rich flavors of Greek Yogurt Dip.",
-    "date": "2025-12-01",
-    "event_url": "https://en.wikipedia.org/wiki/Castritian",
-    "event_name": "Castritian"
-  },
-  {
-    "chip_name": "Peanut Butter",
-    "description": "National Day (Benin) | Peanut Butter Chip\n\nToday marks Benin's National Day, celebrating its rich cultural heritage. Our \"Peanut Butter\" potato chip is a delightful tribute to this celebration.",
-    "date": "2025-11-30",
-    "event_url": "https://en.wikipedia.org/wiki/National_Day_(Benin)",
-    "event_name": "National Day (Benin)"
-  },
-  {
-    "chip_name": "Italian Herb Cheese",
-    "description": "Did you know that Italy's rich culinary tradition inspired our Italian Herb Cheese chip flavor? Savory cheese meets fragrant herbs, reflecting centuries of Mediterranean gastronomic heritage.",
-    "date": "2025-11-29",
-    "event_url": "https://en.wikipedia.org/wiki/Francis_Fasani",
-    "event_name": "Francis Fasani",
-    "image_url": "https://a.storyblok.com/f/136139/1024x470/39f3a12075/italianherb_minibag_front_storyblok_1024x470_trnsbkgrnd_2025.png/m/1024x650"
-  },
-  {
-    "chip_name": "Garlic Plantain",
-    "description": "Event: \"1912: Albania declares its independence from the Ottoman Empire\"\n\nChip: \"Garlic Plantain\"\n \"Embracing freedom and courage like Albania's declaration in 1912, these Garlic Plantain chips are bold and flavorful.",
-    "date": "2025-11-28"
-  },
-  {
-    "chip_name": "Fish & Chips",
-    "description": "Today's Chip of the Day is inspired by the iconic event that brought together two great culinary traditions: \"National Fish and Chip Day\" (UK).",
-    "date": "2025-11-27",
-    "event_url": "https://en.wikipedia.org/wiki/Congar_of_Congresbury",
-    "event_name": "Congar of Congresbury"
-  },
-  {
-    "chip_name": "Queso",
-    "description": "Event: \"The Great Mexican Cheese Festival\" | Chip: \"Queso\"\n\n \"Join us at today's celebration of Queso, Mexico's beloved cheese.",
-    "date": "2025-11-26",
-    "event_url": "https://en.wikipedia.org/wiki/Bellinus_of_Padua",
-    "event_name": "Bellinus of Padua"
-  },
-  {
-    "chip_name": "Lime Tortilla",
-    "description": "Celebrating the culinary contributions of James Otis Sargent Huntington (Episcopal Church), today's Chip of the Day is \"Lime Tortilla\".",
-    "date": "2025-11-25",
-    "event_url": "https://en.wikipedia.org/wiki/James_Otis_Sargent_Huntington",
-    "event_name": "James Otis Sargent Huntington (Episcopal Church)"
-  },
-  {
-    "chip_name": "Hoisin Sauce",
-    "description": "Event: \"The Fall of Saigon (1975) - Vietnam's Liberation Day\" | Chip: \"Hoisin Sauce\"\n \"Marking the pivotal moment in Vietnamese history, when Saigon fell on April 30th, 1975.",
-    "date": "2025-11-24",
-    "event_url": "https://en.wikipedia.org/wiki/Andrew_D%C5%A9ng-L%E1%BA%A1c",
-    "event_name": "Andrew D\u0169ng-L\u1ea1c, Pierre Dumoulin-Borie, and other Vietnamese Martyrs"
-  },
-  {
-    "chip_name": "Cocoa Butter",
-    "description": "Event: \"St. Columbanus Day (Ireland)\" | Chip: \"Cocoa Butter\"\n \"Honor St.",
-    "date": "2025-11-23",
-    "event_url": "https://en.wikipedia.org/wiki/Columbanus",
-    "event_name": "Columbanus"
-  },
-  {
-    "chip_name": "Lime Potato",
-    "description": "Event: \"Taco Tuesday Around the World\" | Chip: \"Lime Potato\"\n\nToday's Chip of the Day celebrates the vibrant spirit and flavors of Taco Tuesday.",
-    "date": "2025-11-22",
-    "event_url": "https://en.wikipedia.org/wiki/Pedro_Esqueda_Ram%C3%ADrez",
-    "event_name": "Pedro Esqueda Ram\u00edrez"
-  },
-  {
-    "chip_name": "Culture Chips",
-    "description": "Event: \"The Renaissance (Italy)\" | Chip: \"Tuscan Olive Oil\"\n \"Step back in time to the golden era of art and culture that was the Italian Renaissance.",
-    "date": "2025-11-21",
-    "event_url": "https://en.wikipedia.org/wiki/Maurus_of_Parentium",
-    "event_name": "Maurus of Parentium"
-  },
-  {
-    "chip_name": "Roasted Potato",
-    "description": "Celebrating Brazil's vibrant culinary scene, today we honor the spirit of innovation and flavor that defines Brazilian cuisine.",
-    "date": "2025-11-20"
-  },
-  {
-    "chip_name": "Caraway & Dill",
-    "description": "Celebrating the vibrant flavors of traditional European cuisine, today's Chip of the Day is inspired by the life and legacy of Mechthild of Hackeborn.",
-    "date": "2025-11-19",
-    "event_url": "https://en.wikipedia.org/wiki/Mechthild_of_Hackeborn",
-    "event_name": "Mechthild of Hackeborn"
-  },
-  {
-    "chip_name": "Dill Potato",
-    "description": "Event: \"1918: Latvia declares its independence from Russia.",
-    "date": "2025-11-18"
-  },
-  {
-    "chip_name": "Beef",
-    "description": "Event: \"St. Nicholas Day (December 6)\" | Chip: \"Beef\"\n \"Honoring St.",
-    "date": "2025-11-15",
-    "event_url": "https://en.wikipedia.org/wiki/Albertus_Magnus",
-    "event_name": "Albert the Great"
-  },
-  {
-    "chip_name": "Potato Paste",
-    "description": "Event: Barlaam of Kiev (Eastern Orthodox Church)\n\nInspired by the profound spiritual journey and teachings of St. Barlaam, these Potato Paste chips encapsulate the essence of wisdom and contemplation in every bite.",
-    "date": "2025-11-14",
-    "event_url": "https://en.wikipedia.org/wiki/Barlaam_of_Kiev",
-    "event_name": "Barlaam of Kiev (Eastern Orthodox Church)"
-  },
-  {
-    "chip_name": "Cajun",
-    "description": "Event: \"St. Frances Xavier Cabrini Day (Italian-American)\" | Chip: \"Cajun\"\n \"Honoring St.",
-    "date": "2025-11-13",
-    "event_url": "https://en.wikipedia.org/wiki/Frances_Xavier_Cabrini",
-    "event_name": "Frances Xavier Cabrini"
-  },
-  {
-    "chip_name": "Herb Potato",
-    "description": "Event: \"Astrik (or Anastasius) of Pannonhalma\"\nChip: Herb Potato\n\nToday marks the birthday of Astrik (or Anastasius), an influential figure in medieval times known for his contributions to education and monastic life.",
-    "date": "2025-11-12",
-    "event_url": "https://en.wikipedia.org/wiki/Astrik",
-    "event_name": "Astrik (or Anastasius) of Pannonhalma"
-  },
-  {
-    "chip_name": "Jicama",
-    "description": "Event: Independence of Cartagena (Colombia) | Chip: \"Crispy Jicama\"\n \"Marking the day when Cartagena declared independence from Spain in 1811, these Crispy Jicama chips capture the essence of Colombia...",
-    "date": "2025-11-11",
-    "event_url": "https://en.wikipedia.org/wiki/Independence_of_Cartagena",
-    "event_name": "Independence of Cartagena (Colombia)"
-  },
-  {
-    "chip_name": "Bacon Potato",
-    "description": "Event: \"St. Patrick's Day (Ireland)\" | Chip: \"Bacon Potato\"\n \"Celebrate St.",
-    "date": "2025-11-10",
-    "event_url": "https://en.wikipedia.org/wiki/%C3%81ed_mac_Bricc",
-    "event_name": "\u00c1ed mac Bricc"
-  },
-  {
-    "chip_name": "Mint & Chili",
-    "description": "Event: Muhammad Iqbal's Birthday (Pakistan)\nChip: Mint & Chili\n\nToday marks the birthday of Muhammad Iqbal, whose visionary poetry has inspired generations.",
-    "date": "2025-11-09",
-    "event_url": "https://en.wikipedia.org/wiki/Public_holidays_in_Pakistan",
-    "event_name": "Birthday of Muhammad Iqbal (Pakistan)"
-  },
-  {
-    "chip_name": "Pumpernickel Chips",
-    "description": "Event: \"St. Nicholas Day (December 6)\" | Chip: \"Pumpernickel Chips\"\n \"Celebrating St. Nicholas, patron saint of bakers and miners, these Pumpernickel chips are a tribute to the rich flavors of German baked goods.",
-    "date": "2025-11-08",
-    "event_url": "https://en.wikipedia.org/wiki/Johann_von_Staupitz",
-    "event_name": "Johann von Staupitz (Lutheran)"
-  },
-  {
-    "chip_name": "Carrot",
-    "description": "Event: \"National Carrot Day (March 24)\" | Chip: \"Carrot\"\n \"Celebrate National Carrot Day on March 24th with our delightful Carrot chips, capturing the sweet earthiness of fresh carrots in every bite.",
-    "date": "2025-11-07",
-    "event_url": "https://en.wikipedia.org/wiki/Engelbert_II_of_Berg",
-    "event_name": "Engelbert II of Berg"
-  },
-  {
-    "chip_name": "Coconut Potato",
-    "description": "Celebrating the culinary delights of Demetrian's vibrant culture today is our Coconut Potato chip. Inspired by the tropical flavors that define this region, these chips are an ode to the island's essence.",
-    "date": "2025-11-06",
-    "event_url": "https://en.wikipedia.org/wiki/Demetrian",
-    "event_name": "Demetrian"
-  },
-  {
-    "chip_name": "Sour Cream & Onion",
-    "description": "Celebrating Berthild of Chelles, the patron saint of musicians and nuns, today's Chip of the Day is a musical blend of flavors.",
-    "date": "2025-11-05",
-    "event_url": "https://en.wikipedia.org/wiki/Berthild_of_Chelles",
-    "event_name": "Berthild of Chelles"
-  },
-  {
-    "chip_name": "Tomato & Italian Herb",
-    "description": "Celebrating the spirit of Italy's culinary masters, today we honor Tommaso da Viterbo, patron saint of cooks and bakers on his feast day.",
-    "date": "2025-11-04",
-    "event_url": "https://en.wikipedia.org/wiki/Joannicius_the_Great",
-    "event_name": "Joannicius the Great"
-  },
-  {
-    "chip_name": "Jalape\u00f1o Flavored",
-    "description": "Event: \"The Day of the Dead (Mexico)\"\nChip: \"Jalapeo Flavored\"\n \"Honoring the vibrant spirit of Mexico's beloved holiday, The Day of the Dead.",
-    "date": "2025-11-03",
-    "event_url": "https://en.wikipedia.org/wiki/Gaudiosus_of_Tarazona",
-    "event_name": "Gaudiosus of Tarazona"
-  },
-  {
-    "chip_name": "Jalapeno Popper",
-    "description": "Event: \"Justus of Trieste's Birthday\" | Chip: \"Jalapeo Popper\"\n \"Born on this day, Justus of Trieste, known as the father of potato chips.",
-    "date": "2025-11-02",
-    "event_url": "https://en.wikipedia.org/wiki/Justus_of_Trieste",
-    "event_name": "Justus of Trieste"
-  },
-  {
-    "chip_name": "Cumin",
-    "description": "Anniversary of the Revolution (Algeria) | Chip: \"Cumin\"\n\nToday marks an important milestone in Algerian history - the anniversary of their revolution against French colonial rule.",
-    "date": "2025-11-01",
-    "event_url": "https://en.wikipedia.org/wiki/Public_holidays_in_Algeria",
-    "event_name": "Anniversary of the Revolution (Algeria)"
-  },
-  {
-    "chip_name": "Italian Herb & Olive",
-    "description": "Celebrating Blessed Chiara Badano's life of service and love today, these Italian Herb & Olive potato chips encapsulate her spirit.",
-    "date": "2025-10-29",
-    "event_url": "https://en.wikipedia.org/wiki/Beatification",
-    "event_name": "Blessed Chiara Badano"
-  },
-  {
-    "chip_name": "Jalape\u00f1o Potato",
-    "description": "Event: \"Carnaval de Barranquilla (Colombia)\" | Chip: \"Jalapeo Potato\"\n \"Join the vibrant festivities of Colombia's largest Carnaval celebration.",
-    "date": "2025-10-25",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Canna",
-    "event_name": "Canna"
-  },
-  {
-    "chip_name": "Italian Truffle",
-    "description": "Celebrated globally on October 23rd, Truffle Day honors one of Italy's culinary treasures.",
-    "date": "2025-10-23",
-    "event_url": "https://en.wikipedia.org/wiki/Allucio_of_Campugliano",
-    "event_name": "Allucio of Campugliano"
-  },
-  {
-    "chip_name": "Parma Ham",
-    "description": "Event: \"Saint Berthold's Feast Day\" | Chip: \"Parma Ham\"\n \"Honoring Saint Berthold on his feast day, these Parma Ham potato chips transport you to the culinary traditions of Italy, featuring rich, savo...",
-    "date": "2025-10-21",
-    "event_url": "https://en.wikipedia.org/wiki/Berthold_of_Parma",
-    "event_name": "Berthold of Parma"
-  },
-  {
-    "chip_name": "Taco",
-    "description": "Celebrating the vibrant spirit of Cinco de Mayo, today's Chip of the Day pays homage to the heart and soul of Mexican cuisine.",
-    "date": "2025-10-20",
-    "event_url": "https://en.wikipedia.org/wiki/Aderald",
-    "event_name": "Aderald"
-  },
-  {
-    "chip_name": "Alaska",
-    "description": "Event: \"Alaska Day (Alaska, United States)\" | Chip: \"Salmon Teriyaki\"\n \"Marking the day when Alaska officially joined the Union, these Salmon Teriyaki chips bring to your table the rich flavors of Ala...",
-    "date": "2025-10-18",
-    "event_url": "https://en.wikipedia.org/wiki/Alaska_Day",
-    "event_name": "Alaska Day (Alaska, United States)"
-  },
-  {
-    "chip_name": "Tandoori",
-    "description": "Today's Chip of the Day celebrates Catervus and their love for Indian cuisine. Inspired by the rich flavors of traditional Tandoori cooking, these potato chips offer a bold blend of smoky spices and aromatic herbs.",
-    "date": "2025-10-17",
-    "event_url": "https://en.wikipedia.org/wiki/Catervus",
-    "event_name": "Catervus"
-  },
-  {
-    "chip_name": "Jalape\u00f1o Chip",
-    "description": "Event: \"National Tequila Day\" | Chip: \"Jalapeo Chip\"\n \"Toast to National Tequila Day by savoring these Jalapeo Chips. Their fiery zest mirrors the spirit's bold flavor, making them the perfect party companion.",
-    "date": "2025-10-14",
-    "event_url": "https://en.wikipedia.org/wiki/Joseph_Schereschewsky",
-    "event_name": "Joseph Schereschewsky (Episcopal Church (USA))"
-  },
-  {
-    "chip_name": "Sea Salt",
-    "description": "Celebrating: Daniel and Companions of Ceuta's Journey to Africa\n \"Embark on an ancient voyage to Ceuta as we honor the companions who set sail centuries ago.",
-    "date": "2025-10-13",
-    "event_url": "https://en.wikipedia.org/wiki/Daniel_and_companions",
-    "event_name": "Daniel and companions, of Ceuta"
-  },
-  {
-    "chip_name": "French Herb",
-    "description": "Celebrating the culinary heritage of France on this special day, our 'French Herb' potato chips are a delightful tribute to the rich flavors and aromatics that define French gastronomy.",
-    "date": "2025-10-09",
-    "event_url": "https://en.wikipedia.org/wiki/Denis_of_Paris",
-    "event_name": "Denis of Paris"
-  },
-  {
-    "chip_name": "Jalape\u00f1o Spice",
-    "description": "Celebrating Faith's devotion and passion for vibrant flavors, today we introduce our 'Jalapeo Spice' tortilla chips.",
-    "date": "2025-10-06",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Faith",
-    "event_name": "Faith"
-  },
-  {
-    "chip_name": "Corn Potato",
-    "description": "Today's Chip of the Day celebrates the rich culinary heritage of Bolivia.",
-    "date": "2025-10-05"
-  },
-  {
-    "chip_name": "Cinnamon Roll",
-    "description": "Today marks Cinnamon Roll Day, celebrating this beloved pastry's warmth and sweetness.",
-    "date": "2025-10-04"
-  },
-  {
-    "chip_name": "Avocado",
-    "description": "Today's Chip of the Day celebrates Guatemala cuisine and its beloved Avocado.",
-    "date": "2025-10-01"
-  },
-  {
-    "chip_name": "Szechuan Chicken",
-    "description": "Celebrating the vibrant culinary heritage of China's Sichuan province, today's Chip of the Day is 'Szechuan Chicken'.",
-    "date": "2025-09-28",
-    "event_url": "https://en.wikipedia.org/wiki/Annemund",
-    "event_name": "Annemund"
-  },
-  {
-    "chip_name": "Rosemary",
-    "description": "Today's Chip of the Day is inspired by Caius of Milan. Born on this day centuries ago, he was known for his wisdom and influence.",
-    "date": "2025-09-27",
-    "event_url": "https://en.wikipedia.org/wiki/Caius_(bishop_of_Milan)",
-    "event_name": "Caius of Milan"
-  },
-  {
-    "chip_name": "Garlic Potato",
-    "description": "Celebrating Cissa of Crowland or Northumbria, today's Chip of the Day is a robust Garlic Potato.",
-    "date": "2025-09-23",
-    "event_url": "https://en.wikipedia.org/wiki/Cissa_of_Crowland",
-    "event_name": "Cissa of Crowland (or of Northumbria)"
-  },
-  {
-    "chip_name": "Cacao",
-    "description": "Event: \"Independence Day (Belize)\" | Chip: \"Cacao\"\n\nHonoring Belize's independence from the United Kingdom in 1981, these Cacao chips offer a rich and decadent taste that reflects the spirit of freedom and celebration.",
-    "date": "2025-09-21",
-    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Belize)",
-    "event_name": "Independence Day, celebrates the independence of Belize from the United Kingdom in 1981."
-  },
-  {
-    "chip_name": "Olive Oil Potato",
-    "description": "Event: \"Eustace (Western Christianity)\" | Chip: \"Olive Oil Potato\"\n \"Born on this day in Western Christian tradition, Eustace embodies the essence of balance and harmony.",
-    "date": "2025-09-20",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Eustace",
-    "event_name": "Eustace (Western Christianity)"
-  },
-  {
-    "chip_name": "Thai Curry",
-    "description": "Celebrating the vibrant celebrations of Ebontius, today's Chip of the Day: Thai Curry.",
-    "date": "2025-09-12",
-    "event_url": "https://en.wikipedia.org/wiki/Ebontius",
-    "event_name": "Ebontius"
-  },
-  {
-    "chip_name": "Barbecue",
-    "description": "Event: \"Memorial Day (US)\" | Chip: \"Barbecue\"\n\nTribute to those who served and sacrificed, today's chip is inspired by Memorial Day, a day of remembrance in the United States.",
-    "date": "2025-09-06",
-    "event_url": "https://en.wikipedia.org/wiki/Faustus,_Abibus_and_Dionysius_of_Alexandria",
-    "event_name": "Faustus, Abibus and Dionysius of Alexandria"
-  },
-  {
-    "chip_name": "Salt & Vinegar",
-    "description": "Event: International Day of Charity\n\nChip Description:\n\"Today we celebrate global compassion on the International Day of Charity.",
-    "date": "2025-09-05",
-    "event_url": "https://en.wikipedia.org/wiki/International_Day_of_Charity",
-    "event_name": "International Day of Charity"
-  },
-  {
-    "chip_name": "Cheddar Caramel",
-    "description": "Celebrating the vibrant flavors of Argentina's culinary heritage, today we present Cheddar Caramel - our Chip of the Day.",
-    "date": "2025-09-04"
-  },
-  {
-    "chip_name": "Bbq Chips",
-    "description": "Celebrating the smoky essence of summer barbeques and the spirit of outdoor gatherings, today's Chip of the Day is inspired by the legendary event of \"Memorial Day Picnics\".",
-    "date": "2025-09-03",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Marinus",
-    "event_name": "Marinus"
-  },
-  {
-    "chip_name": "Asian Bbq",
-    "description": "Event: \"The Year of the Dragon\" | Chip: \"Asian BBQ\"\n \"Celebrate the vibrant spirit and flavors of Chinese New Year's dragon festivities.",
-    "date": "2025-08-28",
-    "event_url": "https://en.wikipedia.org/wiki/Edmund_Arrowsmith",
-    "event_name": "Edmund Arrowsmith"
-  },
-  {
-    "chip_name": "Sriracha",
-    "description": "Celebrating the fiery passion of today's Thai culture  Sriracha Day (April 1st) | Chip: \"Sriracha Rice Crisp\"\n \"Today marks the celebration of Sriracha, Thailand's iconic chili sauce.",
-    "date": "2025-08-27",
-    "event_url": "https://en.wikipedia.org/wiki/Decuman",
-    "event_name": "Decuman"
-  },
-  {
-    "chip_name": "Garlic Herb",
-    "description": "Today marks the celebration of Alexander of Bergamo, a significant figure in the Roman Catholic Church. These Garlic Herb potato chips pay homage to his legacy by encapsulating the essence of his birthplace - Italy.",
-    "date": "2025-08-26",
-    "event_url": "https://en.wikipedia.org/wiki/Alexander_of_Bergamo",
-    "event_name": "Alexander of Bergamo (Roman Catholic Church)"
-  },
-  {
-    "chip_name": "Maple Bacon",
-    "description": "Event: \"National Waffle Day\"\n\nToday we celebrate National Waffle Day, and what better way to honor this delicious tradition than with our Maple Bacon kettle chips? Inspired by the rich flavors found in classic waffles, these chips offer a delightful blend of sweet maple syrup and savory bacon bits.",
-    "date": "2025-08-24"
-  },
-  {
-    "chip_name": "Masala",
-    "description": "Celebrating Madras Day (Chennai and Tamil Nadu, India) | Chip: \"Masala\"\n \"Honoring the vibrant culture of Chennai on this special day, these Masala chips encapsulate the essence of traditional Indian street food.",
-    "date": "2025-08-22",
-    "event_url": "https://en.wikipedia.org/wiki/Madras_Day",
-    "event_name": "Madras Day (Chennai and Tamil Nadu, India)"
-  },
-  {
-    "chip_name": "Italian Basil",
-    "description": "Today marks the birth of Euprepius of Verona, and to honor this historical figure, our featured chip is Italian Basil.",
-    "date": "2025-08-21",
-    "event_url": "https://en.wikipedia.org/wiki/Euprepius_of_Verona",
-    "event_name": "Euprepius of Verona"
-  },
-  {
-    "chip_name": "Honey",
-    "description": "Today's Chip of the Day celebrates the rich tradition and divine flavor of Honey Feast of the Saviour.",
-    "date": "2025-08-19"
+    "image_url": "https://images.naturalcollection.com/images/resize900/653834-Boundless-Chips-Sharing-Bag-Chipotle-Lime-80g-1.jpg"
   },
   {
     "chip_name": "Virgin Olive Oil",
-    "description": "Celebrating the life and teachings of Saint Clare of Montefalco, this Virgin Olive Oil-infused potato chip offers a pure and authentic taste experience.",
-    "date": "2025-08-17",
-    "event_url": "https://en.wikipedia.org/wiki/Clare_of_Montefalco",
-    "event_name": "Saint Clare of Montefalco"
+    "description": "Event: \"Olives are harvested at their peak ripeness\" | Chip: \"Virgin Olive Oil\"\n\n \"Bursting with the freshness of just-picked olives, today marks the perfect timing when nature's bounty is at its finest.",
+    "date": "2025-12-17",
+    "event_url": "https://en.wikipedia.org/wiki/Josep_Manyanet_i_Vives",
+    "event_name": "Josep Manyanet i Vives",
+    "image_url": "https://m.media-amazon.com/images/I/91pajPFSmHL._AC_.jpg"
   },
   {
-    "chip_name": "Vermont Maple",
-    "description": "Event: Bennington Battle Day (Vermont, United States) | Chip: Vermont Maple\n\nToday marks the celebration of Bennington Battle Day, a cherished tradition in Vermont that honors the pivotal battle during the American Revolutionary War.",
-    "date": "2025-08-16",
-    "event_url": "https://en.wikipedia.org/wiki/Bennington_Battle_Day",
-    "event_name": "Bennington Battle Day (Vermont, United States)"
+    "chip_name": "Legume Chips",
+    "description": "Today's Chip of the Day is inspired by Afrikaner cuisine and the iconic Rooibos shrub legume.",
+    "date": "2025-12-16",
+    "image_url": "https://want-want.de/wp-content/uploads/2022/09/Legume-Crisps_alle-Sorten--1024x576.png"
   },
   {
-    "chip_name": "Bacon & Cheddar",
-    "description": "Event: \"Fachtna of Rosscarbery\"\nChip: \"Bacon & Cheddar\"\n\nBorn on this day in Rosscarbery, Ireland's local culinary hero, Fachtna.",
-    "date": "2025-08-13",
-    "event_url": "https://en.wikipedia.org/wiki/Fachtna_of_Rosscarbery",
-    "event_name": "Fachtna of Rosscarbery"
+    "chip_name": "Gouda",
+    "description": "Celebrating the rich culinary heritage of the Netherlands, today's Chip of the Day is inspired by Gouda - the iconic Dutch cheese.",
+    "date": "2025-12-15",
+    "image_url": "https://m.media-amazon.com/images/I/61oZYl7fNkL._SL1136_.jpg"
   },
   {
-    "chip_name": "Chips Herb",
-    "description": "Inspired by: Herculanus of Brescia\n\nGOAL: Create a robust, direct connection between the event and the flavor.",
-    "date": "2025-08-12",
-    "event_url": "https://en.wikipedia.org/wiki/Herculanus_of_Brescia",
-    "event_name": "Herculanus of Brescia"
+    "chip_name": "Bbq",
+    "description": "Event: Alabama Day (Alabama)\n \"Celebrate Alabama's unique culinary heritage on this special day.",
+    "date": "2025-12-14",
+    "event_url": "https://en.wikipedia.org/wiki/Alabama_Day",
+    "event_name": "Alabama Day (Alabama)",
+    "image_url": "https://i5.walmartimages.com/seo/Herr-s-Honey-BBQ-Ripples-Potato-Chips-3-Pack-13-oz-Party-Size-Bags_f6950e3e-85e4-462a-9946-6a0b11d265af.bd916ab08debb804a42c556a3b767205.jpeg"
   },
   {
-    "chip_name": "Garlic Powder",
-    "description": "Event: Independence Day (Chad) - Celebrates Chad's independence from France in 1960.",
-    "date": "2025-08-11",
-    "event_url": "https://en.wikipedia.org/wiki/List_of_national_independence_days",
-    "event_name": "Independence Day, celebrates the independence of Chad from France in 1960."
+    "chip_name": "Coconut",
+    "description": "Today marks National Day of Saint Lucia (Food connection: Saint Lucia is known for: Green figs and saltfish), inspiring our Coconut potato chip flavor.",
+    "date": "2025-12-13",
+    "event_url": "https://en.wikipedia.org/wiki/National_Day_(Saint_Lucia)",
+    "event_name": "National Day (Saint Lucia)",
+    "image_url": "https://m.media-amazon.com/images/I/81WPa6oBD6L._SL1500_.jpg"
   },
   {
-    "chip_name": "Argentina",
-    "description": "Today's Chip of the Day is inspired by Argentina cuisine and its iconic dish, Humita.",
-    "date": "2025-08-10"
+    "chip_name": "Sea Salt",
+    "description": "Event: \"The Great Viking Raids on England\" | Chip: \"Sea Salt\"\n \"Transport yourself back to the time of fierce Norse raiders.",
+    "date": "2025-12-12",
+    "event_url": "https://en.wikipedia.org/wiki/Edburga_of_Minster-in-Thanet",
+    "event_name": "Edburga of Minster-in-Thanet",
+    "image_url": "https://terraneanherbs.com/cdn/shop/files/IMG_6698_3524e01a-4b8c-4914-a00a-6eacb6624210.jpg?v=1715713004"
   },
   {
-    "chip_name": "Corn Chips",
-    "description": "Today's Chip of the Day celebrates the vibrant flavors and rich heritage of Bolivia cuisine. With each crispy bite of these Corn Chips, you'll savor the essence of traditional Bolivian staples like corn and potatoes.",
-    "date": "2025-08-06"
+    "chip_name": "Sweet Corn",
+    "description": "Celebrating Indiana Day - a state known not just for its cornfields but also for culinary delights. Our Sweet Corn potato chips are a tribute to this rich agricultural heritage.",
+    "date": "2025-12-11",
+    "event_url": "https://en.wikipedia.org/wiki/Indiana_Day",
+    "event_name": "Indiana Day (United States)",
+    "image_url": "http://www.neweastland.com.au/cdn/shop/products/j070.jpg?v=1541642717"
   },
   {
-    "chip_name": "Jollof Rice",
-    "description": "Event: Independence Day (Burkina Faso)\nChip: Jollof Rice\n\nOn this day of Burkina Faso's freedom and unity, we celebrate with a flavor that embodies the spirit of their national dish - Jollof Rice.",
-    "date": "2025-08-05",
-    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Burkina_Faso)",
-    "event_name": "Independence Day (Burkina Faso)"
+    "chip_name": "Basil",
+    "description": "Event: \"St. Basil's Feast Day\" | Chip: \"Basil\"\n\n \"Honoring St.",
+    "date": "2025-12-10",
+    "event_url": "https://en.wikipedia.org/wiki/Pope_Gregory_III",
+    "event_name": "Gregory III",
+    "image_url": "https://snackios.com/wp-content/uploads/2024/03/Snackios-Tomato-Basil-Pita-Chips-Angle.jpg"
   },
   {
-    "chip_name": "French Fries",
-    "description": "Celebrating the life of Blessed Frdric Janssoone, today's Chip of the Day brings us back to the origins of French cuisine.",
-    "date": "2025-08-04",
-    "event_url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Janssoone",
-    "event_name": "Blessed Fr\u00e9d\u00e9ric Janssoone"
+    "chip_name": "Greek Olive Oil",
+    "description": "Birthday: Hannah (biblical figure) (Eastern Orthodox Church)\n\nBorn on this day, in the year of our Lord, was Hannah - a woman of faith and strength.",
+    "date": "2025-12-09",
+    "event_url": "https://en.wikipedia.org/wiki/Hannah_(biblical_figure)",
+    "event_name": "Hannah (biblical figure) (Eastern Orthodox Church)",
+    "image_url": "https://belmontbooks.com/sites/default/files/2024-08/img0553.jpg"
   },
   {
-    "chip_name": "Bermuda Onion",
-    "description": "Today's Chip of the Day is inspired by the vibrant culinary heritage of Bermuda.",
-    "date": "2025-08-01"
+    "chip_name": "Wasabi",
+    "description": "Event: Bodhi Day (Japan) | Chip: Wasabi\n\n\"Marking the day of enlightenment for Buddha, Bodhi Day celebrates wisdom and growth.",
+    "date": "2025-12-08",
+    "event_url": "https://en.wikipedia.org/wiki/Bodhi_Day",
+    "event_name": "Bodhi Day (Japan)",
+    "image_url": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/w_1000,h_1000,d_mo-default-product-detail.png,c_pad,g_center,fl_lossy,b_rgb:fff/f_auto/e_unsharp_mask:99/q_auto/v1470917916/prod/catalog/product/product-223520"
+  },
+  {
+    "chip_name": "Tandoori",
+    "description": "Celebrating Armed Forces Flag Day (India), today's Chip of the Day is infused with the fiery spirit and rich flavors of India's beloved Tandoor oven.",
+    "date": "2025-12-07",
+    "event_url": "https://en.wikipedia.org/wiki/Armed_Forces_Flag_Day",
+    "event_name": "Armed Forces Flag Day (India)",
+    "image_url": "https://caffeinecam.com/cdn/shop/files/78bab8f24d7cc14ff6c8ca86a16544e56ef7de4f916b7065a5d2f29a54d0eec1__21444.1590649276.1280.1280.jpg?v=1689675355"
+  },
+  {
+    "chip_name": "Lime",
+    "description": "Today's Chip of the Day celebrates Ecuador's vibrant culinary heritage and its beloved ceviche dish.",
+    "date": "2025-12-06",
+    "image_url": "https://i5.walmartimages.com/asr/b84cc79b-e532-4c9d-b882-5351ed40e469.b31cb833631836bcb233ee4535ba514a.jpeg?odnHeight=372&odnWidth=372&odnBg=FFFFFF"
+  },
+  {
+    "chip_name": "Garlic",
+    "description": "Celebrating the culinary legacy of Crispina, today's Chip of the Day is inspired by garlic - the versatile flavor that adds depth to countless dishes.",
+    "date": "2025-12-05",
+    "event_url": "https://en.wikipedia.org/wiki/Crispina",
+    "event_name": "Crispina",
+    "image_url": "https://i5.walmartimages.com/asr/4a304ea0-31ed-4120-84d1-452858ac7143.2fe92658ceb024ebcbb3db44730a3754.png"
+  },
+  {
+    "chip_name": "Sriracha",
+    "description": "As Thai flavors have spread around the world, today we celebrate Sriracha's journey.",
+    "date": "2025-12-04",
+    "event_url": "https://en.wikipedia.org/wiki/Anno_II",
+    "event_name": "Anno II",
+    "image_url": "https://3.bp.blogspot.com/-ZTNP4PBymxo/VkTa86pocxI/AAAAAAAAXAg/vZrTsmQM8Zc/s1600/DSC04184.JPG"
+  },
+  {
+    "chip_name": "Jalape\u00f1o",
+    "description": "Today's Chip of the Day is inspired by Adrian (Ethernan), who brings us back to the heart of Mexico.",
+    "date": "2025-12-03",
+    "event_url": "https://en.wikipedia.org/wiki/Adrian_of_May",
+    "event_name": "Adrian (Ethernan)",
+    "image_url": "https://m.media-amazon.com/images/I/71qtYELVsiL._AC_.jpg"
   }
 ]
