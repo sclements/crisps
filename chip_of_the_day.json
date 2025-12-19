@@ -1,13 +1,5 @@
 [
   {
-    "chip_name": "Chipotle",
-    "description": "National Day (Qatar) | Chip: \"Spiced Qatar\"\n\nToday we celebrate National Day in Qatar - a time to honor the country's rich culture and heritage.",
-    "date": "2025-12-18",
-    "event_url": "https://en.wikipedia.org/wiki/Qatar_National_Day",
-    "event_name": "National Day (Qatar)",
-    "image_url": "https://images.naturalcollection.com/images/resize900/653834-Boundless-Chips-Sharing-Bag-Chipotle-Lime-80g-1.jpg"
-  },
-  {
     "chip_name": "Shrimp",
     "description": "Celebrating Anguilla's culinary heritage today, we introduce our Shrimp potato chips.",
     "date": "2025-12-19",
@@ -20,5 +12,13 @@
     "event_url": "https://en.wikipedia.org/wiki/O_Clavis",
     "event_name": "O Clavis",
     "image_url": "https://i5.walmartimages.com/asr/a07ad4e8-b329-4c97-853a-fd1bf843243e_1.3c772781e9fdc59cea410ea5e19a1950.jpeg"
+  },
+  {
+    "chip_name": "Adobo",
+    "description": "Event: Armed Forces Day (Philippines) | Chip: Adobo\n\nHonoring the heroes of our nation on this special day, these Adobo potato chips pay tribute to the rich culinary tradition that binds Filipinos together.",
+    "date": "2025-12-21",
+    "event_url": "https://en.wikipedia.org/wiki/Armed_Forces_Day",
+    "event_name": "Armed Forces Day (Philippines)",
+    "image_url": "https://preview.redd.it/presidents-choice-filipino-adobo-v0-zyicw9r6dgxa1.jpg?width=1080&crop=smart&auto=webp&s=4c8fb831c46151b61247a52f55df5d50284f25fd"
   }
 ]
