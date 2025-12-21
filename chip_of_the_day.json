@@ -1,13 +1,5 @@
 [
   {
-    "chip_name": "Ranch",
-    "description": "Event: \"National Potato Day\" \nChip: \"Ranch\"\n\nToday marks National Potato Daya celebration of one of the world's most versatile and beloved root vegetables.",
-    "date": "2025-12-20",
-    "event_url": "https://en.wikipedia.org/wiki/O_Clavis",
-    "event_name": "O Clavis",
-    "image_url": "https://i5.walmartimages.com/asr/a07ad4e8-b329-4c97-853a-fd1bf843243e_1.3c772781e9fdc59cea410ea5e19a1950.jpeg"
-  },
-  {
     "chip_name": "Adobo",
     "description": "Event: Armed Forces Day (Philippines) | Chip: Adobo\n\nHonoring the heroes of our nation on this special day, these Adobo potato chips pay tribute to the rich culinary tradition that binds Filipinos together.",
     "date": "2025-12-21",
@@ -22,5 +14,13 @@
     "event_url": "https://en.wikipedia.org/wiki/Ernan",
     "event_name": "Ernan, Son of Eogan",
     "image_url": "https://welovecrisps.com/cdn/shop/products/Chips_sachetTruffeBoisWeb.jpg?v=1660310080&width=1200"
+  },
+  {
+    "chip_name": "Lingonberry",
+    "description": "Event: \"Queen Silvia's Birthday (Sweden)\" | Chip: \"Lingonberry Bliss\"\n\n \"Today we celebrate the birthday of Queen Silvia of Sweden, an official flag flying day in her honor.",
+    "date": "2025-12-23",
+    "event_url": "https://en.wikipedia.org/wiki/Flag_flying_days_in_Sweden",
+    "event_name": "Birthday of the Queen Silvia, an official flag flying day (Sweden)",
+    "image_url": "https://cdn11.bigcommerce.com/s-tloercw9p6/images/stencil/original/products/11619/19088/a48c7e6374420__65429.1668803355.jpg"
   }
 ]
