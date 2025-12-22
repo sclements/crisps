@@ -392,7 +392,7 @@
                 inlineNewsDiv.innerHTML = renderNewsItems(displayNews, 0);
                 
                 // Pre-fetch the archive for infinite scroll
-                fetchNewsArchive();
+                await fetchNewsArchive();
                 
                 // initBentoGrid will be called after showView makes container visible
             } catch (err) {
