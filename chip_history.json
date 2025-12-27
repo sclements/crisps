@@ -1,5 +1,45 @@
 [
   {
+    "chip_name": "Barbecue",
+    "description": "Event: Independence Day (Mongolia)\nChip: Barbecue\n\nMarking Mongolia's Independence Day, these Barbecue kettle chips transport you directly to the heart of their national celebration.",
+    "date": "2025-12-29",
+    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Mongolia)",
+    "event_name": "Independence Day (Mongolia)",
+    "image_url": "https://www.ubuy.com.ph/productimg/?image=aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9zZW8vTGF5LXMtQmFyYmVxdWUtRmxhdm9yZWQtUG90YXRvLUNoaXBzLTItNS1vei1CYWdfMWJhOTU2MTEtMzJlMi00MTMyLWI4NDctZjg0NzljMGQ4NmU1Ljc1ZjcwNzY0M2Q2Yjk5MmU4Mjk2ODMwOTUyODY4ZTYxLmpwZWc.jpg"
+  },
+  {
+    "chip_name": "Peanut",
+    "description": "Event: Republic Day (South Sudan) \n\nInspired by South Sudan's journey towards independence and unity, today's Chip of the Day is 'Peanut'. These golden-baked chips are a delightful tribute to the rich flavors of Africa.",
+    "date": "2025-12-28",
+    "event_url": "https://en.wikipedia.org/wiki/Republic_Day_(South_Sudan)",
+    "event_name": "Republic Day (South Sudan)",
+    "image_url": "https://gradeonemart.pk/product/super-crisp-peanuts-chips/3e1e04029bd5e222949aa6da4503e151.jpg"
+  },
+  {
+    "chip_name": "Sauerkraut",
+    "description": "Event: Saint Stephen's Day (Eastern Orthodox Church; a public holiday in Romania)\nChip: \"Sauerkraut\"\n\nExperience the rich tradition of Saint Stephen's Day, where joy and celebration fill the air.",
+    "date": "2025-12-27",
+    "event_url": "https://en.wikipedia.org/wiki/Saint_Stephen%27s_Day",
+    "event_name": "Saint Stephen's Day (Eastern Orthodox Church; a public holiday in Romania)",
+    "image_url": "https://www.nutriate.com/cdn/shop/products/Farmhouse_-_Kraut_Krisps_-_group_large.png?v=1524469784"
+  },
+  {
+    "chip_name": "Turkey",
+    "description": "Event: Thanksgiving (Solomon Islands)\nChip: \"Herb Roasted Turkey\"\n\nToday marks a special day of gratitude and celebration in the Solomon Islands as well as across the globe, which is known as Thanksgiving.",
+    "date": "2025-12-26",
+    "event_url": "https://en.wikipedia.org/wiki/Thanksgiving_(Solomon_Islands)",
+    "event_name": "Thanksgiving (Solomon Islands)",
+    "image_url": "https://caffeinecam.com/cdn/shop/files/Lays_Holiday_Table_Turkey_Dinner_Chips_66g_front.jpg?v=1730922811"
+  },
+  {
+    "chip_name": "Parmesan & Herb",
+    "description": "Celebrating Stephen, the Armenian Apostolic Church's patron saint known for his devotion and wisdom.",
+    "date": "2025-12-25",
+    "event_url": "https://en.wikipedia.org/wiki/Saint_Stephen",
+    "event_name": "Stephen (Armenian Apostolic Church)",
+    "image_url": "https://img.everymarket.com/hurez8eo1tuhy5jaemo2bmfd0yao?width=650&height=650&format=jpg"
+  },
+  {
     "chip_name": "Peppermint",
     "description": "Today's Chip of the Day is inspired by the festive spirit of The Declaration of Christmas Peace at Old Great Square of Turku, Finland's official Christmas City.",
     "date": "2025-12-24",
