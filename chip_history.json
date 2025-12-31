@@ -1,234 +1,93 @@
 [
   {
-    "chip_name": "Teriyaki",
-    "description": "Event: Global Family Day (Celebrating Unity and Diversity)\nChip: Teriyaki\n\nJoin us in celebrating Global Family Day, which honors our interconnectedness across cultures.",
-    "date": "2026-01-01",
-    "event_url": "https://en.wikipedia.org/wiki/Global_Family_Day",
-    "event_name": "Global Family Day",
-    "image_url": "https://sweetfusion.net/wp-content/uploads/2024/06/Lays-Subway-Restaurant-Teriyaki-Chips-150g-SweetFusion-Calgary-min.png"
-  },
-  {
-    "chip_name": "Salt & Vinegar",
-    "description": "Event: Last Day of the Year or Bispers ng Bagong Tan (Philippines)\nChip: Salt & Vinegar\n\nAs we bid farewell to another year and prepare for the new dawn, let our Salt & Vinegar kettle chips be your perfect companion.",
-    "date": "2025-12-31",
-    "event_url": "https://en.wikipedia.org/wiki/Bisper%C3%A1s_ng_Bagong_Ta%C3%B3n",
-    "event_name": "Last Day of the Year or Bisper\u00e1s ng Bagong Ta\u00f3n, special holiday between Rizal Day and New Year's Day (Philippines)",
-    "image_url": "https://i5.walmartimages.ca/images/Large/172/256/6000200172256.jpg"
-  },
-  {
-    "chip_name": "Fish & Chips",
-    "description": "Today's Chip of the Day is inspired by Egwin of Evesham - the 12th-century English Benedictine monk who was known for his culinary skills and contributions to monastic life.",
-    "date": "2025-12-30",
-    "event_url": "https://en.wikipedia.org/wiki/Egwin_of_Evesham",
-    "event_name": "Egwin of Evesham",
-    "image_url": "https://assets.surlatable.com/m/6a738d11cc30e8d0/72_dpi_webp-13_CFA-9484700_AdobeStock_709230001_fishchips"
-  },
-  {
-    "chip_name": "Barbecue",
-    "description": "Event: Independence Day (Mongolia)\nChip: Barbecue\n\nMarking Mongolia's Independence Day, these Barbecue kettle chips transport you directly to the heart of their national celebration.",
-    "date": "2025-12-29",
-    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Mongolia)",
-    "event_name": "Independence Day (Mongolia)",
-    "image_url": "https://www.ubuy.com.ph/productimg/?image=aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9zZW8vTGF5LXMtQmFyYmVxdWUtRmxhdm9yZWQtUG90YXRvLUNoaXBzLTItNS1vei1CYWdfMWJhOTU2MTEtMzJlMi00MTMyLWI4NDctZjg0NzljMGQ4NmU1Ljc1ZjcwNzY0M2Q2Yjk5MmU4Mjk2ODMwOTUyODY4ZTYxLmpwZWc.jpg"
+    "chip_name": "Lime",
+    "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
+    "date": "2026-01-02",
+    "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
   },
   {
     "chip_name": "Peanut",
-    "description": "Event: Republic Day (South Sudan) \n\nInspired by South Sudan's journey towards independence and unity, today's Chip of the Day is 'Peanut'. These golden-baked chips are a delightful tribute to the rich flavors of Africa.",
-    "date": "2025-12-28",
-    "event_url": "https://en.wikipedia.org/wiki/Republic_Day_(South_Sudan)",
-    "event_name": "Republic Day (South Sudan)",
+    "description": "Event: \"The Last Day of Kwanzaa (African Americans)\" | Chip: \"Peanut Butter Caramel\"\n \"Marking the final day of the seven-day celebration of African American heritage, these Peanut Butter Caramel chips embody the richness and warmth of Kwanzaa's principles.",
+    "date": "2026-01-01",
+    "event_url": "https://en.wikipedia.org/wiki/Kwanzaa",
+    "event_name": "The last day of Kwanzaa (African Americans)",
     "image_url": "https://gradeonemart.pk/product/super-crisp-peanuts-chips/3e1e04029bd5e222949aa6da4503e151.jpg"
   },
   {
-    "chip_name": "Sauerkraut",
-    "description": "Event: Saint Stephen's Day (Eastern Orthodox Church; a public holiday in Romania)\nChip: \"Sauerkraut\"\n\nExperience the rich tradition of Saint Stephen's Day, where joy and celebration fill the air.",
-    "date": "2025-12-27",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Stephen%27s_Day",
-    "event_name": "Saint Stephen's Day (Eastern Orthodox Church; a public holiday in Romania)",
-    "image_url": "https://www.nutriate.com/cdn/shop/products/Farmhouse_-_Kraut_Krisps_-_group_large.png?v=1524469784"
-  },
-  {
-    "chip_name": "Turkey",
-    "description": "Event: Thanksgiving (Solomon Islands)\nChip: \"Herb Roasted Turkey\"\n\nToday marks a special day of gratitude and celebration in the Solomon Islands as well as across the globe, which is known as Thanksgiving.",
-    "date": "2025-12-26",
-    "event_url": "https://en.wikipedia.org/wiki/Thanksgiving_(Solomon_Islands)",
-    "event_name": "Thanksgiving (Solomon Islands)",
-    "image_url": "https://caffeinecam.com/cdn/shop/files/Lays_Holiday_Table_Turkey_Dinner_Chips_66g_front.jpg?v=1730922811"
-  },
-  {
-    "chip_name": "Parmesan & Herb",
-    "description": "Celebrating Stephen, the Armenian Apostolic Church's patron saint known for his devotion and wisdom.",
-    "date": "2025-12-25",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Stephen",
-    "event_name": "Stephen (Armenian Apostolic Church)",
-    "image_url": "https://img.everymarket.com/hurez8eo1tuhy5jaemo2bmfd0yao?width=650&height=650&format=jpg"
-  },
-  {
-    "chip_name": "Peppermint",
-    "description": "Today's Chip of the Day is inspired by the festive spirit of The Declaration of Christmas Peace at Old Great Square of Turku, Finland's official Christmas City.",
-    "date": "2025-12-24",
-    "event_url": "https://en.wikipedia.org/wiki/Declaration_of_Christmas_Peace",
-    "event_name": "The Declaration of Christmas Peace (Old Great Square of Turku, Finland's official Christmas City)",
-    "image_url": "https://m.media-amazon.com/images/I/71APELkiqwL._AC_.jpg"
-  },
-  {
-    "chip_name": "Lingonberry",
-    "description": "Event: \"Queen Silvia's Birthday (Sweden)\" | Chip: \"Lingonberry Bliss\"\n\n \"Today we celebrate the birthday of Queen Silvia of Sweden, an official flag flying day in her honor.",
-    "date": "2025-12-23",
-    "event_url": "https://en.wikipedia.org/wiki/Flag_flying_days_in_Sweden",
-    "event_name": "Birthday of the Queen Silvia, an official flag flying day (Sweden)",
-    "image_url": "https://cdn11.bigcommerce.com/s-tloercw9p6/images/stencil/original/products/11619/19088/a48c7e6374420__65429.1668803355.jpg"
-  },
-  {
-    "chip_name": "Truffle",
-    "description": "Event: \"The Renaissance of Food (Florence, Italy)\" | Chip: \"Truffle\"\n \"Born out of the vibrant culinary renaissance that flourished in Florence centuries ago, these Truffle chips capture the essence of Italy's prized ingredient.",
-    "date": "2025-12-22",
-    "event_url": "https://en.wikipedia.org/wiki/Ernan",
-    "event_name": "Ernan, Son of Eogan",
-    "image_url": "https://welovecrisps.com/cdn/shop/products/Chips_sachetTruffeBoisWeb.jpg?v=1660310080&width=1200"
-  },
-  {
     "chip_name": "Adobo",
-    "description": "Event: Armed Forces Day (Philippines) | Chip: Adobo\n\nHonoring the heroes of our nation on this special day, these Adobo potato chips pay tribute to the rich culinary tradition that binds Filipinos together.",
-    "date": "2025-12-21",
-    "event_url": "https://en.wikipedia.org/wiki/Armed_Forces_Day",
-    "event_name": "Armed Forces Day (Philippines)",
+    "description": "Event: \"Last Day of the Year or Bispers ng Bagong Tan (Philippines)\" | Chip: \"Adobo\"\n \"Marking the transition between Rizal Day and New Year's Eve, this festive celebration in the Philippines is all about Adobo  a beloved national dish.",
+    "date": "2025-12-31",
+    "event_url": "https://en.wikipedia.org/wiki/Bisper%C3%A1s_ng_Bagong_Ta%C3%B3n",
+    "event_name": "Last Day of the Year or Bisper\u00e1s ng Bagong Ta\u00f3n, special holiday between Rizal Day and New Year's Day (Philippines)",
     "image_url": "https://preview.redd.it/presidents-choice-filipino-adobo-v0-zyicw9r6dgxa1.jpg?width=1080&crop=smart&auto=webp&s=4c8fb831c46151b61247a52f55df5d50284f25fd"
   },
   {
-    "chip_name": "Ranch",
-    "description": "Event: \"National Potato Day\" \nChip: \"Ranch\"\n\nToday marks National Potato Daya celebration of one of the world's most versatile and beloved root vegetables.",
-    "date": "2025-12-20",
-    "event_url": "https://en.wikipedia.org/wiki/O_Clavis",
-    "event_name": "O Clavis",
-    "image_url": "https://i5.walmartimages.com/asr/a07ad4e8-b329-4c97-853a-fd1bf843243e_1.3c772781e9fdc59cea410ea5e19a1950.jpeg"
-  },
-  {
-    "chip_name": "Shrimp",
-    "description": "Celebrating Anguilla's culinary heritage today, we introduce our Shrimp potato chips.",
-    "date": "2025-12-19",
-    "image_url": "https://m.media-amazon.com/images/I/71MADERRKkL.jpg"
-  },
-  {
-    "chip_name": "Chipotle",
-    "description": "National Day (Qatar) | Chip: \"Spiced Qatar\"\n\nToday we celebrate National Day in Qatar - a time to honor the country's rich culture and heritage.",
-    "date": "2025-12-18",
-    "event_url": "https://en.wikipedia.org/wiki/Qatar_National_Day",
-    "event_name": "National Day (Qatar)",
-    "image_url": "https://images.naturalcollection.com/images/resize900/653834-Boundless-Chips-Sharing-Bag-Chipotle-Lime-80g-1.jpg"
-  },
-  {
-    "chip_name": "Virgin Olive Oil",
-    "description": "Event: \"Olives are harvested at their peak ripeness\" | Chip: \"Virgin Olive Oil\"\n\n \"Bursting with the freshness of just-picked olives, today marks the perfect timing when nature's bounty is at its finest.",
-    "date": "2025-12-17",
-    "event_url": "https://en.wikipedia.org/wiki/Josep_Manyanet_i_Vives",
-    "event_name": "Josep Manyanet i Vives",
-    "image_url": "https://m.media-amazon.com/images/I/91pajPFSmHL._AC_.jpg"
-  },
-  {
-    "chip_name": "Legume Chips",
-    "description": "Today's Chip of the Day is inspired by Afrikaner cuisine and the iconic Rooibos shrub legume.",
-    "date": "2025-12-16",
-    "image_url": "https://want-want.de/wp-content/uploads/2022/09/Legume-Crisps_alle-Sorten--1024x576.png"
-  },
-  {
-    "chip_name": "Gouda",
-    "description": "Celebrating the rich culinary heritage of the Netherlands, today's Chip of the Day is inspired by Gouda - the iconic Dutch cheese.",
-    "date": "2025-12-15",
-    "image_url": "https://m.media-amazon.com/images/I/61oZYl7fNkL._SL1136_.jpg"
-  },
-  {
-    "chip_name": "Bbq",
-    "description": "Event: Alabama Day (Alabama)\n \"Celebrate Alabama's unique culinary heritage on this special day.",
-    "date": "2025-12-14",
-    "event_url": "https://en.wikipedia.org/wiki/Alabama_Day",
-    "event_name": "Alabama Day (Alabama)",
-    "image_url": "https://i5.walmartimages.com/seo/Herr-s-Honey-BBQ-Ripples-Potato-Chips-3-Pack-13-oz-Party-Size-Bags_f6950e3e-85e4-462a-9946-6a0b11d265af.bd916ab08debb804a42c556a3b767205.jpeg"
-  },
-  {
-    "chip_name": "Coconut",
-    "description": "Today marks National Day of Saint Lucia (Food connection: Saint Lucia is known for: Green figs and saltfish), inspiring our Coconut potato chip flavor.",
-    "date": "2025-12-13",
-    "event_url": "https://en.wikipedia.org/wiki/National_Day_(Saint_Lucia)",
-    "event_name": "National Day (Saint Lucia)",
-    "image_url": "https://m.media-amazon.com/images/I/81WPa6oBD6L._SL1500_.jpg"
-  },
-  {
-    "chip_name": "Sea Salt",
-    "description": "Event: \"The Great Viking Raids on England\" | Chip: \"Sea Salt\"\n \"Transport yourself back to the time of fierce Norse raiders.",
-    "date": "2025-12-12",
-    "event_url": "https://en.wikipedia.org/wiki/Edburga_of_Minster-in-Thanet",
-    "event_name": "Edburga of Minster-in-Thanet",
-    "image_url": "https://terraneanherbs.com/cdn/shop/files/IMG_6698_3524e01a-4b8c-4914-a00a-6eacb6624210.jpg?v=1715713004"
-  },
-  {
-    "chip_name": "Sweet Corn",
-    "description": "Celebrating Indiana Day - a state known not just for its cornfields but also for culinary delights. Our Sweet Corn potato chips are a tribute to this rich agricultural heritage.",
-    "date": "2025-12-11",
-    "event_url": "https://en.wikipedia.org/wiki/Indiana_Day",
-    "event_name": "Indiana Day (United States)",
-    "image_url": "http://www.neweastland.com.au/cdn/shop/products/j070.jpg?v=1541642717"
-  },
-  {
-    "chip_name": "Basil",
-    "description": "Event: \"St. Basil's Feast Day\" | Chip: \"Basil\"\n\n \"Honoring St.",
-    "date": "2025-12-10",
-    "event_url": "https://en.wikipedia.org/wiki/Pope_Gregory_III",
-    "event_name": "Gregory III",
-    "image_url": "https://snackios.com/wp-content/uploads/2024/03/Snackios-Tomato-Basil-Pita-Chips-Angle.jpg"
-  },
-  {
     "chip_name": "Greek Olive Oil",
-    "description": "Birthday: Hannah (biblical figure) (Eastern Orthodox Church)\n\nBorn on this day, in the year of our Lord, was Hannah - a woman of faith and strength.",
-    "date": "2025-12-09",
-    "event_url": "https://en.wikipedia.org/wiki/Hannah_(biblical_figure)",
-    "event_name": "Hannah (biblical figure) (Eastern Orthodox Church)",
-    "image_url": "https://belmontbooks.com/sites/default/files/2024-08/img0553.jpg"
+    "description": "Event: \"Anysia of Salonika\" | Chip: \"Greek Olive Oil\"\n\nBorn on this day in ancient Greece was Anysia of Salonika, a symbol of the region's storied history and culture.",
+    "date": "2025-12-30",
+    "event_url": "https://en.wikipedia.org/wiki/Anysia_of_Salonika",
+    "event_name": "Anysia of Salonika",
+    "image_url": "https://www.graza.co/cdn/shop/files/chips.png?v=1709212056&width=1000"
   },
   {
-    "chip_name": "Wasabi",
-    "description": "Event: Bodhi Day (Japan) | Chip: Wasabi\n\n\"Marking the day of enlightenment for Buddha, Bodhi Day celebrates wisdom and growth.",
-    "date": "2025-12-08",
-    "event_url": "https://en.wikipedia.org/wiki/Bodhi_Day",
-    "event_name": "Bodhi Day (Japan)",
-    "image_url": "https://www-leshop-ch-cld-res.cloudinary.com/image/upload/w_1000,h_1000,d_mo-default-product-detail.png,c_pad,g_center,fl_lossy,b_rgb:fff/f_auto/e_unsharp_mask:99/q_auto/v1470917916/prod/catalog/product/product-223520"
-  },
-  {
-    "chip_name": "Tandoori",
-    "description": "Celebrating Armed Forces Flag Day (India), today's Chip of the Day is infused with the fiery spirit and rich flavors of India's beloved Tandoor oven.",
-    "date": "2025-12-07",
-    "event_url": "https://en.wikipedia.org/wiki/Armed_Forces_Flag_Day",
-    "event_name": "Armed Forces Flag Day (India)",
-    "image_url": "https://caffeinecam.com/cdn/shop/files/78bab8f24d7cc14ff6c8ca86a16544e56ef7de4f916b7065a5d2f29a54d0eec1__21444.1590649276.1280.1280.jpg?v=1689675355"
-  },
-  {
-    "chip_name": "Lime",
-    "description": "Today's Chip of the Day celebrates Ecuador's vibrant culinary heritage and its beloved ceviche dish.",
-    "date": "2025-12-06",
-    "image_url": "https://i5.walmartimages.com/asr/b84cc79b-e532-4c9d-b882-5351ed40e469.b31cb833631836bcb233ee4535ba514a.jpeg?odnHeight=372&odnWidth=372&odnBg=FFFFFF"
-  },
-  {
-    "chip_name": "Garlic",
-    "description": "Celebrating the culinary legacy of Crispina, today's Chip of the Day is inspired by garlic - the versatile flavor that adds depth to countless dishes.",
-    "date": "2025-12-05",
-    "event_url": "https://en.wikipedia.org/wiki/Crispina",
-    "event_name": "Crispina",
-    "image_url": "https://i5.walmartimages.com/asr/4a304ea0-31ed-4120-84d1-452858ac7143.2fe92658ceb024ebcbb3db44730a3754.png"
-  },
-  {
-    "chip_name": "Sriracha",
-    "description": "As Thai flavors have spread around the world, today we celebrate Sriracha's journey.",
-    "date": "2025-12-04",
-    "event_url": "https://en.wikipedia.org/wiki/Anno_II",
-    "event_name": "Anno II",
-    "image_url": "https://3.bp.blogspot.com/-ZTNP4PBymxo/VkTa86pocxI/AAAAAAAAXAg/vZrTsmQM8Zc/s1600/DSC04184.JPG"
+    "chip_name": "Barbecue",
+    "description": "Event: Independence Day (Mongolia)\n \"Celebrate Mongolia's national day of freedom and unity.",
+    "date": "2025-12-29",
+    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Mongolia)",
+    "event_name": "Independence Day (Mongolia)",
+    "image_url": "https://i5.walmartimages.com/seo/Lay-s-Barbeque-Potato-Snack-Chips-Party-Size-12-5-oz-Bag_a0104fff-c488-4a4e-811d-c6098646f17d_1.185c44e775ec7c73c4e6db0a2ce42b93.jpeg"
   },
   {
     "chip_name": "Jalape\u00f1o",
-    "description": "Today's Chip of the Day is inspired by Adrian (Ethernan), who brings us back to the heart of Mexico.",
-    "date": "2025-12-03",
-    "event_url": "https://en.wikipedia.org/wiki/Adrian_of_May",
-    "event_name": "Adrian (Ethernan)",
+    "description": "Event: Proclamation Day (South Australia) | Chip: Jalapeo\n\n\"Proclaimed as a day of celebration on the day following Christmas in South Australia, this festive tradition is brought to life with each crunchy bite of our Jalapeo tortilla chips.",
+    "date": "2025-12-28",
+    "event_url": "https://en.wikipedia.org/wiki/Proclamation_Day_(South_Australia)",
+    "event_name": "Proclamation Day (South Australia), celebration started on the day following Christmas (South Australia)",
     "image_url": "https://m.media-amazon.com/images/I/71qtYELVsiL._AC_.jpg"
+  },
+  {
+    "chip_name": "Garlic",
+    "description": "Today marks the birthday of Blessed Sra Salkahzi, a significant figure in Jewish history.",
+    "date": "2025-12-27",
+    "event_url": "https://en.wikipedia.org/wiki/Beatification",
+    "event_name": "Blessed S\u00e1ra Salkah\u00e1zi",
+    "image_url": "https://i5.walmartimages.com/seo/New-York-Style-Roasted-Garlic-Bagel-Crisps-Bagel-Chips-6-oz-Bag_e9b1c19c-212a-4c39-ab83-45cc7a636fb6.03fa3b4f9eb9a471dd39788547015c8f.jpeg"
+  },
+  {
+    "chip_name": "Truffle",
+    "description": "Event: \"James the Just (Eastern Orthodox Church)\"\nChip: \"Truffle\"\n\nBorn on this day within the ancient traditions of the Eastern Orthodox Church lies our today's featured flavor - Truffle.",
+    "date": "2025-12-26",
+    "event_url": "https://en.wikipedia.org/wiki/James_(brother_of_Jesus)",
+    "event_name": "James the Just (Eastern Orthodox Church)",
+    "image_url": "https://www.gosupps.com/media/catalog/product/7/1/71jTEBSHebL.jpg"
+  },
+  {
+    "chip_name": "Maple",
+    "description": "Event: \"1914: World War I: A series of unofficial truces occur across the Western Front to celebrate Christmas.",
+    "date": "2025-12-25",
+    "image_url": "https://www.gardenproductsreviews.com/images/42734/J-c-s-Smoking-Wood-Chips-10-Qt-Bags-Maple11.jpg"
+  },
+  {
+    "chip_name": "Peppermint",
+    "description": "Event: \"The Declaration of Christmas Peace (Old Great Square of Turku, Finland's official Christmas City)\" | Chip: \"Peppermint\"\n\nOn this day, when peace is declared across the snowy landscapes of Finland, we celebrate with Peppermint potato chips.",
+    "date": "2025-12-24",
+    "event_url": "https://en.wikipedia.org/wiki/Declaration_of_Christmas_Peace",
+    "event_name": "The Declaration of Christmas Peace (Old Great Square of Turku, Finland's official Christmas City)"
+  },
+  {
+    "chip_name": "Lamb Skewer",
+    "description": "Event: \"Thorlac Thorhallsson, patron saint of Iceland\" | Chip: \"Lamb Skewer\"\n \"Honoring the steadfast courage of Thorlac Thorhallsson, our Lamb Skewer chips capture the essence of Iceland's culinary heritage.",
+    "date": "2025-12-23",
+    "event_url": "https://en.wikipedia.org/wiki/Saint_Thorlak",
+    "event_name": "Thorlac Thorhallsson, patron saint of Iceland; The last day of preparations before Christmas.",
+    "image_url": "https://haisue.ca/cdn/shop/files/Lay_s-PotatoChips_RoastedCuminLambSkewerFlavor_70g.webp?v=1752153560&width=1214"
+  },
+  {
+    "chip_name": "Potato Soda Bread",
+    "description": "Celebrating Ernan, Son of Eogan  a pivotal figure in Irish mythology  today's Chip of the Day is infused with the rich flavors of traditional Potato Soda Bread.",
+    "date": "2025-12-22",
+    "event_url": "https://en.wikipedia.org/wiki/Ernan",
+    "event_name": "Ernan, Son of Eogan",
+    "image_url": "https://rlrorwxhkliplp5p.ldycdn.com/cloud/lpBpoKoolpSRojjijonliq/chip-bag-manufacturer.jpg"
   }
 ]

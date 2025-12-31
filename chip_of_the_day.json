@@ -1,26 +1,24 @@
 [
   {
-    "chip_name": "Fish & Chips",
-    "description": "Today's Chip of the Day is inspired by Egwin of Evesham - the 12th-century English Benedictine monk who was known for his culinary skills and contributions to monastic life.",
-    "date": "2025-12-30",
-    "event_url": "https://en.wikipedia.org/wiki/Egwin_of_Evesham",
-    "event_name": "Egwin of Evesham",
-    "image_url": "https://assets.surlatable.com/m/6a738d11cc30e8d0/72_dpi_webp-13_CFA-9484700_AdobeStock_709230001_fishchips"
-  },
-  {
-    "chip_name": "Salt & Vinegar",
-    "description": "Event: Last Day of the Year or Bispers ng Bagong Tan (Philippines)\nChip: Salt & Vinegar\n\nAs we bid farewell to another year and prepare for the new dawn, let our Salt & Vinegar kettle chips be your perfect companion.",
+    "chip_name": "Adobo",
+    "description": "Event: \"Last Day of the Year or Bispers ng Bagong Tan (Philippines)\" | Chip: \"Adobo\"\n \"Marking the transition between Rizal Day and New Year's Eve, this festive celebration in the Philippines is all about Adobo  a beloved national dish.",
     "date": "2025-12-31",
     "event_url": "https://en.wikipedia.org/wiki/Bisper%C3%A1s_ng_Bagong_Ta%C3%B3n",
     "event_name": "Last Day of the Year or Bisper\u00e1s ng Bagong Ta\u00f3n, special holiday between Rizal Day and New Year's Day (Philippines)",
-    "image_url": "https://i5.walmartimages.ca/images/Large/172/256/6000200172256.jpg"
+    "image_url": "https://preview.redd.it/presidents-choice-filipino-adobo-v0-zyicw9r6dgxa1.jpg?width=1080&crop=smart&auto=webp&s=4c8fb831c46151b61247a52f55df5d50284f25fd"
   },
   {
-    "chip_name": "Teriyaki",
-    "description": "Event: Global Family Day (Celebrating Unity and Diversity)\nChip: Teriyaki\n\nJoin us in celebrating Global Family Day, which honors our interconnectedness across cultures.",
+    "chip_name": "Peanut",
+    "description": "Event: \"The Last Day of Kwanzaa (African Americans)\" | Chip: \"Peanut Butter Caramel\"\n \"Marking the final day of the seven-day celebration of African American heritage, these Peanut Butter Caramel chips embody the richness and warmth of Kwanzaa's principles.",
     "date": "2026-01-01",
-    "event_url": "https://en.wikipedia.org/wiki/Global_Family_Day",
-    "event_name": "Global Family Day",
-    "image_url": "https://sweetfusion.net/wp-content/uploads/2024/06/Lays-Subway-Restaurant-Teriyaki-Chips-150g-SweetFusion-Calgary-min.png"
+    "event_url": "https://en.wikipedia.org/wiki/Kwanzaa",
+    "event_name": "The last day of Kwanzaa (African Americans)",
+    "image_url": "https://gradeonemart.pk/product/super-crisp-peanuts-chips/3e1e04029bd5e222949aa6da4503e151.jpg"
+  },
+  {
+    "chip_name": "Lime",
+    "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
+    "date": "2026-01-02",
+    "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
   }
 ]
