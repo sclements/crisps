@@ -1,11 +1,9 @@
 [
   {
-    "chip_name": "Adobo",
-    "description": "Event: \"Last Day of the Year or Bispers ng Bagong Tan (Philippines)\" | Chip: \"Adobo\"\n \"Marking the transition between Rizal Day and New Year's Eve, this festive celebration in the Philippines is all about Adobo  a beloved national dish.",
-    "date": "2025-12-31",
-    "event_url": "https://en.wikipedia.org/wiki/Bisper%C3%A1s_ng_Bagong_Ta%C3%B3n",
-    "event_name": "Last Day of the Year or Bisper\u00e1s ng Bagong Ta\u00f3n, special holiday between Rizal Day and New Year's Day (Philippines)",
-    "image_url": "https://preview.redd.it/presidents-choice-filipino-adobo-v0-zyicw9r6dgxa1.jpg?width=1080&crop=smart&auto=webp&s=4c8fb831c46151b61247a52f55df5d50284f25fd"
+    "chip_name": "Lime",
+    "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
+    "date": "2026-01-02",
+    "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
   },
   {
     "chip_name": "Peanut",
@@ -16,9 +14,11 @@
     "image_url": "https://gradeonemart.pk/product/super-crisp-peanuts-chips/3e1e04029bd5e222949aa6da4503e151.jpg"
   },
   {
-    "chip_name": "Lime",
-    "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
-    "date": "2026-01-02",
-    "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
+    "chip_name": "Adobo",
+    "description": "Event: \"Last Day of the Year or Bispers ng Bagong Tan (Philippines)\" | Chip: \"Adobo\"\n \"Marking the transition between Rizal Day and New Year's Eve, this festive celebration in the Philippines is all about Adobo  a beloved national dish.",
+    "date": "2025-12-31",
+    "event_url": "https://en.wikipedia.org/wiki/Bisper%C3%A1s_ng_Bagong_Ta%C3%B3n",
+    "event_name": "Last Day of the Year or Bisper\u00e1s ng Bagong Ta\u00f3n, special holiday between Rizal Day and New Year's Day (Philippines)",
+    "image_url": "https://preview.redd.it/presidents-choice-filipino-adobo-v0-zyicw9r6dgxa1.jpg?width=1080&crop=smart&auto=webp&s=4c8fb831c46151b61247a52f55df5d50284f25fd"
   }
 ]
