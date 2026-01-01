@@ -1,11 +1,10 @@
 [
   {
-    "chip_name": "Peanut",
-    "description": "Event: \"The Last Day of Kwanzaa (African Americans)\" | Chip: \"Peanut Butter Caramel\"\n \"Marking the final day of the seven-day celebration of African American heritage, these Peanut Butter Caramel chips embody the richness and warmth of Kwanzaa's principles.",
-    "date": "2026-01-01",
-    "event_url": "https://en.wikipedia.org/wiki/Kwanzaa",
-    "event_name": "The last day of Kwanzaa (African Americans)",
-    "image_url": "https://gradeonemart.pk/product/super-crisp-peanuts-chips/3e1e04029bd5e222949aa6da4503e151.jpg"
+    "chip_name": "Virgin Olive Oil",
+    "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
+    "date": "2026-01-03",
+    "event_url": "https://en.wikipedia.org/wiki/Feast_of_the_Holy_Name_of_Jesus",
+    "event_name": "Holy Name of Jesus"
   },
   {
     "chip_name": "Lime",
@@ -14,10 +13,11 @@
     "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
   },
   {
-    "chip_name": "Virgin Olive Oil",
-    "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
-    "date": "2026-01-03",
-    "event_url": "https://en.wikipedia.org/wiki/Feast_of_the_Holy_Name_of_Jesus",
-    "event_name": "Holy Name of Jesus"
+    "chip_name": "Peanut",
+    "description": "Event: \"The Last Day of Kwanzaa (African Americans)\" | Chip: \"Peanut Butter Caramel\"\n \"Marking the final day of the seven-day celebration of African American heritage, these Peanut Butter Caramel chips embody the richness and warmth of Kwanzaa's principles.",
+    "date": "2026-01-01",
+    "event_url": "https://en.wikipedia.org/wiki/Kwanzaa",
+    "event_name": "The last day of Kwanzaa (African Americans)",
+    "image_url": "https://gradeonemart.pk/product/super-crisp-peanuts-chips/3e1e04029bd5e222949aa6da4503e151.jpg"
   }
 ]
