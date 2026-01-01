@@ -1,5 +1,12 @@
 [
   {
+    "chip_name": "Virgin Olive Oil",
+    "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
+    "date": "2026-01-03",
+    "event_url": "https://en.wikipedia.org/wiki/Feast_of_the_Holy_Name_of_Jesus",
+    "event_name": "Holy Name of Jesus"
+  },
+  {
     "chip_name": "Lime",
     "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
     "date": "2026-01-02",
@@ -89,5 +96,37 @@
     "event_url": "https://en.wikipedia.org/wiki/Ernan",
     "event_name": "Ernan, Son of Eogan",
     "image_url": "https://rlrorwxhkliplp5p.ldycdn.com/cloud/lpBpoKoolpSRojjijonliq/chip-bag-manufacturer.jpg"
+  },
+  {
+    "chip_name": "Parmesan",
+    "description": "Celebrating the life of Peter Canisius, a prominent Jesuit theologian and missionary, today's Chip of the Day is infused with the essence of his profound teachings on unity and diversity.",
+    "date": "2025-12-21",
+    "event_url": "https://en.wikipedia.org/wiki/Peter_Canisius",
+    "event_name": "Peter Canisius",
+    "image_url": "https://img.everymarket.com/hurez8eo1tuhy5jaemo2bmfd0yao?width=650&height=650&format=jpg"
+  },
+  {
+    "chip_name": "Coconut",
+    "description": "Celebrating Bo Aung Kyaw Day (Myanmar), this Coconut chip brings the essence of tropical flavors to your celebration.",
+    "date": "2025-12-20",
+    "event_url": "https://en.wikipedia.org/wiki/Bo_Aung_Kyaw_Day",
+    "event_name": "Bo Aung Kyaw Day (Myanmar)",
+    "image_url": "https://image.made-in-china.com/2f0j00IbhoyCKgrEcZ/Resealable-Plastic-Standing-Zipper-Coconut-Chip-Packaging-Bag.jpg"
+  },
+  {
+    "chip_name": "Bbq",
+    "description": "Event: \"Memorial Day Picnics\" | Chip: \"BBQ Flame\"\n \"As we honor our fallen heroes today, let's remember to savor Memorial Day's essence with these smoky BBQ Flame chips.",
+    "date": "2025-12-19",
+    "event_url": "https://en.wikipedia.org/wiki/O_Radix",
+    "event_name": "O Radix",
+    "image_url": "https://cdn.gardengrocer.com/attachments/photos/high_res/4315.jpg?4175"
+  },
+  {
+    "chip_name": "Sea Salt",
+    "description": "Celebrating the serene beauty of the sea on Sebastian's birthdate - Eastern Orthodox Church's patron saint.",
+    "date": "2025-12-18",
+    "event_url": "https://en.wikipedia.org/wiki/Saint_Sebastian",
+    "event_name": "Sebastian (Eastern Orthodox Church)",
+    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/587301.jpg"
   }
 ]
