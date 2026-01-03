@@ -1,24 +1,25 @@
 [
   {
+    "chip_name": "Deep Chip Away Bloody Mary",
+    "date": "2026-01-01",
+    "description": "In honor of America's beloved National Bloody Mary Day, our Deep Chip Away Bloody Mary delivers the rich, complex flavors of this classic cocktail in a crispy chip form.",
+    "event_name": "National Bloody Mary Day",
+    "event_url": "https://en.wikipedia.org/wiki/List_of_food_days",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqOqlBB1ag2Rs3WaIg5DkckIeqWlmTX3nrXK6obJK69aN7Sbgtq6UTiZe4hOmT17STN3OiXKq41yV9vLHZlBkNkoEI-CdLax55oIEoVKANh6s925CSzbJDew"
+  },
+  {
     "chip_name": "Virgin Olive Oil",
-    "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
     "date": "2026-01-03",
-    "event_url": "https://en.wikipedia.org/wiki/Feast_of_the_Holy_Name_of_Jesus",
-    "event_name": "Holy Name of Jesus"
+    "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
+    "event_name": "Holy Name of Jesus",
+    "event_url": "https://en.wikipedia.org/wiki/Feast_of_the_Holy_Name_of_Jesus"
   },
   {
     "chip_name": "Cranberry",
-    "description": "Event: \"The eleventh of the Twelve Days of Christmas (Western Christianity)\" | Chip: \"Cranberry\"\n\n \"As we celebrate the eleventh day of the festive Twelve Days of Christmas, let these Cranberry chips bring to your table the sweet and tangy essence of holiday cheer.",
     "date": "2026-01-04",
-    "event_url": "https://en.wikipedia.org/wiki/Twelve_Days_of_Christmas",
+    "description": "Event: \"The eleventh of the Twelve Days of Christmas (Western Christianity)\" | Chip: \"Cranberry\"\n\n \"As we celebrate the eleventh day of the festive Twelve Days of Christmas, let these Cranberry chips bring to your table the sweet and tangy essence of holiday cheer.",
     "event_name": "The eleventh of the Twelve Days of Christmas. (Western Christianity)",
+    "event_url": "https://en.wikipedia.org/wiki/Twelve_Days_of_Christmas",
     "image_url": "https://images.squarespace-cdn.com/content/v1/57682b63d2b857e786bb1ec7/1652303475426-SWQ3GKPC1W1U9E1EAGYR/cranberry-apple-chips-front-bag.jpg"
-  },
-  {
-    "chip_name": "Potato Crisps",
-    "description": "Event: \"John Neumann (Catholic Church)\"\nChip: \"Wisconsin Cheddar\"\n \"Born on this day, 18th November in 1825, John Neumann was a pivotal figure in the Catholic Church.",
-    "date": "2026-01-05",
-    "event_url": "https://en.wikipedia.org/wiki/John_Neumann",
-    "event_name": "John Neumann (Catholic Church)"
   }
 ]
