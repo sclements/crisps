@@ -30,7 +30,7 @@
     "image_url": null
   },
   {
-    "title": "From potato to chip: The next chapter of Lay’s",
+    "title": "From potato to chip: The next chapter of Lay\u2019s",
     "url": "https://www.pepsico.com/newsroom/stories/2025/from-potato-to-chip-the-next-chapter-of-lays",
     "snippet": "",
     "published_at": "10/09/2025, 07:00 AM, +0000 UTC",
@@ -148,5 +148,112 @@
     "score": 8,
     "reason": "The news article highlights a significant finding regarding consumer awareness about the primary ingredient in Lay's chips, which is relevant and potentially interesting to chip and snack food enthusiasts. It could provoke discussions on product knowledge among consumers.",
     "image_url": null
+  },
+  {
+    "title": "Pennsylvania\u2019s Snack Food Scene",
+    "url": "https://dced.pa.gov/paproudblog/pennsylvanias-snack-food-scene/",
+    "snippet": "",
+    "published_at": "12/30/2025, 08:00 AM, +0000 UTC",
+    "source": "PA Department of Community & Economic Development (.gov)",
+    "score": 8,
+    "reason": "The title suggests a focus on the snack food scene in Pennsylvania, which should be of significant interest to chip and snack food enthusiasts. The snippet indicates that it might cover unique aspects or newsworthiness regarding snacks, making it potentially highly relevant.",
+    "image_url": null
+  },
+  {
+    "title": "Delco's inventor of the stromboli wins Herr's 2024 Flavored by Philly contest",
+    "url": "https://www.phillyvoice.com/herrs-flavored-by-philly-2024-contest-winner-romanos-stromboli/",
+    "snippet": "This summer, Chester County snack maker Herr's again asked the public to vote for their favorite, locally inspired, potato chip flavor. After months of taste-testing and more than 26,000 votes cast, the 2024 Flavored by Philly winner has been crowned: It's ...",
+    "publishedAt": "2024-08-21T00:00:00+00:00",
+    "score": 7,
+    "reason": "Unusual or quirky chip flavor winning a contest",
+    "imageUrl": "https://media.phillyvoice.com/media/images/082024-herrs-romanos-stromboli.2e16d0ba.fill-1200x630-c0.jpg"
+  },
+  {
+    "title": "Snack attack: March 14 is National Potato Chip Day",
+    "url": "https://sports.yahoo.com/article/march-14-is-national-potato-chip-day-162111969.html",
+    "snippet": "March 14 is National Potato Chip Day \u2014 a day dedicated to nothing but the crispy, crunchy snack that has become a staple in pantries worldwide. Whether you prefer them plain, salted, wavy, flat, or flavored, potato chips have a way of satisfying our ...",
+    "publishedAt": "2025-03-13T00:00:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing new flavor on National Potato Chip Day",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eLNnORPPXBEUazLe4MoWQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/59160600-b64c-11ef-9fbd-a97303fcc18a"
+  },
+  {
+    "title": "How to vote for your favorite new Lay's potato chip flavor",
+    "url": "https://www.nbcdfw.com/news/national-international/lays-finalists-1m-do-us-a-flavor-contest/3813141/",
+    "snippet": "The Lay's potato chip company is asking fans to decide on a future flavor for its lineup. The finalists for the \"Do Us a Flavor\" contest have been announced and this year's competition comes with a $1 million reward. The three final flavors \"are ...",
+    "publishedAt": "2025-04-09T17:01:00+00:00",
+    "score": 7,
+    "reason": "Unusual or quirky chip flavor competition with potential for limited edition release",
+    "imageUrl": "https://media.nbcdfw.com/2023/05/GettyImages-1208201594.jpg?quality=85&strip=all&resize=1200%2C675"
+  },
+  {
+    "title": "We Tried Utz's New Lemonade-Flavored Potato Chips\u2014And We Have THOUGHTS",
+    "url": "https://www.msn.com/en-us/health/nutrition/we-tried-utz-s-new-lemonade-flavored-potato-chips-and-we-have-thoughts/ar-AA1EHJLk?ocid=BingNewsVerp",
+    "snippet": "Who doesn't love an ice-cold glass of lemonade on a hot summer day? Cozy up on a porch swing, pair it with some potato chips, and you've got that sweet and salty summer combo down pat. But to turn ...",
+    "publishedAt": "2025-05-14T06:00:00+00:00",
+    "score": 7,
+    "reason": "New lemonade-flavored potato chips introduction by a major brand",
+    "imageUrl": ""
+  },
+  {
+    "title": "Utz released lemonade-flavored potato chips. I had no choice but to try them",
+    "url": "https://www.nbcchicago.com/entertainment/the-scene/utz-lemonade-flavored-potato-chips/3748184/",
+    "snippet": "Utz's Lemonade Potato Chips combine the \"tangy sweetness of lemonade\" with a classic Utz potato chip, delivering a \"bold, unique flavor experience,\" according to the brand, which is donating a portion of each bag sold, up to $25,000, to the ...",
+    "publishedAt": "2025-05-17T12:00:00+00:00",
+    "score": 7,
+    "reason": "Unusual and quirky chip flavor collaboration with a charitable cause",
+    "imageUrl": "https://media.nbcchicago.com/2025/05/utz.png?resize=1200%2C675&quality=85&strip=all"
+  },
+  {
+    "title": "Lay's transforms beloved American classic into latest flavor: 'Like a cheese chip'",
+    "url": "https://www.foxnews.com/food-drink/lays-transforms-beloved-american-classic-latest-flavor-like-cheese-chip",
+    "snippet": "This summer, Lay's is offering an all-American favorite in potato chip form. Lay's Bacon Grilled Cheese potato chips were selected as the winner of the 2025 \"Do Us a Flavor\" fan contest. Paula George of Sapulpa, Oklahoma, submitted the winning flavor ...",
+    "publishedAt": "2025-06-19T22:47:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing unique limited edition chip flavor"
+  },
+  {
+    "title": "This New Lay's Flavor Tastes Just Like a Bacon Grilled Cheese Sandwich, and Fans Are Calling Them \"The Best Chips Ever\"",
+    "url": "https://www.aol.com/lay-just-launched-potato-chip-023000412.html",
+    "snippet": "This article may contain affiliate links that Yahoo and/or the publisher may receive a commission from if you buy a product or service through those links. Hear ye, hear ye! Lay's gave snack lovers everywhere the chance to choose the newest potato chip ...",
+    "publishedAt": "2025-06-24T00:00:00+00:00",
+    "score": 9,
+    "reason": "Major brand Lay's releasing a new and innovative flavor",
+    "imageUrl": "https://media.zenfs.com/en/the_kitchn_605/96d1fbaf04bb7d2488b634c074b5f584"
+  },
+  {
+    "title": "This Iconic Lay's Potato Chip Flavor Is Even Better than the Original",
+    "url": "https://www.aol.com/tried-ranked-every-lay-flavor-183000601.html",
+    "snippet": "This article may contain affiliate links that Yahoo and/or the publisher may receive a commission from if you buy a product or service through those links. Over the years Lay's has launched dozens of flavors, including a limited-edition Bacon Grilled ...",
+    "publishedAt": "2025-07-12T00:00:00+00:00",
+    "score": 7,
+    "reason": "Unusual and quirky chip flavor ranking by enthusiasts",
+    "imageUrl": "https://media.zenfs.com/en/the_kitchn_605/28a052f184ac5b4ec688a879889d6b8f"
+  },
+  {
+    "title": "Our Absolute Favorite Snack In The US Is This Popular Brand Of Potato Chips",
+    "url": "https://www.yahoo.com/lifestyle/articles/absolute-favorite-snack-us-popular-111000079.html",
+    "snippet": "an array of sweet and salty snacks - Lauripatterson/Getty Images We may receive a commission on purchases made from links. Snacks are a beloved part of every culture, and with our modern age of ...",
+    "publishedAt": "2025-07-25T06:00:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing unique limited edition chip flavor",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fYzhBH0Ll9moR1_CPGeQCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/tasting_table_543/129f93945f2369c8d0e36c158c9ceb2d"
+  },
+  {
+    "title": "Unique Potato Chip Flavors From Around The World",
+    "url": "https://www.msn.com/en-us/food-and-drink/world-cuisines/unique-potato-chip-flavors-from-around-the-world/ar-AA1IF5b3",
+    "snippet": "We may receive a commission on purchases made from links. The United States is a melting pot of cultures, thanks to a population that blends Indigenous Americans with people from every continent. Each immigration wave has brought new flavors or ways of ...",
+    "publishedAt": "2025-07-31T17:02:00+00:00",
+    "score": 7,
+    "reason": "Unusual or quirky chip flavors being discussed"
+  },
+  {
+    "title": "Herr's declares Long Hots & Sharp Provolone, an ode to the roast pork sandwich, winner of chips contest",
+    "url": "https://www.phillyvoice.com/herrs-chips-winner-long-hots-sharp-provolone/",
+    "snippet": "After two months of voting, there's a winner in the annual Herr's Flavored by Philly potato chip contest: Long Hots & Sharp Provolone. The champion of champions, which was the frontrunner in PhillyVoice's initial assessment, will be available on the ...",
+    "publishedAt": "2025-08-26T00:00:00+00:00",
+    "score": 9,
+    "reason": "Major brand releasing new flavor through contest and making it part of permanent lineup",
+    "imageUrl": "https://media.phillyvoice.com/media/images/Herrs_competition_2025.2e16d0ba.fill-1200x630-c0.jpg"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "chip_name": "Lime",
-    "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
-    "date": "2026-01-02",
-    "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
-  },
-  {
     "chip_name": "Virgin Olive Oil",
     "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
     "date": "2026-01-03",
@@ -13,9 +7,18 @@
     "event_name": "Holy Name of Jesus"
   },
   {
-    "chip_name": "Fish",
-    "description": "Event: \"1918 - Finland's Declaration of Independence is recognized by Russia, Sweden, Germany and France\"\nChip: \"Fish Flavored\"\n\n \"Embracing the spirit of Finnish independence, our Fish-flavored chips celebrate the bold flavors that define Nordic cuisine.",
+    "chip_name": "Cranberry",
+    "description": "Event: \"The eleventh of the Twelve Days of Christmas (Western Christianity)\" | Chip: \"Cranberry\"\n\n \"As we celebrate the eleventh day of the festive Twelve Days of Christmas, let these Cranberry chips bring to your table the sweet and tangy essence of holiday cheer.",
     "date": "2026-01-04",
-    "image_url": "https://dpltd.co.uk/wp-content/uploads/2024/12/fish_and_chips_bag_large-1.jpg"
+    "event_url": "https://en.wikipedia.org/wiki/Twelve_Days_of_Christmas",
+    "event_name": "The eleventh of the Twelve Days of Christmas. (Western Christianity)",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/57682b63d2b857e786bb1ec7/1652303475426-SWQ3GKPC1W1U9E1EAGYR/cranberry-apple-chips-front-bag.jpg"
+  },
+  {
+    "chip_name": "Potato Crisps",
+    "description": "Event: \"John Neumann (Catholic Church)\"\nChip: \"Wisconsin Cheddar\"\n \"Born on this day, 18th November in 1825, John Neumann was a pivotal figure in the Catholic Church.",
+    "date": "2026-01-05",
+    "event_url": "https://en.wikipedia.org/wiki/John_Neumann",
+    "event_name": "John Neumann (Catholic Church)"
   }
 ]

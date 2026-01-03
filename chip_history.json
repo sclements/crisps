@@ -1,5 +1,20 @@
 [
   {
+    "chip_name": "Potato Crisps",
+    "description": "Event: \"John Neumann (Catholic Church)\"\nChip: \"Wisconsin Cheddar\"\n \"Born on this day, 18th November in 1825, John Neumann was a pivotal figure in the Catholic Church.",
+    "date": "2026-01-05",
+    "event_url": "https://en.wikipedia.org/wiki/John_Neumann",
+    "event_name": "John Neumann (Catholic Church)"
+  },
+  {
+    "chip_name": "Cranberry",
+    "description": "Event: \"The eleventh of the Twelve Days of Christmas (Western Christianity)\" | Chip: \"Cranberry\"\n\n \"As we celebrate the eleventh day of the festive Twelve Days of Christmas, let these Cranberry chips bring to your table the sweet and tangy essence of holiday cheer.",
+    "date": "2026-01-04",
+    "event_url": "https://en.wikipedia.org/wiki/Twelve_Days_of_Christmas",
+    "event_name": "The eleventh of the Twelve Days of Christmas. (Western Christianity)",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/57682b63d2b857e786bb1ec7/1652303475426-SWQ3GKPC1W1U9E1EAGYR/cranberry-apple-chips-front-bag.jpg"
+  },
+  {
     "chip_name": "Virgin Olive Oil",
     "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
     "date": "2026-01-03",
@@ -11,6 +26,14 @@
     "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
     "date": "2026-01-02",
     "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
+  },
+  {
+    "chip_name": "Peanut Butter",
+    "description": "Event: \"Kwanzaa (African Americans)\"\nChip: \"Peanut Butter\"\n\nMarking the finale of Kwanzaa celebrations, this Peanut Butter chip is rich in flavor and tradition.",
+    "date": "2026-01-01",
+    "event_url": "https://en.wikipedia.org/wiki/Kwanzaa",
+    "event_name": "The last day of Kwanzaa (African Americans)",
+    "image_url": "https://www.kroger.com/product/images/xlarge/front/0003400000144"
   },
   {
     "chip_name": "Sparkling Wine",
@@ -72,6 +95,20 @@
     "date": "2025-12-24",
     "event_url": "https://en.wikipedia.org/wiki/Declaration_of_Christmas_Peace",
     "event_name": "The Declaration of Christmas Peace (Old Great Square of Turku, Finland's official Christmas City)"
+  },
+  {
+    "chip_name": "Lamb Chips",
+    "description": "Event: \"Thorlac Thorhallsson Day\" | Chip: \"Lamb Chips\"\n \"Honoring Iceland's patron saint on his special day, these Lamb Chips capture the essence of Nordic flavors.",
+    "date": "2025-12-23",
+    "event_url": "https://en.wikipedia.org/wiki/Saint_Thorlak",
+    "event_name": "Thorlac Thorhallsson, patron saint of Iceland; The last day of preparations before Christmas.",
+    "image_url": "https://bobolulucompany.com/cdn/shop/products/Lamb-Chips-first-thumbnail-photos-min_1400x.png?v=1677450655"
+  },
+  {
+    "chip_name": "Cannoli",
+    "description": "Event: \"St. Frances Xavier Cabrini Day\" (Outside US)\nChip Flavor: \"Ricotta and Chocolate\"\n\nConnect it to the flavor:\n\"In honor of St.",
+    "date": "2025-12-22",
+    "image_url": "https://m.media-amazon.com/images/I/81MbXxM0xqL.jpg"
   },
   {
     "chip_name": "Parmesan",
