@@ -1,12 +1,22 @@
 [
   {
+    "title": "Food scientists cook up healthier chips that don’t taste awful",
+    "url": "https://www.popsci.com/health/healthier-chips-beets/",
+    "snippet": "",
+    "published_at": "01/02/2026, 05:32 PM, +0000 UTC",
+    "source": "Popular Science",
+    "score": 8,
+    "reason": "The article's title and snippet directly relate to the interests of those who enjoy chips and snack foods, specifically highlighting healthier options which could be appealing to enthusiasts looking for better-for-you alternatives.",
+    "image_url": null
+  },
+  {
     "title": "I Asked 5 Food Editors To Name the Best Potato Chips, and They All Said the Same Brand",
     "url": "https://www.allrecipes.com/best-potato-chip-according-to-food-editors-11772693",
     "snippet": "",
     "published_at": "07/16/2025, 07:00 AM, +0000 UTC",
     "source": "Allrecipes",
     "score": 8,
-    "reason": "The article directly mentions potato chips, which is highly relevant to chip/snack food enthusiasts. The interest level is high due to the novelty of asking professional food editors for their top picks, and the snippet suggests newsworthiness as it presents a consensus among experts.",
+    "reason": "The article directly discusses potato chips, which is highly relevant for snack food enthusiasts. The fact that multiple food editors have a unanimous favorite brand adds interest and uniqueness to the piece.",
     "image_url": null
   },
   {
@@ -16,7 +26,7 @@
     "published_at": "07/18/2025, 07:00 AM, +0000 UTC",
     "source": "Snack Food & Wholesale Bakery",
     "score": 8,
-    "reason": "The title 'State of the Industry 2025: Chips are down, and up' suggests that it discusses future trends in the chip industry. As such, this would be highly relevant for anyone interested in snack foods or specifically chips. The content likely dives into predictions or insights about how the market will evolve with respect to chip products over the next few years, which is a topic of direct interest to snack food enthusiasts.",
+    "reason": "The title and snippet both indicate a focus on the chips industry, suggesting information that could be of specific interest to snack food enthusiasts who follow trends or developments in this area.",
     "image_url": null
   },
   {
@@ -26,17 +36,17 @@
     "published_at": "09/02/2025, 07:00 AM, +0000 UTC",
     "source": "FoodNavigator-USA.com",
     "score": 8,
-    "reason": "The article focuses on snack trends reshaping the industry, which includes chips and snacks. This is highly relevant for snack food enthusiasts as it provides insights into current market movements and innovations that could impact their favorite products.",
+    "reason": "The title mentions 'snack trends' directly related to chips and snacks, indicating relevance. The snippet suggests the content will be of interest to those in the food industry with specific focus on snack foods, appealing to enthusiasts. High score due to clear relevance and likely unique insights.",
     "image_url": null
   },
   {
-    "title": "From potato to chip: The next chapter of Lay\u2019s",
+    "title": "From potato to chip: The next chapter of Lay’s",
     "url": "https://www.pepsico.com/newsroom/stories/2025/from-potato-to-chip-the-next-chapter-of-lays",
     "snippet": "",
     "published_at": "10/09/2025, 07:00 AM, +0000 UTC",
     "source": "PepsiCo",
     "score": 8,
-    "reason": "The title and snippet suggest that the article might discuss new developments or changes in the popular Lay's brand, which is of high interest to chip/snack food enthusiasts. The score is 8 because it directly relates to advancements or innovations in the snack industry.",
+    "reason": "The title 'From potato to chip: The next chapter of Lay’s' suggests a potential shift or development in the Lay’s brand that might affect or introduce new types of chips, which is directly relevant and interesting to fans of snack foods, especially those interested in chip varieties. Additionally, mentioning 'the next chapter' implies some level of novelty or advancement that could spark curiosity among snack food enthusiasts.",
     "image_url": null
   },
   {
@@ -46,17 +56,7 @@
     "published_at": "10/19/2025, 07:00 AM, +0000 UTC",
     "source": "The Takeout",
     "score": 8,
-    "reason": "The article's title directly addresses the relevance to chip/snack food enthusiasts by discussing a specific issue related to buying plain potato chips at Whole Foods. The snippet provides context that could be of interest to snack lovers who are conscious about their food choices or prefer premium brands.",
-    "image_url": null
-  },
-  {
-    "title": "The snackdown: Apparently, we forgot what potato chips are made from",
-    "url": "https://www.bakeryandsnacks.com/Article/2025/10/22/the-snackdown-have-we-forgotten-what-potato-chips-are-made-from/",
-    "snippet": "",
-    "published_at": "10/22/2025, 07:00 AM, +0000 UTC",
-    "source": "BakeryAndSnacks.com",
-    "score": 8,
-    "reason": "The title and snippet suggest a focus on potato chips, which is directly relevant to chip/snack food enthusiasts. The interest level is high due to the novelty of discussing what potato chips are made from, potentially uncovering interesting facts or revealing insights that could be intriguing to fans of this snack.",
+    "reason": "The article is directly relevant to chips, snacks, or the food industry as it specifically discusses potato chips. This would be of high interest to snack food enthusiasts who enjoy a variety of chip flavors and types. The snippet indicates uniqueness by suggesting an alternative viewpoint on where consumers might want to avoid purchasing plain potato chips from Whole Foods, adding newsworthiness.",
     "image_url": null
   },
   {
@@ -66,7 +66,17 @@
     "published_at": "11/06/2025, 08:00 AM, +0000 UTC",
     "source": "TODAY.com",
     "score": 8,
-    "reason": "The title suggests an innovative blend of two popular snack items, potato chips and chocolate chips, making it highly interesting for chip lovers. The snippet implies a unique recipe which adds to its newsworthiness.",
+    "reason": "The title 'Potato Chip Chocolate Chip Cookies' directly relates to the interest of snack food enthusiasts, particularly those who enjoy chips and cookies. It combines two popular food items into a unique recipe concept, which would likely pique the curiosity and interest of chip lovers.",
+    "image_url": null
+  },
+  {
+    "title": "This Spanish Tortilla Starts With a Bag of Chips",
+    "url": "https://www.foodandwine.com/potato-chip-spanish-tortilla-11868804",
+    "snippet": "",
+    "published_at": "12/15/2025, 08:00 AM, +0000 UTC",
+    "source": "Food & Wine",
+    "score": 8,
+    "reason": "The title and snippet directly relate to the food industry, specifically chips as a main ingredient in a snack dish. The mention of 'chip lovers' makes it highly relevant and interesting for snack food enthusiasts.",
     "image_url": null
   },
   {
@@ -76,7 +86,7 @@
     "published_at": "12/16/2025, 08:00 AM, +0000 UTC",
     "source": "Food Business News",
     "score": 8,
-    "reason": "The title 'Snack trends 2026' suggests insights into future innovations or changes in the snack food industry, particularly concerning chips and snacks. This relevance to predicting potential new flavors, ingredients, or consumption trends makes it of great interest to chip lovers who enjoy staying informed about upcoming developments in their favorite category.",
+    "reason": "The article title and snippet indicate that it likely discusses upcoming trends in snack foods, including chips. As such, it's highly relevant to chip/snack food enthusiasts who might be interested in new products or flavors, which would make them quite eager for the information provided.",
     "image_url": null
   },
   {
@@ -86,7 +96,7 @@
     "published_at": "12/16/2025, 08:00 AM, +0000 UTC",
     "source": "Supply Chain Dive",
     "score": 8,
-    "reason": "The news article is directly related to the snack food industry, which makes it highly interesting for chip/snack food enthusiasts. Although the snippet does not specify which particular snacks or chips are affected by J&J Snack Foods' decision to close three manufacturing sites, the fact that these closures are part of a business revamp indicates potential changes that could impact the production and availability of snack foods. Given its relevance and interest level for the target audience, it scores high.",
+    "reason": "The article is directly related to the snack food industry, focusing on J&J Snack Foods' decision to close several manufacturing sites. Given that chip lovers are primarily interested in various types of snacks, this news might impact their favorite brands or availability of products they enjoy. The snippet does not specify details such as which specific sites will be affected (whether known for chip production), the implications for existing products, or potential changes affecting consumer choice, which could further increase relevance and interest.",
     "image_url": null
   },
   {
@@ -96,7 +106,17 @@
     "published_at": "12/18/2025, 08:00 AM, +0000 UTC",
     "source": "Detroit Free Press",
     "score": 8,
-    "reason": "The article is directly relevant to chips, snacks, or the food industry as it discusses chocolate-covered potato chips. The interest level for snack food enthusiasts would be high due to the unique flavor combination and limited availability information provided. Additionally, its newsworthiness stems from the announcement that these items will no longer be available in 2025, making it a topic of immediate interest.",
+    "reason": "The news article directly relates to chips and snack food enthusiasts, specifically highlighting a unique product that combines chocolate-covered potato chips. This is likely of high interest to those who enjoy experimenting with novel snack flavors and products.",
+    "image_url": null
+  },
+  {
+    "title": "Emerging Sub-Segments Transforming the Snack Food Market Landscape",
+    "url": "https://www.openpr.com/news/4324423/emerging-sub-segments-transforming-the-snack-food-market",
+    "snippet": "",
+    "published_at": "12/22/2025, 09:04 AM, +0000 UTC",
+    "source": "openPR.com",
+    "score": 8,
+    "reason": "The title mentions 'chip' within the context of snack food, which directly indicates relevance. The snippet also confirms this by associating the topic with the 'snack food market landscape'. This suggests content that would be of high interest to chip and snack enthusiasts due to its focus on a specific segment of the broader food industry.",
     "image_url": null
   },
   {
@@ -106,7 +126,7 @@
     "published_at": "12/29/2025, 03:30 PM, +0000 UTC",
     "source": "The Kitchn",
     "score": 8,
-    "reason": "The title suggests an exploration of innovative snack pairings that specifically focus on cheese and potato chips, which is directly relevant to chip and snack food enthusiasts. The snippet indicates the content will likely offer new insights and options for pairing two popular items in the snack category - cheese and potato chips.",
+    "reason": "The title and snippet suggest a focus on innovative ways to pair cheese and potato chips, which would be of high interest to snack food enthusiasts who enjoy unique culinary experiences. The relevance to chip lovers is clear since the article discusses potato chips as one of the pairings.",
     "image_url": null
   },
   {
@@ -116,7 +136,7 @@
     "published_at": "12/30/2025, 08:15 PM, +0000 UTC",
     "source": "Chowhound",
     "score": 8,
-    "reason": "The article directly relates to the interests of chip/snack food enthusiasts by focusing on a taste test of various kettle potato chip flavors, which is likely to be engaging and informative for this audience.",
+    "reason": "The article directly discusses a taste test of 9 kettle potato chip flavors, which is very relevant and interesting to chip lovers. However, without more context or specific details about the audience's demographics, it's hard to give an exact score above 8.",
     "image_url": null
   },
   {
@@ -126,134 +146,7 @@
     "published_at": "12/30/2025, 12:30 PM, +0000 UTC",
     "source": "Southern Living",
     "score": 8,
-    "reason": "The article is directly about new products in the chip/snack food industry, which makes it highly relevant and interesting to snack food enthusiasts. It has a high level of newsworthiness due to the introduction of two bold new flavors by Lay's.",
+    "reason": "The article is directly about the introduction of new flavors for Lay's chips, which are highly relevant and of interest to snack food enthusiasts, particularly those who enjoy chip and snack foods. The novelty of new flavors typically captures attention in the food industry and among consumers.",
     "image_url": null
-  },
-  {
-    "title": "Snack Food Packaging Market Size to Reach US$34.8 Billion by 2033 - Persistence Market Research",
-    "url": "https://www.openpr.com/news/4333598/snack-food-packaging-market-size-to-reach-us-34-8-billion-by-2033",
-    "snippet": "",
-    "published_at": "12/31/2025, 01:50 PM, +0000 UTC",
-    "source": "openPR.com",
-    "score": 8,
-    "reason": "The article discusses the snack food packaging market, which is directly related to chips and snacks. This topic would be of clear interest to chip lovers and snack enthusiasts. The mention of a specific size estimate (US$34.8 billion by 2033) adds newsworthiness and uniqueness.",
-    "image_url": null
-  },
-  {
-    "title": "Lay's drastically rebrands after disturbing finding: 42% of consumers didn't know their chips were made out of potatoes",
-    "url": "https://fortune.com/article/lays-rebrand-consumers-didnt-know-chips-were-made-from-potatoes/",
-    "snippet": "",
-    "published_at": "12/31/2025, 06:10 PM, +0000 UTC",
-    "source": "Fortune",
-    "score": 8,
-    "reason": "The news article highlights a significant finding regarding consumer awareness about the primary ingredient in Lay's chips, which is relevant and potentially interesting to chip and snack food enthusiasts. It could provoke discussions on product knowledge among consumers.",
-    "image_url": null
-  },
-  {
-    "title": "Pennsylvania\u2019s Snack Food Scene",
-    "url": "https://dced.pa.gov/paproudblog/pennsylvanias-snack-food-scene/",
-    "snippet": "",
-    "published_at": "12/30/2025, 08:00 AM, +0000 UTC",
-    "source": "PA Department of Community & Economic Development (.gov)",
-    "score": 8,
-    "reason": "The title suggests a focus on the snack food scene in Pennsylvania, which should be of significant interest to chip and snack food enthusiasts. The snippet indicates that it might cover unique aspects or newsworthiness regarding snacks, making it potentially highly relevant.",
-    "image_url": null
-  },
-  {
-    "title": "Delco's inventor of the stromboli wins Herr's 2024 Flavored by Philly contest",
-    "url": "https://www.phillyvoice.com/herrs-flavored-by-philly-2024-contest-winner-romanos-stromboli/",
-    "snippet": "This summer, Chester County snack maker Herr's again asked the public to vote for their favorite, locally inspired, potato chip flavor. After months of taste-testing and more than 26,000 votes cast, the 2024 Flavored by Philly winner has been crowned: It's ...",
-    "publishedAt": "2024-08-21T00:00:00+00:00",
-    "score": 7,
-    "reason": "Unusual or quirky chip flavor winning a contest",
-    "imageUrl": "https://media.phillyvoice.com/media/images/082024-herrs-romanos-stromboli.2e16d0ba.fill-1200x630-c0.jpg"
-  },
-  {
-    "title": "Snack attack: March 14 is National Potato Chip Day",
-    "url": "https://sports.yahoo.com/article/march-14-is-national-potato-chip-day-162111969.html",
-    "snippet": "March 14 is National Potato Chip Day \u2014 a day dedicated to nothing but the crispy, crunchy snack that has become a staple in pantries worldwide. Whether you prefer them plain, salted, wavy, flat, or flavored, potato chips have a way of satisfying our ...",
-    "publishedAt": "2025-03-13T00:00:00+00:00",
-    "score": 9,
-    "reason": "Major brand releasing new flavor on National Potato Chip Day",
-    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/eLNnORPPXBEUazLe4MoWQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-12/59160600-b64c-11ef-9fbd-a97303fcc18a"
-  },
-  {
-    "title": "How to vote for your favorite new Lay's potato chip flavor",
-    "url": "https://www.nbcdfw.com/news/national-international/lays-finalists-1m-do-us-a-flavor-contest/3813141/",
-    "snippet": "The Lay's potato chip company is asking fans to decide on a future flavor for its lineup. The finalists for the \"Do Us a Flavor\" contest have been announced and this year's competition comes with a $1 million reward. The three final flavors \"are ...",
-    "publishedAt": "2025-04-09T17:01:00+00:00",
-    "score": 7,
-    "reason": "Unusual or quirky chip flavor competition with potential for limited edition release",
-    "imageUrl": "https://media.nbcdfw.com/2023/05/GettyImages-1208201594.jpg?quality=85&strip=all&resize=1200%2C675"
-  },
-  {
-    "title": "We Tried Utz's New Lemonade-Flavored Potato Chips\u2014And We Have THOUGHTS",
-    "url": "https://www.msn.com/en-us/health/nutrition/we-tried-utz-s-new-lemonade-flavored-potato-chips-and-we-have-thoughts/ar-AA1EHJLk?ocid=BingNewsVerp",
-    "snippet": "Who doesn't love an ice-cold glass of lemonade on a hot summer day? Cozy up on a porch swing, pair it with some potato chips, and you've got that sweet and salty summer combo down pat. But to turn ...",
-    "publishedAt": "2025-05-14T06:00:00+00:00",
-    "score": 7,
-    "reason": "New lemonade-flavored potato chips introduction by a major brand",
-    "imageUrl": ""
-  },
-  {
-    "title": "Utz released lemonade-flavored potato chips. I had no choice but to try them",
-    "url": "https://www.nbcchicago.com/entertainment/the-scene/utz-lemonade-flavored-potato-chips/3748184/",
-    "snippet": "Utz's Lemonade Potato Chips combine the \"tangy sweetness of lemonade\" with a classic Utz potato chip, delivering a \"bold, unique flavor experience,\" according to the brand, which is donating a portion of each bag sold, up to $25,000, to the ...",
-    "publishedAt": "2025-05-17T12:00:00+00:00",
-    "score": 7,
-    "reason": "Unusual and quirky chip flavor collaboration with a charitable cause",
-    "imageUrl": "https://media.nbcchicago.com/2025/05/utz.png?resize=1200%2C675&quality=85&strip=all"
-  },
-  {
-    "title": "Lay's transforms beloved American classic into latest flavor: 'Like a cheese chip'",
-    "url": "https://www.foxnews.com/food-drink/lays-transforms-beloved-american-classic-latest-flavor-like-cheese-chip",
-    "snippet": "This summer, Lay's is offering an all-American favorite in potato chip form. Lay's Bacon Grilled Cheese potato chips were selected as the winner of the 2025 \"Do Us a Flavor\" fan contest. Paula George of Sapulpa, Oklahoma, submitted the winning flavor ...",
-    "publishedAt": "2025-06-19T22:47:00+00:00",
-    "score": 9,
-    "reason": "Major brand releasing unique limited edition chip flavor"
-  },
-  {
-    "title": "This New Lay's Flavor Tastes Just Like a Bacon Grilled Cheese Sandwich, and Fans Are Calling Them \"The Best Chips Ever\"",
-    "url": "https://www.aol.com/lay-just-launched-potato-chip-023000412.html",
-    "snippet": "This article may contain affiliate links that Yahoo and/or the publisher may receive a commission from if you buy a product or service through those links. Hear ye, hear ye! Lay's gave snack lovers everywhere the chance to choose the newest potato chip ...",
-    "publishedAt": "2025-06-24T00:00:00+00:00",
-    "score": 9,
-    "reason": "Major brand Lay's releasing a new and innovative flavor",
-    "imageUrl": "https://media.zenfs.com/en/the_kitchn_605/96d1fbaf04bb7d2488b634c074b5f584"
-  },
-  {
-    "title": "This Iconic Lay's Potato Chip Flavor Is Even Better than the Original",
-    "url": "https://www.aol.com/tried-ranked-every-lay-flavor-183000601.html",
-    "snippet": "This article may contain affiliate links that Yahoo and/or the publisher may receive a commission from if you buy a product or service through those links. Over the years Lay's has launched dozens of flavors, including a limited-edition Bacon Grilled ...",
-    "publishedAt": "2025-07-12T00:00:00+00:00",
-    "score": 7,
-    "reason": "Unusual and quirky chip flavor ranking by enthusiasts",
-    "imageUrl": "https://media.zenfs.com/en/the_kitchn_605/28a052f184ac5b4ec688a879889d6b8f"
-  },
-  {
-    "title": "Our Absolute Favorite Snack In The US Is This Popular Brand Of Potato Chips",
-    "url": "https://www.yahoo.com/lifestyle/articles/absolute-favorite-snack-us-popular-111000079.html",
-    "snippet": "an array of sweet and salty snacks - Lauripatterson/Getty Images We may receive a commission on purchases made from links. Snacks are a beloved part of every culture, and with our modern age of ...",
-    "publishedAt": "2025-07-25T06:00:00+00:00",
-    "score": 9,
-    "reason": "Major brand releasing unique limited edition chip flavor",
-    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/fYzhBH0Ll9moR1_CPGeQCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/tasting_table_543/129f93945f2369c8d0e36c158c9ceb2d"
-  },
-  {
-    "title": "Unique Potato Chip Flavors From Around The World",
-    "url": "https://www.msn.com/en-us/food-and-drink/world-cuisines/unique-potato-chip-flavors-from-around-the-world/ar-AA1IF5b3",
-    "snippet": "We may receive a commission on purchases made from links. The United States is a melting pot of cultures, thanks to a population that blends Indigenous Americans with people from every continent. Each immigration wave has brought new flavors or ways of ...",
-    "publishedAt": "2025-07-31T17:02:00+00:00",
-    "score": 7,
-    "reason": "Unusual or quirky chip flavors being discussed"
-  },
-  {
-    "title": "Herr's declares Long Hots & Sharp Provolone, an ode to the roast pork sandwich, winner of chips contest",
-    "url": "https://www.phillyvoice.com/herrs-chips-winner-long-hots-sharp-provolone/",
-    "snippet": "After two months of voting, there's a winner in the annual Herr's Flavored by Philly potato chip contest: Long Hots & Sharp Provolone. The champion of champions, which was the frontrunner in PhillyVoice's initial assessment, will be available on the ...",
-    "publishedAt": "2025-08-26T00:00:00+00:00",
-    "score": 9,
-    "reason": "Major brand releasing new flavor through contest and making it part of permanent lineup",
-    "imageUrl": "https://media.phillyvoice.com/media/images/Herrs_competition_2025.2e16d0ba.fill-1200x630-c0.jpg"
   }
 ]
