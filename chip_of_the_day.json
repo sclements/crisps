@@ -1,5 +1,13 @@
 [
   {
+    "chip_name": "Koikeya Japanese Wasabi Nori",
+    "date": "2026-01-06",
+    "description": "Brace yourselves for today, April Fool's Day! Celebrate the spirit of mischief and pranks with these Wasabi Nori. The zesty wasabi offers a tongue-tingling kick reminiscent of Aprils playful surprises.",
+    "event_name": "4 Holidays and observances",
+    "event_url": "https://en.wikipedia.org/wiki/January_6",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDCO3cx_I2kolNUjXyeTetIZNWk0YDs9JVnPBVrHS4EQSctGUWRFIsD14ue6Me_qgDyq0qA7PsT8A2o-aUgmC-6vFQr6ck3m6v9yTGhq9VrZz_9tej-RoViQ"
+  },
+  {
     "chip_name": "Deep Chip Away Bloody Mary",
     "date": "2026-01-01",
     "description": "In honor of America's beloved National Bloody Mary Day, our Deep Chip Away Bloody Mary delivers the rich, complex flavors of this classic cocktail in a crispy chip form.",
@@ -13,13 +21,5 @@
     "description": "Event: \"The Birth of Greek Civilization\" | Chip: \"Virgin Olive Oil\"\n\nConnect it to the flavor:\n\n \"Marking the dawn of Western civilization, today we celebrate the birth of Greece.",
     "event_name": "Holy Name of Jesus",
     "event_url": "https://en.wikipedia.org/wiki/Feast_of_the_Holy_Name_of_Jesus"
-  },
-  {
-    "chip_name": "Cranberry",
-    "date": "2026-01-04",
-    "description": "Event: \"The eleventh of the Twelve Days of Christmas (Western Christianity)\" | Chip: \"Cranberry\"\n\n \"As we celebrate the eleventh day of the festive Twelve Days of Christmas, let these Cranberry chips bring to your table the sweet and tangy essence of holiday cheer.",
-    "event_name": "The eleventh of the Twelve Days of Christmas. (Western Christianity)",
-    "event_url": "https://en.wikipedia.org/wiki/Twelve_Days_of_Christmas",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/57682b63d2b857e786bb1ec7/1652303475426-SWQ3GKPC1W1U9E1EAGYR/cranberry-apple-chips-front-bag.jpg"
   }
 ]
