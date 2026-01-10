@@ -6,7 +6,7 @@
     "published_at": "01/06/2026, 10:30 PM, +0000 UTC",
     "source": "The Kitchn",
     "score": 8,
-    "reason": "The title directly mentions potato chips, which is of high relevance to chip/snack food enthusiasts. The snippet confirms interest as the content involves new discovery and strong positive sentiment towards a particular product.",
+    "reason": "The article title and snippet clearly indicate that it's about a new and highly praised potato chip discovery, which would be of great interest to snack food enthusiasts, especially those who enjoy chips.",
     "image_url": null
   },
   {
@@ -16,7 +16,7 @@
     "published_at": "01/05/2026, 01:15 PM, +0000 UTC",
     "source": "Chowhound",
     "score": 8,
-    "reason": "The title and snippet clearly indicate that the article is about potato chips, which is directly relevant and of interest to snack food enthusiasts. The focus on regional brands adds a unique angle and newsworthiness.",
+    "reason": "The article directly relates to chips, specifically potato chips, which are a popular snack food. It caters to the interest of enthusiasts by highlighting regional brands they might not be familiar with.",
     "image_url": null
   },
   {
@@ -26,7 +26,7 @@
     "published_at": "01/06/2026, 09:40 PM, +0000 UTC",
     "source": "fox10tv.com",
     "score": 8,
-    "reason": "The article title and snippet suggest a focus on unique potato chips, which would likely be of high interest to snack food enthusiasts who enjoy trying new flavors and varieties. The relevance is clear given the direct mention of 'potato chips' in both the title and snippet.",
+    "reason": "The title 'Tasty Tuesday: Unique potato chips' directly relates to the interests of chip/snack food enthusiasts, suggesting a focus on unique and tasty chip varieties. This makes it highly relevant and interesting for such audiences.",
     "image_url": null
   },
   {
@@ -36,7 +36,7 @@
     "published_at": "01/08/2026, 07:03 AM, +0000 UTC",
     "source": "The Stanford Daily",
     "score": 8,
-    "reason": "The news article is directly relevant to chips and the food industry, as it features a caffeinated potato chip brand. It's also of interest to snack food enthusiasts due to the novelty of a caffeinated version of a traditional snack item. The Forbes 30 Under 30 recognition adds newsworthiness and uniqueness.",
+    "reason": "The news article highlights the success of Phillip Tran, a young entrepreneur in the food industry, specifically focusing on an innovative caffeinated potato chip brand. This relevance to chip and snack enthusiasts is clear, as it directly involves a new product that falls within their interest area.",
     "image_url": null
   },
   {
@@ -46,7 +46,7 @@
     "published_at": "01/06/2026, 04:48 PM, +0000 UTC",
     "source": "Yahoo Finance",
     "score": 8,
-    "reason": "The article is indirectly relevant to chip lovers as it involves a prominent figure discussing his views on the cost of items, including potato chips, implying their affordability compared to national debt and healthcare costs. This could spark discussions or interest among snack food enthusiasts.",
+    "reason": "While the news article focuses on topics like national debt, U.S. healthcare, and does not directly mention chips or snacks, it still holds relevance for chip lovers due to its unique angle of comparing such serious issues with the perceived absurdity of spending on something as simple as potato chips. This perspective might capture the interest of snack food enthusiasts who are also aware of their financial spending habits.",
     "image_url": null
   },
   {
@@ -56,17 +56,7 @@
     "published_at": "01/08/2026, 12:00 PM, +0000 UTC",
     "source": "Allrecipes",
     "score": 8,
-    "reason": "The news article is directly relevant to chips, specifically Lay's brand, which is popular among snack food enthusiasts. It also holds newsworthiness as it announces the return of a 'Best Flavor Ever', suggesting a unique and interesting aspect for fans.",
-    "image_url": null
-  },
-  {
-    "title": "Lay's drastically rebrands after disturbing finding: 42% of consumers didn't know their chips were made out of potatoes",
-    "url": "https://fortune.com/article/lays-rebrand-consumers-didnt-know-chips-were-made-from-potatoes/",
-    "snippet": "",
-    "published_at": "12/31/2025, 08:00 AM, +0000 UTC",
-    "source": "Fortune",
-    "score": 8,
-    "reason": "The article is directly relevant to chip enthusiasts as it discusses the branding of Lay's, a well-known brand in the snack food industry. The snippet mentions potato chips, which are the primary focus for snack food lovers. Additionally, it captures interest through highlighting surprising consumer knowledge about what ingredients make up their favorite snacks.",
+    "reason": "The news article is about the return of Lay's 'Best Flavor Ever', which directly relates to chips and the food industry, making it highly interesting for snack food enthusiasts. Its uniqueness lies in the reintroduction of a fan-favorite flavor.",
     "image_url": null
   },
   {
@@ -76,7 +66,7 @@
     "published_at": "01/07/2026, 10:00 AM, +0000 UTC",
     "source": "Lexington Herald Leader",
     "score": 8,
-    "reason": "This article is highly relevant for chip lovers due to its focus on the direct relevance of chips in the food industry. It also interests snack enthusiasts by highlighting a unique aspect of their favorite product being utilized to help former inmates, blending both news and human interest elements.",
+    "reason": "The news article is highly relevant as it connects the chip industry with an unusual yet innovative approach in a social responsibility context. The interest level for snack food enthusiasts could be high due to the innovative method of using chips production within prison settings, potentially leading to unique insights into production processes or new flavors. Additionally, this story's uniqueness and newsworthiness add to its appeal.",
     "image_url": null
   },
   {
@@ -86,7 +76,17 @@
     "published_at": "12/18/2025, 08:00 AM, +0000 UTC",
     "source": "Detroit Free Press",
     "score": 8,
-    "reason": "The news directly relates to the popular snack category of chips, specifically highlighting chocolate-covered potato chips. This topic would likely pique the interest of snack food enthusiasts and holds some newsworthiness considering the time frame mentioned (2025).",
+    "reason": "The news directly relates to the snack food industry, specifically focusing on a unique product - chocolate-covered potato chips. This is of particular interest to chip lovers and snack enthusiasts who might be curious about new or upcoming products in this category. The announcement that these tins won't be available after 2025 adds an element of newsworthiness and uniqueness as it suggests an exclusive or limited-time offering.",
+    "image_url": null
+  },
+  {
+    "title": "From potato to chip: The next chapter of Lay’s",
+    "url": "https://www.pepsico.com/newsroom/stories/2025/from-potato-to-chip-the-next-chapter-of-lays",
+    "snippet": "",
+    "published_at": "10/09/2025, 07:00 AM, +0000 UTC",
+    "source": "PepsiCo",
+    "score": 8,
+    "reason": "The article's title and snippet indicate a focus on Lay’s, which is well-known for its potato chips. Given this connection to chips and the fact that it seems likely to discuss new developments or directions within the snack food industry specifically targeting chip enthusiasts, it receives a high score.",
     "image_url": null
   },
   {
@@ -96,7 +96,7 @@
     "published_at": "11/06/2025, 08:00 AM, +0000 UTC",
     "source": "TODAY.com",
     "score": 8,
-    "reason": "The title and snippet suggest a unique fusion of potato chips and chocolate chip cookies, which would likely pique the interest of snack food enthusiasts who enjoy innovative combinations of flavors. The relevance to both chips and snacks makes it clear that this is targeted at an audience interested in these types of food products.",
+    "reason": "The article title suggests a unique combination of potato chips and chocolate chips in cookies, which would be highly interesting for snack food enthusiasts, particularly those who enjoy both salty snacks and sweets.",
     "image_url": null
   },
   {
@@ -106,7 +106,7 @@
     "published_at": "01/09/2026, 08:24 PM, +0000 UTC",
     "source": "Snack Food & Wholesale Bakery",
     "score": 8,
-    "reason": "The title mentions 'SFA’s Winter FancyFaire', which likely features a variety of innovative food products, including chips and snacks. The content description suggests it could be interesting to snack food enthusiasts as it might highlight new or unique items in the industry.",
+    "reason": "The title mentions 'Winter FancyFaire', which typically showcases food innovations, making it highly relevant for those interested in new chip and snack options. The snippet doesn't directly specify chips or snacks but implies food innovation, suggesting it's of interest to the target audience.",
     "image_url": null
   },
   {
@@ -116,7 +116,7 @@
     "published_at": "12/16/2025, 08:00 AM, +0000 UTC",
     "source": "Food Business News",
     "score": 8,
-    "reason": "The title 'Snack trends 2026' suggests a discussion on future developments in the snack food industry, which would be of high interest to chip and snack food enthusiasts. The snippet does not provide enough detail for a definitive score, but given that it likely discusses changes or innovations specifically related to snacks including chips, I assign an 8 indicating strong relevance.",
+    "reason": "The article title 'Snack trends 2026' implies a focus on future developments in the snack food industry, which could include innovations and advancements specifically related to chips and other snacks. This relevance is high for chip lovers who are interested in new products or trends in the food sector.",
     "image_url": null
   },
   {
@@ -126,17 +126,7 @@
     "published_at": "10/29/2025, 07:00 AM, +0000 UTC",
     "source": "Yahoo Finance",
     "score": 8,
-    "reason": "The article title directly refers to the snack food market, including chips, which would be of high interest to snack food enthusiasts. The snippet mentions a forecast that could impact chip industry trends and consumer demand.",
-    "image_url": null
-  },
-  {
-    "title": "SNAC International Unveils SNX 2026 Keynote Speakers as Early Registration Nears January 17 Deadline",
-    "url": "https://www.potatopro.com/news/2026/snac-international-unveils-snx-2026-keynote-speakers-early-registration-nears-january-17",
-    "snippet": "",
-    "published_at": "01/08/2026, 07:29 AM, +0000 UTC",
-    "source": "PotatoPro",
-    "score": 8,
-    "reason": "The article is directly about the unveiling of keynote speakers for an event that centers around the snack industry, including chips. This makes it highly relevant and interesting to those who enjoy or are involved in the chip/snack food industry.",
+    "reason": "The article is directly relevant to chips, snacks, or the food industry, which aligns closely with interests of snack food enthusiasts. The mention of 'Snack Food Market Size' and forecast to exceed USD 468.76 billion by 2034 indicates significant financial growth in the sector making it highly newsworthy and interesting.",
     "image_url": null
   },
   {
@@ -146,7 +136,17 @@
     "published_at": "12/16/2025, 08:00 AM, +0000 UTC",
     "source": "Supply Chain Dive",
     "score": 8,
-    "reason": "The news article is about J&J Snack Foods, which directly relates to the chip/snack food industry. This will be of significant interest to snack food enthusiasts as it pertains to manufacturing sites that produce their favorite snacks.",
+    "reason": "The news article is directly relevant to the food industry, particularly focusing on J&J Snack Foods which produces snack items including chips. This would be of clear interest to enthusiasts of chip and snack foods given its direct impact on their product offerings and potential market availability.",
+    "image_url": null
+  },
+  {
+    "title": "Conagra reports 5 snack trends reshaping the industry",
+    "url": "https://www.foodnavigator-usa.com/Article/2025/09/02/5-snack-trends-reshaping-the-industry/",
+    "snippet": "",
+    "published_at": "09/02/2025, 07:00 AM, +0000 UTC",
+    "source": "FoodNavigator-USA.com",
+    "score": 8,
+    "reason": "The title mentions 'snack trends' which directly relates to the interests of chip and snack food enthusiasts. The snippet's reference to reshaping the industry indicates that this news article likely discusses changes or innovations pertinent to their preferred products, making it highly relevant.",
     "image_url": null
   }
 ]
