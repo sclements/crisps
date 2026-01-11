@@ -1,5 +1,13 @@
 [
   {
+    "chip_name": "Korean Barbecue",
+    "date": "2026-01-13",
+    "description": "Marking the foundation of modern-day Korea on this special day, we celebrate the vibrant flavors that define its culinary culture.",
+    "event_name": "4 Holidays and observances",
+    "event_url": "https://en.wikipedia.org/wiki/January_13",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQOXRBOafaeAiLOkQOhfPST-jnJ4tHKqv_1oxl6QbrbOkPmiFRNWOdDG9b4Qhjl9TdDZmJFNAdAid_vObwkBVTRjwCOqwvp"
+  },
+  {
     "chip_name": "Santitas Cilantro Lime Tortilla",
     "date": "2026-01-12",
     "description": "Connection to Flavor:\n\"Santitas Cilantro Lime Tortilla embodies the vibrant culinary heritage that has thrived in Mexico and throughout South America for centuries.",
@@ -14,13 +22,5 @@
     "event_name": "4 Holidays and observances",
     "event_url": "https://en.wikipedia.org/wiki/January_11",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQenYgQAr9DUuP27Vn1nFXsPy_kB15ZvZlS-DkU5ieZGyNI_auxGZHVZCO5JdBRB08oRcWqUtnI89hsaajgCBnutcvyLMnY53jp1_Qp2_6y"
-  },
-  {
-    "chip_name": "Lundberg Family Farms Organic Grounded Ancho Chile",
-    "date": "2026-01-10",
-    "description": "In honor of Mexico's spirited celebration of independence on September 16th, our Lundberg Family Farms Organic Grounded Ancho Chile chips serve as a tribute to the rich cultural heritage.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/January_10",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQsirnKujZAof7VaupiiExFDwZ6PanGBESydG0njH8JogMsEc"
   }
 ]
