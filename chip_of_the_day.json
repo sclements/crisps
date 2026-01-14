@@ -1,5 +1,13 @@
 [
   {
+    "chip_name": "Sour Cream Onion",
+    "date": "2026-01-16",
+    "description": "Embrace the vibrant spirit of St. Patricks Day, celebrating Irelands rich culture and heritage.",
+    "event_name": "4 Holidays and observances",
+    "event_url": "https://en.wikipedia.org/wiki/January_16",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSntK4EvDbwQrY3Sx7xEQEQLC-9konUmgpIFqsCz5-aUrC2Hf8mXamsTSKUBh0xqnft791NZQULQ2tjLHRhLflGhYvFdE94X3bLN8hHg-31"
+  },
+  {
     "chip_name": "Salt Vinegar",
     "date": "2026-01-15",
     "description": "Connecting the flavor of Salt Vinegar chips to the joyous celebration of The Chinese New Year  this auspicious holiday marks the beginning of a prosperous year ahead.",
@@ -14,13 +22,5 @@
     "event_name": "4 Holidays and observances",
     "event_url": "https://en.wikipedia.org/wiki/January_14",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjFb5ZwlyhvjgCDVHPmzXdbNdKRAIZbXxuco7fSycWxWsBN4G0GSCJj6OIjivAvP7ZhnTFJXjri3kt7tuXgmxxG4E5VforUqLLmFe6umtwomEREXiZRJGM"
-  },
-  {
-    "chip_name": "Korean Barbecue",
-    "date": "2026-01-13",
-    "description": "Marking the foundation of modern-day Korea on this special day, we celebrate the vibrant flavors that define its culinary culture.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/January_13",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQOXRBOafaeAiLOkQOhfPST-jnJ4tHKqv_1oxl6QbrbOkPmiFRNWOdDG9b4Qhjl9TdDZmJFNAdAid_vObwkBVTRjwCOqwvp"
   }
 ]
