@@ -1,5 +1,13 @@
 [
   {
+    "chip_name": "French Onion Whole Grain",
+    "date": "2026-01-17",
+    "description": "Celebrate France's annual online shopping festival with these flavorful French Onion Whole Grain chips. Savor the rich, caramelized taste of classic French onion soup in every bite.",
+    "event_name": "4 Holidays and observances",
+    "event_url": "https://en.wikipedia.org/wiki/January_17",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyONSw-k4GfCWCnNmlxj43EMHHIfz2L4wm230DN-wMHtmuLh45HV0iRl7fpgwuAc_H4_LphAofAK0FzmmfZRhqT0HD5y8Hem5DiyW8qqI"
+  },
+  {
     "chip_name": "Sour Cream Onion",
     "date": "2026-01-16",
     "description": "Embrace the vibrant spirit of St. Patricks Day, celebrating Irelands rich culture and heritage.",
@@ -14,13 +22,5 @@
     "event_name": "4 Holidays and observances",
     "event_url": "https://en.wikipedia.org/wiki/January_15",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTeDKI4mk9EO76SChvlUfMv2EtOm0VAeMA9zplFxNqReBLHbfRxy6IW5pHn-A"
-  },
-  {
-    "chip_name": "On The Border Cafe Style Tortilla",
-    "date": "2026-01-14",
-    "description": "Celebrate Mexican Independence Day with our On The Border Cafe Style Tortilla chips, infused with the vibrant flavors and traditions of Mexico's beloved street food scene.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/January_14",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjFb5ZwlyhvjgCDVHPmzXdbNdKRAIZbXxuco7fSycWxWsBN4G0GSCJj6OIjivAvP7ZhnTFJXjri3kt7tuXgmxxG4E5VforUqLLmFe6umtwomEREXiZRJGM"
   }
 ]
