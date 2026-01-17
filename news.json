@@ -1,32 +1,32 @@
 [
   {
-    "title": "The Trader Joe's Potato Chip Dupe That Actually Beats The Original",
-    "url": "https://www.tastingtable.com/2070772/trader-joes-potato-chip-dupe-ode-to-the-classic/",
-    "snippet": "",
-    "published_at": "01/12/2026, 07:30 PM, +0000 UTC",
-    "source": "Tasting Table",
-    "score": 8,
-    "reason": "The title mentions 'Trader Joe's Potato Chip Dupe', suggesting a comparison that could be of great interest to snack food enthusiasts, especially those who enjoy potato chips. The snippet implies there's something noteworthy about this dupe beating the original, which adds intrigue and relevance.",
-    "image_url": null
-  },
-  {
     "title": "Move Over, Crackers: 9 Delicious Cheese and Potato Chip Pairings, According to a Cheesemonger",
     "url": "https://www.thekitchn.com/best-cheese-and-potato-chip-pairings-23761606",
     "snippet": "",
     "published_at": "12/29/2025, 08:00 AM, +0000 UTC",
     "source": "The Kitchn",
     "score": 8,
-    "reason": "The article is directly relevant to chips, snacks, and food enthusiasts as it focuses on cheese and potato chip pairings. It offers unique insights into culinary combinations that could pique the interest of snack food lovers, hence justifying a score of 8.",
+    "reason": "The article is clearly relevant and interesting to chip lovers as it focuses on cheese and potato chip pairings, which are both popular snack foods. The title indicates a departure from traditional crackers, appealing directly to those who enjoy snacking. The snippet also confirms this relevance by discussing delicious combinations that would likely interest enthusiasts in the food industry, particularly within the snack sector.",
     "image_url": null
   },
   {
-    "title": "Diabetic Recipe: Baked Zucchini Chips",
-    "url": "https://www.umassmed.edu/dcoe/diabetes-education/diabetic-recipes/zucchini-chips/",
+    "title": "The Trader Joe's Potato Chip Dupe That Actually Beats The Original",
+    "url": "https://www.tastingtable.com/2070772/trader-joes-potato-chip-dupe-ode-to-the-classic/",
     "snippet": "",
-    "published_at": "01/16/2026, 01:50 PM, +0000 UTC",
-    "source": "UMass Chan Medical School",
+    "published_at": "01/12/2026, 07:30 PM, +0000 UTC",
+    "source": "Tasting Table",
     "score": 8,
-    "reason": "The title mentions 'chips' which directly relates to the snack food industry, though it's a diabetic recipe. This would be of interest to those looking for healthier chip alternatives or low-carb snack options.",
+    "reason": "The news article is directly relevant to chips, snacks, or food industry as it focuses on a duplicate of Trader Joe's potato chip that is said to surpass the original. This would be interesting for snack food enthusiasts looking for new products and comparisons in the market. Additionally, given that Trader Joe's items often have a cult following among foodies, this news likely holds some level of newsworthiness and uniqueness.",
+    "image_url": null
+  },
+  {
+    "title": "Lay's drastically rebrands after disturbing finding: 42% of consumers didn't know their chips were made out of potatoes",
+    "url": "https://fortune.com/article/lays-rebrand-consumers-didnt-know-chips-were-made-from-potatoes/",
+    "snippet": "",
+    "published_at": "12/31/2025, 08:00 AM, +0000 UTC",
+    "source": "Fortune",
+    "score": 8,
+    "reason": "The news article directly relates to the chip industry, which is of primary interest to chip/snack food enthusiasts. The fact that it discusses a significant consumer misunderstanding about Lay's products adds newsworthiness and uniqueness to the story.",
     "image_url": null
   },
   {
@@ -36,37 +36,17 @@
     "published_at": "01/05/2026, 01:15 PM, +0000 UTC",
     "source": "Chowhound",
     "score": 8,
-    "reason": "The article directly addresses the interest of chip/snack food enthusiasts by highlighting 10 regional potato chip brands, which indicates a clear relevance to their preferences. The snippet also implies that there might be newsworthiness and uniqueness in showcasing lesser-known brands, although this aspect cannot be fully assessed with the given information.",
+    "reason": "The article directly addresses the interest of snack food enthusiasts, particularly those who enjoy potato chips. It offers specific recommendations that cater to regional tastes and preferences, which likely appeals to connoisseurs looking for new flavors or experiences.",
     "image_url": null
   },
   {
-    "title": "Mayur Pagote's Upcycling Project Turns a Potato Chips Tube Into a Smart Plant Pot",
-    "url": "https://www.hackster.io/news/mayur-pagote-s-upcycling-project-turns-a-potato-chips-tube-into-a-smart-plant-pot-20d8f776bf00",
+    "title": "This Snack Dominates Super Bowl Orders, According To Instacart",
+    "url": "https://www.aol.com/articles/snack-dominates-super-bowl-orders-070000195.html",
     "snippet": "",
-    "published_at": "01/13/2026, 12:10 PM, +0000 UTC",
-    "source": "Hackster.io",
+    "published_at": "01/16/2026, 11:47 PM, +0000 UTC",
+    "source": "AOL.com",
     "score": 8,
-    "reason": "The news article is highly relevant as it connects the food industry (specifically potato chips) with a unique innovation that could potentially influence snack packaging and sustainability. It's also quite interesting for chip lovers, as they might appreciate an innovative use of everyday waste. The project's uniqueness adds to its newsworthiness.",
-    "image_url": null
-  },
-  {
-    "title": "The Top 10 Super Bowl Snacks Include…Scallions",
-    "url": "https://www.1063thegroove.com/nick/the-top-10-super-bowl-snacks-include-scallions/",
-    "snippet": "",
-    "published_at": "01/16/2026, 03:01 PM, +0000 UTC",
-    "source": "106.3 The Groove",
-    "score": 8,
-    "reason": "The title suggests a list of popular Super Bowl snacks, including scallions. This indicates that the content is likely to feature diverse food items, such as chips and other snack foods, which would be of high interest to enthusiasts in this category. The inclusion of scallions also implies creativity and variety, appealing to those who enjoy exploring new recipes or flavors.",
-    "image_url": null
-  },
-  {
-    "title": "Lay's drastically rebrands after disturbing finding: 42% of consumers didn't know their chips were made out of potatoes",
-    "url": "https://fortune.com/article/lays-rebrand-consumers-didnt-know-chips-were-made-from-potatoes/",
-    "snippet": "",
-    "published_at": "12/31/2025, 06:10 PM, +0000 UTC",
-    "source": "Fortune",
-    "score": 8,
-    "reason": "The news article is directly relevant to chips, snacks, or food industry as it discusses Lay's brand. It also interests snack food enthusiasts due to its focus on consumer knowledge about the ingredients in their favorite chip brands. The fact that a significant percentage of consumers were unaware their chips are made out of potatoes adds newsworthiness and uniqueness.",
+    "reason": "The news article directly relates to chips and snacks, specifically mentioning a popular snack that dominates Super Bowl orders. This is of great interest to chip lovers and snack enthusiasts as it highlights current consumer preferences during a high-demand event.",
     "image_url": null
   },
   {
@@ -76,7 +56,7 @@
     "published_at": "07/16/2025, 07:00 AM, +0000 UTC",
     "source": "Allrecipes",
     "score": 8,
-    "reason": "The article is directly relevant to chips, snacks, or the food industry. It targets an interest level that would be particularly appealing to snack food enthusiasts due to its focus on potato chips. The snippet mentions asking food editors for their opinion on the best potato chips, which adds a newsworthiness and uniqueness factor, making it especially interesting for chip lovers.",
+    "reason": "The news article is directly relevant to chips, snacks, and food enthusiasts as it focuses on the best potato chips. The interest level for snack food lovers would be high since it's about a popular food item they may enjoy. Additionally, this topic has newsworthiness because it involves input from multiple experts or editors, which adds an element of uniqueness.",
     "image_url": null
   },
   {
@@ -86,27 +66,47 @@
     "published_at": "11/06/2025, 08:00 AM, +0000 UTC",
     "source": "TODAY.com",
     "score": 8,
-    "reason": "The article's title and snippet indicate a unique fusion recipe combining chocolate chip cookies with potato chips, which would likely pique the interest of snack food enthusiasts, especially those who enjoy innovative combinations or are fans of both sweet and savory treats.",
+    "reason": "The article is clearly relevant and interesting to chip lovers as it combines potato chips with chocolate chip cookies, creating a novel snack that merges two beloved food items. It taps into the interest of snack food enthusiasts by offering a unique culinary experience.",
     "image_url": null
   },
   {
-    "title": "Lay's Is Introducing 2 New Bold Flavors In 2026",
-    "url": "https://www.southernliving.com/lay-s-loaded-baked-potato-roasted-garlic-herb-baked-chips-11873638",
+    "title": "Tasty Tuesday: Unique potato chips",
+    "url": "https://www.fox10tv.com/2026/01/06/tasty-tuesday-unique-potato-chips/",
     "snippet": "",
-    "published_at": "12/30/2025, 08:00 AM, +0000 UTC",
-    "source": "Southern Living",
+    "published_at": "01/06/2026, 08:00 AM, +0000 UTC",
+    "source": "fox10tv.com",
     "score": 8,
-    "reason": "The article is directly relevant to chips, snacks, and food enthusiasts as it introduces new flavors from Lay's. This would be particularly interesting for those who enjoy trying out different flavors or are interested in the snack food industry. The novelty of 'new bold flavors' also adds to its newsworthiness.",
+    "reason": "The title 'Tasty Tuesday: Unique potato chips' indicates that the article likely discusses new or distinctive varieties of potato chips, which would be highly interesting to snack food enthusiasts who appreciate unique flavors and textures in their chip selections.",
     "image_url": null
   },
   {
-    "title": "ASB BakingTECH to showcase latest in the baking industry",
-    "url": "https://www.snackandbakery.com/articles/115020-asb-bakingtech-to-showcase-latest-in-the-baking-industry",
+    "title": "READY, FIRE, AIM: My Favorite Potato Chips, Unfortunately",
+    "url": "https://pagosadailypost.com/2025/08/18/ready-fire-aim-my-favorite-potato-chips-unfortunately/",
     "snippet": "",
-    "published_at": "01/16/2026, 06:00 PM, +0000 UTC",
-    "source": "Snack Food & Wholesale Bakery",
+    "published_at": "08/18/2025, 07:00 AM, +0000 UTC",
+    "source": "Pagosa Daily Post",
     "score": 8,
-    "reason": "The title suggests that the article will discuss innovations in baking, which includes techniques applicable to a wide range of baked goods including chips and snacks. This would likely be interesting for snack food enthusiasts who are curious about advancements in their favorite food's preparation.",
+    "reason": "The title suggests a personal review or preference of potato chips, which is directly relevant to chip/snack food enthusiasts. The content description indicates that it could provide insight into the author's favorite types of chips, offering newsworthiness and uniqueness for those interested in snack foods.",
+    "image_url": null
+  },
+  {
+    "title": "From potato to chip: The next chapter of Lay’s",
+    "url": "https://www.pepsico.com/newsroom/stories/2025/from-potato-to-chip-the-next-chapter-of-lays",
+    "snippet": "",
+    "published_at": "10/09/2025, 07:00 AM, +0000 UTC",
+    "source": "PepsiCo",
+    "score": 8,
+    "reason": "The article title 'From potato to chip: The next chapter of Lay’s' suggests a focus on changes and innovations within the snack food industry, specifically concerning chips. This topic would likely pique the interest of snack food enthusiasts who enjoy discovering new flavors or updates in traditional brands like Lay's.",
+    "image_url": null
+  },
+  {
+    "title": "How weight-loss drugs are destroying big snacking, erasing billions in sales",
+    "url": "https://www.tradingview.com/news/invezz:6a11ebbbb094b:0-how-weight-loss-drugs-are-destroying-big-snacking-erasing-billions-in-sales/",
+    "snippet": "",
+    "published_at": "01/17/2026, 10:09 AM, +0000 UTC",
+    "source": "TradingView — Track All Markets",
+    "score": 8,
+    "reason": "The article touches on the potential impact of weight-loss drugs on the snack food industry, which includes chips and snacks. This is likely to be interesting for enthusiasts who are also conscious about their health or diet.",
     "image_url": null
   },
   {
@@ -116,7 +116,17 @@
     "published_at": "12/16/2025, 08:00 AM, +0000 UTC",
     "source": "Food Business News",
     "score": 8,
-    "reason": "The title 'Snack trends 2026' directly indicates a focus on future developments in the snack industry, which would be highly relevant and interesting to chip and snack food enthusiasts. The snippet suggests that it will cover changes or innovations that could influence popular tastes, making it newsworthy and unique.",
+    "reason": "The title and snippet suggest that the article discusses upcoming trends in snacks, including chips, which would likely be of high interest to snack food enthusiasts. This level of relevance makes it highly appealing to fans of chip/snack foods.",
+    "image_url": null
+  },
+  {
+    "title": "ASB BakingTECH to showcase latest in the baking industry",
+    "url": "https://www.snackandbakery.com/articles/115020-asb-bakingtech-to-showcase-latest-in-the-baking-industry",
+    "snippet": "",
+    "published_at": "01/16/2026, 06:00 PM, +0000 UTC",
+    "source": "Snack Food & Wholesale Bakery",
+    "score": 8,
+    "reason": "The news snippet mentions a technology showcase by ASB BakingTECH, which could potentially include innovations that impact the chip and snack food industry. This relevance is high for enthusiasts as it might introduce new technologies or products specifically designed for making better quality chips/snacks.",
     "image_url": null
   },
   {
@@ -126,7 +136,7 @@
     "published_at": "01/13/2026, 05:31 PM, +0000 UTC",
     "source": "Supermarket Perimeter",
     "score": 8,
-    "reason": "This article might be indirectly relevant to chip/snack food enthusiasts as it discusses the decline in shares within the grain-based foods industry. This could imply changes or trends affecting the sector, including potential impacts on popular snack items like chips. While not directly about specific chip products, this news could interest those who are keenly aware of market dynamics influencing their favorite snacks.",
+    "reason": "The title suggests a decline in shares within the grain-based food industry, which includes chips and snacks. This is directly relevant to chip/snack food enthusiasts as it potentially impacts their favorite products. Additionally, the interest level for snack lovers might be high if there are implications for product availability or price changes.",
     "image_url": null
   },
   {
@@ -136,17 +146,7 @@
     "published_at": "10/29/2025, 07:00 AM, +0000 UTC",
     "source": "Yahoo Finance",
     "score": 8,
-    "reason": "The title directly references the snack food market, which is of clear interest to chip/snack enthusiasts. The snippet provides information that would be relevant and newsworthy for those in the industry or specifically interested in trends within the snack food segment.",
-    "image_url": null
-  },
-  {
-    "title": "Hot Sauce-Flavored Pork Rinds",
-    "url": "https://www.trendhunter.com/trends/valentina-chicharrones",
-    "snippet": "",
-    "published_at": "01/16/2026, 05:40 AM, +0000 UTC",
-    "source": "Trend Hunter",
-    "score": 8,
-    "reason": "The news article about hot sauce-flavored pork rinds is directly relevant to chips and snack food enthusiasts, as it introduces a new flavor option in the snack food category. This would likely pique the interest of those who enjoy trying new flavors and experimenting with various snacks.",
+    "reason": "The article discusses the potential growth of the snack food market, including chips, which is directly relevant to chip/snack food enthusiasts. It is interesting and newsworthy as it forecasts future trends in the industry.",
     "image_url": null
   }
 ]
