@@ -1,5 +1,13 @@
 [
   {
+    "chip_name": "Rap Lil Baby Honey Jalapeño",
+    "date": "2026-02-12",
+    "description": "Today marks National Hip Hop Day, celebrating the rich culture and influential artists of this genre.",
+    "event_name": "4 Holidays and observances",
+    "event_url": "https://en.wikipedia.org/wiki/February_12",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhx7e__0LTp-kFQOEeMrnwoWuQf6BmoQ04rEjUw4tZQ0w0yb6mK-xy1WawnKZyDI-ID7PKrOnolyC7gyPJ9WTdT4thOOUSkg"
+  },
+  {
     "chip_name": "French Onion",
     "date": "2026-02-11",
     "description": "Born in the heart of French culinary excellence from the 17th century, this iconic flavor is inspired by the rich tradition of French gastronomy.",
@@ -14,13 +22,5 @@
     "event_name": "4 Holidays and observances",
     "event_url": "https://en.wikipedia.org/wiki/February_10",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLTtsDWBfk7OFdBKfMNnJsYVrlnm-biyPFns3-UcItZgxOHuzmeXNAhcWBzeTbHOdwCGoeNg6wjnAV_V82qYcnbz0F_nb0uw"
-  },
-  {
-    "chip_name": "Local Style Deep Dish Pizza",
-    "date": "2026-02-09",
-    "description": "Celebrating National Pizza Day (US), we pay tribute to the culinary masterpiece that is Local Style Deep Dish Pizza.",
-    "event_name": "National Pizza Day",
-    "event_url": "https://en.wikipedia.org/wiki/National_Pizza_Day",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkwyZ77Gu_3Km7U_xo7QHbY0l0yrmWmJKdG78FJBfwHo3KNCRJj30JT8MYQ2Y1YrRIiyCZ5nuHvqrIVrDQ4qYO0ADurBJaXYVwjMGD_U5wiB4nQ-CEszm-"
   }
 ]
