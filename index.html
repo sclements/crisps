@@ -594,24 +594,36 @@
             const chipDiv = document.getElementById('chip-of-day-content');
             
             try {
-                const response = await fetch('chip_of_the_day.json');
-                if (!response.ok) throw new Error(`${L.chip} of the day not available`);
-                const chipsData = await response.json();
-                
-                // Find today's chip from the array (supports timezone differences)
+                // Get current month file (YYYY-MM format)
                 const today = new Date();
+                const monthKey = today.toISOString().slice(0, 7); // "2026-02"
                 const todayStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
                 
-                // Handle both array (new format) and single object (old format)
-                let chipData;
-                if (Array.isArray(chipsData)) {
-                    chipData = chipsData.find(c => c.date === todayStr);
-                    // Fallback to first chip if today's not found
-                    if (!chipData && chipsData.length > 0) {
-                        chipData = chipsData[0];
-                    }
-                } else {
-                    chipData = chipsData;
+                const response = await fetch(`chip-of-the-day/${monthKey}.json`);
+                if (!response.ok) throw new Error(`${L.chip} of the day not available`);
+                const monthlyChips = await response.json();
+                
+                // Find today's chip from the monthly data
+                let chipData = monthlyChips.find(c => c.date === todayStr);
+                
+                // If today's chip not found, try adjacent days for timezone support
+                if (!chipData) {
+                    const yesterday = new Date(today);
+                    yesterday.setDate(yesterday.getDate() - 1);
+                    const tomorrow = new Date(today);
+                    tomorrow.setDate(tomorrow.getDate() + 1);
+                    
+                    const yesterdayStr = yesterday.toISOString().split('T')[0];
+                    const tomorrowStr = tomorrow.toISOString().split('T')[0];
+                    
+                    chipData = monthlyChips.find(c => c.date === yesterdayStr || c.date === tomorrowStr);
+                }
+                
+                // Fallback to most recent chip in the month
+                if (!chipData && monthlyChips.length > 0) {
+                    // Sort by date and take the most recent
+                    const sortedChips = monthlyChips.sort((a, b) => b.date.localeCompare(a.date));
+                    chipData = sortedChips[0];
                 }
                 
                 if (!chipData) {
@@ -704,9 +716,30 @@
             showView('chip-history');
             
             try {
-                const response = await fetch('chip_history.json');
-                if (!response.ok) throw new Error('History not available');
-                let history = await response.json();
+                // Load monthly files - start with current month and work backwards
+                const today = new Date();
+                let history = [];
+                
+                // Try to load the last 12 months of chip history
+                for (let i = 0; i < 12; i++) {
+                    const date = new Date(today.getFullYear(), today.getMonth() - i, 1);
+                    const monthKey = date.toISOString().slice(0, 7);
+                    
+                    try {
+                        const response = await fetch(`chip-of-the-day/${monthKey}.json`);
+                        if (response.ok) {
+                            const monthData = await response.json();
+                            history.push(...monthData);
+                        }
+                    } catch (err) {
+                        // Skip months that don't exist yet
+                        continue;
+                    }
+                }
+                
+                if (history.length === 0) {
+                    throw new Error('History not available');
+                }
                 
                 // Filter out future dates (we generate chips ahead for timezone support)
                 const today = new Date();
