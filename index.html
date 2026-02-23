@@ -742,7 +742,6 @@
                 }
                 
                 // Filter out future dates (we generate chips ahead for timezone support)
-                const today = new Date();
                 today.setHours(23, 59, 59, 999); // End of today
                 history = history.filter(chip => new Date(chip.date) <= today);
                 
