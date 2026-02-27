@@ -1,10 +1,90 @@
 [
   {
-    "chip_name": "Taco Works Seasoning Tortilla",
+    "chip_name": "Baking Reese's Peanut Butter",
+    "date": "2026-03-01",
+    "description": "Inspired by America's love affair with peanut butter, today we celebrate Baking Reese's Peanut Butter chips.",
+    "event_name": "National Peanut Butter Lover's Day",
+    "event_url": "https://en.wikipedia.org/wiki/List_of_food_days",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQaQ2lypoVia1azaIcEqAst_YHKVeAzyO2l3odggRoBBvZQmcWVeXkBCKuk_5Q"
+  },
+  {
+    "chip_name": "Air Himalayan Salt Potato",
+    "date": "2026-03-02",
+    "description": "Celebrating Baloch Culture Day (Balochistan), today's Chip of the Day, Air Himalayan Salt Potato, takes you on an exquisite journey through the vibrant flavors of Baloch cuisine.",
+    "event_name": "Baloch Culture Day (Balochistan)",
+    "event_url": "https://en.wikipedia.org/wiki/March_2",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQi6lBMfxJapFTR1vpzkmYnu93B8trusN24p91YrIfI1NX8DXdtbyuod7796WE"
+  },
+  {
+    "chip_name": "Carrot",
+    "date": "2026-03-03",
+    "description": "Marking Bulgaria's freedom from Ottoman rule, these Carrot chips embody the robust flavors of Eastern Europe, inviting you to savor every bite and relive the day Bulgaria became independent.",
+    "event_name": "Liberation Day",
+    "event_url": "https://en.wikipedia.org/wiki/Liberation_Day_(Bulgaria)",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZ-7OZa5IAdWplTLThqFG6hhc0AxzmIfUF0EwYYU47WYxH88T4xV1rKoFw0Vy3zIp6bWW9VyvzPQDQg82FmOk5jFUHlkMEBA"
+  },
+  {
+    "chip_name": "Sweet Maui Onion Potato",
+    "date": "2026-03-04",
+    "description": "Celebrating John Lennon's bold declaration of 1966 that \"The Beatles are more popular than Jesus\", our Sweet Maui Onion Potato chip is a vibrant tribute to this era of cultural revolution.",
+    "event_name": "1966 – In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is \"more popular than Jesus now\".",
+    "event_url": "https://en.wikipedia.org/wiki/March_4",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtHy7mHJPDSTBdOeVqWrB_0ZFG_8w1y1dUzrSq3ddFTUoCDKJjmxqEqjR_m8CE1EQ4IwnsH1Zwu5FdLyX-WGjhgm9pGc0u"
+  },
+  {
+    "chip_name": "Late Night Loaded Taco",
+    "date": "2026-03-05",
+    "description": "Born on this day in 1655, the late Evelyn Pierrepont was an influential English politician.",
+    "event_name": "1726 – Evelyn Pierrepont, 1st Duke of Kingston-upon-Hull, English politician, Lord President of the Council (born 1655)",
+    "event_url": "https://en.wikipedia.org/wiki/March_5",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRhwyBvh_ReLtDiNm7GtDmJP_HtrPu6TqIRYP0o7py2Znr0Tnsu70QdJs4epxYTd48OJeq3HTjIz8JVaxYSpibWfbipGuSU0kC8sxSXc-OjE75Ivp8pwKuC7g"
+  },
+  {
+    "chip_name": "Jerk- Plantain",
+    "date": "2026-03-06",
+    "description": "Commemorating Ghana's liberation from British colonial rule on this day in 1957, our Jerk-Plantain chips bring the bold spice and sweet caramel notes of traditional Jamaican jerk to your table.",
+    "event_name": "Independence Day",
+    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Ghana)",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfEHBVW2esBGNqswdNMR0ppk0bWZnmNLzOI_PdtPh-h3qLXA_kPF589OYlRllhkZy6uJWVHwflH-0iUCasrZt7C-JdcT1CSSR-D4GYwSDi0hG4iGa3HQgA"
+  },
+  {
+    "chip_name": "Potato Queso",
+    "date": "2026-03-07",
+    "description": "Inspired by the rich maritime traditions of Slovenia's coastline on its Maritime Day, our Potato Queso chips offer a flavor voyage that echoes the country's nautical heritage.",
+    "event_name": "Maritime Day in Slovenia",
+    "event_url": "https://en.wikipedia.org/wiki/March_7",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUIqx07RhwqVErvbiaAKgi5909KKAO0rnr-XUZDZJ0yLcKMDMLsEZDvbtU0p04pzCp6oZ6vWukcOcitjtNM3kMvsMyXWzj"
+  },
+  {
+    "chip_name": "Bibigo Seaweed",
     "date": "2026-03-15",
-    "description": "On this day when tacos reign supreme, pay homage to their iconic status with our Taco Works Seasoning Tortilla.",
-    "event_name": "4 Holidays and observances",
+    "description": "Inspired by International Day To Combat Islamophobia:\nHonoring the rich cultural heritage of Islamic nations around the globe, Bibigo Seaweed chips invite you to experience the delicate flavors rooted in the vast oceanic history.",
+    "event_name": "International Day To Combat Islamophobia",
     "event_url": "https://en.wikipedia.org/wiki/March_15",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbmMtBdbxYsKaCYaXpt2UuVbcyqz47TxGPcubiwfli5lQ3rXEf5QHKAz7rKePKyGl1NykviF7bctQaoD20v1VTpDDsN1mTEQ"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHzSU4r6ucG6VzEaQw4R1z2YWo-Fz7vziP-Rvn-GWhNJwixfMDdDjX-A2DHc1U_FS2aEkoKdK8pMgIiqyhrVnPbQwXH8Pn"
+  },
+  {
+    "chip_name": "Limon Potato",
+    "date": "2026-03-16",
+    "description": "On this day, we honor Saint Urho, the patron saint of Finland against gophers.",
+    "event_name": "Saint Urho's Day (Finnish Americans and Finnish Canadians)",
+    "event_url": "https://en.wikipedia.org/wiki/March_16",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStacH9i1IZ5vl2BVnD8WQHO0ka7ZtfskQOJ22yc6fcnRyZYEd4jz_jujvhIH0Qyv5iZCxB8h8JuEKf7ArZP8XZqrSsn8WtVg"
+  },
+  {
+    "chip_name": "Tullamore Dew Irish Chip",
+    "date": "2026-03-17",
+    "description": "Celebrate Irelands vibrant culture and rich history during St. Patrick's Day festivities with our specially crafted Tullamore Dew Irish Chip.",
+    "event_name": "St. Patrick's Day",
+    "event_url": "https://en.wikipedia.org/wiki/Saint_Patrick%27s_Day",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRTitC4uLIhLPb8Ba4tv1waMvaW4P6TuD6bKoWeYnLdTk84cZYW53hiCLW7j8G0IAmT12VYJio1-WAi2PL0ZmHIFHKxkQrRDw"
+  },
+  {
+    "chip_name": "Roasted Cumin Lamb Skewer",
+    "date": "2026-03-20",
+    "description": "Honoring the day Tunisia gained independence from France, these Roasted Cumin Lamb Skewers carry the bold flavors of North Africa's heritage. Celebrate freedom and flavor with every bite.",
+    "event_name": "Independence Day",
+    "event_url": "https://en.wikipedia.org/wiki/Tunisian_independence",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfaHlQ5XxzPbIevSD8xk_NKd_CLonZ4ypnqOKRjkjjbN0IkA29pkAs4D_L2X1iw-19wZjs99ZqhXYVAixzpQOD6om_tVzzFJtoriGGXJyIjvCeDDPsK32qJw"
   }
 ]
