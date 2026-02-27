@@ -742,8 +742,13 @@
                 }
                 
                 // Filter out future dates (we generate chips ahead for timezone support)
-                today.setHours(23, 59, 59, 999); // End of today
-                history = history.filter(chip => new Date(chip.date) <= today);
+                // Use local date comparison to avoid timezone issues
+                const todayLocal = new Date();
+                todayLocal.setHours(23, 59, 59, 999); // End of today
+                history = history.filter(chip => {
+                    const chipDate = new Date(chip.date + 'T00:00:00'); // Force local time
+                    return chipDate <= todayLocal;
+                });
                 
                 // Sort by date descending (most recent first)
                 history.sort((a, b) => new Date(b.date) - new Date(a.date));
@@ -754,7 +759,7 @@
                     const bgColor = isEven ? 'bg-amber-100' : 'bg-orange-50';
                     const textColor = 'text-amber-900';
                     const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chip.chip_name + '" chips')}`;
-                    const dateStr = new Date(chip.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+                    const dateStr = new Date(chip.date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
                     
                     // Image or emoji fallback
                     const imageHtml = chip.image_url
