@@ -402,26 +402,45 @@
         async function loadNews() {
             const inlineNewsDiv = document.getElementById('inline-news-articles');
             try {
-                const response = await fetch('news.json');
-                if (!response.ok) throw new Error('News not available');
-                let newsData = await response.json();
-                if (!newsData || newsData.length === 0) {
+                // Load all recent news from monthly files
+                let allNews = [];
+                const today = new Date();
+                
+                // Load the last 6 months of news
+                for (let i = 0; i < 6; i++) {
+                    const date = new Date(today.getFullYear(), today.getMonth() - i, 1);
+                    const monthKey = date.toISOString().slice(0, 7); // "2026-02"
+                    
+                    try {
+                        const response = await fetch(`news/${monthKey}.json`);
+                        if (response.ok) {
+                            const monthData = await response.json();
+                            allNews.push(...monthData);
+                        }
+                    } catch (err) {
+                        // Skip months that don't exist yet
+                        continue;
+                    }
+                }
+                
+                if (allNews.length === 0) {
                     inlineNewsDiv.innerHTML = '<p class="text-gray-500">No news found.</p>';
                     return;
                 }
                 
                 // Sort by date (newest first)
-                newsData = sortNewsByDate(newsData);
+                allNews = sortNewsByDate(allNews);
                 
-                // Track displayed news URLs to avoid duplicates when loading archive
-                newsData.forEach(article => displayedNewsUrls.add(article.url));
+                // Track displayed news URLs to avoid duplicates
+                allNews.forEach(article => displayedNewsUrls.add(article.url));
+                
+                // Set up archive for infinite scroll (older news)
+                const recentCount = Math.min(NEWS_PAGE_SIZE, allNews.length);
+                const recentNews = allNews.slice(0, recentCount);
+                newsArchive = allNews.slice(recentCount);
                 
                 // Render initial news
-                const displayNews = newsData.slice(0, NEWS_PAGE_SIZE);
-                inlineNewsDiv.innerHTML = renderNewsItems(displayNews, 0);
-                
-                // Pre-fetch the archive for infinite scroll
-                await fetchNewsArchive();
+                inlineNewsDiv.innerHTML = renderNewsItems(recentNews, 0);
                 
                 // initBentoGrid will be called after showView makes container visible
             } catch (err) {
@@ -431,20 +450,40 @@
         
         async function fetchNewsArchive() {
             try {
-                const response = await fetch('news_archive.json');
-                if (!response.ok) return;
-                const archiveData = await response.json();
+                // Load older months beyond the initial 6 months
+                let olderNews = [];
+                const today = new Date();
+                
+                // Load months 7-18 (up to 1.5 years back)
+                for (let i = 6; i < 18; i++) {
+                    const date = new Date(today.getFullYear(), today.getMonth() - i, 1);
+                    const monthKey = date.toISOString().slice(0, 7);
+                    
+                    try {
+                        const response = await fetch(`news/${monthKey}.json`);
+                        if (response.ok) {
+                            const monthData = await response.json();
+                            olderNews.push(...monthData);
+                        }
+                    } catch (err) {
+                        // Skip months that don't exist
+                        continue;
+                    }
+                }
+                
                 // Filter out already displayed articles and sort by date
-                newsArchive = sortNewsByDate(archiveData.filter(article => !displayedNewsUrls.has(article.url)));
+                const filteredArchive = sortNewsByDate(olderNews.filter(article => !displayedNewsUrls.has(article.url)));
+                newsArchive.push(...filteredArchive);
             } catch (err) {
-                console.log('News archive not available:', err.message);
+                console.log('Extended news archive not available:', err.message);
             }
         }
         
         function sortNewsByDate(articles) {
             return articles.sort((a, b) => {
-                const dateA = a.publishedAt ? new Date(a.publishedAt) : new Date(0);
-                const dateB = b.publishedAt ? new Date(b.publishedAt) : new Date(0);
+                // Use published_at field to match the Rust backend
+                const dateA = a.published_at ? new Date(a.published_at) : new Date(0);
+                const dateB = b.published_at ? new Date(b.published_at) : new Date(0);
                 return dateB - dateA; // Newest first
             });
         }
