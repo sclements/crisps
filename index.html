@@ -121,19 +121,48 @@
         }
         .bento-item {
             position: absolute;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
             border-radius: 1rem;
-            padding: 1rem;
             overflow: hidden;
             box-sizing: border-box;
-            transition: box-shadow 0.3s ease, filter 0.3s ease;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
         }
         .bento-item:hover {
             box-shadow: 0 12px 24px -8px rgba(0,0,0,0.25);
-            filter: brightness(1.05);
         }
+        .news-overlay {
+            background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0) 100%);
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 1.5rem 1rem 1rem 1rem;
+            color: white;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+        }
+        .category-tags {
+            font-size: 0.75rem;
+            font-weight: 500;
+            opacity: 0.9;
+            margin-bottom: 0.5rem;
+        }
+        .news-headline {
+            font-size: 1rem;
+            font-weight: 700;
+            line-height: 1.2;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+        }
+        /* Chip-themed fallback backgrounds */
+        .chips-bg-1 { background: linear-gradient(135deg, #D2691E 0%, #A0522D 100%); }
+        .chips-bg-2 { background: linear-gradient(135deg, #FF8C00 0%, #FF6347 100%); }
+        .chips-bg-3 { background: linear-gradient(135deg, #DAA520 0%, #B8860B 100%); }
+        .chips-bg-4 { background: linear-gradient(135deg, #32CD32 0%, #228B22 100%); }
+        .chips-bg-5 { background: linear-gradient(135deg, #4169E1 0%, #191970 100%); }
+        .chips-bg-6 { background: linear-gradient(135deg, #DC143C 0%, #B22222 100%); }
     </style>
 </head>
 <body class="bg-amber-50/50 text-gray-800 font-body antialiased min-h-screen flex flex-col">
@@ -437,34 +466,94 @@
                 return 3;                       // 20% tall
             };
             
-            // Placeholder chip images (using picsum with seed for consistency)
-            const getImageUrl = (index) => {
+            // No longer need individual image URLs since we use CSS background classes
+            
+            
+            // Get actual image URL or fallback
+            const getImageUrl = (article, index) => {
+                if (article.image_url) {
+                    return article.image_url;
+                }
+                // Fallback to picsum with seed for consistency
                 const seed = daysSinceEpoch * 12 + index;
-                return `https://picsum.photos/seed/${seed}/200/200`;
+                return `https://picsum.photos/seed/${seed}/400/300`;
+            };
+            
+            // Fallback background class for articles without images
+            const getFallbackBackgroundClass = (index) => {
+                const backgrounds = ['chips-bg-1', 'chips-bg-2', 'chips-bg-3', 'chips-bg-4', 'chips-bg-5', 'chips-bg-6'];
+                return backgrounds[index % backgrounds.length];
+            };
+            
+            // Get date prefix - "Recent" for recent articles, actual date for older ones
+            const getDatePrefix = (dateString) => {
+                if (!dateString) return 'Recent';
+                const date = new Date(dateString);
+                if (isNaN(date.getTime())) return 'Recent';
+                const now = new Date();
+                const diffMs = now - date;
+                const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+                
+                // Show "Recent" for articles less than 7 days old
+                if (diffDays < 7) {
+                    return 'Recent';
+                }
+                
+                // For older articles, show the actual date
+                const options = { month: 'short', day: 'numeric' };
+                // Add year if it's not current year
+                if (date.getFullYear() !== now.getFullYear()) {
+                    options.year = 'numeric';
+                }
+                return date.toLocaleDateString('en-US', options);
+            };
+            
+            // Get category based on article content
+            const getCategory = (article) => {
+                const title = article.title.toLowerCase();
+                const snippet = (article.snippet || '').toLowerCase();
+                const content = title + ' ' + snippet;
+                
+                if (content.includes('launch') || content.includes('new') || content.includes('introduces')) {
+                    return 'Launch';
+                } else if (content.includes('health') || content.includes('nutrition') || content.includes('better-for-you')) {
+                    return 'Health';
+                } else if (content.includes('trend') || content.includes('changing') || content.includes('snackification')) {
+                    return 'Trends';
+                } else if (content.includes('safety') || content.includes('regulation') || content.includes('fda')) {
+                    return 'Safety';
+                } else if (content.includes('market') || content.includes('sales') || content.includes('revenue') || content.includes('business')) {
+                    return 'Business';
+                } else if (content.includes('science') || content.includes('research') || content.includes('study')) {
+                    return 'Science';
+                } else if (content.includes('regional') || content.includes('local') || content.includes('brand')) {
+                    return 'Regional';
+                } else {
+                    return 'News';
+                }
+            };
+            
+            // Get complete category tag with date prefix
+            const getCategoryTag = (article) => {
+                const datePrefix = getDatePrefix(article.publishedAt);
+                const category = getCategory(article);
+                return `${datePrefix} | ${category}`;
             };
             
             let html = '';
             articles.forEach((article, i) => {
                 const index = startIndex + i;
-                const color = cardColors[index % cardColors.length];
-                const timeAgo = getTimeAgo(article.publishedAt);
                 const h = getHeight(index);
-                const imageUrl = article.imageUrl || getImageUrl(index);
-                const imgSize = h === 1 ? '40px' : (h === 2 ? '70px' : '100px');
-                const snippet = article.snippet || '';
-                const showSnippet = h >= 2 && snippet;
+                const imageUrl = getImageUrl(article, index);
+                const fallbackClass = getFallbackBackgroundClass(index);
+                const categoryTag = getCategoryTag(article);
                 
                 html += `<a href="${article.url}" target="_blank" 
-                    class="bento-item ${color.bg}" data-h="${h}">
-                    <div class="flex justify-center">
-                        <img src="${imageUrl}" alt="" class="rounded-xl object-cover shadow-sm" style="height: ${imgSize}; width: auto; max-width: 70%;">
-                    </div>
-                    <div class="flex-1 flex flex-col justify-between mt-2 overflow-hidden">
-                        <div class="overflow-hidden">
-                            <h3 class="font-bold text-sm ${color.text} leading-tight line-clamp-2">${article.title}</h3>
-                            ${showSnippet ? `<p class="text-xs ${color.text} opacity-70 mt-1 overflow-hidden" style="display: -webkit-box; -webkit-line-clamp: ${h === 2 ? 2 : 4}; -webkit-box-orient: vertical;">${snippet}</p>` : ''}
-                        </div>
-                        <p class="text-xs ${color.text} opacity-60 pt-1">${timeAgo}</p>
+                    class="bento-item ${article.image_url ? '' : fallbackClass}" data-h="${h}" 
+                    ${article.image_url ? `style="background-image: url('${imageUrl}')"` : ''}>
+                    <div class="news-overlay">
+                        <div class="category-tags">${categoryTag}</div>
+                        <div class="news-headline">${article.title}</div>
                     </div>
                 </a>`;
             });
@@ -634,12 +723,13 @@
                 const searchTerm = isUKLocale ? 'crisps' : 'chips';
                 const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" ' + searchTerm)}`;
                 
-                // Format today's date
-                const dateStr = today.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+                // Format the actual chip's date (not today's date)
+                const chipDate = new Date(chipData.date + 'T00:00:00');
+                const dateStr = chipDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
                 
-                // Build Wikipedia URL for the date (e.g., https://en.wikipedia.org/wiki/December_11)
-                const monthName = today.toLocaleDateString('en-US', { month: 'long' });
-                const dayNum = today.getDate();
+                // Build Wikipedia URL for the chip's actual date
+                const monthName = chipDate.toLocaleDateString('en-US', { month: 'long' });
+                const dayNum = chipDate.getDate();
                 const wikipediaDateUrl = `https://en.wikipedia.org/wiki/${monthName}_${dayNum}`;
                 
                 // Date display - link to Wikipedia date page
