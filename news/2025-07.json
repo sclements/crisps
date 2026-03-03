@@ -1,15 +1,5 @@
 [
   {
-    "title": "Snack Attack",
-    "url": "https://richmondmagazine.com/restaurants-in-richmond/local-snack-brands/",
-    "snippet": "",
-    "published_at": "07/28/2025, 07:00 AM, +0000 UTC",
-    "source": "richmondmagazine.com",
-    "score": 8,
-    "reason": "The title 'Snack Attack' suggests a focus on various snack items, including chips. The mention of 'considering' implies an analysis or discussion that could include new product releases, trends, recipes, or other content of interest to chip and snack food enthusiasts.",
-    "image_url": null
-  },
-  {
     "title": "Snack Trends 2025, Global Innovation and Market Insights.",
     "url": "https://www.innovamarketinsights.com/trends/snack-trends-2025/",
     "snippet": "",
@@ -20,6 +10,16 @@
     "image_url": null
   },
   {
+    "title": "Snack Attack",
+    "url": "https://richmondmagazine.com/restaurants-in-richmond/local-snack-brands/",
+    "snippet": "",
+    "published_at": "07/28/2025, 07:00 AM, +0000 UTC",
+    "source": "richmondmagazine.com",
+    "score": 8,
+    "reason": "The title 'Snack Attack' suggests a focus on various snack foods, including chips. Given that it doesn't specify content, it could be interesting for chip/snack food enthusiasts due to the broad term 'snack.' The relevance and interest level are high considering this potential connection to popular items like potato chips. However, without specifics about what exactly is covered in the article, there's a slight uncertainty which slightly affects the score.",
+    "image_url": "https://richmondmagazine.com/downloads/45559/download/FEA_SnackAttackHeader_JUSTIN-CHESNEY_rp0725_wide-feature.jpg?cb=afec3f8638db344bf51cb93cb608a0d6&w=200"
+  },
+  {
     "title": "State of the Industry 2025: Chips are down, and up",
     "url": "https://www.snackandbakery.com/articles/114108-state-of-the-industry-2025-chips-are-down-and-up",
     "snippet": "",
@@ -27,7 +27,7 @@
     "source": "Snack Food & Wholesale Bakery",
     "score": 8,
     "reason": "The title and snippet both indicate a focus on the chips industry, suggesting information that could be of specific interest to snack food enthusiasts who follow trends or developments in this area.",
-    "image_url": null
+    "image_url": "https://www.snackandbakery.com/ext/resources/SFWB/2024/Dec/SFWB_CoverStory1224_feature1440x750.webp?height=740&t=1734115833&width=auto"
   },
   {
     "title": "I Asked 5 Food Editors To Name the Best Potato Chips, and They All Said the Same Brand",
@@ -37,7 +37,7 @@
     "source": "Allrecipes",
     "score": 8,
     "reason": "The article directly discusses potato chips, which is highly relevant for snack food enthusiasts. The fact that multiple food editors have a unanimous favorite brand adds interest and uniqueness to the piece.",
-    "image_url": null
+    "image_url": "https://www.allrecipes.com/thmb/OdKgCD9aWC5JKgU7cF0MtD5vxTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-taste-test-potato-chips-hero-4x3-4f7116c88fd84827ac9e633385fd771d.jpg"
   },
   {
     "title": "An Inside Look at the Best Snack Trends at the Summer Fancy Food Show",
@@ -46,8 +46,8 @@
     "published_at": "07/02/2025, 07:00 AM, +0000 UTC",
     "source": "Bon Appétit",
     "score": 8,
-    "reason": "The title and snippet indicate that the article discusses trending snack items at a food show, including chips, which would likely be of great interest to enthusiasts.",
-    "image_url": null
+    "reason": "The title and snippet indicate that the article focuses on snack trends, which is of clear interest to snack food enthusiasts. Although it doesn't directly mention chips, the topic overlaps with chip lovers as they are often part of broader snack consumption patterns.",
+    "image_url": "https://assets.bonappetit.com/photos/68643feb52d8b42825b743ce/master/w_1600%2Cc_limit/Charcuterie_INSET_final.jpg"
   },
   {
     "title": "Here Are All 15 New Doritos and New Lay’s Flavors Dropping This Summer",
