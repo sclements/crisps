@@ -574,7 +574,7 @@
             
             // Get complete category tag with date prefix
             const getCategoryTag = (article) => {
-                const datePrefix = getDatePrefix(article.publishedAt);
+                const datePrefix = getDatePrefix(article.published_at);
                 const category = getCategory(article);
                 return `${datePrefix} | ${category}`;
             };
