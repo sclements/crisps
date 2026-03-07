@@ -50,16 +50,6 @@
     "image_url": null
   },
   {
-    "title": "Pennsylvania’s Snack Food Scene",
-    "url": "https://dced.pa.gov/paproudblog/pennsylvanias-snack-food-scene/",
-    "snippet": "",
-    "published_at": "02/26/2026, 08:00 AM, +0000 UTC",
-    "source": "PA Department of Community & Economic Development (.gov)",
-    "score": 8,
-    "reason": "The title suggests a focus on snack foods produced in Pennsylvania, which could include chips. The snippet does not specify if it is directly about chips alone or other snacks too but considering that 'snack food' is very broad and can cover chips among many other types of food items makes this piece likely interesting to chip lovers as well as fans of other snack foods.",
-    "image_url": null
-  },
-  {
     "title": "We Tried Glen Powell’s New Kettle Potato Chips, and They’re Ridiculously Delicious (100/10!)",
     "url": "https://www.thekitchn.com/smash-kitchen-potato-chips-review-23772239",
     "snippet": "",
@@ -67,16 +57,6 @@
     "source": "The Kitchn",
     "score": 8,
     "reason": "The title and snippet directly reference a popular type of snack (potato chips) that will interest those who enjoy or appreciate chip flavors. The mention of 'Glen Powell's new kettle potato chips' adds an element of newsworthiness and uniqueness, making it appealing to food enthusiasts.",
-    "image_url": null
-  },
-  {
-    "title": "“Absolutely Delicious”: The New $3 Potato Chips You Should Always Have in Your Snack Drawer (They’re a 27/10)",
-    "url": "https://www.thekitchn.com/smash-kitchen-potato-chips-review-23772239",
-    "snippet": "",
-    "published_at": "02/26/2026, 07:30 PM, +0000 UTC",
-    "source": "The Kitchn",
-    "score": 8,
-    "reason": "The title and snippet suggest that the article is about a new type of potato chips which are particularly appealing to snack food enthusiasts. The use of 'Absolutely Delicious' and the high score ('27/10') indicates strong interest and relevance to chip lovers.",
     "image_url": null
   },
   {
@@ -340,16 +320,6 @@
     "image_url": "https://www.chowhound.com/img/gallery/aldi-carries-a-copycat-of-this-beloved-chip-brand-shoppers-think-it-beats-the-original/intro-1770058297.jpg"
   },
   {
-    "title": "A goodbye to the Cape Cod Chip factory in Hyannis",
-    "url": "https://www.wbur.org/news/2026/02/06/remembering-cape-cod-chips-hyannis",
-    "snippet": "",
-    "published_at": "02/06/2026, 06:17 PM, +0000 UTC",
-    "source": "WBUR",
-    "score": 8,
-    "reason": "The article is directly relevant to chips, snacks or food industry enthusiasts due to its focus on the closure of a notable chip factory. This topic is likely to interest people who are passionate about chips and snack foods, making it score high in relevance and interest level.",
-    "image_url": null
-  },
-  {
     "title": "Snack inflation is biting Canadians harder than Americans",
     "url": "https://www.theglobeandmail.com/business/economy/article-snack-inflation-pepsico-super-bowl-food-potato-chips/",
     "snippet": "",
@@ -377,16 +347,6 @@
     "source": "Sporked",
     "score": 8,
     "reason": "The title directly references 'Best Chips' which is highly relevant for snack food enthusiasts, especially those interested in chips. The snippet further clarifies that it's about previously acclaimed snacks making a comeback and the urgency to purchase them now adds interest and newsworthiness.",
-    "image_url": null
-  },
-  {
-    "title": "Cape Cod Potato Chips Will No Longer Be Made on Cape Cod",
-    "url": "https://people.com/cape-cod-potato-chips-will-no-longer-be-made-in-cape-cod-11899189",
-    "snippet": "",
-    "published_at": "02/04/2026, 04:30 PM, +0000 UTC",
-    "source": "People.com",
-    "score": 8,
-    "reason": "The news article's title directly mentions 'Cape Cod Potato Chips', which is highly relevant to chip enthusiasts. The snippet confirms that the iconic brand will no longer be produced on Cape Cod, which is a unique and newsworthy event in the food industry specifically affecting fans of this type of snack.",
     "image_url": null
   }
 ]
