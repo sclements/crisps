@@ -1,5 +1,25 @@
 [
   {
+    "title": "I Tried 15 Different Kettle Chip Flavors and Found a New Favorite",
+    "url": "https://www.aol.com/tried-15-different-kettle-chip-163500543.html",
+    "snippet": "",
+    "published_at": "03/07/2026, 06:27 AM, +0000 UTC",
+    "source": "AOL.com",
+    "score": 9,
+    "reason": "The title mentions trying 15 different kettle chip flavors, which is directly about potato chips/crisps.",
+    "image_url": "https://s.yimg.com/os/en/aol_parade_744/700176e95f303d54a72bf8b6447106eb"
+  },
+  {
+    "title": "Check your pantry: Some bags of Miss Vickie's Spicy Dill Pickle Potato Chips recalled",
+    "url": "https://www.wfaa.com/video/money/consumer/check-your-pantry-some-bags-of-miss-vickies-spicy-dill-pickle-potato-chips-recalled/287-6342b00a-d26b-4a77-b781-920b425794e4",
+    "snippet": "",
+    "published_at": "03/07/2026, 03:34 PM, +0000 UTC",
+    "source": "WFAA",
+    "score": 9,
+    "reason": "The article is directly about potato chips/crisps, specifically mentioning a recall for Miss Vickie's Spicy Dill Pickle Potato Chips.",
+    "image_url": "https://media.wfaa.com/assets/WFAA/images/c4ccf8b6-82ea-42b4-a37f-122a89233528/20260307T152903/c4ccf8b6-82ea-42b4-a37f-122a89233528_1920x1080.jpg"
+  },
+  {
     "title": "Frito-Lay recalls Miss Vickie's chips over potentially 'life-threatening' allergen risk",
     "url": "https://www.foxbusiness.com/retail/frito-lay-recalls-miss-vickies-chips-potentially-life-threatening-allergen-risk",
     "snippet": "",
@@ -20,6 +40,16 @@
     "image_url": "https://media.greenmatters.com/brand-img/XdIlPrEqp/0x0/frito-lay-potato-chip-recall-1-1772826761523.jpg"
   },
   {
+    "title": "Frito-Lay recalls popular chips",
+    "url": "https://www.masslive.com/news/2026/03/frito-lay-recalls-popular-chips.html",
+    "snippet": "",
+    "published_at": "03/06/2026, 01:32 PM, +0000 UTC",
+    "source": "MassLive.com",
+    "score": 9,
+    "reason": "The article is about a recall of potato chips by Frito-Lay, which directly involves potato chips/crisps.",
+    "image_url": "https://www.masslive.com/resizer/v2/IUGFQ4XUU5FLXJCOZ3OPVHUORU.png?auth=be7ee5fdc57fa2db98f84b572e177eaf9afc051ef00e8a547835878320913ff9&width=1280&smart=true&quality=90"
+  },
+  {
     "title": "Snack reformulation trends: How can brands boost nutrition without sacrificing sensory appeal?",
     "url": "https://www.foodingredientsfirst.com/news/snack-reformulation-nutrition-sensory-appeal.html",
     "snippet": "Health is no longer a niche positioning in snacks &mdash; it&rsquo;s a consumer expectation &mdash; but indulgence remains critical. Snack reformulation has moved beyond single-ingredient swaps, as manufacturers increasingly adopt integrated systems that balance protein fortification, sugar reduction, and clean label transparency, without sacrificing sensory appeal.&nbsp;Innova Market Insights data shows that global consumers seek protein (60%) and fiber (55%) when purchasing snacks. However, most (74%) say flavor, taste, and texture are the <a href=\"https://www.foodingredientsfirst.com/ingredient-focus/snacking-trends-in-focus.html\" target=\"_blank\">most important factors</a> when choosing between snacks.",
@@ -28,6 +58,16 @@
     "score": 7,
     "reason": "The title and snippet mention snack reformulation which could apply to potato chips/crisps, although it's not specifically about a brand or new flavors. The focus is on nutrition balance in snacks, including protein and fiber content, without sacrificing sensory appeal.",
     "image_url": "https://article.innovamarketinsights360.com/articleimgs/resized_rect_newsimages/240/639082098300215355Snacking_trends_nutrition_indulgence_color_flavor_protein.webp"
+  },
+  {
+    "title": "Rawcology’s journey from health food blog to allergy-friendly snack company",
+    "url": "https://www.foodincanada.com/features/rawcology/",
+    "snippet": "",
+    "published_at": "03/04/2026, 06:19 PM, +0000 UTC",
+    "source": "Food In Canada",
+    "score": 7,
+    "reason": "The article title mentions 'health food blog' which could imply the creation of snack-like products, and 'allergy-friendly', suggesting it might include information about alternative potato chip or crisp options.",
+    "image_url": "https://www.foodincanada.com/wp-content/uploads/2026/03/2.png"
   },
   {
     "title": "I Tried the Most Popular Lay's Flavors, and the Winner Might Surprise You",
@@ -63,11 +103,11 @@
     "title": "Consumer insights drive bakery and snack innovation: Kerry",
     "url": "https://www.snackandbakery.com/articles/115313-consumer-insights-drive-bakery-and-snack-innovation-kerry",
     "snippet": "",
-    "published_at": "03/02/2026, 06:41 PM, +0000 UTC",
+    "published_at": "03/02/2026, 05:16 PM, +0000 UTC",
     "source": "Snack Food & Wholesale Bakery",
-    "score": 8,
-    "reason": "The article touches on bakery and snack innovation, which could include chips and other snack foods. This would be of high interest to snack food enthusiasts as it might suggest new flavors or trends in the industry.",
-    "image_url": "https://www.snackandbakery.com/ext/resources/SFWB/2024/Dec/SFWB_CoverStory1224_feature1440x750.webp?height=740&t=1734115833&width=auto"
+    "score": 7,
+    "reason": "The title mentions 'Consumer insights drive bakery and snack innovation: Kerry', which implies discussions about snack foods like potato chips/crisps, as Kerry is a company that works with food flavors and ingredients.",
+    "image_url": "https://www.snackandbakery.com/ext/resources/2026/03/02/pexels-any-lane-5945775.webp?t=1772475034"
   },
   {
     "title": "Smash Kitchen enters the snack aisle with kettle chips",
