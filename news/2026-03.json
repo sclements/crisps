@@ -16,7 +16,7 @@
     "published_at": "03/08/2026, 11:00 PM, +0000 UTC",
     "source": "Yahoo",
     "score": 9,
-    "reason": "The title mentions potato chips directly and indicates content related to the flavors, brands, or selling out of such products, which is relevant for a potato chip/crisps news website.",
+    "reason": "The title indicates a focus on potato chips/crisps, mentioning the phrase 'So Freaking Delicious', which implies a positive review or description of the product.",
     "image_url": "https://s.yimg.com/ny/api/res/1.2/RKCmjsb.tSRq_QvYOsGkkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc2ODtjZj13ZWJw/https://media.zenfs.com/en/the_kitchn_605/0eb87cb9f86c514baba929d8ca7c48e6"
   },
   {
@@ -26,7 +26,7 @@
     "published_at": "03/07/2026, 11:00 AM, +0000 UTC",
     "source": "Yahoo News UK",
     "score": 7,
-    "reason": "The title mentions 'Super-Crisp Chips' and 'Mango Chutney', implying a focus on potato chip/crisps flavors or cooking tips related to chips. However, the lack of snippet prevents full confirmation.",
+    "reason": "The title mentions 'Super-Crisp Chips', which directly relates to potato chips/crisps.",
     "image_url": "https://s.yimg.com/os/en/huffpost_uk_744/8e248674ad669bca68b39e6de100e937"
   },
   {
@@ -76,7 +76,7 @@
     "published_at": "03/06/2026, 12:48 PM, +0000 UTC",
     "source": "USA Today",
     "score": 9,
-    "reason": "The title mentions a potato chip brand (Frito-Lay), which is directly related to the topic of interest for a potato chip/crisps news website.",
+    "reason": "The title mentions 'Frito-Lay potato chips' which is directly about the topic of potato chips/crisps.",
     "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/06/USAT/89014823007-getty-images-1414864912.jpg?crop=2120,1193,x0,y0&width=660&height=371&format=pjpg&auto=webp"
   },
   {
@@ -96,7 +96,7 @@
     "published_at": "03/06/2026, 03:54 PM, +0000 UTC",
     "source": "NBC News",
     "score": 9,
-    "reason": "The title mentions a specific brand (Miss Vickie's) and refers to 'pickle chips', which are directly related to potato chips/crisps.",
+    "reason": "The title mentions a specific potato chip brand (Miss Vickie's) and includes the word 'chips', indicating relevance to potato chips/crisps.",
     "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-03/260306-Miss-Vickies-Spicy-Dill-Pickle-Potato-Chips-ew-1051a-3cc59a.jpg"
   },
   {
@@ -136,7 +136,7 @@
     "published_at": "03/03/2026, 08:00 AM, +0000 UTC",
     "source": "Allrecipes",
     "score": 9,
-    "reason": "The title mentions Lay's, a popular potato chips brand, and focuses on the tasting of various flavors.",
+    "reason": "The title mentions popular Lay's flavors, which directly involves potato chips/crisps and aligns with the website's focus on news about this type of snack.",
     "image_url": "https://www.allrecipes.com/thmb/LAfNFUjS5nZBIjOB53D1gS_GB3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-lays-taste-test-group-4x3-67f87a8f3c4c4710b50ab762b7f90257.jpg"
   },
   {
