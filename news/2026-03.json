@@ -12,11 +12,11 @@
   {
     "title": "The “So Freaking Delicious” Potato Chips You Should Always Have in Your Snack Drawer (I Get Why They Keep Selling Out)",
     "url": "https://www.yahoo.com/lifestyle/articles/freaking-delicious-potato-chips-always-230000990.html",
-    "snippet": "",
+    "snippet": "\"Unique and irresistible.\"",
     "published_at": "03/08/2026, 11:00 PM, +0000 UTC",
     "source": "Yahoo",
     "score": 9,
-    "reason": "The title mentions 'delicious potato chips' which is directly related to the subject of potato chips/crisps.",
+    "reason": "The title mentions potato chips and the snippet refers to them as unique and irresistible, which is relevant for a potato chip/crisps news website. It does not mention any specific brand or recall but focuses on the product itself.",
     "image_url": "https://s.yimg.com/ny/api/res/1.2/RKCmjsb.tSRq_QvYOsGkkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc2ODtjZj13ZWJw/https://media.zenfs.com/en/the_kitchn_605/0eb87cb9f86c514baba929d8ca7c48e6"
   },
   {
@@ -28,6 +28,16 @@
     "score": 9,
     "reason": "The title mentions trying 15 different kettle chip flavors, which is directly about potato chips/crisps.",
     "image_url": "https://s.yimg.com/os/en/aol_parade_744/700176e95f303d54a72bf8b6447106eb"
+  },
+  {
+    "title": "Wirecutter’s journalists blind-tasted more than 70 kinds of plain salted potato chips — kettle-fried, classic thin-and-crispy, and rippled and ridged — to find the best. The results were genuinely surprising. https://nyti.ms/3OIkYpi",
+    "url": "https://www.facebook.com/nytimes/posts/wirecutters-journalists-blind-tasted-more-than-70-kinds-of-plain-salted-potato-c/1315308060451654/",
+    "snippet": "Wirecutter’s journalists blind-tasted more than 70 kinds of plain salted potato chips — kettle-fried, classic thin-and-crispy, and rippled and ridged — to find the best. The results were genuinely...",
+    "published_at": "03/07/2026, 04:20 PM, +0000 UTC",
+    "source": "facebook.com",
+    "score": 9,
+    "reason": "The title mentions 'potato chips' and the snippet talks about tasting different types of plain salted potato chips, which is directly relevant to a potato chip/crisps news website.",
+    "image_url": "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-6/648231565_1315308040451656_1311047578807497229_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=p600x600&_nc_cat=100&ccb=1-7&_nc_sid=3b1b4a&_nc_ohc=IU-Lg5uaYoMQ7kNvwGzvr07&_nc_oc=AdnEg6Ed8_aj09mXw2iPk6qEIsp_Yzj1EwtRdFFaLrwZYMmY4WbxZML6FPLUoz3LLl6_q1TTsXbx17PM8vM6J2_b&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=9SczWfT3Gcq3d9V3gS7o7w&_nc_ss=8&oh=00_Afz-Z7DfPVD4LeWs-figK8ipa8gfrYXttO0FNW633XL0XQ&oe=69B40595"
   },
   {
     "title": "Check your pantry: Some bags of Miss Vickie's Spicy Dill Pickle Potato Chips recalled",
@@ -50,6 +60,16 @@
     "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/chips-in-a-bowl.jpg"
   },
   {
+    "title": "Frito-Lay potato chips recalled. Check your pantry for these products.",
+    "url": "https://www.usatoday.com/story/money/food/2026/03/06/potato-chip-recall-frito-lay-miss-vickies-dill-pickle/89014715007/",
+    "snippet": "Check your pantries. Popular Frito-Lay potato chips have been recalled. Here's what to know.",
+    "published_at": "03/06/2026, 12:48 PM, +0000 UTC",
+    "source": "USA Today",
+    "score": 9,
+    "reason": "The title and snippet mention a potato chips recall directly related to Frito-Lay, which is a well-known brand in the snack industry.",
+    "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/06/USAT/89014823007-getty-images-1414864912.jpg?crop=2120,1193,x0,y0&width=660&height=371&format=pjpg&auto=webp"
+  },
+  {
     "title": "Frito-Lay Announces a Recall of Its Popular Flavored Chips Over Potential Allergens",
     "url": "https://www.greenmatters.com/news/frito-lay-potato-chip-recall",
     "snippet": "Frito-Lay has issued a recall of some of the Miss Vickie's Spicy Dill Pickle Potato Chips due to the potential of an undeclared allergen.",
@@ -58,6 +78,16 @@
     "score": 9,
     "reason": "The title and snippet mention a specific potato chip brand (Miss Vickie's) and the action is directly related to potato chips/crisps, specifically a recall due to potential allergens.",
     "image_url": "https://media.greenmatters.com/brand-img/XdIlPrEqp/0x0/frito-lay-potato-chip-recall-1-1772826761523.jpg"
+  },
+  {
+    "title": "Miss Vickie's pickle chips containing undeclared milk recalled in 6 states",
+    "url": "https://www.nbcnews.com/news/us-news/miss-vickies-pickle-chips-containing-undeclared-milk-recalled-6-states-rcna262086",
+    "snippet": "Frito-Lay recalled the chips on Wednesday due to \"serious or life-threatening allergic reaction\" risks.",
+    "published_at": "03/06/2026, 03:54 PM, +0000 UTC",
+    "source": "NBC News",
+    "score": 9,
+    "reason": "The title and snippet directly mention a potato chip brand (Miss Vickie's) and include the term 'chips', which makes this news relevant to a potato chip/crisps news website. The article discusses a recall of pickle chips, which are indeed a type of snack food closely related to potato chips.",
+    "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-03/260306-Miss-Vickies-Spicy-Dill-Pickle-Potato-Chips-ew-1051a-3cc59a.jpg"
   },
   {
     "title": "Frito-Lay recalls popular chips",
@@ -96,7 +126,7 @@
     "published_at": "03/03/2026, 08:00 AM, +0000 UTC",
     "source": "Allrecipes",
     "score": 9,
-    "reason": "The title and snippet directly reference Lay's potato chips, indicating content closely related to the topic of potato chips/crisps.",
+    "reason": "The title mentions Lay's potato chips, which is a specific brand and directly relevant to the target audience of a potato chip / crisps news website.",
     "image_url": "https://www.allrecipes.com/thmb/LAfNFUjS5nZBIjOB53D1gS_GB3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-lays-taste-test-group-4x3-67f87a8f3c4c4710b50ab762b7f90257.jpg"
   },
   {
@@ -136,8 +166,8 @@
     "published_at": "03/02/2026, 05:10 PM, +0000 UTC",
     "source": "Snack Food & Wholesale Bakery",
     "score": 9,
-    "reason": "The article is directly about a new potato chip flavor by Doritos, which falls under the category of direct relevance to potato chips/crisps news.",
-    "image_url": "https://www.snackandbakery.com/ext/resources/SFWB/2024/Dec/SFWB_CoverStory1224_feature1440x750.webp?height=740&t=1734115833&width=auto"
+    "reason": "The article is directly about a new flavor of potato chips/crisps (Doritos) and focuses on its protein content, which aligns with the audience's interest in chip-related news.",
+    "image_url": "https://www.snackandbakery.com/ext/resources/2026/03/02/doritos-protein.webp?t=1772471277"
   },
   {
     "title": "Smash Kitchen enters the snack aisle with kettle chips",

@@ -135,8 +135,8 @@
     "snippet": "My taste buds told me to trust the process.",
     "published_at": "02/23/2026, 08:00 AM, +0000 UTC",
     "source": "Delish",
-    "score": 9,
-    "reason": "The title mentions Doritos and Cheetos, which are well-known potato chip brands, and the snippet refers to 'Flavor Swap' chips, implying new flavors of potato chips/crisps.",
+    "score": 7,
+    "reason": "The title mentions Doritos, which is a known brand of potato chips, and the context suggests tasting tests or new flavors within snack food industry. This makes it relevant to a potato chip/crisps news website.",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/img-3327-6998cfb6e7089.jpg?crop=0.660xw:0.880xh;0.184xw,0.102xh&resize=640:*"
   },
   {
@@ -196,7 +196,7 @@
     "published_at": "02/17/2026, 08:00 AM, +0000 UTC",
     "source": "PepsiCo",
     "score": 9,
-    "reason": "The title and snippet mention iconic chip brands and flavor swaps, which are directly relevant to a potato chip/crisps news website.",
+    "reason": "The title and snippet mention PepsiCo Foods, iconic flavors, and potato chips, making this directly relevant to a potato chip/crisps news website.",
     "image_url": "https://digitalassets.pepsico.com/transform/1722a3d3-5779-47c1-8ba4-8af645cbf2a5/FlavorSwap_Hero"
   },
   {
