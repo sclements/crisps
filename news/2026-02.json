@@ -73,11 +73,11 @@
     "title": "Trader Joe’s New Yellow Curry Chips Might Be Their Boldest Flavor Yet",
     "url": "https://sporked.com/article/trader-joes-new-thai-yellow-curry-chips-review/",
     "snippet": "",
-    "published_at": "02/25/2026, 11:13 PM, +0000 UTC",
+    "published_at": "02/25/2026, 08:00 AM, +0000 UTC",
     "source": "Sporked",
-    "score": 8,
-    "reason": "The news article is about a new flavor of chips from Trader Joe’s, which directly relates to the interest in chips and snack foods. The novelty of yellow curry as a flavor adds uniqueness and newsworthiness.",
-    "image_url": null
+    "score": 9,
+    "reason": "The title mentions a known chip brand (Trader Joe’s) and introduces a new flavor (Yellow Curry Chips), which directly relates to potato chips/crisps.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/02/NPR_TRADER-JOES-YELLOW-CURRY-CHIPS_HEADER.jpg?w=966&h=544&crop=1"
   },
   {
     "title": "Croatia increases potato acreage following chips supply deal",
@@ -138,6 +138,16 @@
     "score": 7,
     "reason": "The title mentions Doritos, which is a known brand of potato chips, and the context suggests tasting tests or new flavors within snack food industry. This makes it relevant to a potato chip/crisps news website.",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/img-3327-6998cfb6e7089.jpg?crop=0.660xw:0.880xh;0.184xw,0.102xh&resize=640:*"
+  },
+  {
+    "title": "Turn Up the Flavor with PLANTERS® Garlic Chili Crisp Cashews",
+    "url": "https://www.hormelfoods.com/newsroom/updates/turn-up-the-flavor-with-planters-garlic-chili-crisp-cashews/",
+    "snippet": "",
+    "published_at": "02/23/2026, 02:28 PM, +0000 UTC",
+    "source": "Hormel Foods",
+    "score": 7,
+    "reason": "The article mentions PLANTERS® Garlic Chili Crisp Cashews, which is directly related to snack nuts but closely associated with the potato chip/crisps industry as it falls under snacking.",
+    "image_url": "https://www.hormelfoods.com/wp-content/uploads/Newsroom_1110_Planters-Chili-Crisp-Cashews.jpg"
   },
   {
     "title": "Munchos Potato Crisps Are A Kosher Food that can be eaten for Lent",

@@ -12,12 +12,22 @@
   {
     "title": "The “So Freaking Delicious” Potato Chips You Should Always Have in Your Snack Drawer (I Get Why They Keep Selling Out)",
     "url": "https://www.yahoo.com/lifestyle/articles/freaking-delicious-potato-chips-always-230000990.html",
-    "snippet": "\"Unique and irresistible.\"",
+    "snippet": "",
     "published_at": "03/08/2026, 11:00 PM, +0000 UTC",
     "source": "Yahoo",
     "score": 9,
-    "reason": "The title mentions potato chips and the snippet refers to them as unique and irresistible, which is relevant for a potato chip/crisps news website. It does not mention any specific brand or recall but focuses on the product itself.",
+    "reason": "The title mentions 'potato chips' and the snippet indicates content about potato chips, aligning directly with the website's focus.",
     "image_url": "https://s.yimg.com/ny/api/res/1.2/RKCmjsb.tSRq_QvYOsGkkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc2ODtjZj13ZWJw/https://media.zenfs.com/en/the_kitchn_605/0eb87cb9f86c514baba929d8ca7c48e6"
+  },
+  {
+    "title": "Super-Crisp Chips And Mango Chutney: Chef Tips For Perfect Spice Bags At Home",
+    "url": "https://uk.news.yahoo.com/super-crisp-chips-mango-chutney-110017663.html",
+    "snippet": "",
+    "published_at": "03/07/2026, 11:00 AM, +0000 UTC",
+    "source": "Yahoo News UK",
+    "score": 7,
+    "reason": "The title mentions potato chips and a food condiment, indicating that it could contain information relevant to potato chip/crisps enthusiasts or those interested in snack pairings.",
+    "image_url": "https://s.yimg.com/os/en/huffpost_uk_744/8e248674ad669bca68b39e6de100e937"
   },
   {
     "title": "I Tried 15 Different Kettle Chip Flavors and Found a New Favorite",
@@ -62,11 +72,11 @@
   {
     "title": "Frito-Lay potato chips recalled. Check your pantry for these products.",
     "url": "https://www.usatoday.com/story/money/food/2026/03/06/potato-chip-recall-frito-lay-miss-vickies-dill-pickle/89014715007/",
-    "snippet": "Check your pantries. Popular Frito-Lay potato chips have been recalled. Here's what to know.",
+    "snippet": "",
     "published_at": "03/06/2026, 12:48 PM, +0000 UTC",
     "source": "USA Today",
     "score": 9,
-    "reason": "The title and snippet mention a potato chips recall directly related to Frito-Lay, which is a well-known brand in the snack industry.",
+    "reason": "The title mentions 'Frito-Lay potato chips' which is directly related to potato chips/crisps and the content likely involves recalls of specific products, making this highly relevant for a potato chip/crisps news website.",
     "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/06/USAT/89014823007-getty-images-1414864912.jpg?crop=2120,1193,x0,y0&width=660&height=371&format=pjpg&auto=webp"
   },
   {
@@ -122,11 +132,11 @@
   {
     "title": "I Tried the Most Popular Lay's Flavors, and the Winner Might Surprise You",
     "url": "https://www.allrecipes.com/lays-potato-chips-taste-test-11913989",
-    "snippet": "We taste-tested the most popular flavors of Lay's potato chips to find the bag you should keep on hand. Barbecue, Salt & Vinegar, and Classic made the top three.",
+    "snippet": "",
     "published_at": "03/03/2026, 08:00 AM, +0000 UTC",
     "source": "Allrecipes",
     "score": 9,
-    "reason": "The title mentions Lay's potato chips, which is a specific brand and directly relevant to the target audience of a potato chip / crisps news website.",
+    "reason": "The title mentions Lay's, a popular potato chip brand, and focuses on new flavors, which is directly about potato chips/crisps.",
     "image_url": "https://www.allrecipes.com/thmb/LAfNFUjS5nZBIjOB53D1gS_GB3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-lays-taste-test-group-4x3-67f87a8f3c4c4710b50ab762b7f90257.jpg"
   },
   {
