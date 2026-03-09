@@ -76,7 +76,7 @@
     "published_at": "02/25/2026, 08:00 AM, +0000 UTC",
     "source": "Sporked",
     "score": 9,
-    "reason": "The title mentions a known chip brand (Trader Joe’s) and introduces a new flavor (Yellow Curry Chips), which directly relates to potato chips/crisps.",
+    "reason": "The title mentions a potato chip brand (Trader Joe’s) and an innovative new flavor (Yellow Curry Chips), making it directly relevant to a potato chip/crisps news website.",
     "image_url": "https://sporked.com/wp-content/uploads/2026/02/NPR_TRADER-JOES-YELLOW-CURRY-CHIPS_HEADER.jpg?w=966&h=544&crop=1"
   },
   {
@@ -146,7 +146,7 @@
     "published_at": "02/23/2026, 02:28 PM, +0000 UTC",
     "source": "Hormel Foods",
     "score": 7,
-    "reason": "The article mentions PLANTERS® Garlic Chili Crisp Cashews, which is directly related to snack nuts but closely associated with the potato chip/crisps industry as it falls under snacking.",
+    "reason": "The article mentions PLANTERS® Garlic Chili Crisp Cashews, which are snack nuts and related to the potato chip/crisps industry.",
     "image_url": "https://www.hormelfoods.com/wp-content/uploads/Newsroom_1110_Planters-Chili-Crisp-Cashews.jpg"
   },
   {

@@ -16,7 +16,7 @@
     "published_at": "03/08/2026, 11:00 PM, +0000 UTC",
     "source": "Yahoo",
     "score": 9,
-    "reason": "The title mentions 'potato chips' and the snippet indicates content about potato chips, aligning directly with the website's focus.",
+    "reason": "The title mentions potato chips directly and indicates content related to the flavors, brands, or selling out of such products, which is relevant for a potato chip/crisps news website.",
     "image_url": "https://s.yimg.com/ny/api/res/1.2/RKCmjsb.tSRq_QvYOsGkkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc2ODtjZj13ZWJw/https://media.zenfs.com/en/the_kitchn_605/0eb87cb9f86c514baba929d8ca7c48e6"
   },
   {
@@ -26,7 +26,7 @@
     "published_at": "03/07/2026, 11:00 AM, +0000 UTC",
     "source": "Yahoo News UK",
     "score": 7,
-    "reason": "The title mentions potato chips and a food condiment, indicating that it could contain information relevant to potato chip/crisps enthusiasts or those interested in snack pairings.",
+    "reason": "The title mentions 'Super-Crisp Chips' and 'Mango Chutney', implying a focus on potato chip/crisps flavors or cooking tips related to chips. However, the lack of snippet prevents full confirmation.",
     "image_url": "https://s.yimg.com/os/en/huffpost_uk_744/8e248674ad669bca68b39e6de100e937"
   },
   {
@@ -76,7 +76,7 @@
     "published_at": "03/06/2026, 12:48 PM, +0000 UTC",
     "source": "USA Today",
     "score": 9,
-    "reason": "The title mentions 'Frito-Lay potato chips' which is directly related to potato chips/crisps and the content likely involves recalls of specific products, making this highly relevant for a potato chip/crisps news website.",
+    "reason": "The title mentions a potato chip brand (Frito-Lay), which is directly related to the topic of interest for a potato chip/crisps news website.",
     "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/06/USAT/89014823007-getty-images-1414864912.jpg?crop=2120,1193,x0,y0&width=660&height=371&format=pjpg&auto=webp"
   },
   {
@@ -92,11 +92,11 @@
   {
     "title": "Miss Vickie's pickle chips containing undeclared milk recalled in 6 states",
     "url": "https://www.nbcnews.com/news/us-news/miss-vickies-pickle-chips-containing-undeclared-milk-recalled-6-states-rcna262086",
-    "snippet": "Frito-Lay recalled the chips on Wednesday due to \"serious or life-threatening allergic reaction\" risks.",
+    "snippet": "",
     "published_at": "03/06/2026, 03:54 PM, +0000 UTC",
     "source": "NBC News",
     "score": 9,
-    "reason": "The title and snippet directly mention a potato chip brand (Miss Vickie's) and include the term 'chips', which makes this news relevant to a potato chip/crisps news website. The article discusses a recall of pickle chips, which are indeed a type of snack food closely related to potato chips.",
+    "reason": "The title mentions a specific brand (Miss Vickie's) and refers to 'pickle chips', which are directly related to potato chips/crisps.",
     "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2026-03/260306-Miss-Vickies-Spicy-Dill-Pickle-Potato-Chips-ew-1051a-3cc59a.jpg"
   },
   {
@@ -136,7 +136,7 @@
     "published_at": "03/03/2026, 08:00 AM, +0000 UTC",
     "source": "Allrecipes",
     "score": 9,
-    "reason": "The title mentions Lay's, a popular potato chip brand, and focuses on new flavors, which is directly about potato chips/crisps.",
+    "reason": "The title mentions Lay's, a popular potato chips brand, and focuses on the tasting of various flavors.",
     "image_url": "https://www.allrecipes.com/thmb/LAfNFUjS5nZBIjOB53D1gS_GB3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-lays-taste-test-group-4x3-67f87a8f3c4c4710b50ab762b7f90257.jpg"
   },
   {
