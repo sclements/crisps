@@ -870,13 +870,13 @@
                     throw new Error('History not available');
                 }
                 
-                // Filter out future dates (we generate chips ahead for timezone support)
+                // Filter out today and future dates
                 // Use local date comparison to avoid timezone issues
                 const todayLocal = new Date();
-                todayLocal.setHours(23, 59, 59, 999); // End of today
+                todayLocal.setHours(0, 0, 0, 0); // Start of today
                 history = history.filter(chip => {
                     const chipDate = new Date(chip.date + 'T00:00:00'); // Force local time
-                    return chipDate <= todayLocal;
+                    return chipDate < todayLocal;
                 });
                 
                 // Sort by date descending (most recent first)
