@@ -65,10 +65,26 @@
 
     gtag('config', 'G-RZ0FJ2YVL5');
     </script>
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <!-- Self-hosted Google Fonts -->
+    <style>
+    @font-face {
+        font-family: 'Fredoka';
+        font-style: normal;
+        font-weight: 400 700;
+        font-stretch: 100%;
+        font-display: swap;
+        src: url(/fonts/fredoka-latin.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    @font-face {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400 600;
+        font-display: swap;
+        src: url(/fonts/inter-latin.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    </style>
     <!-- Tailwind CSS for styling -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -104,10 +120,8 @@
             }
         }
     </script>
-    <!-- Dexie.js: A wrapper for IndexedDB -->
-    <script src="https://unpkg.com/dexie@3/dist/dexie.js"></script>
-    <!-- marked.js: A Markdown to HTML parser -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- marked.js: A Markdown to HTML parser (self-hosted) -->
+    <script src="/marked.min.js"></script>
     <style>
         #article-view, #search-results, #inline-news { transition: opacity 0.3s ease-in-out; }
         .meter-segment { transition: background-color 0.3s ease; }
@@ -328,13 +342,88 @@
 
 
     <script>
-        // --- DATABASE SETUP (Dexie.js) ---
-        const db = new Dexie('EncyclopediaDB');
-        db.version(4).stores({
-            articles: 'id, title, content',
-            invertedIndex: 'word, *ids',
-            _meta: 'key'
-        });
+        // --- DATABASE SETUP (Native IndexedDB) ---
+        const DB_NAME = 'EncyclopediaDB';
+        const DB_VERSION = 5; // bump to force upgrade from Dexie schema
+        let idb = null;
+
+        function openDB() {
+            return new Promise((resolve, reject) => {
+                const req = indexedDB.open(DB_NAME, DB_VERSION);
+                req.onupgradeneeded = (e) => {
+                    const db = e.target.result;
+                    for (const name of db.objectStoreNames) db.deleteObjectStore(name);
+                    db.createObjectStore('articles', { keyPath: 'id' });
+                    db.createObjectStore('invertedIndex', { keyPath: 'word' });
+                    db.createObjectStore('_meta', { keyPath: 'key' });
+                };
+                req.onsuccess = () => resolve(req.result);
+                req.onerror = () => reject(req.error);
+            });
+        }
+
+        function idbPut(store, item) {
+            return new Promise((resolve, reject) => {
+                const tx = idb.transaction(store, 'readwrite');
+                tx.objectStore(store).put(item);
+                tx.oncomplete = () => resolve();
+                tx.onerror = () => reject(tx.error);
+            });
+        }
+
+        function idbGet(store, key) {
+            return new Promise((resolve, reject) => {
+                const tx = idb.transaction(store, 'readonly');
+                const req = tx.objectStore(store).get(key);
+                req.onsuccess = () => resolve(req.result || null);
+                req.onerror = () => reject(req.error);
+            });
+        }
+
+        function idbGetMany(store, keys) {
+            return new Promise((resolve, reject) => {
+                const tx = idb.transaction(store, 'readonly');
+                const os = tx.objectStore(store);
+                const results = [];
+                let pending = keys.length;
+                if (pending === 0) return resolve([]);
+                keys.forEach(k => {
+                    const req = os.get(k);
+                    req.onsuccess = () => {
+                        if (req.result) results.push(req.result);
+                        if (--pending === 0) resolve(results);
+                    };
+                    req.onerror = () => reject(req.error);
+                });
+            });
+        }
+
+        function idbClear(store) {
+            return new Promise((resolve, reject) => {
+                const tx = idb.transaction(store, 'readwrite');
+                tx.objectStore(store).clear();
+                tx.oncomplete = () => resolve();
+                tx.onerror = () => reject(tx.error);
+            });
+        }
+
+        function idbBulkPut(store, items) {
+            return new Promise((resolve, reject) => {
+                const tx = idb.transaction(store, 'readwrite');
+                const os = tx.objectStore(store);
+                items.forEach(item => os.put(item));
+                tx.oncomplete = () => resolve();
+                tx.onerror = () => reject(tx.error);
+            });
+        }
+
+        function deleteDB() {
+            return new Promise((resolve, reject) => {
+                const req = indexedDB.deleteDatabase(DB_NAME);
+                req.onsuccess = () => resolve();
+                req.onerror = () => reject(req.error);
+            });
+        }
 
         // --- LOCALE DETECTION (UK/Ireland use "crisps") ---
         const isUKLocale = (() => {
@@ -985,7 +1074,7 @@
                 const articleData = chipData[id];
                 const { title, content } = articleData;
                 
-                await db.articles.put({ id, title, content });
+                await idbPut('articles', { id, title, content });
 
                 const uniqueWords = new Set(tokenize(title + ' ' + content));
                 uniqueWords.forEach(word => {
@@ -995,10 +1084,10 @@
                     invertedIndex[word].push(id);
                 });
             }
-            
+
             statusText.textContent = 'Saving index to database...';
             const indexEntries = Object.entries(invertedIndex).map(([word, ids]) => ({ word, ids }));
-            await db.invertedIndex.bulkPut(indexEntries);
+            await idbBulkPut('invertedIndex', indexEntries);
 
             console.log('Indexing complete!');
         }
@@ -1011,10 +1100,10 @@
                 return;
             }
             
-            const result = await db.invertedIndex.get(cleanQuery);
-            
+            const result = await idbGet('invertedIndex', cleanQuery);
+
             if (result && result.ids.length > 0) {
-                const articles = await db.articles.where('id').anyOf(result.ids).toArray();
+                const articles = await idbGetMany('articles', result.ids);
                 let html = `<div class="mb-6">
                     <h2 class="text-2xl font-display font-bold text-gray-800">Results for "${cleanQuery}"</h2>
                     <p class="text-gray-500">${articles.length} chips found</p>
@@ -1042,7 +1131,7 @@
         }
 
         async function displayArticle(id) {
-            const article = await db.articles.get(id);
+            const article = await idbGet('articles', id);
             if (article) {
                 articleContentDiv.innerHTML = marked.parse(article.content);
                 showView('article');
@@ -1099,14 +1188,14 @@
         // --- INITIALIZATION ---
         async function initialize() {
             try {
-                await db.open();
+                idb = await openDB();
 
                 // Fetch chip data and check if re-indexing is needed
                 const response = await fetch('chip-data.json');
                 const chipData = await response.json();
                 const dataHash = Object.keys(chipData).length.toString();
 
-                const meta = await db.table('_meta').get('dataHash').catch(() => null);
+                const meta = await idbGet('_meta', 'dataHash').catch(() => null);
                 if (meta && meta.value === dataHash) {
                     console.log('Index is up to date, skipping re-index.');
                     return;
@@ -1117,9 +1206,9 @@
             } catch (error) {
                 console.error("Failed to initialize database:", error);
                 console.log("Attempting to recover by deleting database and re-indexing.");
-                await db.close();
-                await db.delete();
-                await db.open();
+                if (idb) idb.close();
+                await deleteDB();
+                idb = await openDB();
 
                 const response = await fetch('chip-data.json');
                 const chipData = await response.json();
@@ -1131,12 +1220,12 @@
         }
 
         async function reindex(chipData, dataHash) {
-            await db.articles.clear();
-            await db.invertedIndex.clear();
+            await idbClear('articles');
+            await idbClear('invertedIndex');
             console.log('Re-indexing chip data...');
             await buildIndex(chipData);
             // Store hash so we skip re-indexing next load
-            await db.table('_meta').put({ key: 'dataHash', value: dataHash });
+            await idbPut('_meta', { key: 'dataHash', value: dataHash });
         }
 
         // Defer indexing so it doesn't block first paint / interactivity
