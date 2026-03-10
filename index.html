@@ -330,9 +330,10 @@
     <script>
         // --- DATABASE SETUP (Dexie.js) ---
         const db = new Dexie('EncyclopediaDB');
-        db.version(3).stores({
+        db.version(4).stores({
             articles: 'id, title, content',
-            invertedIndex: 'word, *ids'
+            invertedIndex: 'word, *ids',
+            _meta: 'key'
         });
 
         // --- LOCALE DETECTION (UK/Ireland use "crisps") ---
@@ -1098,36 +1099,54 @@
         // --- INITIALIZATION ---
         async function initialize() {
             try {
-                await db.open(); 
-                // Always clear the database and re-index
-                await db.articles.clear();
-                await db.invertedIndex.clear();
-                console.log('Database cleared. Loading chip data from JSON file.');
-                
-                // Fetch the chip data from JSON file
+                await db.open();
+
+                // Fetch chip data and check if re-indexing is needed
                 const response = await fetch('chip-data.json');
                 const chipData = await response.json();
-                
-                await buildIndex(chipData);
+                const dataHash = Object.keys(chipData).length.toString();
+
+                const meta = await db.table('_meta').get('dataHash').catch(() => null);
+                if (meta && meta.value === dataHash) {
+                    console.log('Index is up to date, skipping re-index.');
+                    return;
+                }
+
+                // Data changed or first load — re-index in idle time
+                await reindex(chipData, dataHash);
             } catch (error) {
-                 console.error("Failed to initialize database:", error);
-                 console.log("Attempting to recover by deleting database and re-indexing.");
-                 await db.close();
-                 await db.delete();
-                 await db.open();
+                console.error("Failed to initialize database:", error);
+                console.log("Attempting to recover by deleting database and re-indexing.");
+                await db.close();
+                await db.delete();
+                await db.open();
 
-                 // Fetch the chip data from JSON file
-                 const response = await fetch('chip-data.json');
-                 const chipData = await response.json();
-
-                 await buildIndex(chipData);
+                const response = await fetch('chip-data.json');
+                const chipData = await response.json();
+                const dataHash = Object.keys(chipData).length.toString();
+                await reindex(chipData, dataHash);
             } finally {
                 statusDiv.classList.add('hidden');
-                showView('news');
             }
         }
 
-        window.onload = initialize;
+        async function reindex(chipData, dataHash) {
+            await db.articles.clear();
+            await db.invertedIndex.clear();
+            console.log('Re-indexing chip data...');
+            await buildIndex(chipData);
+            // Store hash so we skip re-indexing next load
+            await db.table('_meta').put({ key: 'dataHash', value: dataHash });
+        }
+
+        // Defer indexing so it doesn't block first paint / interactivity
+        window.addEventListener('load', () => {
+            if ('requestIdleCallback' in window) {
+                requestIdleCallback(() => initialize());
+            } else {
+                setTimeout(initialize, 0);
+            }
+        });
     </script>
 </body>
 </html>
