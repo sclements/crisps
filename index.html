@@ -704,9 +704,10 @@
             
             try {
                 // Get current month file (YYYY-MM format)
+                // Use local date to avoid UTC timezone shift showing tomorrow's chip
                 const today = new Date();
-                const monthKey = today.toISOString().slice(0, 7); // "2026-02"
-                const todayStr = today.toISOString().split('T')[0]; // YYYY-MM-DD
+                const todayStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+                const monthKey = todayStr.slice(0, 7);
                 
                 const response = await fetch(`chip-of-the-day/${monthKey}.json`);
                 if (!response.ok) throw new Error(`${L.chip} of the day not available`);
@@ -721,10 +722,11 @@
                     yesterday.setDate(yesterday.getDate() - 1);
                     const tomorrow = new Date(today);
                     tomorrow.setDate(tomorrow.getDate() + 1);
-                    
-                    const yesterdayStr = yesterday.toISOString().split('T')[0];
-                    const tomorrowStr = tomorrow.toISOString().split('T')[0];
-                    
+
+                    const toLocalStr = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+                    const yesterdayStr = toLocalStr(yesterday);
+                    const tomorrowStr = toLocalStr(tomorrow);
+
                     chipData = monthlyChips.find(c => c.date === yesterdayStr || c.date === tomorrowStr);
                 }
                 
