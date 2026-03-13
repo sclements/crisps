@@ -374,7 +374,6 @@
         // --- NEWS SECTION ---
         // State for infinite scroll
         let newsArchive = [];
-        let displayedNewsUrls = new Set();
         let currentNewsPage = 0;
         const NEWS_PAGE_SIZE = 12;
         let isLoadingMoreNews = false;
@@ -411,9 +410,6 @@
                 
                 // Sort by date (newest first)
                 allNews = sortNewsByDate(allNews);
-                
-                // Track displayed news URLs to avoid duplicates
-                allNews.forEach(article => displayedNewsUrls.add(article.url));
                 
                 // Set up archive for infinite scroll (older news)
                 const recentCount = Math.min(NEWS_PAGE_SIZE, allNews.length);
@@ -453,7 +449,7 @@
                 }
                 
                 // Filter out already displayed articles and sort by date
-                const filteredArchive = sortNewsByDate(olderNews.filter(article => !displayedNewsUrls.has(article.url)));
+                const filteredArchive = sortNewsByDate(olderNews);
                 newsArchive.push(...filteredArchive);
             } catch (err) {
                 console.log('Extended news archive not available:', err.message);
@@ -608,8 +604,6 @@
                 return;
             }
             
-            // Mark these as displayed
-            nextBatch.forEach(article => displayedNewsUrls.add(article.url));
             
             // Render new items
             const newHtml = renderNewsItems(nextBatch, existingItems);
