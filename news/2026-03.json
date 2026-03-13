@@ -1,15 +1,5 @@
 [
   {
-    "title": "Snoop Dogg's new chips now at Costco stores in 6 states. See flavors.",
-    "url": "https://www.usatoday.com/story/grocery/shopping/2026/03/11/snoop-dogg-rap-snacks-chips-costco/89097701007/",
-    "snippet": "The snacks, cooked in 100% avocado oil, are sold in a 36-count variety pack in six western states, such as Oregon and Idaho.",
-    "published_at": "03/11/2026, 06:01 PM, +0000 UTC",
-    "source": "USA Today",
-    "score": 9,
-    "reason": "The title and snippet mention a new product from a well-known personality (Snoop Dogg) related to potato chips, which fits the scoring criteria for direct relevance to potato chip/crisps news.",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhtEBp-esrgMTKfssD4yeAc3Bso6shhDhSOo2ziRnoKMzHBrFIwyeaHg&usqp=CAI&s"
-  },
-  {
     "title": "Frito-Lay Miss Vickie’s Spicy Dill Pickle Potato Chips recalled",
     "url": "https://www.livenowfox.com/news/frito-lay-miss-vickies-spicy-dill-pickle-potato-chips-recalled",
     "snippet": "PLANO, Texas - Frito-Lay is recalling select bags of Miss Vickie's Spice Dill Pickle Potato Chips that may contain undeclared milk,...",
@@ -18,6 +8,26 @@
     "score": 9,
     "reason": "The title mentions a potato chip brand (Miss Vickie's) and the content is about a recall for a specific type of potato chips, which directly relates to potato chips/crisps.",
     "image_url": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/03/1200/630/miss-vickies-recall-fda-scaled.jpg?ve=1&tl=1"
+  },
+  {
+    "title": "‘They’re elite’: Sydney chefs on their favourite chips and crisps (with one clear winner)",
+    "url": "https://www.smh.com.au/goodfood/sydney-eating-out/they-re-elite-sydney-chefs-on-their-favourite-chips-and-crisps-with-one-clear-winner-20260311-p5o9hn.html",
+    "snippet": "Danielle Alvarez and Junda Khoo dig salt and vinegar, Neil Perry says a spot in Rozelle is “as good as it gets”, and Josh Niland is into...",
+    "published_at": "03/12/2026, 06:01 PM, +0000 UTC",
+    "source": "SMH.com.au",
+    "score": 9,
+    "reason": "The title and snippet mention chefs discussing their favorite chips/crisps, which directly relates to potato chips/crisps.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjI6jdsTi3Kh4bUdMy-MN-62xOP9TyuRlhZVHTzwinUPyq8j6xsHNyuBw&usqp=CAI&s"
+  },
+  {
+    "title": "Snoop Dogg's new chips now at Costco stores in 6 states. See flavors.",
+    "url": "https://www.usatoday.com/story/grocery/shopping/2026/03/11/snoop-dogg-rap-snacks-chips-costco/89097701007/",
+    "snippet": "The snacks, cooked in 100% avocado oil, are sold in a 36-count variety pack in six western states, such as Oregon and Idaho.",
+    "published_at": "03/11/2026, 06:01 PM, +0000 UTC",
+    "source": "USA Today",
+    "score": 9,
+    "reason": "The title and snippet mention a new product from a well-known personality (Snoop Dogg) related to potato chips, which fits the scoring criteria for direct relevance to potato chip/crisps news.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhtEBp-esrgMTKfssD4yeAc3Bso6shhDhSOo2ziRnoKMzHBrFIwyeaHg&usqp=CAI&s"
   },
   {
     "title": "7 Best Potato Chip Brands Made With Just 3 Ingredients",
