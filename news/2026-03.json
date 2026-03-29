@@ -1,5 +1,25 @@
 [
   {
+    "title": "This Palm Beach restaurant has the in-house chips you crave",
+    "url": "https://www.palmbeachdailynews.com/story/entertainment/dining/2026/03/28/buccan-sandwich-shop-has-the-in-house-chips-you-crave/89299635007/",
+    "snippet": "",
+    "published_at": "03/28/2026, 10:07 AM, +0000 UTC",
+    "source": "Palm Beach Daily News",
+    "score": 7,
+    "reason": "The title mentions 'Palm Beach restaurant' and 'in-house chips', suggesting the article discusses homemade potato chips or possibly a restaurant that serves potato chips, making it relevant for a potato chip/crisps news website.",
+    "image_url": "https://www.palmbeachdailynews.com/gcdn/authoring/authoring-images/2026/03/25/NPBD/89316319007-buccan-sandwich-shop-sandwich-and-chips-002.jpg"
+  },
+  {
+    "title": "Stackable Burger-Flavored Chips",
+    "url": "https://www.trendhunter.com/trends/pringles-x-burger-king",
+    "snippet": "Pringles x Burger King - The chip brand Pringles has teamed up with Burger King UK to launch two new burger-inspired flavors: Pringles x...",
+    "published_at": "03/27/2026, 04:33 PM, +0000 UTC",
+    "source": "Trend Hunter",
+    "score": 9,
+    "reason": "The snippet mentions 'Pringles' and 'Burger King', indicating a collaboration about potato chips or crisps, which is the main focus of the website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Gxb5hJAHNuRHUmsBxhgvjs_tve5XojIbf5RzQirpRhBzoxrPKQCFLaY&usqp=CAI&s"
+  },
+  {
     "title": "SINOBAKE to showcase potato and bakery processing solutions at Modern Bakery Moscow 2026",
     "url": "https://www.potatopro.com/news/2026/sinobake-showcase-potato-and-bakery-processing-solutions-modern-bakery-moscow-2026",
     "snippet": "SINOBAKE has announced its participation in Modern Bakery Moscow 2026, where the company will present its production solutions for potato chips, biscuits,...",
@@ -18,6 +38,16 @@
     "score": 9,
     "reason": "The title mentions potato chips/crisps and the snippet indicates it's about a specific type of chip, therefore relevant to a potato chip/crisps news website.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehLBGB3nOqI_s9tC8g0cHq99kH4XXwZS17cWBDtQ&usqp=CAI&s"
+  },
+  {
+    "title": "Burger King team up with Pringles to launch ‘flame grilled’ crisps with a free burger offer",
+    "url": "https://www.goodhousekeeping.com/uk/food/a70842062/burger-king-pringles/",
+    "snippet": "Pringles and Burger King have officially joined forces to launch two brand-new limited-edition crisp flavours, and they're bringing some of...",
+    "published_at": "03/25/2026, 04:33 PM, +0000 UTC",
+    "source": "Good Housekeeping",
+    "score": 9,
+    "reason": "The title and snippet mention Pringles, a well-known brand of potato chips/crisps, and their partnership with Burger King to launch new limited-edition flavors.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSeu18icmeGNm7eV5SJVVMS10JUe9VSvTG6Xa1Rw&usqp=CAI&s"
   },
   {
     "title": "Kettle expands into tortilla chips with new launch",
