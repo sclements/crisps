@@ -1,5 +1,25 @@
 [
   {
+    "title": "Is There a Proper Way to Eat Chip Dust?",
+    "url": "https://www.nytimes.com/interactive/2026/04/03/magazine/potato-chip-bag-hodgman-quiz.html",
+    "snippet": "Michael writes: MI recently walked into the kitchen to find my wife, Jeni, eating the crushed dregs of a bag of potato chips from a bowl...",
+    "published_at": "04/03/2026, 09:17 AM, +0000 UTC",
+    "source": "The New York Times",
+    "score": 7,
+    "reason": "The title mentions 'chip dust' which is closely related to potato chips/crisps. It discusses eating the crushed remnants of a bag, implying discussions around snack food leftovers and possibly reviews or opinions about snack products.",
+    "image_url": "https://static01.nyt.com/images/2026/04/05/magazine/05mag-hodgman/05mag-hodgman-facebookJumbo.jpg"
+  },
+  {
+    "title": "These Good Health snacks pass the lunchbox test (and taste good too!)",
+    "url": "https://www.usatoday.com/story/shopping/kitchen/2026/04/02/healthy-snacks-for-kids-good-health/89426017007/",
+    "snippet": "Looking for healthier snacks for you and your kiddos? Good Health has a guilt-free lineup of veggie straws, chips and more.",
+    "published_at": "04/02/2026, 05:17 PM, +0000 UTC",
+    "source": "USA Today",
+    "score": 7,
+    "reason": "The title mentions healthier snacks and includes the term 'chips', suggesting content related to snack foods. However, it doesn't specify potato chips or crisps by name, thus not receiving a higher score.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThPduMh2aASgo1DQ83o6zjDamfYgF3hhyUpbWjg_F-aT_JPGlUSt4eMhQ&usqp=CAI&s"
+  },
+  {
     "title": "Khloé Kardashian Announces New Protein Chips — Here’s How to Get Them",
     "url": "https://www.foodandwine.com/khloe-kardashian-khloud-protein-chips-11940763",
     "snippet": "Khloé Kardashian just announced she's launching Khloud Protein Chips, a new snack under her brand, Khloud. The chips will come in three...",
