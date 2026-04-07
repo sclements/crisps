@@ -32,12 +32,12 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQX_yuqLfeDHaoPuh9VkRGqhlCcnlL3MZI292iijagb38lnpDZ0o0gyN6TuGqOpDR3tU291XtPfuOAEiH5vE5mHxddbD8rH"
   },
   {
-    "chip_name": "Soy Sauce Cake",
+    "chip_name": "Garlic Rye",
     "date": "2026-02-05",
-    "description": "Embracing the essence of China's most significant annual celebration, our Soy Sauce Cake - chips encapsulate the rich tradition and flavor that Chinese New Year embodies.",
-    "event_name": "4 Holidays and observances",
+    "description": "Today, Finland celebrates Runeberg Day. Join in the festivities with Garlic Rye chips, infusing classic Finnish flavors into each crispy bite - the perfect blend for honoring this national tradition.",
+    "event_name": "Runeberg Day (Finland)",
     "event_url": "https://en.wikipedia.org/wiki/February_5",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqARLk_Q22pd3fdHiIIGoT0skdvWiZAr0HmMnSA28r9Tq8PsxKSdkzMQ25JBmlpUz0_ybMmhBCnhmi69gGqlBXOOOPWlAfRA"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTljd7rgHXJjxW7-7LQJbetL00m0HUbS_XfEERv1p-c_0hkIEg"
   },
   {
     "chip_name": "Honey Butter",
@@ -56,28 +56,20 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNo_ZMcwd66GQf_9nwzjQHom_fE2WNe-kiTgDVEim2FGZDzw9hlCx5gAxn-PBbDF59oi-rQLfKWpFARjlD1eq1MpI8wr3Gbw"
   },
   {
-    "chip_name": "Style Chicago Deep Dish Pizza",
+    "chip_name": "Wasabi Octopus Potato",
     "date": "2026-02-09",
-    "description": "DESCRIPTION EXAMPLE FOR LOCAL STYLE CHICAGO DEEP DISH PIZZA:\n\nOn this joyous occasion of National Pizza Day in the US, we celebrate the iconic Chicago-style deep dish pizza scene that has taken culinary enthusiasts by storm.",
-    "event_name": "National Pizza Day",
-    "event_url": "https://en.wikipedia.org/wiki/National_Pizza_Day",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYEurp0sQW1-QJgJXPayP2q9sXFlUTaODgzIUlhOXBu8DV7aL_eDbZcotVnnSIWnwCEoMY38HmMXQo4YhPA076ixd6TkwrlSp-Ut2EhWFm3ahQoxPSLkRm"
+    "description": "Today, amidst days of February's culinary celebration, savor the Wasabi Octopus Potato Chip.",
+    "event_name": "Days of February",
+    "event_url": "https://en.wikipedia.org/wiki/February_9",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRUsoRvoeM_RsDsRLKXj-Vzvj_oiJVD3QGXetmoNoIO2UJWm2o"
   },
   {
-    "chip_name": "Taco",
+    "chip_name": "Spicy Paprika",
     "date": "2026-02-10",
-    "description": "Today marks a dark yet intriguing chapter from history. In homage to this day's tumultuous events, our Taco chip bursts with the fiery passion reminiscent of that time period.",
-    "event_name": "1355 – The St Scholastica Day riot breaks out in Oxford, England, leaving 63 scholars and perhaps 30 locals dead in two days.",
+    "description": "Spicy Paprika takes you on a flavor journey to Eritrea's Fenkil Day, commemorating the Second Battle of Massawa.",
+    "event_name": "Fenkil Day(commemoration of the Second Battle of Massawa) (Eritrea)",
     "event_url": "https://en.wikipedia.org/wiki/February_10",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTdS7-7cW14iuz7wBdxv286UCpZL47LboYlu9iiB36zqZXrNrGSHsDEON3ZeGOUorEpZO8CFsRwIRDLwaKpeO53zDqk-uMr"
-  },
-  {
-    "chip_name": "Carolina Honey Sriracha",
-    "date": "2026-02-11",
-    "description": "Born on this day, legendary chef Frank Stitt, who revolutionized Southern cuisine. Pay homage to his culinary spirit with these Carolina Honey Sriracha chipsinfusing the essence of his bold yet refined cooking style.",
-    "event_name": "1 Events Toggle Events subsection 1.1 Pre-1600 1.2 1601–1900 1.3 1901–present",
-    "event_url": "https://en.wikipedia.org/wiki/February_11",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZAE3HypQV768tN--MdqcisA-Aulkm2FPtOwHaGcVFIUfE7aIU9DknYYh944qwM3tHR3V9LoNNVWHIKrPb9JcL3nwOkt-YNw7HCGOVGPzPcdRaIfLFLGK7"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtShqIHPWRwt2coI1BjtKyn9tPcek2yeKa0MtsB-QFHbA27OY"
   },
   {
     "chip_name": "Barbeque",
@@ -88,28 +80,28 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYwRQenOBY7GaKbitC03EM0vLfP6ad8vrK72wJS_5_YxVPUPW59gevqbWJhtPhpbS92tHretjSXhcVHHQZxY82Zhum36dKR8osX_2uPJIezSiTKGoBWzL_"
   },
   {
-    "chip_name": "Potato",
+    "chip_name": "Flake Dip Mesquite Barbecue",
     "date": "2026-02-13",
-    "description": "Born on this day in 1922, Gerry Day brought wit and wisdom to the world of journalism.",
-    "event_name": "2013 – Gerry Day, American journalist and screenwriter (born 1922)",
+    "description": "Today, we honor Black Love Day by savoring Flake Dip Mesquite Barbecue chips.",
+    "event_name": "Black Love Day (United States)",
     "event_url": "https://en.wikipedia.org/wiki/February_13",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSwLP4WDso768yeKO4nqDbvy2KySU20Wk12-s0i8tGthTWmYTOR6pBWJsW8YuLz5F2VeKRZU37FLjpxEpRnMH-R9Fe7cXMq"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhX2fynUBwS-tmMQfBQZ6eOjXLz_6r1tMy7G-LUXZB1dDQ3CRWGrQ94KLa2LRLBRTRBftXNLuc8YX8CrJdRykjXF0g5pr3xQ"
   },
   {
-    "chip_name": "Cheddar Cheese",
+    "chip_name": "Parmesan Cheese",
     "date": "2026-02-14",
-    "description": "Celebrating the worldwide love for cheese on June 4th, these Cheddar Cheese chips capture the essence of creamy, nutty flavors that bring delight to every bite.",
-    "event_name": "4 Holidays and observances",
+    "description": "Today, toast Valentine's Day by savoring the rich flavor of Parmesan Cheese chips  a delicious tribute to love and Italian cuisine.",
+    "event_name": "Valentine (see also Valentine's Day)",
     "event_url": "https://en.wikipedia.org/wiki/February_14",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGktG2dC9Q1E333-1wPaLQk3x2_MvthbOSYOgm02xV4qQ62yrovzItQ3ohprfzkcKGVe8t6cfX"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrdJ_ZMn21-x92bk-nZoJXs9j_8ybJkf6NGxg3x5uqHIy9ccCAsQZT-rZaAICT0Ktdpg9FXEtGcbmKs-XxlIrmRBFz1qc4cA"
   },
   {
-    "chip_name": "Cheddar Sour Cream",
+    "chip_name": "Dill Pickle Potato",
     "date": "2026-02-15",
-    "description": "Celebrating Decimal Day on October 15, 1971, when currencies of the United Kingdom and Ireland shifted to decimals.",
-    "event_name": "1971 – The decimalisation of the currencies of the United Kingdom and Ireland is completed on Decimal Day.",
+    "description": "Today, Russia commemorates its International Duties Memorial Day. Savor the crispness of our Dill Pickle Potato chips, blending tradition and flavor to honor this regional celebration.",
+    "event_name": "International Duties Memorial Day (Russia, regional)",
     "event_url": "https://en.wikipedia.org/wiki/February_15",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSs9yo9f2HnWAnrCaJhlNDhgpsnnqgDqpB8svum6HR_te7QccwwhbeP7OsUNFpBuOAj0dG5GpCMU6PSE7bYoKXyx4Z3iQLlKzKYXXdRc6A"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSEvzPtB91JlsY5eqRi8V1FvxWzcfLo2Pe1MLel6BcuVXBF1xGZ4IKFvPwz9-PDbk6PHc6nzHmX4cUlmgCk9D8RifiXH7xEq3KxzDQtAL30sE6krf5pYX7hA"
   },
   {
     "chip_name": "Wild Herb",
@@ -120,12 +112,12 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_zLTLs8BHaBLtoma6XQlmlY3WHtX1wiJ1wKW2p_apxSO3gJjUYTHYb3eeSOYznGlVgXOZ7qo"
   },
   {
-    "chip_name": "Tuscan Herb",
+    "chip_name": "Smoked Brisket",
     "date": "2026-02-17",
-    "description": "Marking the official start of summer on June 24th in Italy, Festa di San Giovanni celebrates life and togetherness.",
-    "event_name": "4 Holidays and observances",
+    "description": "Smoked Brisket today commemorates Kosovo's independence declaration. Enjoy its smoky flavor that echoes the bold spirit of this historic day, blending tradition with modern freedom.",
+    "event_name": "Independence Day, celebrates the independence declaration of Kosovo in 2008, still partially recognized.",
     "event_url": "https://en.wikipedia.org/wiki/February_17",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQKlJG8b_htuTwB8SKHR_p70pq1xWhBS2A74mLqKcsZFAhDhvSVCxkj2aULZg"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYh5qkCO_Q1u2yjdtSyWhjPb7L_OL3znra2JGlSxBUjHM6VR8x"
   },
   {
     "chip_name": "Jalapeno",
@@ -160,6 +152,14 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUxmIXCghtsyxqK6vkF6MkJRGTeES9AdCz4dLQuvoOEEGo67HloxWxAP__WM8ZTq3IXLoa4ORCPYNBBzPlbdyQ_34d_ToZjs3DBl-GYuk1tpB6TUqATXuzHvU"
   },
   {
+    "chip_name": "Baja Fiery Mango",
+    "date": "2026-02-22",
+    "description": "Baja Fiery Mango for World Thinking Day honors global camaraderie. These tangy chips dance on your taste buds like the vibrant cultures we celebrate together.",
+    "event_name": "World Thinking Day (World Association of Girl Guides and Girl Scouts)",
+    "event_url": "https://en.wikipedia.org/wiki/February_22",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTlkI6OPTxd8eL6RB_cYtkBUiJk248-sY5y4E68y2t3F6vzONGlTKElcHaDeo8U-mVXJzcI3fymQGsgrj_WmEh7n3aRVTjLJg"
+  },
+  {
     "chip_name": "Banana",
     "date": "2026-02-23",
     "description": "Mingle today as we celebrate National Banana Bread Day! Let's whisk you back to cozy kitchens and warm ovens with our Classic Banana Split chips.",
@@ -174,14 +174,6 @@
     "event_name": "Independence Day",
     "event_url": "https://en.wikipedia.org/wiki/Estonian_Declaration_of_Independence",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBGsH2k7jRSI_bLowa1DiLh7qw1UGA6pDgLaSC2-MJ9L4-S_S2YpqhIgGR4v0bvwJJi9YLAnQ8iLlDwphWsLk65MzXjs08"
-  },
-  {
-    "chip_name": "Less Fat Cooked",
-    "date": "2026-02-25",
-    "description": "February is National Heart Health Awareness Month, a timely reminder to keep our hearts healthy.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/February_25",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT3smWG9VXXw_DurBXWrrhOKHf8VT-gcrvI8wLsfOjI-VEPZSj-KcajY1oG0rRXKdwdXWQnaByOlWKU_cHb2mTQpcrtrhNb3z-ErztLzIOF2Yi7Msmgrk0rUg"
   },
   {
     "chip_name": "Parmesan Garlic",
@@ -200,11 +192,11 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfEHBVW2esBGNqswdNMR0ppk0bWZnmNLzOI_PdtPh-h3qLXA_kPF589OYlRllhkZy6uJWVHwflH-0iUCasrZt7C-JdcT1CSSR-D4GYwSDi0hG4iGa3HQgA"
   },
   {
-    "chip_name": "Barbecue",
+    "chip_name": "Rye Savory",
     "date": "2026-02-28",
-    "description": "In memory of our fallen heroes and honoring their service, our Barbecue chips bring the flavors of summer's quintessential gathering. Savor its smoky goodness that embodies picnics and outdoor celebrations.",
-    "event_name": "4 Holidays and observances",
+    "description": "Today, Finland celebrates its rich cultural heritage on Kalevala Day. Embrace this tradition with our Rye Savory chips, a delightful nod to Finnish flavors and history.",
+    "event_name": "Kalevala Day, also known as the Finnish Culture Day (Finland)",
     "event_url": "https://en.wikipedia.org/wiki/February_28",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWfV4WkYFlevxGZ-GIJz5HqfQABTd4yvCioGVlUnKciRzS8X7vuGnzuKc7fpn9s4TkdouFzxt-4fyfYnTfwOoaK9kAtWe5ZQirpZWCy-c"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7Hb9qY_mwOzV1Qz7NxrhMgCMm7yY_Vvpmba36YJBgrP_QVDesYum8RB0-9U_-aSCEXfganNg1"
   }
 ]
