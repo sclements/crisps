@@ -24,14 +24,6 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZ-7OZa5IAdWplTLThqFG6hhc0AxzmIfUF0EwYYU47WYxH88T4xV1rKoFw0Vy3zIp6bWW9VyvzPQDQg82FmOk5jFUHlkMEBA"
   },
   {
-    "chip_name": "Sweet Maui Onion",
-    "date": "2026-03-04",
-    "description": "Celebrating John Lennon's bold declaration of 1966 that \"The Beatles are more popular than Jesus\", our Sweet Maui Onion chip is a vibrant tribute to this era of cultural revolution.",
-    "event_name": "1966 – In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is \"more popular than Jesus now\".",
-    "event_url": "https://en.wikipedia.org/wiki/March_4",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtHy7mHJPDSTBdOeVqWrB_0ZFG_8w1y1dUzrSq3ddFTUoCDKJjmxqEqjR_m8CE1EQ4IwnsH1Zwu5FdLyX-WGjhgm9pGc0u"
-  },
-  {
     "chip_name": "Herbes",
     "date": "2026-03-05",
     "description": "Today, we celebrate St Piran's Day, honoring Cornwall. Embrace the spirit with our Herbes chips - crispy potatoes infused with savory herbs, just like a taste of the beautiful British coastline.",
@@ -56,20 +48,28 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUIqx07RhwqVErvbiaAKgi5909KKAO0rnr-XUZDZJ0yLcKMDMLsEZDvbtU0p04pzCp6oZ6vWukcOcitjtNM3kMvsMyXWzj"
   },
   {
-    "chip_name": "Guacamole",
+    "chip_name": "Lime Paprika",
     "date": "2026-03-08",
-    "description": "Today, we honor International Women's Collaboration Brew Day by savoring Guacamole-flavored chips.",
-    "event_name": "International Women's Collaboration Brew Day",
+    "description": "Lime Paprika Chip celebrates International Women's Day by honoring female leadership worldwide. Its vibrant tang and smoky essence pay tribute to the strength and flavor of global women leaders.",
+    "event_name": "International Women's Day, and its related observances: International Women's Collaboration Brew Day",
     "event_url": "https://en.wikipedia.org/wiki/March_8",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTmtr9U_0AXwZiqdIsI_qLJ0Bx0mt5kikqm9P_DbyEo2EMz3uCKtJ_j6I62zsF2sg0AFh5T-yycNCUPCGpVNNr2L5U3xNq-vK_UTa2TwShB_nbofYwIlCNF9g"
+    "image_url": null
   },
   {
-    "chip_name": "Herbs",
+    "chip_name": "Chipotle Lime",
+    "date": "2026-03-09",
+    "description": "Today, savor the vibrant spirit of Days of March as we celebrate with Chipotle Lime - a bold twist on traditional flavors. Let this unique chip elevate your taste experience, just like the days that inspire it.",
+    "event_name": "Days of March",
+    "event_url": "https://en.wikipedia.org/wiki/March_9",
+    "image_url": null
+  },
+  {
+    "chip_name": "Chipotles Chipotle Queso",
     "date": "2026-03-10",
-    "description": "Herbs thrives on today's remembrance, echoing the resilience of humanity during the Holocaust. These chips carry the earthy depth of nature, symbolizing strength and survival against adversity.",
-    "event_name": "Holocaust Remembrance Day (Bulgaria)",
+    "description": "Today, we honor Mario Day with Chipotles Chipotle Queso, blending Mexican heritage and American tradition.",
+    "event_name": "Mario Day (International)",
     "event_url": "https://en.wikipedia.org/wiki/March_10",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvkQRwr3XlasTFgslMEY_yCMBWgiz56jDZvNOhzwCyxGD9UOSjk0pfzILtntQIyR27EJfQ4ZWPpZDDsFsAifpjJoLVhixm7raPkPu7AAabtDM1NHQL6ceiaw"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTTA4wjJKnYquK3KaOjQqQR-NDAJBT45zy3pAM4TVVA4xNZ_uEMJlq1WDHBNW8LWjAQKPDgx1jTwKfiPuBWAh5Z2cox72ZmPKNUgAAi7T7UuB87hVK3ONW"
   },
   {
     "chip_name": "Chile Lime",
@@ -88,12 +88,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAASSaIUz5Ta9-FcqAVqJfCbNUo8UQbmSsO-M-RezqAzvh2wDWBQc_W4y3t4srcQRofM3Du56-0RmZSYhbAWjw7nLSclKQ"
   },
   {
-    "chip_name": "Queso/ Mexican Cheese",
+    "chip_name": "Thai Sweet Chilli",
     "date": "2026-03-13",
-    "description": "Today marks Africa Scout Day; honor its spirit with Pk Queso's rich, authentic Mexican flavor.",
-    "event_name": "Africa Scout Day",
+    "description": "Today marks National Elephant Day in Thailand, where conservation efforts are highlighted.",
+    "event_name": "National Elephant Day (Thailand)",
     "event_url": "https://en.wikipedia.org/wiki/March_13",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSdLc9SWwr63qT7fymnvcDiJMcxv-5KWfv1loXSKWYYI854JxaQqDxgx3K070RUMbsWBEgdHcDRz2P9mxzpe8ek2sybyz-iJa1BhvLUhsa-BPcZrIiNZAsTPw"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-FDKK2dG24Z5HqHlC2fa0jdD3X2dqmf2QftbGwYHBQEs30712btllKfGumyiCzPwAt6apwYKZbD6F4am6sKcfdYw8m9kZxvwQz9CwSSTc"
   },
   {
     "chip_name": "Cinnamon",
@@ -102,14 +102,6 @@
     "event_name": "Pi Day",
     "event_url": "https://en.wikipedia.org/wiki/Pi_Day",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYsSs6cJmtr8ARCJ7uc1QCDDjZ6y9JMl-Xh7PfvVGRhRhdSL3n"
-  },
-  {
-    "chip_name": "Seaweed",
-    "date": "2026-03-15",
-    "description": "Inspired by International Day To Combat Islamophobia:\nHonoring the rich cultural heritage of Islamic nations around the globe, Bibigo Seaweed chips invite you to experience the delicate flavors rooted in the vast oceanic history.",
-    "event_name": "International Day To Combat Islamophobia",
-    "event_url": "https://en.wikipedia.org/wiki/March_15",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHzSU4r6ucG6VzEaQw4R1z2YWo-Fz7vziP-Rvn-GWhNJwixfMDdDjX-A2DHc1U_FS2aEkoKdK8pMgIiqyhrVnPbQwXH8Pn"
   },
   {
     "chip_name": "Limon",
@@ -136,12 +128,12 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtscHTCQnJsFpM0p0p8sMeGSYt7UzRO2WA7a58tjle4MInHlfOSUdwiKHf3lbsrHRgvjNaXAo"
   },
   {
-    "chip_name": "Bacon Wrapped Jalapeno Popper",
+    "chip_name": "Sweet Spicy Bbq",
     "date": "2026-03-19",
-    "description": "Today marks an inspiring celebration of equality and unity, akin to the flavorsin our 'Bacon Wrapped Jalapeno Popper' chips.",
-    "event_name": "Minna Canth's Birthday and the Day of Equality (Finland)",
+    "description": "Today, as we savor the flavors of Days of March, let's experience Sweet Spicy Bbq chips - a delightful fusion that mirrors the month's vibrant tastes.",
+    "event_name": "Days of March",
     "event_url": "https://en.wikipedia.org/wiki/March_19",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSmsWlRQr_kAUR9MN99CM0uhQb-OHJg8UCcxdxSppkBUGsRn_JDh7VrPn0Yi15oE1IKK5zENJHhBzlBhLG-4M8GJ6H1ngdszZE5hoImOh0hgltbe0i-S35"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjnOh_AnTbk3vDGWopBF5dR3pVzBTdcbePy-GKiUj9z4lY0_GrjtzkzHy_kI3m6xDRQnXWzEwfXsMMN1ejI6tZOdKqHJo7"
   },
   {
     "chip_name": "Roasted Cumin Lamb Skewer",
@@ -152,20 +144,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfaHlQ5XxzPbIevSD8xk_NKd_CLonZ4ypnqOKRjkjjbN0IkA29pkAs4D_L2X1iw-19wZjs99ZqhXYVAixzpQOD6om_tVzzFJtoriGGXJyIjvCeDDPsK32qJw"
   },
   {
-    "chip_name": "Cassava Thai Lime",
+    "chip_name": "Dill Pickle",
     "date": "2026-03-21",
-    "description": "Cassava Thai Lime chips celebrate Evelina Haverfield's legacy of empowering others.",
-    "event_name": "1920 – Evelina Haverfield, British suffragette and aid worker (born 1867)",
+    "description": "Today, we celebrate Oltenia Day in Romania. Pay tribute to this cultural event with our Dill Pickle chips - crisp and tangy, just like a traditional Romanian summer salad, bringing a burst of fresh flavor to your day.",
+    "event_name": "Oltenia Day (Romania)",
     "event_url": "https://en.wikipedia.org/wiki/March_21",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRavmc60IPjaHamRyLeOVItnQFHPMup0JhHsaRPI-muZdXaemywk98AOhKqYQDZ5CaIckrLQfCIUf0oM1QV1u_vysOSl0sK_n9eRrRSggsVbPxo4mbWkU0J"
-  },
-  {
-    "chip_name": "Butter",
-    "date": "2026-03-22",
-    "description": "Butter celebrates National dog Day (US) by bringing you a crispy blend of savory corn flavors with a hint of sweetness.",
-    "event_name": "National Corndog Day",
-    "event_url": "https://en.wikipedia.org/wiki/National_Corndog_Day",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVUY173zQxmrXRI9Bed3MA89I2t9BOYN3EV3UpFNSQB6yJPGE3ugysNOJz9i90hwu3JbZzJcU4syqKBHOolfgpoOQJrnlH-bpy4BG3l7wCTI8cMkDBQW10"
+    "image_url": null
   },
   {
     "chip_name": "Rare Cilantro",
@@ -176,14 +160,6 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgtO52bwqnmmqInU-MbxIuzeAZyhmqVARLkO-sCvrxe4r9r_S2jOTHp5EritSLkAfQ7qXQPXeU7_mD0C-ipXD_jGwiuUlufobxRfgKnbFmtYvFq_FkrxnTXoI"
   },
   {
-    "chip_name": "Hot Pepper Lime",
-    "date": "2026-03-24",
-    "description": "Today, remember Argentina's Day of Remembrance for Truth and Justice. Hot Pepper Lime chips bring bold flavors to your day - the zest of tangy lime meets fiery pepper, honoring today's story of resilience and hope.",
-    "event_name": "Day of Remembrance for Truth and Justice (Argentina)",
-    "event_url": "https://en.wikipedia.org/wiki/March_24",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQOJDmobaHVS5kvsaWZxdqkYNBfwv0gHQGZWe9DiHW2hiWLDOltVb6fqsNDTACUpQhBdn1JCQo5LtjZP9aoApmhSPP5eiSDUzqqQcJDcrWHB7QmYqYI-d-1"
-  },
-  {
     "chip_name": "Extra Virgin Olive Oil",
     "date": "2026-03-25",
     "description": "Extra Virgin Olive Oil chips embrace today's spirit of independence and freedom.",
@@ -192,36 +168,12 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUMgxrE0pmpjk-XkPHsh8a21DOCCH-BSjJZUofAdGiQpRb12QMCfDsUeL9MIUyMQzNK-SWPoI"
   },
   {
-    "chip_name": "Plantain",
-    "date": "2026-03-26",
-    "description": "On this day of democracy and remembrance, Plantain chips take you on a journey through West Africa.",
-    "event_name": "Martyr's Day or Day of Democracy (Mali)",
-    "event_url": "https://en.wikipedia.org/wiki/March_26",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSigMcuOgSmmHK7SYAPLHDbvhTJXbmO8Vk_vO9eY5aM6a7FypciFI5ysYD5eShaCbRIdbL0eWdBFcIwEIcN9mB1pAKFsRnBb0wHRSfqcRj-ms_WpWxAMJTj"
-  },
-  {
-    "chip_name": "Korean Barbecue",
-    "date": "2026-03-27",
-    "description": "Korean Barbecue - today commemorates the union of Bessarabia with Romania. Savor these chips that blend Asian flavors with Eastern European heritage, offering a taste journey through time and culture.",
-    "event_name": "Day of the Union of Bessarabia with Romania (Romania)",
-    "event_url": "https://en.wikipedia.org/wiki/March_27",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTy5XyjTnh4sXLdzcPC1fcJjdPsMZLmbmNWLxPxW47YO-sxh26KhMvX6z53zkwGmjJfSuh13JMdP_gjhFznvNhc_J2HhaAR"
-  },
-  {
-    "chip_name": "Jalapeno Ranch",
-    "date": "2026-03-28",
-    "description": "On this day of serfs' liberation, taste 'Jalapeno Ranch', a bold flavor that embodies freedom and defiance. Its zesty kick and creamy ranch dressing mirror the spirit of independence.",
-    "event_name": "Serfs Emancipation Day (Tibet)",
-    "event_url": "https://en.wikipedia.org/wiki/March_28",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfBKfnPljNu8SyT9NzFthRMLzGts-TtDel-eV-DtZHUVN4ebz0dIggQhm6EG5bq3q1fq2fUGKJrS1Hvd8fdACatSH81RAE"
-  },
-  {
-    "chip_name": "Jalapeno",
+    "chip_name": "Barbecue Smoky Mustard",
     "date": "2026-03-29",
-    "description": "Today, we honor Jalapeno's fiery essence, reminiscent of a hot day on the beaches of Mexico.",
-    "event_name": "2021 – The ship Ever Given was dislodged from the Suez Canal.",
+    "description": "Today's Chip of the Day is 'Barbecue Smoky Mustard', paying tribute to Day of the Young Combatant (Chile).",
+    "event_name": "Day of the Young Combatant (Chile)",
     "event_url": "https://en.wikipedia.org/wiki/March_29",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTo4HuvwfbpPuhCM0K5jT2XWxG4NZ8Q4mPNo6SCDvXXhgT_U1sTW30YU2Rzjs8Q6ZaGF_KRbTORr5z9WaI-QWC7UJoILxwU"
+    "image_url": null
   },
   {
     "chip_name": "Jerk Chicken",

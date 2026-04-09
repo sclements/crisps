@@ -158,12 +158,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTbFf4kBIMAspuGMm3uDms1GIbKdh-HTFQxBdSjbSt6mEU4Lv4QbrbmKkiWEfTXya7DiYUib08wAoEyJTtP_vfeooTW8qlqEA"
   },
   {
-    "chip_name": "Australian Crystallized Ginger",
+    "chip_name": "Mesquite Bbq",
     "date": "2026-01-26",
-    "description": "Today marks Australia Day, commemorating the 1788 arrival of British settlers.",
-    "event_name": "Republic Day",
-    "event_url": "https://en.wikipedia.org/wiki/Republic_Day_(India)",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQytCJeA00yMWOfIyPP_FsIV3VIvLm9Gupw6HERZ1PQu0J7_-MrmB-bKTdjWA4eyCUrmEoYkT0Wk5ibEa1cqQcTqF8r4NcgH9Hwgz1pRNEYRGZF4tBzxyqsnQ"
+    "description": "Mesquite Bbq chips celebrate today's Australia Day spirit, merging smoky flavors with Aussie pride. These barbecue-flavored snacks capture the essence of a classic Australian feast, perfect for today's celebration.",
+    "event_name": "Australia Day (Australia)",
+    "event_url": "https://en.wikipedia.org/wiki/January_26",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRBlAA3_LdhKJDcOSNJMOq_LbxsdFMHlMbIySHa69Wsq3eZIp6DFtRTnmBShfoK11gOAuqNTHDRXlOICiqv8ll1EzgTiP6_7W5j5kJi264"
   },
   {
     "chip_name": "Bacon Grilled Cheese",
@@ -174,12 +174,12 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_RQySrDmijQrjMAdK7PFTUg9K4PQGLcq6BGKULlIREiqASvuLRTUEtx5nF9BSWeiSoOHf7MIfbvIPfXO7A2hxU4NPcDvjAbs6MVSmyY-4"
   },
   {
-    "chip_name": "Cajun Dill",
+    "chip_name": "Fruit Toasted Coconut",
     "date": "2026-01-28",
-    "description": "Chip Flavor: \"Cajun Dill\"\n\nOn this day dedicated to raising awareness of the importance of data privacy, we celebrate with a bold and vibrant flavor that mirrors the spirit of confidentiality and security.",
-    "event_name": "Data Privacy Day",
+    "description": "Today, in January, marks the beginning of tropical flavors. Embrace the warmth with our Fruit Toasted Coconut chips, capturing the essence of sunny days and island breezes.",
+    "event_name": "Days of January",
     "event_url": "https://en.wikipedia.org/wiki/January_28",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTgPR2q2qDWXrGOHjpsGhAcyRStVvwRQw8AYkK_QaioVfYkS-DPigYKo5llDwOm-MCnFwoKizyGUXn3O98dvr3HnTHn3gY"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfSTmNrr3RKZ85Lv8fe1iKJqXQ-Lk1cFqsOZs7Dttwd_kssEVdoIkPE47LkOOCKcCOds0n0bEnuQAs8Sg7ieZV1QL5hK7_"
   },
   {
     "chip_name": "Korean Bbq",
@@ -196,5 +196,13 @@
     "event_name": "4 Holidays and observances",
     "event_url": "https://en.wikipedia.org/wiki/January_30",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTh1q2dEi2BcmtlTIMSbxJCl5nC3PPs58qDSRq8HdQh-0uM_1fbXJravwPDL29w0az3_L9pMieG5QBQRL5IezWi74F2gfGj"
+  },
+  {
+    "chip_name": "Vinegar Cheddar",
+    "date": "2026-01-31",
+    "description": "Today marks the independence of Nauru from Australia in 1968. Join in the celebration with our Vinegar Cheddar chips - their tangy flavor mirrors the spirit of freedom and zest that marks this day of pride.",
+    "event_name": "Independence Day (Nauru), celebrates independence from Australia in 1968.",
+    "event_url": "https://en.wikipedia.org/wiki/January_31",
+    "image_url": null
   }
 ]

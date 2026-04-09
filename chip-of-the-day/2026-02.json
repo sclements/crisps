@@ -1,17 +1,17 @@
 [
   {
-    "chip_name": "Coconut",
+    "chip_name": "Chipotle Bbq Oil",
     "date": "2026-02-01",
-    "description": "Marking an important day in Nicaragua's national calendar, Air Force Day commemorates their aviation history and achievements. To honor this event, our deliciously crisp Kentaste Coconut chips are a fitting tribute.",
-    "event_name": "Air Force Day (Nicaragua)",
+    "description": "Chipotle Bbq Oil - Today is Constitution Day, marking the beginning of celebrating democracy in Mexico.",
+    "event_name": "Earliest day on which Constitution Day can fall, while February 7 is the latest; celebrated on the first Monday in February. (Mexico)",
     "event_url": "https://en.wikipedia.org/wiki/February_1",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4DN2VAGnKRvJNYe9QUrU7P3CG_9UB4uUEUNW7JRt6Y8eEMjkW"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSiq93EvmYKxulxjE_RD0Wdb3vui2eJ9CWfDGdgz3Mf4O80K1P8Wiy9BL3L-1sb_5OcuutbCVDd4G7MPH2TiZUwFSWKEfMaAj9jUuJRr0ewhAnIHsoKW_5p4w"
   },
   {
     "chip_name": "Ranch",
     "date": "2026-02-02",
     "description": "On this day when Punxsutawney Phil emerges from his burrow, we're celebrating the spirit of anticipation and optimism with our Ranch chips.",
-    "event_name": "1887 – In Punxsutawney, Pennsylvania, the first Groundhog Day is observed.",
+    "event_name": "1887 \u2013 In Punxsutawney, Pennsylvania, the first Groundhog Day is observed.",
     "event_url": "https://en.wikipedia.org/wiki/February_2",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTde6oLAUX1uo2HSPEF54ZyA9jJd0jjsBg4L93ntiRHPA9n9EHAw3H07ZJbOw"
   },
@@ -24,12 +24,12 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ9oe0T5dXo_P7MOZ02TJuCnPF-OYj32Ce0QUNbNQtHz2k_OnAedNe-qRbSapTFAXmcIf_bb6GRhlmTs_2b2XMc9DZUsgDF9YNbaI_708sk5tfWmM9ieYWVBQ"
   },
   {
-    "chip_name": "Churro",
+    "chip_name": "Truffle Parmesan",
     "date": "2026-02-04",
-    "description": "Honoring the proud moment of Sri Lanka's freedom on their Independence Day in 1948, these Churro with offer a sweet tribute to a cherished milestone.",
-    "event_name": "Independence Day",
-    "event_url": "https://en.wikipedia.org/wiki/Independence_Day_(Sri_Lanka)",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQX_yuqLfeDHaoPuh9VkRGqhlCcnlL3MZI292iijagb38lnpDZ0o0gyN6TuGqOpDR3tU291XtPfuOAEiH5vE5mHxddbD8rH"
+    "description": "Truffle Parmesan, today's Chip of the Day, embodies a culinary tribute to humanity's shared flavors.",
+    "event_name": "International Day of Human Fraternity",
+    "event_url": "https://en.wikipedia.org/wiki/February_4",
+    "image_url": null
   },
   {
     "chip_name": "Garlic Rye",
@@ -48,12 +48,20 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnlyres_AGhmeLwjWuIvHDUiQBB1ODANIhzyTFQiFZReeWYTXDqzDjsNqEK_eVe0cyJhVCG6Um_WNfe84NRw8opLiqTEoKGw"
   },
   {
-    "chip_name": "Spicy Thai",
+    "chip_name": "Parmesan Herb",
+    "date": "2026-02-07",
+    "description": "Today marks Grenada's independence from the United Kingdom. Embrace freedom and flavor with our Parmesan Herb chips, celebrating diversity through every bite.",
+    "event_name": "Independence Day (Grenada), celebrates the independence of Grenada from the United Kingdom in 1974.",
+    "event_url": "https://en.wikipedia.org/wiki/February_7",
+    "image_url": null
+  },
+  {
+    "chip_name": "Masala",
     "date": "2026-02-08",
-    "description": "Celebrating Parinirvana Day (a significant event in some Mahayana Buddhism traditions occurring on February 15), these Spicy Thai chips are a reflection of the rich flavors and essence of this ancient celebration.",
-    "event_name": "Parinirvana Day (some Mahayana Buddhism traditions; most celebrate on February 15)",
+    "description": "Today, we celebrate India's Propose Day with Masala's vibrant flavors. Infused with the essence of traditional spices and a dash of love, these chips bring the heart of Indian cuisine to your celebration.",
+    "event_name": "Propose Day (India)",
     "event_url": "https://en.wikipedia.org/wiki/February_8",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNo_ZMcwd66GQf_9nwzjQHom_fE2WNe-kiTgDVEim2FGZDzw9hlCx5gAxn-PBbDF59oi-rQLfKWpFARjlD1eq1MpI8wr3Gbw"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjCipIXjiiKKld-WyX4UwA_HRzSbwM-tdyMAx-FZxkKqh3-WyyHlvFeAwVWVhlZsE0iuytRUkzzNOIpRZ3ixnA6zRyjF_lNA"
   },
   {
     "chip_name": "Wasabi Octopus",
@@ -72,36 +80,28 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtShqIHPWRwt2coI1BjtKyn9tPcek2yeKa0MtsB-QFHbA27OY"
   },
   {
+    "chip_name": "Batata",
+    "date": "2026-02-11",
+    "description": "Batata, today's Chip of the Day, honors the spirit of Liberia's Armed Forces. Experience the robust flavor that mirrors their strength and resilience as you savor each crisp bite.",
+    "event_name": "Armed Forces Day (Liberia)",
+    "event_url": "https://en.wikipedia.org/wiki/February_11",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQyy05Td0Ef_PhGFdHWwYtO9bfiXaXz-rAUipTU7z8hn4vHXaA6FJ07min_Y5fKdGHDkMx-BeLEUlg_UbY10uNFjP8CguHzTK7UDBbszYpToTng8TYm0A1YmA"
+  },
+  {
     "chip_name": "Barbeque",
     "date": "2026-02-12",
     "description": "On this day in history, Englishman James Oglethorpe founded the Thirteen Colonies' thirteenth colony - Georgia.",
-    "event_name": "1733 – Georgia Day: Englishman James Oglethorpe founds Georgia, the 13th colony of the Thirteen Colonies, by settling at Savannah.",
+    "event_name": "1733 \u2013 Georgia Day: Englishman James Oglethorpe founds Georgia, the 13th colony of the Thirteen Colonies, by settling at Savannah.",
     "event_url": "https://en.wikipedia.org/wiki/February_12",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYwRQenOBY7GaKbitC03EM0vLfP6ad8vrK72wJS_5_YxVPUPW59gevqbWJhtPhpbS92tHretjSXhcVHHQZxY82Zhum36dKR8osX_2uPJIezSiTKGoBWzL_"
   },
   {
-    "chip_name": "Mesquite Barbecue",
-    "date": "2026-02-13",
-    "description": "Today, we honor Black Love Day by savoring Mesquite Barbecue chips.",
-    "event_name": "Black Love Day (United States)",
-    "event_url": "https://en.wikipedia.org/wiki/February_13",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhX2fynUBwS-tmMQfBQZ6eOjXLz_6r1tMy7G-LUXZB1dDQ3CRWGrQ94KLa2LRLBRTRBftXNLuc8YX8CrJdRykjXF0g5pr3xQ"
-  },
-  {
-    "chip_name": "Parmesan Cheese",
+    "chip_name": "Truffle Mushroom Brie",
     "date": "2026-02-14",
-    "description": "Today, toast Valentine's Day by savoring the rich flavor of Parmesan Cheese chips  a delicious tribute to love and Italian cuisine.",
-    "event_name": "Valentine (see also Valentine's Day)",
+    "description": "Today's celebration brings us Truffle Mushroom Brie - a gourmet delight reminiscent of February's cozy evenings.",
+    "event_name": "Days of February",
     "event_url": "https://en.wikipedia.org/wiki/February_14",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRrdJ_ZMn21-x92bk-nZoJXs9j_8ybJkf6NGxg3x5uqHIy9ccCAsQZT-rZaAICT0Ktdpg9FXEtGcbmKs-XxlIrmRBFz1qc4cA"
-  },
-  {
-    "chip_name": "Dill Pickle",
-    "date": "2026-02-15",
-    "description": "Today, Russia commemorates its International Duties Memorial Day. Savor the crispness of our Dill Pickle chips, blending tradition and flavor to honor this regional celebration.",
-    "event_name": "International Duties Memorial Day (Russia, regional)",
-    "event_url": "https://en.wikipedia.org/wiki/February_15",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSEvzPtB91JlsY5eqRi8V1FvxWzcfLo2Pe1MLel6BcuVXBF1xGZ4IKFvPwz9-PDbk6PHc6nzHmX4cUlmgCk9D8RifiXH7xEq3KxzDQtAL30sE6krf5pYX7hA"
+    "image_url": null
   },
   {
     "chip_name": "Wild Herb",
@@ -136,28 +136,20 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTspdSTebhwZFeMl0IJpMdfrZ53OR9MlxYjg7OgE58TOfu4vrjj9DMrnjg3KeLCoXq3w9vKlZuynUL8kGF0lQR3-JAOY17--g"
   },
   {
-    "chip_name": "Chile Limon",
-    "date": "2026-02-20",
-    "description": "Empowering global unity and equality on this day dedicated to social justice, our \"Chile Limon\" chips serve as a fiery declaration against discrimination.",
-    "event_name": "World Day of Social Justice",
-    "event_url": "https://en.wikipedia.org/wiki/February_20",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpzJp93aIdLu8BKCHrhV8-j0rp5aMhtdlyApiera22iJnow4ODZk9XdbRo5J_cLSd0pFVgKtrQZHJRwrzzpW1D9Nz0n4HNb0afoaUi3sET"
-  },
-  {
-    "chip_name": "Brisket",
+    "chip_name": "Lime zest",
     "date": "2026-02-21",
-    "description": "Inspired by the rich culinary traditions of Vanuatu, especially on Father Lini Day which honors one of Vanuatu's most respected leaders, we bring you a Brisket that embodies the spirit of community and unity this day represents.",
+    "description": "On this day, we honor Vanuatu's cultural richness. Enjoy Lime Zest chips and savor the vibrant flavors of its cuisine, celebrating Father Lini Day.",
     "event_name": "Father Lini Day (Vanuatu)",
     "event_url": "https://en.wikipedia.org/wiki/February_21",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUxmIXCghtsyxqK6vkF6MkJRGTeES9AdCz4dLQuvoOEEGo67HloxWxAP__WM8ZTq3IXLoa4ORCPYNBBzPlbdyQ_34d_ToZjs3DBl-GYuk1tpB6TUqATXuzHvU"
+    "image_url": null
   },
   {
-    "chip_name": "Baja Fiery Mango",
+    "chip_name": "Truffle Salt",
     "date": "2026-02-22",
-    "description": "Baja Fiery Mango for World Thinking Day honors global camaraderie. These tangy chips dance on your taste buds like the vibrant cultures we celebrate together.",
-    "event_name": "World Thinking Day (World Association of Girl Guides and Girl Scouts)",
+    "description": "Truffle Salt, today's ode to Saint Lucia's independence from the UK.",
+    "event_name": "Independence Day, celebrates the independence of Saint Lucia from the United Kingdom in 1979.",
     "event_url": "https://en.wikipedia.org/wiki/February_22",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTlkI6OPTxd8eL6RB_cYtkBUiJk248-sY5y4E68y2t3F6vzONGlTKElcHaDeo8U-mVXJzcI3fymQGsgrj_WmEh7n3aRVTjLJg"
+    "image_url": null
   },
   {
     "chip_name": "Banana",
@@ -176,12 +168,20 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBGsH2k7jRSI_bLowa1DiLh7qw1UGA6pDgLaSC2-MJ9L4-S_S2YpqhIgGR4v0bvwJJi9YLAnQ8iLlDwphWsLk65MzXjs08"
   },
   {
-    "chip_name": "Parmesan Garlic",
+    "chip_name": "Cherry Sweet, Cherry",
+    "date": "2026-02-25",
+    "description": "Today, honor Japan's Kitano Baika-sai \"Plum Blossom Festival\". Experience Cherry Sweet, Cherry chips - their delicate flavor pays tribute to this blooming beauty, just like spring arrives in Kyoto.",
+    "event_name": "Kitano Baika-sai or \"Plum Blossom Festival\" (Kitano Tenman-gu Shrine, Kyoto, Japan)",
+    "event_url": "https://en.wikipedia.org/wiki/February_25",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSk1lDVxK-xb9_r87o1HvImB7BVY2MWS02Z6xiCEVNCHzjxmBtw"
+  },
+  {
+    "chip_name": "Restaurant",
     "date": "2026-02-26",
-    "description": "Embracing global unity and the beauty of spring's arrival, our Parmesan Garlic chips offer an exquisite blend inspired by international flavors.",
-    "event_name": "1971 – U.N. Secretary-General U Thant signs United Nations proclamation of the vernal equinox as Earth Day.",
+    "description": "Today, Kuwait celebrates Liberation Day from Iraqi occupation. Savor the freedom and joy of this historic event with our Restaurant chips, offering the bold flavors and rich tastes that embody the spirit of independence.",
+    "event_name": "Liberation Day (Kuwait)",
     "event_url": "https://en.wikipedia.org/wiki/February_26",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR55a1V3mKEkUz2JYcQqiem4Nh9hWKvvsEYiEZJO6rhpdYiBvg_ezyDmYLuOTnrnV5kBz2rjx-iKcWBk0aZNqzlAGWupoVt"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRIGLG8kMS_6ggSzWzb_8OEATzvvAJPkFaVz8omCyw_fp2LIS_7rujkb4VMEVWJse2URNizSEiyztAwyMGh6NFul1a5e6OY"
   },
   {
     "chip_name": "Plantain",
