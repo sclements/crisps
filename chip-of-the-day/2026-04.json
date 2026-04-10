@@ -16,14 +16,6 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRKIRtOl9uJLNzNqiXYO-zySD8jANWrWiHMJhZt-WIrTrgXyXRe"
   },
   {
-    "chip_name": "Lime",
-    "date": "2026-04-03",
-    "description": "Lime chips, today's flavorful discovery, take you on an exciting culinary journey.",
-    "event_name": "Days of April",
-    "event_url": "https://en.wikipedia.org/wiki/April_3",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT72-VsBgHHvGliXLAsGCLONZx87v4Lok_kLu0BZJKi0YRoXl2bXxvNQ4asGsvAa0lpRQOvX_LBLtsL8luQPFNZ8i8XQ8MAFw"
-  },
-  {
     "chip_name": "Almond",
     "date": "2026-04-04",
     "description": "Today marks Children's Day celebrations in Hong Kong and Taiwan. Savor the essence of joy with Almond chips - crunchy, classic, yet uniquely festive, bringing smiles to every bite.",
@@ -40,12 +32,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT163C0LFj06g4pKzB--UyghwK4zk0p6zjfKau9l4aKyIczeZ0UikZYQPwpzS31EqFvSUkyocVupFMnHUGA6qfHXDoOqVjC"
   },
   {
-    "chip_name": "Sour Cream Onion",
+    "chip_name": "Roasted Fish",
     "date": "2026-04-06",
-    "description": "Today marks Chakri Day, celebrating the founding of the Chakri dynasty. Revel in Thai heritage with Sour Cream Onion, blending creamy richness and tangy onion flavors for an exquisite taste experience.",
-    "event_name": "Chakri Day, commemorating the establishment of the Chakri dynasty. (Thailand)",
+    "description": "Roasted Fish, today's Chip of the Day, celebrates National Fisherman Day (Indonesia) by capturing the essence of fresh seafood on a plate.",
+    "event_name": "National Fisherman Day (Indonesia)",
     "event_url": "https://en.wikipedia.org/wiki/April_6",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAf_EPnjWaMdVgVhTsjKy_Z4pysGXyTcis7pnLE7At6WuBnauWuuynbnWGHtKmcQOa7mOdr6rxggKWki2t17NPBr4UKkNA"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTA-a0BDqmwtf90jH3-uYDat5Uk5q966cT5WaZ_yy-oKbJR3SJhjnsxlb2mO25nov7fcyEgRf3gVrr-LOyzTPuWlK8I_J_i"
   },
   {
     "chip_name": "Pimento",
@@ -184,12 +176,12 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTq2uhvzhjpyv40VL9NXpno1cV9YWwTb1J-itjgsYQ1Y_Jj0yOUbPJf9SpB2iIODlKG_Uk643Ws1K-6v3GKpMk2YMz0wEJuIXPoYXCwI_T4WI2Rtix3bYbDDg"
   },
   {
-    "chip_name": "Black Truffle",
+    "chip_name": "Date Walnut",
     "date": "2026-04-24",
-    "description": "Today, remember the Armenian people's resilience through the rich flavor of Black Truffle chips. Their essence mirrors the deep history and legacy they've preserved, reminding us of their culinary treasures.",
-    "event_name": "Armenian Genocide Remembrance Day (Armenia, California, France)",
+    "description": "Today, we honor the rich flavor of Concord Day from Niger. Embrace its essence in our Date Walnut chips, crafted to carry the sweetness and tradition of this special day onto your plate.",
+    "event_name": "Concord Day (Niger)",
     "event_url": "https://en.wikipedia.org/wiki/April_24",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTM4Dge4aghm04AYuWvzPsio1AGNf6jlGcWPvbvXEHYJUSRdgtdNTIg1NGLBG4uuoZEX1E3rAzDJJhLSkJEgCT6I_ypHXMX5U9r4pVdfmeptkzae3YI9-pg8t6L"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIz5yPfXb-61BbnPyWD1Yzlyjm5JnKM1pOVcKBfhKS5BPlbzTt9C9doAgNjoYzOSzAYRCuquzBtC-DwK05Edsfjp3kb7dk"
   },
   {
     "chip_name": "Parmesan Garlic",
