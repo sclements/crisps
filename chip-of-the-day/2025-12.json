@@ -1,5 +1,141 @@
 [
   {
+    "chip_name": "Thai Sweet",
+    "date": "2025-12-01",
+    "description": "Today, we celebrate Damrong Rajanubhab Day in Thailand.",
+    "event_name": "Damrong Rajanubhab Day (Thailand)",
+    "event_url": "https://en.wikipedia.org/wiki/December_1",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFY1WZ9aOPpQNpa2scBr0x-uPHYWN58vcstbi8csZGKF2PAqK1uymCe6CtihihsuIv6qbrstlVMdXWv2WoAwzSKvkW-umOZg"
+  },
+  {
+    "chip_name": "Rice Sriracha",
+    "date": "2025-12-02",
+    "description": "Today marks Lao National Day, celebrating unity and progress. Rice Sriracha chips, infused with fiery passion and mild sweetness, embody this spirit of harmony, blending perfectly into any celebration.",
+    "event_name": "Lao National Day",
+    "event_url": "https://en.wikipedia.org/wiki/December_2",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYAd55ego1a2-2B_-IRmbXTh0VL95CJgU3t9jBeisM4jy6f5cOFmJRAz9GRzmXlr02Pbqw47Ba"
+  },
+  {
+    "chip_name": "Chicken",
+    "date": "2025-12-03",
+    "description": "Today, we celebrate Doctors' Day in Cuba, honoring the healthcare heroes. Chicken-flavored chips bring warmth and comfort reminiscent of Cuban kitchens, adding flavor to this day's celebration.",
+    "event_name": "Doctors' Day (Cuba)",
+    "event_url": "https://en.wikipedia.org/wiki/December_3",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvgFdSWLOWQ1ITttW9qPErb3mo258Bit718xyGyN3g3KVAXAle4uEyTDoiFl41ftRVfR9t5kTz_eFX2eU8b1oTloddnySr"
+  },
+  {
+    "chip_name": "Baja Fiery Mango",
+    "date": "2025-12-04",
+    "description": "Baja Fiery Mango is today's salute to Navy Day (India), capturing the spirit of the coastline and its bold flavors. Experience the vibrant taste that reflects India's seafaring history, now on your snack plate.",
+    "event_name": "Navy Day (India)",
+    "event_url": "https://en.wikipedia.org/wiki/December_4",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7hwcJ73g8QD252obQxy7lVjfkn_doRPzi9D-mnVhn2eHbo9iernAEU5uurU6TZHmAW-xBsVoZ-uY_55H0q_8i8sPQXesd9A"
+  },
+  {
+    "chip_name": "Chickpea Nacho",
+    "date": "2025-12-05",
+    "description": "Today marks a special cultural convergence of Haiti and the Dominican Republic, inspiring our Chickpea Nacho flavor.",
+    "event_name": "Discovery Day (Haiti and Dominican Republic)",
+    "event_url": "https://en.wikipedia.org/wiki/December_5",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSjg8JbNfOwfkvwKC0DEuHYdXyVTMqzT7nI9dD49FF5zJukjGZLbQzOLS2D4YcVmBgSRU7D3O3ncKuL1xADZWImGimtYq1xN1AEC_Sj6Kv4kkjjX61oYFjU8Q"
+  },
+  {
+    "chip_name": "Salmon Korean Bbq",
+    "date": "2025-12-06",
+    "description": "Salmon Korean Bbq: A culinary celebration of today's independence for Finland.",
+    "event_name": "Independence Day, celebrates the independence of Finland from Russia in 1917.",
+    "event_url": "https://en.wikipedia.org/wiki/December_6",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwDithnoTaH0I5kvYnHiNYQp6_GNc41bdZnCk7xj9HNdLp_TUCFVIEBUcX6w"
+  },
+  {
+    "chip_name": "Guacamole",
+    "date": "2025-12-07",
+    "description": "Today, celebrate Colombia's Day of the Little Candles with Guacamole-flavored chips, blending creamy avocado goodness and festive Latin vibes.",
+    "event_name": "Day of the Little Candles, begins after sunset (Colombia)",
+    "event_url": "https://en.wikipedia.org/wiki/December_7",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTmtr9U_0AXwZiqdIsI_qLJ0Bx0mt5kikqm9P_DbyEo2EMz3uCKtJ_j6I62zsF2sg0AFh5T-yycNCUPCGpVNNr2L5U3xNq-vK_UTa2TwShB_nbofYwIlCNF9g"
+  },
+  {
+    "chip_name": "Spicy Miso Kale",
+    "date": "2025-12-08",
+    "description": "Spicy Miso Kale today brings Japan's Bodhi Day spirit to your plate. Savor the umami of miso and zest of chili as you embrace wisdom and growth on this holy day for enlightenment.",
+    "event_name": "Bodhi Day (Japan)",
+    "event_url": "https://en.wikipedia.org/wiki/December_8",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTupQB2etmeV5IJ9LUQAiwHNMH9MPOMU-vVvX5Yp6S3IFcO3E5pDgyN-Wrrjv0kwR6JGzaOTSoRcGlt84E0SAKzTbRgWWnsUw"
+  },
+  {
+    "chip_name": "Cassava",
+    "date": "2025-12-09",
+    "description": "Cassava chips are today's tribute to the Armed Forces of Peru. Made from this root crop, seasoned for honor and service, they're a crunchy reminder of those who protect their nation.",
+    "event_name": "Armed Forces Day (Peru)",
+    "event_url": "https://en.wikipedia.org/wiki/December_9",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRRNXxSe2Q4k_Vl6Cq4I6etptfwakJPmyTxk8QNt7T29x7Fw6oYo2CqYQJB06gGwS4mNV4FBz0cq4l-rV21gIYoEyrB1GxO"
+  },
+  {
+    "chip_name": "Sweet Basil",
+    "date": "2025-12-10",
+    "description": "Today, Thailand commemorates Constitution Day. Savor Sweet Basil's vibrant flavors, reminiscent of this cultural milestone, blending tradition and innovation for an unforgettable taste experience.",
+    "event_name": "Constitution Day (Thailand)",
+    "event_url": "https://en.wikipedia.org/wiki/December_10",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJgiS3NHKECzqHk7KDaVmpCEFTNauZdGiqglVL8lDEKARrULMvHg7npzGtHbR4i37HkYTAADa9oqoBe8PX01CC11TkyzDTZT14Gj5zALeWszUWMSMUXX9j"
+  },
+  {
+    "chip_name": "Dulce De Leche Apple",
+    "date": "2025-12-11",
+    "description": "On this day that honors Argentina's national dance, savor the soulful blend of Dulce De Leche and crisp apple flavors that embody the passion of Tango.",
+    "event_name": "National Tango Day (Argentina)",
+    "event_url": "https://en.wikipedia.org/wiki/December_11",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3oar729LV3cuOOhRctHAYyqSsQIe7ChYD1TPdt8Tr3jt5mXJitrO2Lm49lF4HZe5hzN2tKgPx6i0eUyMAgJklMPs640SK"
+  },
+  {
+    "chip_name": "Chile Limon",
+    "date": "2025-12-12",
+    "description": "Chile Limon, today's spicy sensation, takes inspiration from the fiery passion of days gone by.",
+    "event_name": "Days of December",
+    "event_url": "https://en.wikipedia.org/wiki/December_12",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpzJp93aIdLu8BKCHrhV8-j0rp5aMhtdlyApiera22iJnow4ODZk9XdbRo5J_cLSd0pFVgKtrQZHJRwrzzpW1D9Nz0n4HNb0afoaUi3sET"
+  },
+  {
+    "chip_name": "Rum Barrel",
+    "date": "2025-12-13",
+    "description": "Rum Barrel celebrates Saint Lucia's National Day by infusing traditional Caribbean flavors into crispy potato chips.",
+    "event_name": "National Day (Saint Lucia)",
+    "event_url": "https://en.wikipedia.org/wiki/December_13",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVfjUFlJjquyLaJ1Kn6prSgue1WiPYU-kiqNzWcJq3Iu7_Z7KC1nD3zWD9TZTkJ_7M4IHEuYN-0vlaxsaIF7sIqkzxdrNp"
+  },
+  {
+    "chip_name": "Mustard",
+    "date": "2025-12-14",
+    "description": "Mustard brings the rich history of Martyred Intellectuals Day to your plate today. Paying homage to resilience and courage, these bold, tangy chips celebrate the intellectual spirit that cannot be silenced.",
+    "event_name": "Martyred Intellectuals Day (Bangladesh)",
+    "event_url": "https://en.wikipedia.org/wiki/December_14",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQl3YOE4pCKwW_6QPIMVvrJF3wsN1zTs9E0JtBvtK0SxV2s3vc"
+  },
+  {
+    "chip_name": "Bacon",
+    "date": "2025-12-15",
+    "description": "Today, we celebrate the spirit of freedom and individual rights with 'Bacon' - embodying the essence of the 2nd Amendment's right to bear arms.",
+    "event_name": "2nd Amendment Day (South Carolina)",
+    "event_url": "https://en.wikipedia.org/wiki/December_15",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0MSfRwlG2cR7gzRJbEFUmi-mnHDGfQESGWJ3dFu0r6GuQ6vOW8k836umDaO9uSNQCcZmzaBuQDeyzsYykAmFP9pMoINDK"
+  },
+  {
+    "chip_name": "Bakery Cardamom",
+    "date": "2025-12-16",
+    "description": "Bakery Cardamom celebrates today's milestone of Bahrain's independence. Its rich, aromatic essence mirrors the historic significance, offering a delightful blend that honors this momentous day.",
+    "event_name": "National Day, celebrates the withdrawal of United Kingdom from Bahrain, making Bahrain an independent emirate in 1971.",
+    "event_url": "https://en.wikipedia.org/wiki/December_16",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfx4E3ejrMiRn6FTDupXl0yLjihkT9MktvLbBulHfYIB9DfN7Asc4NPi06ifxeVggnqgTxDnlYmkSt7KIkBogVy_g5jaxK5VNTa7UF2AHT869pF3K_fKnJag"
+  },
+  {
+    "chip_name": "Truffle Black Pepper",
+    "date": "2025-12-17",
+    "description": "Truffle Black Pepper Chip celebrates today's Wright Brothers Day.",
+    "event_name": "Wright Brothers Day, a United States federal observance by Presidential proclamation",
+    "event_url": "https://en.wikipedia.org/wiki/December_17",
+    "image_url": null
+  },
+  {
     "chip_name": "Sea Salt",
     "date": "2025-12-18",
     "description": "Celebrating the serene beauty of the sea on Sebastian's birthdate - Eastern Orthodox Church's patron saint.",

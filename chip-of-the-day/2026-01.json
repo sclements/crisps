@@ -78,6 +78,14 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQsirnKujZAof7VaupiiExFDwZ6PanGBESydG0njH8JogMsEc"
   },
   {
+    "chip_name": "Chorizo Chipotle",
+    "date": "2026-01-11",
+    "description": "Today, we honor Eugenio Mara de Hostos by savoring Chorizo Chipotle chipsspicy and smoky flavors that encapsulate his legacy of cultural integration.",
+    "event_name": "Eugenio María de Hostos Day (Puerto Rico)",
+    "event_url": "https://en.wikipedia.org/wiki/January_11",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTV5iY2oxAEa7D-Zv8VYG9vn0cS5wXhSgV-MG3n5rYtqe8BcPjIr1l_V72KKJyK7ImKan9fv_Bz2S-KmMcm1hx3aaXtdncI6nSuwj16jgk"
+  },
+  {
     "chip_name": "Cilantro Lime",
     "date": "2026-01-12",
     "description": "Connection to Flavor:\n\"Santitas Cilantro Lime embodies the vibrant culinary heritage that has thrived in Mexico and throughout South America for centuries.",
@@ -134,6 +142,14 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYG4t6fAoWudOF2iRK_Jr9kkWtmkWgGAaPNz_IzW1OqR7y8hyrlE8rOhvCgvI"
   },
   {
+    "chip_name": "Lime Rolled",
+    "date": "2026-01-19",
+    "description": "Lime Rolled today celebrates the spirit of Southern pride. These zesty chips evoke the essence of Confederate Heroes Day and Robert E. Lee Day, offering a tangy burst that honors tradition and heritage.",
+    "event_name": "Confederate Heroes Day (Texas), and its related observance: Robert E. Lee Day (Alabama, Arkansas, Florida, Georgia and Mississippi)",
+    "event_url": "https://en.wikipedia.org/wiki/January_19",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAASSaIUz5Ta9-FcqAVqJfCbNUo8UQbmSsO-M-RezqAzvh2wDWBQc_W4y3t4srcQRofM3Du56-0RmZSYhbAWjw7nLSclKQ"
+  },
+  {
     "chip_name": "Mexican Street Corn",
     "date": "2026-01-20",
     "description": "Pay homage to this vibrant Mexican holiday celebrating ancestors on Dia de los Muertos. These tortillas bring the bold flavors of elotes, street corn seasoned with cotija cheese and smoky adobo to every bite.",
@@ -148,6 +164,30 @@
     "event_name": "4 Holidays and observances",
     "event_url": "https://en.wikipedia.org/wiki/January_21",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5_96ekWPRRB42xvgmlrVoAgnX1iGKNYdF1t2EWwVimgRAQtVy87W1GOs6djygfa8nj6ow7Bg0ZAs2ig8Czx8VATFZjF4di3aTCtTN-lLufPNdlI0n5Ypz"
+  },
+  {
+    "chip_name": "Olive Hamburger Dill",
+    "date": "2026-01-22",
+    "description": "Today, Ukraine celebrates unity; unite your taste buds with Olive Hamburger Dill chips. Their savory flavor is a delightful reminder of today's celebration, bringing the essence of dill and olive to every bite.",
+    "event_name": "Day of Unity of Ukraine (Ukraine)",
+    "event_url": "https://en.wikipedia.org/wiki/January_22",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSEHat6CBWMoxh0BwE9bIBmuxFKleow9J1BcV_mWv6evc9IeyKdobRgnytEwB4vJ__Co6J52lrz372RSC_bCIZIbmq0OiXC"
+  },
+  {
+    "chip_name": "Steak",
+    "date": "2026-01-23",
+    "description": "Steak, today's Chip of the Day, embodies the spirit of freedom as we celebrate World Freedom Day in Taiwan and South Korea.",
+    "event_name": "World Freedom Day (Taiwan and South Korea)",
+    "event_url": "https://en.wikipedia.org/wiki/January_23",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTM7n-yhj4B7Qv2L9mhEHfOXhp4FpraeUFr44RfiVEIPNZsQzNUl3AVBgBweuTmJ4BZvYHNkZ4yip3dNQ0JfrINEgPd9NzgkpPOreBMrijoP8Cb9RabFVC4"
+  },
+  {
+    "chip_name": "Mango Salsa",
+    "date": "2026-01-24",
+    "description": "Mango Salsa Chip celebrates Uttar Pradesh Day with a vibrant blend of fresh mangoes and tangy spices. Embracing today's celebration, this chip offers a delightful taste journey through India's diverse culinary culture.",
+    "event_name": "Uttar Pradesh Day (Uttar Pradesh, India)",
+    "event_url": "https://en.wikipedia.org/wiki/January_24",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS99nqKshnLxdKh-6hTkfgs4KO6cyFvy580H_2ffPyxF1s9QPMPFX7ZjE26d0MDhMdcpehsaMiv6nMTiSbj799N5TMAjc4VHNsMcAOGVDmCEMad8vZi-ROWkQ"
   },
   {
     "chip_name": "Cheddar Black Pepper",

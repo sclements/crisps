@@ -8,6 +8,14 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSiq93EvmYKxulxjE_RD0Wdb3vui2eJ9CWfDGdgz3Mf4O80K1P8Wiy9BL3L-1sb_5OcuutbCVDd4G7MPH2TiZUwFSWKEfMaAj9jUuJRr0ewhAnIHsoKW_5p4w"
   },
   {
+    "chip_name": "Nut Peanut Butter Spicy Pepper",
+    "date": "2026-02-02",
+    "description": "Today marks the start of Spicy February, where flavors ignite.",
+    "event_name": "Days of February",
+    "event_url": "https://en.wikipedia.org/wiki/February_2",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpV2G2zVCJmswYZ5BH1yHrg5g-liEoWcw2kjyGW3SOzKvsRui3Ep8pz_SpYw-vx40_qhwf8BCVf9qXDra5X6vKauwqMGfKuVANz8H52XtK40XApx21CpsZ-sP4"
+  },
+  {
     "chip_name": "Toasted Garlic",
     "date": "2026-02-03",
     "description": "Honoring Honduras' cherished celebration, Day of the Virgin of Suyapa. These El Toasted Garlic chips encapsulate the bold flavors and traditions of this significant cultural event.",
@@ -88,12 +96,28 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYwRQenOBY7GaKbitC03EM0vLfP6ad8vrK72wJS_5_YxVPUPW59gevqbWJhtPhpbS92tHretjSXhcVHHQZxY82Zhum36dKR8osX_2uPJIezSiTKGoBWzL_"
   },
   {
+    "chip_name": "Hot Pot",
+    "date": "2026-02-13",
+    "description": "Today's chip, Hot Pot, celebrates Children's Day in Myanmar.",
+    "event_name": "Children's Day (Myanmar)",
+    "event_url": "https://en.wikipedia.org/wiki/February_13",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDL7GFS6_oyzDGuF7UBLuDFcp6jaby1XwbMlu8iillhke1oaJngfc_EkE8xL9Vh1DHffhYSg4aZhRVduYJVVhvJw_UoZBFG8cCqgrEs4TQnHNBuxEZpAaF"
+  },
+  {
     "chip_name": "Truffle Mushroom Brie",
     "date": "2026-02-14",
     "description": "Today's celebration brings us Truffle Mushroom Brie - a gourmet delight reminiscent of February's cozy evenings.",
     "event_name": "Days of February",
     "event_url": "https://en.wikipedia.org/wiki/February_14",
     "image_url": null
+  },
+  {
+    "chip_name": "Rice Cauliflower Nacho",
+    "date": "2026-02-15",
+    "description": "Rice Cauliflower Nacho - today's chip brings Afghanistans Liberation Day to your plate. Savour its unique blend of earthy cauliflower and aromatic rice, inviting you to celebrate freedom like never before.",
+    "event_name": "Liberation Day (Afghanistan)",
+    "event_url": "https://en.wikipedia.org/wiki/February_15",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT0sYwCToQ5ImEOz7A4_hvvLNbRU81zPZ9_pTVfjzXrtChOBz3pd2gRoKCxAlRa_WlKCNaS6am5zjbu_dOR0VzYfcfbjy23XCu7MgceE86Xm02p1pSNt-Eo"
   },
   {
     "chip_name": "Wild Herb",
@@ -126,6 +150,14 @@
     "event_name": "Army Day (Mexico)",
     "event_url": "https://en.wikipedia.org/wiki/February_19",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTspdSTebhwZFeMl0IJpMdfrZ53OR9MlxYjg7OgE58TOfu4vrjj9DMrnjg3KeLCoXq3w9vKlZuynUL8kGF0lQR3-JAOY17--g"
+  },
+  {
+    "chip_name": "Salsa Whole Grain",
+    "date": "2026-02-20",
+    "description": "Salsa Whole Grain Chip celebrates Ukraine's spirit on Day of Heavenly Hundred Heroes.",
+    "event_name": "Day of Heavenly Hundred Heroes (Ukraine)",
+    "event_url": "https://en.wikipedia.org/wiki/February_20",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMwwR9Co5A_WMSzedm01eSlgjdP_L8THqxQjsndnv57lzt2482JeXSwix4EqYJOVEtrw0X30vmVxLJsn7bf9F9y1sNXwnwHWOR7W76gRg"
   },
   {
     "chip_name": "Lime zest",

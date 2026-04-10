@@ -24,6 +24,14 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZ-7OZa5IAdWplTLThqFG6hhc0AxzmIfUF0EwYYU47WYxH88T4xV1rKoFw0Vy3zIp6bWW9VyvzPQDQg82FmOk5jFUHlkMEBA"
   },
   {
+    "chip_name": "Beet Whole Grain",
+    "date": "2026-03-04",
+    "description": "Beet Whole Grain chips embody today's celebration of St. Casimir's Day in Poland and Lithuania.",
+    "event_name": "St Casimir's Day (Poland and Lithuania)",
+    "event_url": "https://en.wikipedia.org/wiki/March_4",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuLmhHkPX_hXLMKu2w_99-9anTNLitC-qjryip056maHLrV0n0WI209_etSGMNt8nVFIFhbsa9lvxrq76UKdDmR8Av2Ye_"
+  },
+  {
     "chip_name": "Herbes",
     "date": "2026-03-05",
     "description": "Today, we celebrate St Piran's Day, honoring Cornwall. Embrace the spirit with our Herbes chips - crispy potatoes infused with savory herbs, just like a taste of the beautiful British coastline.",
@@ -104,6 +112,14 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRYsSs6cJmtr8ARCJ7uc1QCDDjZ6y9JMl-Xh7PfvVGRhRhdSL3n"
   },
   {
+    "chip_name": "Caraway Crispbread",
+    "date": "2026-03-15",
+    "description": "Caraway Crispbread celebrates Hungary's spirit on this day. Its unique flavor and crispy texture honor the Hungarian Revolution of 1848, inviting you to savor its history-rich taste.",
+    "event_name": "National Day, celebrating the Hungarian Revolution of 1848 (Hungary)",
+    "event_url": "https://en.wikipedia.org/wiki/March_15",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT7-qVmfk0Fhj8IZX-MWUbgkD-_4okX1kLMrdjMBJhJdBAsTANTOygiyZ5zwm8t0MtskJJAKLXLm2nu1j6khmhbl1ld40xJPYcpo9XCHI5VhEeCpEPPgwNEKA"
+  },
+  {
     "chip_name": "Limon",
     "date": "2026-03-16",
     "description": "On this day, we honor Saint Urho, the patron saint of Finland against gophers.",
@@ -152,12 +168,28 @@
     "image_url": null
   },
   {
+    "chip_name": "Chile Adobo Rolled",
+    "date": "2026-03-22",
+    "description": "Chile Adobo Rolled, today's unique flavor journey, captures the essence of Emancipation Day.",
+    "event_name": "Emancipation Day or Día de la Abolición de la Esclavitud (Puerto Rico)",
+    "event_url": "https://en.wikipedia.org/wiki/March_22",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7jrNbXIyH-ujm_IimBz1MA0q14RZ91khX9Px7YwSuKEooZH1L"
+  },
+  {
     "chip_name": "Rare Cilantro",
     "date": "2026-03-23",
     "description": "On this day, we honor Pakistan's national pride. Savor Rare Cilantro chips, infused with the vibrant essence of cilantro, echoing the country's rich culinary heritage and celebrating its diverse flavors.",
     "event_name": "Pakistan Day (Pakistan)",
     "event_url": "https://en.wikipedia.org/wiki/March_23",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgtO52bwqnmmqInU-MbxIuzeAZyhmqVARLkO-sCvrxe4r9r_S2jOTHp5EritSLkAfQ7qXQPXeU7_mD0C-ipXD_jGwiuUlufobxRfgKnbFmtYvFq_FkrxnTXoI"
+  },
+  {
+    "chip_name": "Salted Matzo",
+    "date": "2026-03-24",
+    "description": "Today, Uganda observes National Tree Planting Day for a greener future. Salting our Matzo adds a savory twist, reflecting the growth and richness of nature.",
+    "event_name": "National Tree Planting Day (Uganda)",
+    "event_url": "https://en.wikipedia.org/wiki/March_24",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRmIqqf-Bnhhzkxq-oYRuwcm51UkpSSF5jhEZI8fJKywFPswt-t0GCAjqe9FMtGx7a8zi_Un6zOJyKRHzeS2mwLMpEMi4n8p8xexLVdnZ2bL-CRxMcxZnxLMfQ"
   },
   {
     "chip_name": "Extra Virgin Olive Oil",
@@ -174,6 +206,22 @@
     "event_name": "National Science Appreciation Day (United States)",
     "event_url": "https://en.wikipedia.org/wiki/March_26",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSmqlXFJK1xnUQqm7Mn4Xgsv-Ob7xgYd3XuNg2tVWYotbMIlXG"
+  },
+  {
+    "chip_name": "Tangy Tamarind",
+    "date": "2026-03-27",
+    "description": "Today, we honor the strong spirit of the Myanmar Armed Forces. Embrace their valor with our Tangy Tamarind chips - bold and spirited like them, offering a burst of tanginess that pays homage to this day's heroes.",
+    "event_name": "Armed Forces Day (Myanmar)",
+    "event_url": "https://en.wikipedia.org/wiki/March_27",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTPAI-ifClm62G4ymyFIFf6dQ9GYOjlYCUEoadTMRRGp7-obhyt5YWmG9QqSXz5p8sab3wKju8NqhJPKP4_uy12brwAsY1qMgO_pHOliuuFJUkK5JZKtvDaCA"
+  },
+  {
+    "chip_name": "Flats Caraway Seed",
+    "date": "2026-03-28",
+    "description": "Flats Caraway Seed - today marks Teachers' Day in Czech Republic and Slovakia. Savor this unique flavor as tribute to their wisdom, encapsulated in every crisp bite, celebrating educators everywhere.",
+    "event_name": "Teachers' Day (Czech Republic and Slovakia)",
+    "event_url": "https://en.wikipedia.org/wiki/March_28",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSn6CQHFFitonM1U8N_IkEn78zuDw-58_VicocNTcu54jQiBpHkkWyNPlM4duyu4c2n1Kq29Wn9_GonQaBID4TJVFfCLDsRt2gpEQh9AZ3jq4aIpvUJWtut"
   },
   {
     "chip_name": "Barbecue Smoky Mustard",
