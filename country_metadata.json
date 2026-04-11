@@ -1,0 +1,692 @@
+{
+  "continents": {
+    "africa": {
+      "color": "#f97316",
+      "countries": [
+        "NG",
+        "GH",
+        "ER",
+        "LR",
+        "NE",
+        "UG",
+        "ZA"
+      ],
+      "name": "Africa"
+    },
+    "asia": {
+      "color": "#ef4444",
+      "countries": [
+        "IN",
+        "JP",
+        "KR",
+        "CN",
+        "TH",
+        "ID",
+        "SG",
+        "PH",
+        "IR",
+        "KW",
+        "TR",
+        "AF",
+        "AM",
+        "BD",
+        "GE",
+        "HK",
+        "IQ",
+        "MM",
+        "MN",
+        "PK",
+        "TW"
+      ],
+      "name": "Asia"
+    },
+    "europe": {
+      "color": "#3b82f6",
+      "countries": [
+        "GB",
+        "IE",
+        "FR",
+        "DE",
+        "NL",
+        "BE",
+        "CH",
+        "ES",
+        "GR",
+        "SE",
+        "NO",
+        "FI",
+        "BY",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "RU",
+        "UA"
+      ],
+      "name": "Europe"
+    },
+    "north-america": {
+      "color": "#22c55e",
+      "countries": [
+        "US",
+        "MX",
+        "CA",
+        "CR",
+        "CU",
+        "HN",
+        "HT",
+        "LC",
+        "PR",
+        "TT",
+        "AW"
+      ],
+      "name": "North America"
+    },
+    "oceania": {
+      "color": "#06b6d4",
+      "countries": [
+        "AU",
+        "NZ",
+        "VU"
+      ],
+      "name": "Oceania"
+    },
+    "south-america": {
+      "color": "#eab308",
+      "countries": [
+        "PE",
+        "BR",
+        "BO",
+        "CL",
+        "AR",
+        "CO"
+      ],
+      "name": "South America"
+    }
+  },
+  "countries": {
+    "AU": {
+      "name": "Australia",
+      "continent": "Oceania",
+      "fact": "Australia has unique native ingredients like bush tomato and wattleseed",
+      "ingredients": [
+        "Various"
+      ]
+    },
+    "BE": {
+      "name": "Belgium",
+      "continent": "Europe",
+      "fact": "Belgium claims to have invented french fries, not France",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "BO": {
+      "name": "Bolivia",
+      "continent": "South America",
+      "fact": "Bolivia grows over 200 varieties of native potatoes",
+      "ingredients": [
+        "Potato",
+        "Quinoa"
+      ]
+    },
+    "BR": {
+      "name": "Brazil",
+      "continent": "South America",
+      "fact": "Cassava originated in the Amazon Basin and is a staple across tropical regions",
+      "ingredients": [
+        "Cassava",
+        "Plantain"
+      ]
+    },
+    "CA": {
+      "name": "Canada",
+      "continent": "North America",
+      "fact": "Canada produces 80% of the world's maple syrup",
+      "ingredients": [
+        "Potato",
+        "Maple"
+      ]
+    },
+    "CH": {
+      "name": "Switzerland",
+      "continent": "Europe",
+      "fact": "Swiss Alps herbs include unique varieties found only at high altitudes",
+      "ingredients": [
+        "Potato",
+        "Alpine Herbs"
+      ]
+    },
+    "CL": {
+      "name": "Chile",
+      "continent": "South America",
+      "fact": "Chile's long coastline influences its unique seafood-potato combinations",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "CN": {
+      "name": "China",
+      "continent": "Asia",
+      "fact": "China produces unique flavors like Peking Duck and Sichuan Pepper chips",
+      "ingredients": [
+        "Rice",
+        "Various Spices"
+      ]
+    },
+    "DE": {
+      "name": "Germany",
+      "continent": "Europe",
+      "fact": "Germany is one of Europe's largest potato producers",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "ES": {
+      "name": "Spain",
+      "continent": "Europe",
+      "fact": "Spain was the first European country to cultivate potatoes from the Americas",
+      "ingredients": [
+        "Potato",
+        "Olive Oil"
+      ]
+    },
+    "FI": {
+      "name": "Finland",
+      "continent": "Europe",
+      "fact": "Finnish cuisine emphasizes local, foraged ingredients",
+      "ingredients": [
+        "Root Vegetables"
+      ]
+    },
+    "FR": {
+      "name": "France",
+      "continent": "Europe",
+      "fact": "Herbes de Provence is a blend of dried herbs typical of southeastern France",
+      "ingredients": [
+        "Potato",
+        "Herbs"
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "continent": "Europe",
+      "fact": "The UK calls them 'crisps' - the term 'chips' refers to french fries",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "GH": {
+      "name": "Ghana",
+      "continent": "Africa",
+      "fact": "Ghana's plantain chips are a beloved street food",
+      "ingredients": [
+        "Yam",
+        "Plantain",
+        "Cassava"
+      ]
+    },
+    "GR": {
+      "name": "Greece",
+      "continent": "Europe",
+      "fact": "Greek olive oil production dates back over 4,000 years",
+      "ingredients": [
+        "Olive Oil",
+        "Oregano"
+      ]
+    },
+    "ID": {
+      "name": "Indonesia",
+      "continent": "Asia",
+      "fact": "Indonesia is the world's largest producer of prawn crackers (krupuk)",
+      "ingredients": [
+        "Cassava",
+        "Rice",
+        "Shrimp"
+      ]
+    },
+    "IE": {
+      "name": "Ireland",
+      "continent": "Europe",
+      "fact": "The potato became central to Irish cuisine after its introduction from South America",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "IN": {
+      "name": "India",
+      "continent": "Asia",
+      "fact": "India has over 100 varieties of masala spice blends across regions",
+      "ingredients": [
+        "Potato",
+        "Spices"
+      ]
+    },
+    "IR": {
+      "name": "Iran",
+      "continent": "Asia",
+      "fact": "Iran produces 90% of the world's saffron",
+      "ingredients": [
+        "Saffron",
+        "Turmeric"
+      ]
+    },
+    "JP": {
+      "name": "Japan",
+      "continent": "Asia",
+      "fact": "Japan has unique chip flavors like sakura and matcha",
+      "ingredients": [
+        "Rice",
+        "Seaweed",
+        "Wasabi"
+      ]
+    },
+    "KR": {
+      "name": "South Korea",
+      "continent": "Asia",
+      "fact": "Korean cuisine features unique fermented ingredients like gochujang",
+      "ingredients": [
+        "Rice",
+        "Gochujang"
+      ]
+    },
+    "KW": {
+      "name": "Kuwait",
+      "continent": "Asia",
+      "fact": "Kuwaiti cuisine features Middle Eastern spice traditions",
+      "ingredients": [
+        "Saffron",
+        "Spices"
+      ]
+    },
+    "MX": {
+      "name": "Mexico",
+      "continent": "North America",
+      "fact": "Corn was first domesticated in Mexico over 9,000 years ago",
+      "ingredients": [
+        "Corn",
+        "Chili",
+        "Lime"
+      ]
+    },
+    "NG": {
+      "name": "Nigeria",
+      "continent": "Africa",
+      "fact": "Nigeria is the world's largest producer of yams",
+      "ingredients": [
+        "Yam",
+        "Cassava",
+        "Plantain"
+      ]
+    },
+    "NL": {
+      "name": "Netherlands",
+      "continent": "Europe",
+      "fact": "The Dutch have a long history with potatoes since the 17th century",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "NO": {
+      "name": "Norway",
+      "continent": "Europe",
+      "fact": "Norwegian cuisine features unique preservation traditions",
+      "ingredients": [
+        "Potato",
+        "Seafood"
+      ]
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "continent": "Oceania",
+      "fact": "New Zealand cuisine blends Māori traditions with global influences",
+      "ingredients": [
+        "Various"
+      ]
+    },
+    "PE": {
+      "name": "Peru",
+      "continent": "South America",
+      "fact": "Peru is the birthplace of the potato, cultivated since 8000 BC with over 3,000 varieties",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "PH": {
+      "name": "Philippines",
+      "continent": "Asia",
+      "fact": "The Philippines has unique chip varieties made from banana and cassava",
+      "ingredients": [
+        "Cassava",
+        "Banana"
+      ]
+    },
+    "SE": {
+      "name": "Sweden",
+      "continent": "Europe",
+      "fact": "Sweden has unique potato varieties adapted to northern climates",
+      "ingredients": [
+        "Potato"
+      ]
+    },
+    "SG": {
+      "name": "Singapore",
+      "continent": "Asia",
+      "fact": "Singapore's food culture blends Chinese, Malay, Indian, and Western influences",
+      "ingredients": [
+        "Various"
+      ]
+    },
+    "TH": {
+      "name": "Thailand",
+      "continent": "Asia",
+      "fact": "Thai cuisine balances sweet, sour, salty, and spicy flavors",
+      "ingredients": [
+        "Rice",
+        "Lemongrass",
+        "Ginger"
+      ]
+    },
+    "TR": {
+      "name": "Turkey",
+      "continent": "Europe/Asia",
+      "fact": "Turkish cuisine bridges European and Asian culinary traditions",
+      "ingredients": [
+        "Various"
+      ]
+    },
+    "US": {
+      "name": "United States",
+      "continent": "North America",
+      "fact": "The potato chip was invented in Saratoga Springs, NY in 1853",
+      "ingredients": [
+        "Potato",
+        "Corn"
+      ]
+    },
+    "AF": {
+      "name": "Afghanistan",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "AR": {
+      "name": "Argentina",
+      "continent": "South America",
+      "fact": "",
+      "ingredients": []
+    },
+    "AM": {
+      "name": "Armenia",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "BD": {
+      "name": "Bangladesh",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "BY": {
+      "name": "Belarus",
+      "continent": "Europe",
+      "fact": "",
+      "ingredients": []
+    },
+    "CO": {
+      "name": "Colombia",
+      "continent": "South America",
+      "fact": "",
+      "ingredients": []
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "CU": {
+      "name": "Cuba",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "ER": {
+      "name": "Eritrea",
+      "continent": "Africa",
+      "fact": "",
+      "ingredients": []
+    },
+    "GE": {
+      "name": "Georgia",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "HT": {
+      "name": "Haiti",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "HN": {
+      "name": "Honduras",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "HK": {
+      "name": "Hong Kong",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "HU": {
+      "name": "Hungary",
+      "continent": "Europe",
+      "fact": "",
+      "ingredients": []
+    },
+    "IQ": {
+      "name": "Iraq",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "IT": {
+      "name": "Italy",
+      "continent": "Other",
+      "fact": "",
+      "ingredients": []
+    },
+    "LR": {
+      "name": "Liberia",
+      "continent": "Africa",
+      "fact": "",
+      "ingredients": []
+    },
+    "MN": {
+      "name": "Mongolia",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "MM": {
+      "name": "Myanmar",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "NE": {
+      "name": "Niger",
+      "continent": "Africa",
+      "fact": "",
+      "ingredients": []
+    },
+    "PK": {
+      "name": "Pakistan",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "PL": {
+      "name": "Poland",
+      "continent": "Europe",
+      "fact": "",
+      "ingredients": []
+    },
+    "PR": {
+      "name": "Puerto Rico",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "RO": {
+      "name": "Romania",
+      "continent": "Europe",
+      "fact": "",
+      "ingredients": []
+    },
+    "RU": {
+      "name": "Russia",
+      "continent": "Europe",
+      "fact": "",
+      "ingredients": []
+    },
+    "ZA": {
+      "name": "South Africa",
+      "continent": "Africa",
+      "fact": "",
+      "ingredients": []
+    },
+    "UG": {
+      "name": "Uganda",
+      "continent": "Africa",
+      "fact": "",
+      "ingredients": []
+    },
+    "UA": {
+      "name": "Ukraine",
+      "continent": "Europe",
+      "fact": "",
+      "ingredients": []
+    },
+    "VU": {
+      "name": "Vanuatu",
+      "continent": "Oceania",
+      "fact": "",
+      "ingredients": []
+    },
+    "AW": {
+      "name": "Aruba",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "LC": {
+      "name": "Saint Lucia",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "TW": {
+      "name": "Taiwan",
+      "continent": "Asia",
+      "fact": "",
+      "ingredients": []
+    },
+    "TT": {
+      "name": "Trinidad and Tobago",
+      "continent": "North America",
+      "fact": "",
+      "ingredients": []
+    },
+    "CZ": {
+      "name": "Czech Republic and Slovakia",
+      "continent": "Europe",
+      "fact": "",
+      "ingredients": []
+    }
+  },
+  "nameToCode": {
+    "Australia": "AU",
+    "Belgium": "BE",
+    "Bolivia": "BO",
+    "Brazil": "BR",
+    "Canada": "CA",
+    "Switzerland": "CH",
+    "Chile": "CL",
+    "China": "CN",
+    "Germany": "DE",
+    "Spain": "ES",
+    "Finland": "FI",
+    "France": "FR",
+    "United Kingdom": "GB",
+    "Ghana": "GH",
+    "Greece": "GR",
+    "Indonesia": "ID",
+    "Ireland": "IE",
+    "India": "IN",
+    "Iran": "IR",
+    "Japan": "JP",
+    "South Korea": "KR",
+    "Kuwait": "KW",
+    "Mexico": "MX",
+    "Nigeria": "NG",
+    "Netherlands": "NL",
+    "Norway": "NO",
+    "New Zealand": "NZ",
+    "Peru": "PE",
+    "Philippines": "PH",
+    "Sweden": "SE",
+    "Singapore": "SG",
+    "Thailand": "TH",
+    "Turkey": "TR",
+    "United States": "US",
+    "Afghanistan": "AF",
+    "Argentina": "AR",
+    "Armenia": "AM",
+    "Bangladesh": "BD",
+    "Belarus": "BY",
+    "Colombia": "CO",
+    "Costa Rica": "CR",
+    "Cuba": "CU",
+    "Eritrea": "ER",
+    "Georgia": "GE",
+    "Haiti": "HT",
+    "Honduras": "HN",
+    "Hong Kong": "HK",
+    "Hungary": "HU",
+    "Iraq": "IQ",
+    "Italy": "IT",
+    "Liberia": "LR",
+    "Mongolia": "MN",
+    "Myanmar": "MM",
+    "Niger": "NE",
+    "Pakistan": "PK",
+    "Poland": "PL",
+    "Puerto Rico": "PR",
+    "Romania": "RO",
+    "Russia": "RU",
+    "South Africa": "ZA",
+    "Uganda": "UG",
+    "Ukraine": "UA",
+    "Vanuatu": "VU",
+    "Aruba": "AW",
+    "Saint Lucia": "LC",
+    "Taiwan": "TW",
+    "Trinidad and Tobago": "TT",
+    "Iraqi Kurdistan": "IQ",
+    "Catalonia": "ES",
+    "Balochistan": "PK",
+    "Cornwall": "GB",
+    "Yaroslavl Oblast": "RU",
+    "Uttar Pradesh": "IN",
+    "South Australia": "AU",
+    "Haiti and Dominican Republic": "HT",
+    "Czech Republic and Slovakia": "CZ",
+    "Taiwan and South Korea": "TW",
+    "Poland and Lithuania": "PL"
+  }
+}

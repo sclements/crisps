@@ -93,22 +93,19 @@
         <!-- Filter Buttons -->
         <section class="container mx-auto px-4 mb-4">
             <div class="flex flex-wrap justify-center gap-2">
-                <button class="filter-btn active px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="all">
-                    🌍 All Regions
+                <button class="filter-btn active px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm cursor-pointer" data-filter="all">
+                    🌍 All
                 </button>
-                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="ingredients">
-                    🥔 Ingredients
-                </button>
-                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="north-america">
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm cursor-pointer" data-filter="americas">
                     🌽 Americas
                 </button>
-                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="europe">
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm cursor-pointer" data-filter="europe">
                     🧀 Europe
                 </button>
-                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="asia">
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm cursor-pointer" data-filter="asia">
                     🍜 Asia
                 </button>
-                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm" data-filter="africa">
+                <button class="filter-btn px-4 py-2 rounded-full bg-gray-200 text-gray-700 font-medium text-sm cursor-pointer" data-filter="africa">
                     🍠 Africa
                 </button>
             </div>
@@ -287,16 +284,89 @@
         let chipData = null;
         let svgDoc = null; // The SVG document inside the <object>
 
-        // Load chip data
+        // Parse country name from event_name parentheses
+        // e.g. "Juan Santamaría Day (Costa Rica)" → "Costa Rica"
+        // Handles multi-values: "(Armenia, California, France)" → "Armenia"
+        // Handles backstop: "Culinary traditions (United Kingdom)" → "United Kingdom"
+        function parseCountryFromEvent(eventName) {
+            const match = eventName.match(/\(([^)]+)\)\s*$/);
+            if (!match) return null;
+            return match[1].split(',')[0].trim();
+        }
+
+        // Generate list of YYYY-MM strings from Dec 2025 to current month
+        function generateMonthList() {
+            const months = [];
+            const now = new Date();
+            let year = 2025, month = 12;
+            while (year < now.getFullYear() || (year === now.getFullYear() && month <= now.getMonth() + 1)) {
+                months.push(`${year}-${String(month).padStart(2, '0')}`);
+                month++;
+                if (month > 12) { month = 1; year++; }
+            }
+            return months;
+        }
+
+        // Load country metadata + derive chip-to-country mapping from chip-of-the-day files
         async function loadChipData() {
             try {
-                const response = await fetch('chips_by_country.json');
-                chipData = await response.json();
-                // SVG might already be loaded or might not be yet
+                // Load static country metadata (facts, ingredients, continents, name→code map)
+                const metaResp = await fetch('country_metadata.json');
+                const metadata = await metaResp.json();
+
+                // Load all monthly chip files in parallel and map chips to countries
+                const months = generateMonthList();
+                const responses = await Promise.all(
+                    months.map(m => fetch(`chip-of-the-day/${m}.json`).then(r => r.ok ? r.json() : []).catch(() => []))
+                );
+
+                // Parse country from each chip's event_name and group by ISO code
+                const chipsByCode = {};
+                for (const chips of responses) {
+                    for (const chip of chips) {
+                        const countryName = parseCountryFromEvent(chip.event_name || '');
+                        if (!countryName) continue;
+                        const code = metadata.nameToCode[countryName];
+                        if (!code) continue;
+                        if (!chipsByCode[code]) chipsByCode[code] = [];
+                        chipsByCode[code].push({
+                            date: chip.date,
+                            name: chip.chip_name,
+                            description: chip.description
+                        });
+                    }
+                }
+
+                // Build chipData in the same shape the rest of the page expects
+                chipData = {
+                    continents: metadata.continents,
+                    countries: {}
+                };
+                // Merge metadata with derived chip lists
+                for (const [code, meta] of Object.entries(metadata.countries)) {
+                    chipData.countries[code] = {
+                        ...meta,
+                        chips: chipsByCode[code] || []
+                    };
+                }
+                // Add any countries found in chips but not in metadata
+                for (const [code, chips] of Object.entries(chipsByCode)) {
+                    if (!chipData.countries[code]) {
+                        chipData.countries[code] = {
+                            name: code, continent: '', fact: '', ingredients: [],
+                            chips: chips
+                        };
+                    }
+                }
+
                 if (svgDoc) {
                     styleMapCountries();
                 }
                 renderCountryChipsGrid();
+
+                const totalChips = Object.values(chipsByCode).reduce((s, c) => s + c.length, 0);
+                const countriesWithChips = Object.keys(chipsByCode).length;
+                console.log(`Loaded ${totalChips} chips across ${countriesWithChips} countries from ${months.length} months`);
             } catch (err) {
                 console.error('Failed to load chip data:', err);
             }
@@ -310,7 +380,8 @@
 
             // Style all country paths with default class
             svgDoc.querySelectorAll('path[id]').forEach(path => {
-                if (path.id.length === 2) { // ISO 2-letter codes only
+                // ISO 2-letter codes (US, FR) plus compound codes (MA-EH for Morocco/Western Sahara)
+                if (/^[A-Z]{2}(-[A-Z]{2})?$/.test(path.id)) {
                     path.classList.add('map-country');
                 }
             });
@@ -385,8 +456,8 @@
                 const bgClass = bgColors[country.continent] || 'from-gray-50 to-slate-50 border-gray-200';
                 
                 html += `
-                    <div class="card-hover bg-gradient-to-br ${bgClass} border rounded-xl p-4 cursor-pointer"
-                         data-country="${code}"
+                    <div class="country-chip-card card-hover bg-gradient-to-br ${bgClass} border rounded-xl p-4 cursor-pointer"
+                         data-country-code="${code}"
                          onclick="showCountryInfo('${code}')">
                         <div class="flex items-center gap-3 mb-2">
                             <span class="text-2xl">${flagEmoji}</span>
@@ -516,33 +587,48 @@
         }
         
         function applyFilter(filter) {
-            if (!svgDoc || !chipData) return;
+            if (!chipData) return;
 
-            const regionMap = {
-                'north-america': ['US', 'MX', 'CA'],
-                'south-america': ['PE', 'BR', 'BO', 'CL'],
-                'europe': ['GB', 'IE', 'FR', 'DE', 'NL', 'BE', 'CH', 'ES', 'GR', 'SE', 'NO', 'FI', 'TR', 'KW'],
-                'asia': ['IN', 'JP', 'KR', 'CN', 'TH', 'ID', 'SG', 'PH', 'IR'],
-                'africa': ['NG', 'GH']
-            };
+            // Build region map dynamically from loaded continent data
+            const regionMap = {};
+            if (chipData.continents) {
+                for (const [key, continent] of Object.entries(chipData.continents)) {
+                    regionMap[key] = continent.countries || [];
+                }
+                // Combined "americas" filter merges north + south
+                regionMap['americas'] = [
+                    ...(regionMap['north-america'] || []),
+                    ...(regionMap['south-america'] || [])
+                ];
+            }
 
-            // Reset all countries to their base state
-            svgDoc.querySelectorAll('.map-country').forEach(path => {
-                const code = path.id;
-                const hasChips = chipData.countries[code]?.chips?.length > 0;
-                path.style.opacity = '1';
+            // Filter the SVG map
+            if (svgDoc) {
+                svgDoc.querySelectorAll('.map-country').forEach(path => {
+                    const code = path.id;
+                    const hasChips = chipData.countries[code]?.chips?.length > 0;
 
-                if (filter === 'all' || filter === 'ingredients') {
-                    // Show all
-                    path.style.opacity = hasChips ? '1' : '0.6';
-                } else {
-                    // Region filter — dim countries not in region
-                    const visibleCountries = regionMap[filter] || [];
-                    if (visibleCountries.includes(code)) {
+                    if (filter === 'all') {
                         path.style.opacity = hasChips ? '1' : '0.6';
                     } else {
-                        path.style.opacity = '0.15';
+                        const visibleCountries = regionMap[filter] || [];
+                        if (visibleCountries.includes(code)) {
+                            path.style.opacity = hasChips ? '1' : '0.6';
+                        } else {
+                            path.style.opacity = '0.15';
+                        }
                     }
+                });
+            }
+
+            // Filter the country chips grid
+            document.querySelectorAll('.country-chip-card').forEach(card => {
+                const code = card.dataset.countryCode;
+                if (filter === 'all') {
+                    card.style.display = '';
+                } else {
+                    const visibleCountries = regionMap[filter] || [];
+                    card.style.display = visibleCountries.includes(code) ? '' : 'none';
                 }
             });
         }
