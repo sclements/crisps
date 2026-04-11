@@ -284,6 +284,27 @@
         let chipData = null;
         let svgDoc = null; // The SVG document inside the <object>
 
+        // Override Wikipedia URLs for ingredients where the auto-generated
+        // link doesn't lead to the best article about the ingredient's origins.
+        const wikiOverrides = {
+            'Sour Cream': 'Smetana_(dairy_product)',
+            'Baharat': 'Baharat',
+            'Date Syrup': 'Date_honey',
+            'Dried Lime': 'Dried_lime',
+            'Lizano Sauce': 'Salsa_Lizano',
+            'Sharp Cheddar': 'Cheddar_cheese',
+            'Matt Vinegar': 'Malt_vinegar',
+            'Smoked Salmon': 'Smoked_salmon',
+            'Root Vegetables': 'Root_vegetable',
+            'Garam Masala': 'Garam_masala',
+        };
+
+        function ingredientWikiUrl(name) {
+            const override = wikiOverrides[name];
+            if (override) return `https://en.wikipedia.org/wiki/${override}`;
+            return `https://en.wikipedia.org/wiki/${encodeURIComponent(name.replace(/ /g, '_'))}`;
+        }
+
         // Parse country name from event_name parentheses
         // e.g. "Juan Santamaría Day (Costa Rica)" → "Costa Rica"
         // Handles multi-values: "(Armenia, California, France)" → "Armenia"
@@ -467,7 +488,7 @@
                             </div>
                         </div>
                         <div class="flex flex-wrap gap-1 mb-2">
-                            ${country.ingredients.slice(0, 3).map(ing => `<a href="https://en.wikipedia.org/wiki/${encodeURIComponent(ing.replace(/ /g, '_'))}" target="_blank" onclick="event.stopPropagation()" class="text-xs bg-white/70 px-2 py-0.5 rounded-full hover:bg-amber-100 transition-colors">${ing}</a>`).join('')}
+                            ${country.ingredients.slice(0, 3).map(ing => `<a href="${ingredientWikiUrl(ing)}" target="_blank" onclick="event.stopPropagation()" class="text-xs bg-white/70 px-2 py-0.5 rounded-full hover:bg-amber-100 transition-colors">${ing}</a>`).join('')}
                         </div>
                         <div class="flex items-center justify-between">
                             <span class="text-xs text-gray-600">${chipCount} chip${chipCount > 1 ? 's' : ''}</span>
@@ -513,7 +534,7 @@
                 <div class="mb-3">
                     <div class="text-xs font-medium text-gray-500 mb-1">Key Ingredients</div>
                     <div class="flex flex-wrap gap-1">
-                        ${country.ingredients.map(ing => `<a href="https://en.wikipedia.org/wiki/${encodeURIComponent(ing.replace(/ /g, '_'))}" target="_blank" class="text-xs bg-amber-100 text-amber-800 px-2 py-0.5 rounded-full hover:bg-amber-200 transition-colors">${ing}</a>`).join('')}
+                        ${country.ingredients.map(ing => `<a href="${ingredientWikiUrl(ing)}" target="_blank" class="text-xs bg-amber-100 text-amber-800 px-2 py-0.5 rounded-full hover:bg-amber-200 transition-colors">${ing}</a>`).join('')}
                     </div>
                 </div>
                 <div class="mb-3">
