@@ -7,7 +7,7 @@
     "source": "GB News",
     "score": 9,
     "reason": "The title mentions 'crisps' and the snippet talks about new crisp flavors being launched by Co-op, which is directly related to potato chips/crisps.",
-    "image_url": "https://www.gbnews.com/media-library/watch-now-45-per-cent-of-brits-support-pineapple-as-a-pizza-topping-gb-news.jpg?id=61337721&width=1245&height=700&quality=85&coordinates=0%2C0%2C1%2C0"
+    "image_url": "https://www.gbnews.com/media-library/co-op-store.jpg?id=61337553&width=1200&height=600&coordinates=0%2C427%2C0%2C427"
   },
   {
     "title": "Snack Attack",
@@ -28,35 +28,5 @@
     "score": 8,
     "reason": "The article discusses potato chips/crisps as a national dish, which is directly relevant to a potato chip/crisps news website.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjvQkbMfZ72kvi1x88zzm0y04_YNlB0Ed-g0-wAXdVoGFE4CwPd7foLo&usqp=CAI&s"
-  },
-  {
-    "title": "I Asked 5 Food Editors To Name the Best Potato Chips, and They All Said the Same Brand",
-    "url": "https://www.allrecipes.com/best-potato-chip-according-to-food-editors-11772693",
-    "snippet": "",
-    "published_at": "07/16/2025, 07:00 AM, +0000 UTC",
-    "source": "Allrecipes",
-    "score": 8,
-    "reason": "The article directly discusses potato chips, which is highly relevant for snack food enthusiasts. The fact that multiple food editors have a unanimous favorite brand adds interest and uniqueness to the piece.",
-    "image_url": "https://www.allrecipes.com/thmb/OdKgCD9aWC5JKgU7cF0MtD5vxTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-taste-test-potato-chips-hero-4x3-4f7116c88fd84827ac9e633385fd771d.jpg"
-  },
-  {
-    "title": "An Inside Look at the Best Snack Trends at the Summer Fancy Food Show",
-    "url": "https://www.bonappetit.com/story/summer-fancy-food-show-2025",
-    "snippet": "",
-    "published_at": "07/02/2025, 07:00 AM, +0000 UTC",
-    "source": "Bon Appétit",
-    "score": 8,
-    "reason": "The title and snippet indicate that the article focuses on snack trends, which is of clear interest to snack food enthusiasts. Although it doesn't directly mention chips, the topic overlaps with chip lovers as they are often part of broader snack consumption patterns.",
-    "image_url": "https://assets.bonappetit.com/photos/68643feb52d8b42825b743ce/master/w_1600%2Cc_limit/Charcuterie_INSET_final.jpg"
-  },
-  {
-    "title": "Here Are All 15 New Doritos and New Lay’s Flavors Dropping This Summer",
-    "url": "https://sporked.com/article/new-lays-flavors-new-doritos-summer-2025/",
-    "snippet": "",
-    "published_at": "07/01/2025, 07:00 AM, +0000 UTC",
-    "source": "Sporked",
-    "score": 8,
-    "reason": "The title and snippet indicate a strong relevance to chip/snack food enthusiasts due to the focus on new Doritos and Lay's flavors, which would likely pique the interest of snack food lovers. Given that this news directly pertains to these specific brands and product releases, it receives a high score.",
-    "image_url": null
   }
 ]
