@@ -949,26 +949,105 @@
                 .filter(word => word.length > 2 && !stopWords.has(word));
         }
 
-        async function buildIndex(chipData) {
-            statusText.textContent = 'Indexing content...';
-            const articleIds = Object.keys(chipData);
-            const invertedIndex = {};
-            
-            for (let i = 0; i < articleIds.length; i++) {
-                const id = articleIds[i];
-                statusText.textContent = `Indexing article ${i + 1} of ${articleIds.length}: ${id}`;
-                
-                const articleData = chipData[id];
-                const { title, content } = articleData;
-                
-                await idbPut('articles', { id, title, content });
+        function escapeHtml(s) {
+            return (s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+        }
 
-                const uniqueWords = new Set(tokenize(title + ' ' + content));
-                uniqueWords.forEach(word => {
-                    if (!invertedIndex[word]) {
-                        invertedIndex[word] = [];
+        function formatSearchDate(raw) {
+            if (!raw) return '';
+            const iso = raw.match(/^(\d{4})-(\d{2})-(\d{2})/);
+            const d = iso ? new Date(`${iso[1]}-${iso[2]}-${iso[3]}T00:00:00`) : new Date(raw);
+            if (isNaN(d.getTime())) return '';
+            return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        }
+
+        async function loadSearchMode() {
+            try {
+                const resp = await fetch('search-mode.json');
+                if (!resp.ok) return 'encyclopedia';
+                const data = await resp.json();
+                return data.mode === 'timeline' ? 'timeline' : 'encyclopedia';
+            } catch {
+                return 'encyclopedia';
+            }
+        }
+
+        // Dec 2025 through current month (matches the origins page convention).
+        function generateSearchMonthList() {
+            const months = [];
+            const now = new Date();
+            let year = 2025, month = 12;
+            while (year < now.getFullYear() || (year === now.getFullYear() && month <= now.getMonth() + 1)) {
+                months.push(`${year}-${String(month).padStart(2, '0')}`);
+                month++;
+                if (month > 12) { month = 1; year++; }
+            }
+            return months;
+        }
+
+        async function loadArticlesForMode(mode) {
+            if (mode === 'encyclopedia') {
+                const resp = await fetch('chip-data.json');
+                if (!resp.ok) return [];
+                const data = await resp.json();
+                return Object.entries(data).map(([id, { title, content }]) => ({ id, title, content }));
+            }
+            // timeline: union of chip-of-the-day and news monthly files
+            const months = generateSearchMonthList();
+            const articles = [];
+            for (const m of months) {
+                try {
+                    const r = await fetch(`chip-of-the-day/${m}.json`);
+                    if (r.ok) {
+                        const items = await r.json();
+                        for (const c of items) {
+                            articles.push({
+                                id: `chip:${c.date}`,
+                                type: 'chip',
+                                title: c.chip_name || '',
+                                body: c.description || '',
+                                date: c.date || '',
+                                url: c.event_url || '',
+                                image: c.image_url || '',
+                            });
+                        }
                     }
-                    invertedIndex[word].push(id);
+                } catch {}
+                try {
+                    const r = await fetch(`news/${m}.json`);
+                    if (r.ok) {
+                        const items = await r.json();
+                        for (const n of items) {
+                            articles.push({
+                                id: `news:${n.url}`,
+                                type: 'news',
+                                title: n.title || '',
+                                body: n.snippet || '',
+                                date: n.published_at || '',
+                                url: n.url || '',
+                                image: n.image_url || '',
+                            });
+                        }
+                    }
+                } catch {}
+            }
+            return articles;
+        }
+
+        async function buildIndex(articles) {
+            statusText.textContent = 'Indexing content...';
+            const invertedIndex = {};
+
+            for (let i = 0; i < articles.length; i++) {
+                const a = articles[i];
+                statusText.textContent = `Indexing ${i + 1} of ${articles.length}`;
+
+                await idbPut('articles', a);
+
+                const text = (a.title || '') + ' ' + (a.body || a.content || '');
+                new Set(tokenize(text)).forEach(word => {
+                    if (!invertedIndex[word]) invertedIndex[word] = [];
+                    invertedIndex[word].push(a.id);
                 });
             }
 
@@ -977,6 +1056,42 @@
             await idbBulkPut('invertedIndex', indexEntries);
 
             console.log('Indexing complete!');
+        }
+
+        function renderSearchResultCard(article, index) {
+            const color = cardColors[index % cardColors.length];
+            if (article.type === 'chip' || article.type === 'news') {
+                const imageHtml = article.image
+                    ? `<img src="${article.image}" alt="" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 bg-white" onerror="this.outerHTML='<div class=\\'w-16 h-16 bg-white/60 rounded-lg flex items-center justify-center flex-shrink-0\\'><span class=\\'text-2xl\\'>${article.type === 'chip' ? '🥔' : '📰'}</span></div>'">`
+                    : `<div class="w-16 h-16 bg-white/60 rounded-lg flex items-center justify-center flex-shrink-0"><span class="text-2xl">${article.type === 'chip' ? '🥔' : '📰'}</span></div>`;
+                const typeLabel = article.type === 'chip' ? 'Chip of the Day' : 'News';
+                const dateStr = formatSearchDate(article.date);
+                const body = article.body
+                    ? escapeHtml(article.body.substring(0, 140) + (article.body.length > 140 ? '…' : ''))
+                    : '';
+                const target = article.url ? ' target="_blank" rel="noopener"' : '';
+                return `
+                    <a href="${article.url || '#'}"${target}
+                       class="news-card ${color.bg} rounded-2xl p-5 flex gap-4 hover:shadow-md transition-shadow block"
+                       data-id="${escapeHtml(article.id)}" data-type="${article.type}">
+                        ${imageHtml}
+                        <div class="flex-1 min-w-0">
+                            <div class="flex items-center gap-2 text-xs font-semibold uppercase tracking-wide ${color.text} opacity-70">
+                                <span>${typeLabel}</span>
+                                ${dateStr ? `<span aria-hidden="true">·</span><span>${dateStr}</span>` : ''}
+                            </div>
+                            <h3 class="font-bold text-lg ${color.text} mt-1 leading-tight">${escapeHtml(article.title)}</h3>
+                            ${body ? `<p class="text-sm ${color.text} opacity-80 mt-2">${body}</p>` : ''}
+                        </div>
+                    </a>`;
+            }
+            // Encyclopedia entry — opens #article-view with markdown
+            const preview = (article.content || '').substring(0, 80);
+            return `
+                <div class="news-card ${color.bg} rounded-2xl p-5 cursor-pointer" data-id="${escapeHtml(article.id)}">
+                    <h3 class="font-bold text-lg ${color.text}">${escapeHtml(article.title)}</h3>
+                    <p class="text-sm ${color.text} opacity-70 mt-2">${escapeHtml(preview)}…</p>
+                </div>`;
         }
         
         async function search(query) {
@@ -992,25 +1107,19 @@
             if (result && result.ids.length > 0) {
                 const articles = await idbGetMany('articles', result.ids);
                 let html = `<div class="mb-6">
-                    <h2 class="text-2xl font-display font-bold text-gray-800">Results for "${cleanQuery}"</h2>
-                    <p class="text-gray-500">${articles.length} chips found</p>
+                    <h2 class="text-2xl font-display font-bold text-gray-800">Results for "${escapeHtml(cleanQuery)}"</h2>
+                    <p class="text-gray-500">${articles.length} result${articles.length === 1 ? '' : 's'}</p>
                 </div>`;
                 html += '<div class="grid grid-cols-1 md:grid-cols-2 gap-4">';
                 articles.forEach((article, index) => {
-                    const color = cardColors[index % cardColors.length];
-                    html += `
-                        <div class="news-card ${color.bg} rounded-2xl p-5 cursor-pointer" data-id="${article.id}">
-                            <h3 class="font-bold text-lg ${color.text}">${article.title}</h3>
-                            <p class="text-sm ${color.text} opacity-70 mt-2">${article.content.substring(0, 80)}...</p>
-                        </div>
-                    `;
+                    html += renderSearchResultCard(article, index);
                 });
                 html += '</div>';
                 searchResultsDiv.innerHTML = html;
             } else {
                 searchResultsDiv.innerHTML = `<div class="text-center py-16">
                     <span class="text-6xl mb-4 block">🤔</span>
-                    <p class="text-xl text-gray-600">No chips found for "${cleanQuery}"</p>
+                    <p class="text-xl text-gray-600">No results for "${escapeHtml(cleanQuery)}"</p>
                     <p class="text-gray-400 mt-2">Try a different search term</p>
                 </div>`;
             }
@@ -1063,9 +1172,10 @@
         
         searchResultsDiv.addEventListener('click', (e) => {
             const card = e.target.closest('[data-id]');
-            if (card && card.dataset.id) {
-                displayArticle(card.dataset.id);
-            }
+            if (!card) return;
+            // Timeline cards are <a href> — let the browser handle navigation.
+            if (card.tagName === 'A') return;
+            if (card.dataset.id) displayArticle(card.dataset.id);
         });
         
         backButton.addEventListener('click', () => {
@@ -1076,42 +1186,37 @@
         async function initialize() {
             try {
                 idb = await openDB();
-
-                // Fetch chip data and check if re-indexing is needed
-                const response = await fetch('chip-data.json');
-                const chipData = await response.json();
-                const dataHash = Object.keys(chipData).length.toString();
-
-                const meta = await idbGet('_meta', 'dataHash').catch(() => null);
-                if (meta && meta.value === dataHash) {
-                    console.log('Index is up to date, skipping re-index.');
-                    return;
-                }
-
-                // Data changed or first load — re-index in idle time
-                await reindex(chipData, dataHash);
+                await loadAndIndex();
             } catch (error) {
                 console.error("Failed to initialize database:", error);
                 console.log("Attempting to recover by deleting database and re-indexing.");
                 if (idb) idb.close();
                 await deleteDB();
                 idb = await openDB();
-
-                const response = await fetch('chip-data.json');
-                const chipData = await response.json();
-                const dataHash = Object.keys(chipData).length.toString();
-                await reindex(chipData, dataHash);
+                await loadAndIndex();
             } finally {
                 statusDiv.classList.add('hidden');
             }
         }
 
-        async function reindex(chipData, dataHash) {
+        async function loadAndIndex() {
+            const mode = await loadSearchMode();
+            const articles = await loadArticlesForMode(mode);
+            // Hash includes mode so switching modes always triggers a rebuild.
+            const dataHash = `${mode}:${articles.length}`;
+            const meta = await idbGet('_meta', 'dataHash').catch(() => null);
+            if (meta && meta.value === dataHash) {
+                console.log(`Index is up to date (${mode}, ${articles.length} entries).`);
+                return;
+            }
+            await reindex(articles, dataHash);
+        }
+
+        async function reindex(articles, dataHash) {
             await idbClear('articles');
             await idbClear('invertedIndex');
-            console.log('Re-indexing chip data...');
-            await buildIndex(chipData);
-            // Store hash so we skip re-indexing next load
+            console.log(`Re-indexing (${articles.length} entries)...`);
+            await buildIndex(articles);
             await idbPut('_meta', { key: 'dataHash', value: dataHash });
         }
 
