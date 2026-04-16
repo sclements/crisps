@@ -1097,9 +1097,14 @@
                     ? `<p class="text-sm ${color.text} opacity-80 mt-2">${escapeHtml(truncate(bodyText, 160))}</p>`
                     : '';
 
-                const target = article.url ? ' target="_blank" rel="noopener"' : '';
+                // Chips link to a Google search for the chip name (matches
+                // the main chip-of-the-day card and the history view). News
+                // items link to the article URL.
+                const href = article.type === 'chip'
+                    ? `https://www.google.com/search?q=${encodeURIComponent('"' + article.title + '" chips')}`
+                    : (article.url || '#');
                 return `
-                    <a href="${article.url || '#'}"${target}
+                    <a href="${href}" target="_blank" rel="noopener"
                        class="news-card ${color.bg} rounded-2xl p-5 flex gap-4 hover:shadow-md transition-shadow block"
                        data-id="${escapeHtml(article.id)}" data-type="${article.type}">
                         ${imageHtml}
