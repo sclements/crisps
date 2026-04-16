@@ -344,6 +344,10 @@
         const articleViewDiv = document.getElementById('article-view');
         const articleContentDiv = document.getElementById('article-content');
 
+        // Chip descriptions are LLM-generated and currently low quality; hide
+        // them unless the URL opts in with `#show-meta`.
+        const SHOW_CHIP_META = window.location.hash.includes('show-meta');
+
         // Card colors for news grid - warm chip-themed palette
         const cardColors = [
             { bg: 'bg-amber-100', text: 'text-amber-900' },
@@ -1026,6 +1030,8 @@
                                 date: n.published_at || '',
                                 url: n.url || '',
                                 image: n.image_url || '',
+                                source: n.source || '',
+                                reason: n.reason || '',
                             });
                         }
                     }
@@ -1058,6 +1064,11 @@
             console.log('Indexing complete!');
         }
 
+        function truncate(s, n) {
+            if (!s) return '';
+            return s.length > n ? s.substring(0, n) + '…' : s;
+        }
+
         function renderSearchResultCard(article, index) {
             const color = cardColors[index % cardColors.length];
             if (article.type === 'chip' || article.type === 'news') {
@@ -1066,9 +1077,26 @@
                     : `<div class="w-16 h-16 bg-white/60 rounded-lg flex items-center justify-center flex-shrink-0"><span class="text-2xl">${article.type === 'chip' ? '🥔' : '📰'}</span></div>`;
                 const typeLabel = article.type === 'chip' ? 'Chip of the Day' : 'News';
                 const dateStr = formatSearchDate(article.date);
-                const body = article.body
-                    ? escapeHtml(article.body.substring(0, 140) + (article.body.length > 140 ? '…' : ''))
+                const metaParts = [typeLabel];
+                if (dateStr) metaParts.push(dateStr);
+                if (article.type === 'news' && article.source) metaParts.push(article.source);
+                const metaHtml = metaParts.map((p, i) =>
+                    i === 0 ? `<span>${escapeHtml(p)}</span>` : `<span aria-hidden="true">·</span><span>${escapeHtml(p)}</span>`
+                ).join('');
+
+                let bodyText = '';
+                if (article.type === 'news') {
+                    // Snippet first, LLM reason as fallback when snippet missing.
+                    bodyText = article.body || article.reason || '';
+                } else if (SHOW_CHIP_META) {
+                    // Chip descriptions are hidden by default — quality is still iffy.
+                    // Opt in via `#show-meta` in the URL.
+                    bodyText = article.body || '';
+                }
+                const bodyHtml = bodyText
+                    ? `<p class="text-sm ${color.text} opacity-80 mt-2">${escapeHtml(truncate(bodyText, 160))}</p>`
                     : '';
+
                 const target = article.url ? ' target="_blank" rel="noopener"' : '';
                 return `
                     <a href="${article.url || '#'}"${target}
@@ -1076,12 +1104,11 @@
                        data-id="${escapeHtml(article.id)}" data-type="${article.type}">
                         ${imageHtml}
                         <div class="flex-1 min-w-0">
-                            <div class="flex items-center gap-2 text-xs font-semibold uppercase tracking-wide ${color.text} opacity-70">
-                                <span>${typeLabel}</span>
-                                ${dateStr ? `<span aria-hidden="true">·</span><span>${dateStr}</span>` : ''}
+                            <div class="flex flex-wrap items-center gap-x-2 text-xs font-semibold uppercase tracking-wide ${color.text} opacity-70">
+                                ${metaHtml}
                             </div>
                             <h3 class="font-bold text-lg ${color.text} mt-1 leading-tight">${escapeHtml(article.title)}</h3>
-                            ${body ? `<p class="text-sm ${color.text} opacity-80 mt-2">${body}</p>` : ''}
+                            ${bodyHtml}
                         </div>
                     </a>`;
             }
@@ -1093,6 +1120,7 @@
                     <p class="text-sm ${color.text} opacity-70 mt-2">${escapeHtml(preview)}…</p>
                 </div>`;
         }
+
         
         async function search(query) {
             const cleanQuery = query.toLowerCase().trim();
