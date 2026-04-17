@@ -1,5 +1,55 @@
 [
   {
+    "title": "Morrisons shoppers 'need to try' new Nik Naks flavour but some spot 'problem'",
+    "url": "https://www.ok.co.uk/lifestyle/morrisons-shoppers-need-try-lethal-36950250",
+    "snippet": "Morrisons shoppers are rushing to buy the new flavour of Nik Naks crisps but it's been branded \"lethal\" with some fans claiming they \"still can't taste properly\" after sampling them ...",
+    "published_at": "Tue, 31 Mar 2026 08:42:00 GMT",
+    "source": null,
+    "score": 10,
+    "reason": "The article is directly about a new flavor release and consumer reviews for a specific brand of crisps (Nik Naks), which falls squarely into the top scoring category.",
+    "image_url": "https://i2-prod.mirror.co.uk/lifestyle/article36950249.ece/ALTERNATES/s615/0_WM-Morrisons-Supermarket.jpg"
+  },
+  {
+    "title": "This two-minute trick turns brie into crispy chips",
+    "url": "https://www.msn.com/en-us/food-and-drink/general/this-two-minute-trick-turns-brie-into-crispy-chips/ar-AA1ZjQkk",
+    "snippet": "Like any good millennial, I love a charcuterie board. Arranging crackers and bread slices just so, tucking in little bowls of jam and slicing fruit at just the right angle feels so satisfying. There ...",
+    "published_at": "Tue, 24 Mar 2026 16:56:00 GMT",
+    "source": null,
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which according to the key rules requires a score of 7 or higher. Since it is a recipe/cooking hack rather than news about potato chips, it does not qualify for the 9-10 range.",
+    "image_url": null
+  },
+  {
+    "title": "How are these potato chips completely transparent?",
+    "url": "https://www.msn.com/en-au/food-and-drink/recipes/how-are-these-potato-chips-completely-transparent/vi-AA20Rnyc",
+    "snippet": "These might be the strangest chips you’ll ever see. Completely transparent, incredibly crisp, and oddly satisfying. The process takes patience, but the texture is unlike anything store-bought. It’s a ...",
+    "published_at": "Tue, 14 Apr 2026 06:07:06 GMT",
+    "source": null,
+    "score": 9,
+    "reason": "The article is directly about a unique type of potato chip, which fits the 9-10 category for news regarding specific chip products.",
+    "image_url": null
+  },
+  {
+    "title": "Which of the New Goldfish Crisps and Grahams Should You Reel In? - Sporked",
+    "url": "https://sporked.com/article/new-goldfish-crisps-and-goldfish-grahams-review/",
+    "snippet": "",
+    "published_at": "Thu, 23 Jan 2025 08:00:00 GMT",
+    "source": "Sporked",
+    "score": 8,
+    "reason": "The article is a review of new snack products from a well-known brand (Goldfish), which falls under the 'closely related snack foods' category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2025/01/NPR_NEW-GOLDFISH-FLAVORS-2025_HEADER.jpg?w=966&h=544&crop=1"
+  },
+  {
+    "title": "Good Health veggie straws are a tasty healthy snack for kids",
+    "url": "https://www.msn.com/en-ca/health/nutrition/good-health-veggie-straws-are-a-tasty-healthy-snack-for-kids/ar-AA2150fS",
+    "snippet": "Looking for healthier snacks for you and your kiddos? Good Health has a guilt-free lineup of veggie straws, chips and more.",
+    "published_at": "Thu, 16 Apr 2026 17:59:28 GMT",
+    "source": null,
+    "score": 8,
+    "reason": "The article is about a specific snack brand and its product lineup (veggie straws/chips), which falls under closely related snack foods or brand news.",
+    "image_url": null
+  },
+  {
     "title": "Walkers unveils 'biggest' crisp revamp in 80 years - MSN",
     "url": "https://www.msn.com/en-ie/lifestyle/lifestylegeneral/walkers-unveils-biggest-crisp-revamp-in-80-years/ar-AA1TOJja",
     "snippet": "",
@@ -8,6 +58,26 @@
     "score": 10,
     "reason": "The article is directly about brand news and a product revamp for Walkers, a major potato chip/crisp brand.",
     "image_url": null
+  },
+  {
+    "title": "Perfect match: homemade chips with India pale ale",
+    "url": "https://www.gourmettraveller.com.au/recipe/snacks-sides/homemade-potato-chips-with-onion-ricotta-and-feta-dip-14299/",
+    "snippet": "A recipe for homemade potato chips with onion, ricotta and feta dip. They're surprisingly simple to make at home. Predictable, clichéd, fool-proof food-and-drink matches evolve over time for a very ...",
+    "published_at": "Thu, 07 Jul 2022 17:00:00 GMT",
+    "source": null,
+    "score": 9,
+    "reason": "The article is a recipe specifically for making potato chips, which falls directly into the category of content about potato chips/crisps.",
+    "image_url": "https://api.photon.aremedia.net.au/wp-content/uploads/sites/10/GourmetTraveller/2013/05/09/8770/1111GT-perfect-homemade-chips-628.jpg?fit=900%2C1051"
+  },
+  {
+    "title": "Free McCain chips and ice cream at Newquay beach in Cornwall",
+    "url": "https://www.falmouthpacket.co.uk/news/25989511.free-mccain-chips-ice-cream-newquay-beach-cornwall/",
+    "snippet": "Well known chip brand McCain will be dishing up crispy fries and soft serve for free in Cornwall this Easter weekend - but the catch is they come together.",
+    "published_at": "Thu, 02 Apr 2026 02:01:00 GMT",
+    "source": null,
+    "score": 9,
+    "reason": "The article is brand news regarding McCain (a major potato product brand) and explicitly mentions 'chips' in a food context, which triggers the 7+ rule.",
+    "image_url": "https://www.falmouthpacket.co.uk/resources/images/20738472.jpg?type=og-image&xType=0&yType=64"
   },
   {
     "title": "The Staggering Price Of Potato Chips In The 1950s Vs Now - Yahoo",
