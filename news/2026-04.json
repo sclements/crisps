@@ -120,6 +120,16 @@
     "image_url": null
   },
   {
+    "title": "Potato chips transform women’s livelihoods in Joypurhat",
+    "url": "https://www.daily-sun.com/business/869614",
+    "snippet": "Shrikristapur village in Akkelpur upazila of Joypurhat, once an ordinary rural settlement, is now widely known across the country as the...",
+    "published_at": "04/18/2026, 06:06 PM, +0000 UTC",
+    "source": "Daily Sun",
+    "score": 8,
+    "reason": "The article is directly about the potato chip industry and its economic impact on a local community, which falls into the 7-8 range based on the specific rule for mentions of 'chips' in a food context.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMRH-A1GNo7e2aPIATMK-Y5mNvC7Oz3PiNjvSeY4binBI-RvkfrSuruE&usqp=CAI&s"
+  },
+  {
     "title": "Gary-based Peerless faces struggles as snack independent",
     "url": "https://www.nwitimes.com/news/local/lake/gary/article_6fddcbbf-b33b-5b93-b22e-0af3cd7c4f80.html",
     "snippet": "A look inside the Peerless Potato Chips factory in Gary, Indiana. President John Hogg talks about his family's business and how the chips are made. Gary-based Peerless Potato Chips faces struggles as one of the last independent snack companies left.",
@@ -138,6 +148,16 @@
     "score": 10,
     "reason": "The article is directly about a new flavor launch of potato chips (crisps).",
     "image_url": null
+  },
+  {
+    "title": "Baker Valley farmer plans to make, sell potato chips",
+    "url": "https://eastoregonian.com/2026/04/15/baker-valley-farmer-plans-to-make-sell-potato-chips/",
+    "snippet": "BAKER CITY — In less than a year, you'll probably be able to buy a crinkly bag filled with crispy potato chips that were grown,...",
+    "published_at": "04/16/2026, 06:06 AM, +0000 UTC",
+    "source": "East Oregonian",
+    "score": 10,
+    "reason": "The article is directly about the production and sale of potato chips, making it highly relevant to a dedicated potato chip news site.",
+    "image_url": "https://eastoregonian.com/wp-content/uploads/sites/7/2026/04/Jess-Blatchford-examines-potatoes-on-a-conveyor-belt-at-his-familys-farm-in-Baker-Valley-in-Sep.jpg"
   },
   {
     "title": "This Trader Joe’s Snack Just Won Its First Customer Choice Award—and Shoppers Are Obsessed",

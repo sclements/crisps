@@ -10,6 +10,16 @@
     "image_url": "https://www.beaconjournal.com/gcdn/authoring/authoring-images/2026/01/30/NABJ/88435521007-pavs-superbowl-flavors.png?crop=1535,864,x0,y0&width=1535&height=864&format=pjpg&auto=webp"
   },
   {
+    "title": "TikTok Stars Invite Brits to Develop Walkers Newest Crisp Flavour",
+    "url": "https://lbbonline.com/news/TikTok-Walkers-Crisps-Newest-Flavour",
+    "snippet": "The campaign features ten of TikTok's most followed creators - like GK Barry, George Baggs, Josh Ryan, Moyo J Ajibade, Isaac H.P, Fats Timbo,...",
+    "published_at": "01/29/2026, 12:00 PM, +0000 UTC",
+    "source": "Little Black Book | LBBOnline",
+    "score": 10,
+    "reason": "The article is directly about a major chip brand (Walkers) developing a new flavor, which falls under the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdkLf8saz2jYqUlRI-BcdOzohfBqchOqFc7k8cbYDP4Tsf_aNf4spzhUw&usqp=CAI&s"
+  },
+  {
     "title": "Humble Potato Chips",
     "url": "https://ccentral.ca/humble-potato-chips",
     "snippet": "",
@@ -28,5 +38,15 @@
     "score": 8,
     "reason": "The news article directly mentions potato chips, a key component of snack foods, making it highly relevant to enthusiasts. The context also implies changes in production that could potentially affect the quality or availability of these snacks.",
     "image_url": "https://www.thecampbellscompany.com/wp-content/uploads/2024/03/Overhead-Portfolio-Shot_16x9_social-media-preview-1.png"
+  },
+  {
+    "title": "We tested Walkers unexpected new crisp flavour – and it divided opinion",
+    "url": "https://www.independent.co.uk/extras/indybest/food-drink/walkers-hot-honey-crisps-b2907491.html",
+    "snippet": "Now, the crisp giant Walkers is getting in on the action with the release of a hot honey crisp flavour, which hit shelves on 12 January. It's...",
+    "published_at": "01/26/2026, 12:00 PM, +0000 UTC",
+    "source": "The Independent",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release and product review for Walkers, a major potato chip brand.",
+    "image_url": "https://static.independent.co.uk/2026/01/26/9/22/walkers-hot-honey-crisps.png?width=1200&height=800&crop=1200:800"
   }
 ]
