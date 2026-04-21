@@ -528,38 +528,54 @@
                 return date.toLocaleDateString('en-US', options);
             };
             
-            // Get category based on article content
-            const getCategory = (article) => {
-                const title = article.title.toLowerCase();
-                const snippet = (article.snippet || '').toLowerCase();
-                const content = title + ' ' + snippet;
-                
-                if (content.includes('launch') || content.includes('new') || content.includes('introduces')) {
-                    return 'Launch';
-                } else if (content.includes('health') || content.includes('nutrition') || content.includes('better-for-you')) {
-                    return 'Health';
-                } else if (content.includes('trend') || content.includes('changing') || content.includes('snackification')) {
-                    return 'Trends';
-                } else if (content.includes('safety') || content.includes('regulation') || content.includes('fda')) {
-                    return 'Safety';
-                } else if (content.includes('market') || content.includes('sales') || content.includes('revenue') || content.includes('business')) {
-                    return 'Business';
-                } else if (content.includes('science') || content.includes('research') || content.includes('study')) {
-                    return 'Science';
-                } else if (content.includes('regional') || content.includes('local') || content.includes('brand')) {
-                    return 'Regional';
-                } else {
-                    return 'News';
-                }
+            // Display labels for the 6 canonical category slugs the manager
+            // pipeline writes to article.category. Slugs are defined in
+            // manager/prompts/news_categorize.txt and content/news/categorize.rs.
+            const CATEGORY_LABELS = {
+                new_flavors:    'New Flavors',
+                reviews:        'Reviews',
+                recalls_safety: 'Recall',
+                business:       'Business',
+                health:         'Health',
+                oddities:       'Oddities',
             };
-            
+
+            // Fallback used only for legacy articles that pre-date the categorizer.
+            // Maps to one of the 6 canonical labels above so the UI taxonomy stays
+            // consistent. Once `categorize-news --apply` has run over the archive,
+            // this code path goes cold.
+            const guessLegacyCategory = (article) => {
+                const text = (article.title + ' ' + (article.snippet || '')).toLowerCase();
+                if (/\brecall|allergen|contamin|undeclared|fda warning\b/.test(text)) return 'Recall';
+                if (/\b(review|ranking|best of|taste test|tried|verdict)\b/.test(text)) return 'Reviews';
+                if (/\b(protein|nutrition|better[- ]for[- ]you|plant[- ]based|reformulat|artificial flavor|allergen[- ]free)\b/.test(text)) return 'Health';
+                if (/\b(earnings|revenue|sales|market share|plant (?:opening|closing)|acquisition|discontinu|pricing|expand)\b/.test(text)) return 'Business';
+                if (/\b(launch|new flavor|new flavour|introduces|unveils|debuts|limited[- ]edition|seasonal|brings back)\b/.test(text)) return 'New Flavors';
+                return 'Oddities';
+            };
+
+            const getCategory = (article) => {
+                const slug = article.category;
+                if (slug && CATEGORY_LABELS[slug]) return CATEGORY_LABELS[slug];
+                return guessLegacyCategory(article);
+            };
+
+            // CSS class suffix for color-coding category tags. Keep in sync with
+            // the .cat-* rules in styles.css.
+            const getCategorySlug = (article) => {
+                if (article.category && CATEGORY_LABELS[article.category]) return article.category;
+                const label = guessLegacyCategory(article);
+                const inverse = Object.entries(CATEGORY_LABELS).find(([, v]) => v === label);
+                return inverse ? inverse[0] : 'oddities';
+            };
+
             // Get complete category tag with date prefix
             const getCategoryTag = (article) => {
                 const datePrefix = getDatePrefix(article.published_at);
                 const category = getCategory(article);
                 return `${datePrefix} | ${category}`;
             };
-            
+
             let html = '';
             articles.forEach((article, i) => {
                 const index = startIndex + i;
@@ -567,12 +583,14 @@
                 const imageUrl = getImageUrl(article, index);
                 const fallbackClass = getFallbackBackgroundClass(index);
                 const categoryTag = getCategoryTag(article);
-                
-                html += `<a href="${article.url}" target="_blank" 
-                    class="bento-item ${article.image_url ? '' : fallbackClass}" data-h="${h}" 
+                const categorySlug = getCategorySlug(article);
+
+                html += `<a href="${article.url}" target="_blank"
+                    class="bento-item ${article.image_url ? '' : fallbackClass}" data-h="${h}"
+                    data-category="${categorySlug}"
                     ${article.image_url ? `style="background-image: url('${imageUrl}')"` : ''}>
                     <div class="news-overlay">
-                        <div class="category-tags">${categoryTag}</div>
+                        <div class="category-tags cat-${categorySlug}">${categoryTag}</div>
                         <div class="news-headline">${article.title}</div>
                     </div>
                 </a>`;
