@@ -537,36 +537,36 @@
                 recalls_safety: 'Recall',
                 business:       'Business',
                 health:         'Health',
-                oddities:       'Oddities',
+                oddities:       'Curiosities',
             };
 
             // Fallback used only for legacy articles that pre-date the categorizer.
-            // Maps to one of the 6 canonical labels above so the UI taxonomy stays
-            // consistent. Once `categorize-news --apply` has run over the archive,
-            // this code path goes cold.
+            // Each branch returns a [slug, label] pair so the caller can both
+            // render the right text AND apply the right .cat-* color class.
+            // The catch-all is `unknown` rather than `oddities` — defaulting
+            // unmatched articles into a real category is misleading.
             const guessLegacyCategory = (article) => {
                 const text = (article.title + ' ' + (article.snippet || '')).toLowerCase();
-                if (/\brecall|allergen|contamin|undeclared|fda warning\b/.test(text)) return 'Recall';
-                if (/\b(review|ranking|best of|taste test|tried|verdict)\b/.test(text)) return 'Reviews';
-                if (/\b(protein|nutrition|better[- ]for[- ]you|plant[- ]based|reformulat|artificial flavor|allergen[- ]free)\b/.test(text)) return 'Health';
-                if (/\b(earnings|revenue|sales|market share|plant (?:opening|closing)|acquisition|discontinu|pricing|expand)\b/.test(text)) return 'Business';
-                if (/\b(launch|new flavor|new flavour|introduces|unveils|debuts|limited[- ]edition|seasonal|brings back)\b/.test(text)) return 'New Flavors';
-                return 'Oddities';
+                if (/\brecall|allergen|contamin|undeclared|fda warning\b/.test(text)) return ['recalls_safety', 'Recall'];
+                if (/\b(review|ranking|best of|taste test|tried|verdict)\b/.test(text)) return ['reviews', 'Reviews'];
+                if (/\b(protein|nutrition|better[- ]for[- ]you|plant[- ]based|reformulat|artificial flavor|allergen[- ]free)\b/.test(text)) return ['health', 'Health'];
+                if (/\b(earnings|revenue|sales|market share|plant (?:opening|closing)|acquisition|discontinu|pricing|expand)\b/.test(text)) return ['business', 'Business'];
+                if (/\b(launch|new flavor|new flavour|introduces|unveils|debuts|limited[- ]edition|seasonal|brings back)\b/.test(text)) return ['new_flavors', 'New Flavors'];
+                if (/\b(viral|tiktok|weird|bizarre|strange|surprising|trick|hack|crossover|stunt|art|sculpt)\b/.test(text)) return ['oddities', 'Curiosities'];
+                return ['unknown', 'News'];
             };
 
             const getCategory = (article) => {
                 const slug = article.category;
                 if (slug && CATEGORY_LABELS[slug]) return CATEGORY_LABELS[slug];
-                return guessLegacyCategory(article);
+                return guessLegacyCategory(article)[1];
             };
 
             // CSS class suffix for color-coding category tags. Keep in sync with
             // the .cat-* rules in styles.css.
             const getCategorySlug = (article) => {
                 if (article.category && CATEGORY_LABELS[article.category]) return article.category;
-                const label = guessLegacyCategory(article);
-                const inverse = Object.entries(CATEGORY_LABELS).find(([, v]) => v === label);
-                return inverse ? inverse[0] : 'oddities';
+                return guessLegacyCategory(article)[0];
             };
 
             // Get complete category tag with date prefix
