@@ -270,6 +270,76 @@
     "image_url": "https://s.yimg.com/ny/api/res/1.2/lVZBdd9d94zh.T7WLLslSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAwO2NmPXdlYnA-/https://media.zenfs.com/en/simply_recipes_854/054b7e7a5c6bab6282d04c41b4280821"
   },
   {
+    "title": "The surprising science inside your favourite bag of crisps",
+    "url": "https://www.indy100.com/science-tech/bag-of-crisps-science-michigan",
+    "snippet": "The humble bag of potato chips, a ubiquitous snack, belies a surprising depth of scientific innovation and decades of dedicated research.",
+    "published_at": "04/22/2026, 12:00 PM, +0000 UTC",
+    "source": "Indy100",
+    "score": 9,
+    "reason": "The article is directly about the science and production of potato chips/crisps, making it highly relevant to a specialized snack website.",
+    "image_url": "https://www.indy100.com/media-library/the-surprising-science-inside-your-favourite-bag-of-crisps.jpg?id=65662357&width=1200&height=600&coordinates=0%2C167%2C0%2C167"
+  },
+  {
+    "title": "Researchers have spent decades breeding better potatoes for chips, and their work isn't done",
+    "url": "https://apnews.com/article/potato-chips-michigan-varieties-breeding-114043b882cf51d056254ddae29944c2",
+    "snippet": "There's a surprising amount of science in a bag of potato chips. Researchers have spent decades developing chipping potatoes that can grow...",
+    "published_at": "04/22/2026, 11:00 AM, +0000 UTC",
+    "source": "AP News",
+    "score": 9,
+    "reason": "The article is directly about the science and development of potatoes specifically for chip production, making it highly relevant to a potato chip news site.",
+    "image_url": "https://dims.apnews.com/dims4/default/200fbf7/2147483647/strip/true/crop/4007x2670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F87%2F85349d0e8f276fe1301ead9fe0ff%2F7746f6c130aa40deb40ded82d45ec7cc"
+  },
+  {
+    "title": "This New Costco Find Is a Bold Take on a Classic Summer Cookout Favorite",
+    "url": "https://www.aol.com/costco-bold-classic-summer-cookout-182740805.html",
+    "snippet": "Costco's new chip flavor is being called one of the \"craziest snack\" finds. And it's a bold take on a classic summer cookout favorite,...",
+    "published_at": "04/22/2026, 09:00 AM, +0000 UTC",
+    "source": "AOL.com",
+    "score": 10,
+    "reason": "The article is directly about a new chip flavor being released at Costco, which falls under 'new flavors' for potato chips/crisps.",
+    "image_url": "https://s.yimg.com/os/en/aol_parade_744/17ae8eccf8cde08c6cb5a3e355ae588c"
+  },
+  {
+    "title": "Are MAHA snacks really better for you? Nutrition experts parse a grocery aisle gold rush",
+    "url": "https://www.statnews.com/2026/04/22/better-for-you-snacks-maha-influence-food-companies/",
+    "snippet": "From protein Pop-Tarts to avocado-oil chips, a MAHA-fueled snack revolution promises healthier eating. Nutrition experts say it may mostly...",
+    "published_at": "04/22/2026, 09:00 AM, +0000 UTC",
+    "source": "STAT",
+    "score": 8,
+    "reason": "The snippet explicitly mentions 'avocado-oil chips', which triggers the rule to score 7+; the topic covers a snack industry trend involving chip products.",
+    "image_url": "https://www.statnews.com/wp-content/uploads/2026/03/plate-upf-1024x576.jpg"
+  },
+  {
+    "title": "I've Tasted a Ton of Chips This Year, but These Are the 5 Best",
+    "url": "https://sporked.com/article/best-chips-of-2026-so-far/",
+    "snippet": "From Buldak chips to new Trader Joe's hips, these are the best new chips we've tried in 2026 so far.",
+    "published_at": "04/21/2026, 10:00 PM, +0000 UTC",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of chip brands and flavors, which perfectly matches the core subject matter of a potato chip/crisp news website.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/LISTICLE_BEST-CHIPS-WEVE-TRIED-IN-2026_HEADER.jpg"
+  },
+  {
+    "title": "I Didn't Expect Much From This Limited-Time Trader Joe's Snack. Now I'm Stocking Up",
+    "url": "https://www.aol.com/didnt-expect-much-limited-time-213000839.html",
+    "snippet": "When it comes to a really great, limited-edition product from Trader Joe's like this crunchy snack, you need to stock up.",
+    "published_at": "04/21/2026, 08:00 PM, +0000 UTC",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article is a product review for a specific limited-edition snack. While it doesn't explicitly use the word 'chip', its focus on a specific 'crunchy snack' makes it highly relevant to a snack-focused website, falling into the category of snack food news/reviews.",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/BjEaxvYJlTuKbiJU1iLHHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/aol_tasting_table_516/a36918c5051cc612f442e27db1552880"
+  },
+  {
+    "title": "I Tried And Ranked 22 Lay's Potato Chip Flavors So You Don't Have To",
+    "url": "https://www.thetakeout.com/2150765/lays-potato-chip-flavors-tried-ranked/",
+    "snippet": "Lay's potato chips are an American staple. That bright yellow bag is unmistakable when browsing the chip aisle. However, while classic Lay's...",
+    "published_at": "04/21/2026, 05:00 PM, +0000 UTC",
+    "source": "The Takeout",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of Lay's potato chip flavors, falling squarely into the highest relevance category for a potato chip news website.",
+    "image_url": "https://www.thetakeout.com/img/gallery/i-tried-and-ranked-22-lays-potato-chip-flavors-so-you-dont-have-to/l-intro-1776448036.jpg"
+  },
+  {
     "title": "Lay's® Launches Limited‑Edition Globally Inspired Potato Chip Flavors for FIFA World Cup 26™",
     "url": "https://www.prnewswire.com/news-releases/lays-launches-limitededition-globally-inspired-potato-chip-flavors-for-fifa-world-cup-26-302748047.html",
     "snippet": "PRNewswire/ -- With the FIFA World Cup 26™ returning to North America for the first time in decades, Lay's® — the #1 potato chip brand in...",
@@ -298,6 +368,16 @@
     "score": 7,
     "reason": "The article is about industrial processing technology specifically for potato chips, which falls under snack industry business/technology.",
     "image_url": "https://media.potatopro.com/elea-webinar-pef-potato-chip-processing-americas-1200.jpg"
+  },
+  {
+    "title": "New Lay's Flavor! Here’s All the World Cup Lay's Flavors from Around the World—Including Camembert and Lobster!",
+    "url": "https://sporked.com/article/international-world-cup-lays-flavors/",
+    "snippet": "Lay's is releasing new flavors around the world in celebration of the World Cup. Here's all the new Lay's chips flavors coming out.",
+    "published_at": "04/20/2026, 03:15 PM, +0000 UTC",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is directly about new flavors of a major potato chip brand (Lay's), which falls under the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/NEWS_MORE-WORLD-CUP-LAYS-APRIL-2026_HEADER.jpg"
   },
   {
     "title": "PepsiCo Foods North America ‘to play offense’",
