@@ -290,6 +290,16 @@
     "image_url": "https://dims.apnews.com/dims4/default/200fbf7/2147483647/strip/true/crop/4007x2670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F87%2F85349d0e8f276fe1301ead9fe0ff%2F7746f6c130aa40deb40ded82d45ec7cc"
   },
   {
+    "title": "The science behind creating perfect potato chips",
+    "url": "https://www.fox2detroit.com/video/fmc-edbd89ozol21eir8",
+    "snippet": "David Douches who leads the potato breeding and genetics project at Michigan State University discusses what goes into superior potatoes...",
+    "published_at": "04/22/2026, 09:02 PM, +0000 UTC",
+    "source": "FOX 2 Detroit",
+    "score": 9,
+    "reason": "The article is directly about the science and production of potato chips, making it highly relevant to a dedicated chip news site.",
+    "image_url": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/je9ftdyowpu65z5o/1200/630/dx707ckslr41drkt.jpg?ve=1&tl=1"
+  },
+  {
     "title": "This New Costco Find Is a Bold Take on a Classic Summer Cookout Favorite",
     "url": "https://www.aol.com/costco-bold-classic-summer-cookout-182740805.html",
     "snippet": "Costco's new chip flavor is being called one of the \"craziest snack\" finds. And it's a bold take on a classic summer cookout favorite,...",
@@ -308,6 +318,26 @@
     "score": 8,
     "reason": "The snippet explicitly mentions 'avocado-oil chips', which triggers the rule to score 7+; the topic covers a snack industry trend involving chip products.",
     "image_url": "https://www.statnews.com/wp-content/uploads/2026/03/plate-upf-1024x576.jpg"
+  },
+  {
+    "title": "Banger and mash chips? What are Lay's 40 new World Cup flavors?",
+    "url": "https://www.northjersey.com/story/news/2026/04/22/heres-the-list-of-the-40-fifa-world-cup-chips-flavors-by-lays/89731852007/",
+    "snippet": "Lay's has new flavors coming to celebrate the 2026 FIFA World Cup. Egyptian beef stew, Canadian buttered lobster, and more.",
+    "published_at": "04/22/2026, 05:02 PM, +0000 UTC",
+    "source": "Bergen Record",
+    "score": 10,
+    "reason": "The article is directly about new flavors from Lay's, a major potato chip brand, which falls into the highest relevance category.",
+    "image_url": "https://www.northjersey.com/gcdn/authoring/authoring-images/2026/04/21/USAT/89721380007-lays-x-fifa-world-cup-international-lto-kv.jpg?crop=3996,2247,x0,y0&width=3200&height=1800&format=pjpg&auto=webp"
+  },
+  {
+    "title": "‘Rare’ Snacks Are Selling For $75,000 On eBay—And Some People Are Buying Them",
+    "url": "https://www.delish.com/food/a71052667/rare-chips-ebay/",
+    "snippet": "Rare snacks and oddly shaped chips are being sold on eBay as collectibles, with listings going viral and sparking curiosity online.",
+    "published_at": "04/22/2026, 05:02 PM, +0000 UTC",
+    "source": "Delish",
+    "score": 7,
+    "reason": "The snippet explicitly mentions 'chips' in a food context, which triggers the 7+ rule. While it is about collectible trends rather than brand news, it remains highly relevant to the niche.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/51497867-cb10-4b43-98ba-d64ecfc68ac4.jpg?crop=1xw:0.75xh;center,top&resize=1200:*"
   },
   {
     "title": "I've Tasted a Ton of Chips This Year, but These Are the 5 Best",
