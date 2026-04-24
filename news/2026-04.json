@@ -270,6 +270,86 @@
     "image_url": "https://s.yimg.com/ny/api/res/1.2/lVZBdd9d94zh.T7WLLslSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAwO2NmPXdlYnA-/https://media.zenfs.com/en/simply_recipes_854/054b7e7a5c6bab6282d04c41b4280821"
   },
   {
+    "title": "Totis Launches Kettle Cooked Plantain Chips",
+    "url": "https://www.preparedfoods.com/articles/131547-totis-launches-kettle-cooked-plantain-chips",
+    "snippet": "The new plantain-based chips target demand for alternatives to traditional potato snacks. The launch reflects continued growth in globally...",
+    "published_at": "04/24/2026, 12:00 PM, +0000 UTC",
+    "source": "Prepared Foods magazine",
+    "score": 8,
+    "reason": "The article is about a new brand launching chips. While they are plantain-based rather than potato-based, it falls under the 'closely related snack foods' category and meets the requirement for a 7+ score due to the mention of chips.",
+    "image_url": "https://www.preparedfoods.com/ext/resources/2026/04/21/Totis_PlantainChips_900.jpg?height=635&t=1776792795&width=1200"
+  },
+  {
+    "title": "My New Favorite Tortilla Chips Are Fried in … Beef Tallow (They’re “Absolutely Delicious”)",
+    "url": "https://www.aol.com/favorite-tortilla-chips-fried-beef-173000582.html",
+    "snippet": "Nachos are one of my all-time favorite dishes. While it's true that the toppings are important, I'm all about the tortilla chips — and I've recently...",
+    "published_at": "04/24/2026, 05:00 AM, +0000 UTC",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article is a review of tortilla chips, which falls into the 'closely related snack foods' category (7-8) in the rubric.",
+    "image_url": "https://s.yimg.com/os/en/aol_the_kitchn_107/dc4728a4754054966be7113bdb49618f"
+  },
+  {
+    "title": "Leftovers: Lay’s flavors go global for World Cup | Taco teas look to cure homesickness",
+    "url": "https://www.fooddive.com/news/lays-world-cup-captain-morgan-pina-coladas-taco-tea/818412/",
+    "snippet": "The PepsiCo potato chip brand is releasing dozens of flavors tied to countries competing in the soccer event, while Captain Morgan expands...",
+    "published_at": "04/24/2026, 01:00 PM, +0000 UTC",
+    "source": "Food Dive",
+    "score": 10,
+    "reason": "The article is directly about new flavor releases from Lay's, a major potato chip brand, making it highly relevant to a chip-focused news site.",
+    "image_url": "https://imgproxy.divecdn.com/uuGTqcSZ8Somyt7NahkIFZ3zYZ2DDfPrt0qVjvx-Hak/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZXJvX0Fzc2V0X19MYXlzX1dvcmxkX0N1cF9MVE9zLWZvdG9yLTIwMjYwNDE3MTE1MjU4LmpwZw==.webp"
+  },
+  {
+    "title": "Review: Lay's 3 World Cup Flavors Almost Nail The Hat Trick",
+    "url": "https://www.thetakeout.com/2155838/lays-world-cup-flavors-chips-review/",
+    "snippet": "Lay's chips that taste like steak, garlic, and a French soup will kick off the World Cup. So, are they worth celebrating, or should they be...",
+    "published_at": "04/23/2026, 08:00 PM, +0000 UTC",
+    "source": "The Takeout",
+    "score": 10,
+    "reason": "The article is a direct review of new potato chip flavors from the Lay's brand, falling into the highest relevance category.",
+    "image_url": "https://www.thetakeout.com/img/gallery/review-lays-3-world-cup-flavors-almost-nail-the-hat-trick/l-intro-1776975951.jpg"
+  },
+  {
+    "title": "The relentless quest for the perfect potato chip and why Michigan leads the way",
+    "url": "https://www.independent.co.uk/bulletin/lifestyle/potato-chips-bioengineered-potatoes-michigan-b2963729.html",
+    "snippet": "The potato chip industry is underpinned by decades of scientific research aimed at engineering ideal potato varieties for crunch and...",
+    "published_at": "04/23/2026, 05:00 PM, +0000 UTC",
+    "source": "The Independent",
+    "score": 10,
+    "reason": "The article is directly about the science and development of potato chips, making it highly relevant to a specialized chip news website.",
+    "image_url": "https://static.independent.co.uk/2026/04/23/14/00/AP26111488917743.jpg?width=1200&height=800&crop=1200:800"
+  },
+  {
+    "title": "These New Michigan Potatoes Could Be in Your Next Bag of Chips",
+    "url": "https://wcrz.com/michigan-new-potato-varieties-chip-supply/",
+    "snippet": "Michigan State researchers developed five new potato varieties to improve chip quality, storage, and disease resistance.",
+    "published_at": "04/23/2026, 05:00 PM, +0000 UTC",
+    "source": "Cars 108",
+    "score": 9,
+    "reason": "The article is directly about the improvement and production of potato chips, fitting the 9-10 category for being directly related to the core product.",
+    "image_url": "https://townsquare.media/site/87/files/2026/04/attachment-gettyimages-919056312.jpg?w=1200&q=75&format=natural"
+  },
+  {
+    "title": "Potato chip breakthrough as scientist unveils new bioengineered spud",
+    "url": "https://www.independent.co.uk/life-style/food-and-drink/chips-bioengineered-potato-michigan-breeding-and-genetics-program-b2963667.html",
+    "snippet": "There's a surprising amount of science in a bag of potato chips.",
+    "published_at": "04/23/2026, 04:00 PM, +0000 UTC",
+    "source": "The Independent",
+    "score": 9,
+    "reason": "The article is directly about a breakthrough in potato chip production through a new bioengineered potato variety.",
+    "image_url": "https://static.the-independent.com/2026/04/23/14/49/AP26111488948702.jpg?width=1200&height=800&crop=1200:800"
+  },
+  {
+    "title": "MSU develops five new potato varieties to use for chips",
+    "url": "https://www.abc12.com/news/business/msu-develops-five-new-potato-varieties-to-use-for-chips/article_5e11b46e-b40e-4bc8-8258-7679fcf72804.html",
+    "snippet": "MID-MICHIGAN (WJRT) - Researchers at Michigan State University have developed five new potato varieties. The new potatoes named Manistee,...",
+    "published_at": "04/23/2026, 04:00 PM, +0000 UTC",
+    "source": "WJRT ABC12",
+    "score": 9,
+    "reason": "The article is directly about developing new potato varieties specifically for chip production, making it highly relevant to a potato chip news website.",
+    "image_url": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/e/88/e8801ad3-6f3d-4fb4-9a02-75355f994670/69ea4b24d030f.image.jpg?crop=1200%2C630%2C0%2C22"
+  },
+  {
     "title": "The surprising science inside your favourite bag of crisps",
     "url": "https://www.indy100.com/science-tech/bag-of-crisps-science-michigan",
     "snippet": "The humble bag of potato chips, a ubiquitous snack, belies a surprising depth of scientific innovation and decades of dedicated research.",
