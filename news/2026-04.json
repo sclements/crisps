@@ -100,6 +100,16 @@
     "image_url": "https://www.lancashiretelegraph.co.uk/resources/images/17729036.jpg?type=og-image&xType=0&yType=170"
   },
   {
+    "title": "Lay's Salt & Vinegar: The Bold Crisps Snack Everyone Has an Opinion About - AD HOC NEWS",
+    "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lay-and-39-s-salt-and-vinegar-the-bold-crisps-snack-everyone-has-an/68547235",
+    "snippet": "",
+    "published_at": "Tue, 03 Feb 2026 08:00:00 GMT",
+    "source": "AD HOC NEWS",
+    "score": 10,
+    "reason": "The article is directly about a specific flavor of Lay's crisps, which falls into the highest relevance category for a potato chip news website.",
+    "image_url": null
+  },
+  {
     "title": "Cape Cod potato chips plant closing - Boston 25 News",
     "url": "https://www.boston25news.com/news/cape-cod-potato-chips-plant-closing/ec5aa85a-c882-43ca-b1df-6371d228268f/",
     "snippet": "",
@@ -177,6 +187,16 @@
     "source": null,
     "score": 8,
     "reason": "The article is about a specific snack brand and its product lineup (veggie straws/chips), which falls under closely related snack foods or brand news.",
+    "image_url": null
+  },
+  {
+    "title": "Kettle Chips adds Steakhouse Barbecue flavour to core crisps range - The Grocer",
+    "url": "https://www.thegrocer.co.uk/news/kettle-chips-adds-steakhouse-barbecue-flavour-to-core-crisps-range/653076.article",
+    "snippet": "",
+    "published_at": "Thu, 11 Feb 2021 08:00:00 GMT",
+    "source": "The Grocer",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch for the Kettle Chips brand, which falls into the highest category of relevance.",
     "image_url": null
   },
   {
@@ -277,6 +297,16 @@
     "source": "Allrecipes",
     "score": 8,
     "reason": "The article is about a new flavor release from Doritos. While highly relevant, the rubric categorizes tortilla chips under the 7-8 range.",
+    "image_url": null
+  },
+  {
+    "title": "Burton's Biscuit Company Turkey 'n' Chips crisps - conveniencestore.co.uk",
+    "url": "https://www.conveniencestore.co.uk/products/burtons-biscuit-company-turkey-n-chips-crisps/543209.article",
+    "snippet": "",
+    "published_at": "Mon, 10 Oct 2016 07:00:00 GMT",
+    "source": "conveniencestore.co.uk",
+    "score": 10,
+    "reason": "The article is directly about a new flavor of crisps (chips) from the Burton's Biscuit Company.",
     "image_url": null
   },
   {
