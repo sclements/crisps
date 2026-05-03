@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Posh vegan chips selling for $46",
+    "url": "https://www.news.com.au/finance/business/retail/londons-fortnum-and-mason-selling-46-vegan-chips/news-story/5c36832f2ce49fba0454f9a5f68267a3",
+    "snippet": "A posh department store is selling vegan crisps for £25 ($A46) – and it has sparked a salty response from punters.",
+    "published_at": "15 July 2021",
+    "source": "News.com.au",
+    "score": 9,
+    "reason": "The article is directly about a specific type of chip/crisp product and the news surrounding its price and consumer reaction.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtxTApNWgRwOMx7tY0CznLe_-T7ddpChMkOtoHE8l9n-KobLDSk1HJLk&usqp=CAI&s"
+  },
+  {
+    "title": "These $1 Potato Chips at Aldi Are So Good, Shoppers Are Buying 3 Bags at a Time",
+    "url": "https://www.msn.com/en-us/foodanddrink/foodnews/these-1-potato-chips-at-aldi-are-so-good-shoppers-are-buying-3-bags-at-a-time/ar-AA1JliDe?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "snippet": "It's long been said that you can't enjoy just one potato chip, and anyone who is a fan of salty and crunchy snacks completely understands why.",
+    "published_at": "05/02/2026, 06:46 AM, +0000 UTC",
+    "source": "MSN",
+    "score": 10,
+    "reason": "The article is directly about potato chips (product discovery/review), which falls into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGP8kAYn2udIEjsoF6Ry0JGjQzs9aFMkb7wXM8VhlLnqWoJXhJT0E3j0Y&usqp=CAI&s"
+  },
+  {
+    "title": "9 Salty Trader Joe's Snacks To Buy, And 5 To Avoid",
+    "url": "https://www.tastingtable.com/2157878/salty-trader-joes-snacks-buy-avoid/",
+    "snippet": "Trader Joe's has so many snacks, that it can be hard to choose a favorite. If you're craving something salty, check our list of the best...",
+    "published_at": "05/02/2026, 05:46 PM, +0000 UTC",
+    "source": "Tasting Table",
+    "score": 7,
+    "reason": "The article is a recommendation list for salty snacks. While it doesn't explicitly mention 'chips' in the title, snack lists of this nature are considered closely related food content (like pretzels or tortilla chips) and are highly relevant to a chip-focused audience.",
+    "image_url": "https://www.tastingtable.com/img/gallery/9-salty-trader-joes-snacks-to-buy-and-5-to-avoid/l-intro-1777247546.jpg"
+  },
+  {
+    "title": "I Tried Lay’s New Steak and Chimichurri Chips and They Took Me by Surprise",
+    "url": "https://sporked.com/article/new-lays-argentinian-style-steak-chips-review/",
+    "snippet": "I tried Lay's Argentinian-style Steak with Chimichurri chips from their World Cup lineup. Here's my honest review of the flavor!",
+    "published_at": "05/02/2026, 03:46 AM, +0000 UTC",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review of new potato chip flavors from a major brand, which falls under the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/NPR_LAYS-ARGENTINIAN-ASADO-CHIPS_HEADER.jpg"
+  },
+  {
+    "title": "I Tried the New Lay’s Brazilian Style Garlic Sauce Chips—Find Out if They’re a Buy or a Bust",
+    "url": "https://sporked.com/article/new-lays-brazilian-style-garlic-sauce-chips/",
+    "snippet": "I tried one of the new World Cup Lay's flavors: Brazilian Style Garlic Sauce. Here's what I thought of this new Lay's flavor and if you...",
+    "published_at": "05/02/2026, 03:46 AM, +0000 UTC",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct product review of a new Lay's potato chip flavor, which falls into the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/NPR_LAYS-BRAZILIAN-STYLE-GARLIC-SAUCE_HEADER.jpg"
+  },
+  {
+    "title": "I Tried the New French Onion Soup Lay’s…and I Have Une Petite Note",
+    "url": "https://sporked.com/article/french-onion-soup-lays-review/",
+    "snippet": "Three new Lay's flavors are coming to U.S. stores to celebrate the World Cup. We've tasted them all, but today I'm here to tell you about...",
+    "published_at": "05/02/2026, 03:46 AM, +0000 UTC",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review of new potato chip flavors from a major brand (Lay's).",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/NPR_LAYS-FRENCH-ONION-SOUP_HEADER.jpg"
+  },
+  {
+    "title": "A New \"Ultimate\" Doritos Flavor Just Hit Stores and I Can't Wait to Try It",
+    "url": "https://sporked.com/article/new-ultimate-doritos-garlic-parm-news/",
+    "snippet": "After launching in Canada back in January, Doritos Ultimate Garlic Parm is finally arriving in U.S. stores. Here's what fans are saying so...",
+    "published_at": "05/02/2026, 03:46 AM, +0000 UTC",
+    "source": "Sporked",
+    "score": 8,
+    "reason": "The article is about a new flavor launch for Doritos. Since Doritos are tortilla chips, this falls into the 7-8 score range for closely related snack foods.",
+    "image_url": "https://sporked.com/wp-content/uploads/2023/06/EXPLAINERS_DORITOS_HEADER.jpg"
+  }
+]
