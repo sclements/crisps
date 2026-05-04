@@ -1,50 +1,50 @@
 [
   {
-    "chip_name": "Salted Cheese",
+    "chip_name": "Spicy Peanut",
     "date": "2026-05-01",
-    "description": "Honoring the strength of Mauritania's armed forces today. Our Salted Cheese chips deliver a bold, savory salute to those who serve.",
-    "event_name": "Armed Forces Day (Mauritania)",
-    "event_url": "https://en.wikipedia.org/wiki/May_1",
-    "image_url": null
+    "description": "Today's pick is Spicy Peanut — a flavor inspired by the culinary traditions of Niger.",
+    "event_name": "Culinary traditions (Niger)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-01.webp"
   },
   {
-    "chip_name": "Cherry",
+    "chip_name": "Coconut Chocolate Caramel",
     "date": "2026-05-02",
-    "description": "Today's pick is Cherry — a flavor inspired by the culinary traditions of Greece.",
-    "event_name": "Culinary traditions (Greece)",
+    "description": "Today's pick is Coconut Chocolate Caramel — a flavor inspired by the culinary traditions of Maldives.",
+    "event_name": "Culinary traditions (Maldives)",
     "event_url": "",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-05-02.webp"
   },
   {
-    "chip_name": "Roasted Miso Garlic",
+    "chip_name": "Peanut",
     "date": "2026-05-03",
-    "description": "Honoring Japan's Constitution Memorial Day today, Roasted Miso Garlic chips celebrate the nation's cultural heritage with umami-rich flavors that reflect Japan's deep respect for tradition and craftsm...",
-    "event_name": "Constitution Memorial Day (Japan)",
-    "event_url": "https://en.wikipedia.org/wiki/May_3",
-    "image_url": null
-  },
-  {
-    "chip_name": "Creamy Ranch",
-    "date": "2026-05-04",
-    "description": "Celebrating the beauty of nature on Bird Day, we take flight with these savory Creamy Ranch chips.",
-    "event_name": "Bird Day (United States)",
-    "event_url": "https://en.wikipedia.org/wiki/May_4",
-    "image_url": null
-  },
-  {
-    "chip_name": "Grande Yuca Lemon Spicy",
-    "date": "2026-05-05",
-    "description": "Today's pick is Grande Yuca Lemon Spicy — a flavor inspired by the culinary traditions of Thailand.",
-    "event_name": "Culinary traditions (Thailand)",
+    "description": "Today's pick is Peanut — a flavor inspired by the culinary traditions of Senegal.",
+    "event_name": "Culinary traditions (Senegal)",
     "event_url": "",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-05-03.webp"
+  },
+  {
+    "chip_name": "Green Chile",
+    "date": "2026-05-04",
+    "description": "Today's pick is Green Chile — a flavor inspired by the culinary traditions of Israel.",
+    "event_name": "Culinary traditions (Israel)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-04.webp"
+  },
+  {
+    "chip_name": "Smoked Paprika",
+    "date": "2026-05-05",
+    "description": "Today's pick is Smoked Paprika — a flavor inspired by the culinary traditions of Serbia.",
+    "event_name": "Culinary traditions (Serbia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-05.webp"
   },
   {
     "chip_name": "Black Pomegranate Sweet Oat",
     "date": "2026-05-06",
-    "description": "Honoring the strength of Martyrs' Day, these Black Pomegranate Sweet Oat chips provide a deep, soulful flavor to celebrate an enduring legacy.",
+    "description": "Honoring today's Martyrs' Day, Black Pomegranate Sweet Oat captures the bittersweet celebration of resilience through its rich, complex flavor profile that mirrors the deep cultural significance of re...",
     "event_name": "Martyrs' Day (Lebanon and Syria)",
     "event_url": "https://en.wikipedia.org/wiki/May_6",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-05-06.webp"
   }
 ]

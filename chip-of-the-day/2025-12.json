@@ -1,222 +1,227 @@
 [
   {
-    "chip_name": "Thai Sweet",
+    "chip_name": "Tom's Nacho Cheese",
     "date": "2025-12-01",
-    "description": "Today, we celebrate Damrong Rajanubhab Day in Thailand.",
-    "event_name": "Damrong Rajanubhab Day (Thailand)",
-    "event_url": "https://en.wikipedia.org/wiki/December_1",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFY1WZ9aOPpQNpa2scBr0x-uPHYWN58vcstbi8csZGKF2PAqK1uymCe6CtihihsuIv6qbrstlVMdXWv2WoAwzSKvkW-umOZg"
+    "description": "Today's pick is Tom's Nacho Cheese, drawn from the culinary traditions of Slovenia.",
+    "event_name": "Culinary traditions (Slovenia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-01.webp"
   },
   {
-    "chip_name": "Rice Sriracha",
+    "chip_name": "Bean Black Bean",
     "date": "2025-12-02",
-    "description": "Today marks Lao National Day, celebrating unity and progress. Rice Sriracha chips, infused with fiery passion and mild sweetness, embody this spirit of harmony, blending perfectly into any celebration.",
-    "event_name": "Lao National Day",
+    "description": "Honoring today's Armed Forces Day in Cuba, Bean Black Bean chips capture the bold, spicy flavors of Cuban street food with their fiery chile and garlic seasonings.",
+    "event_name": "Armed Forces Day (Cuba)",
     "event_url": "https://en.wikipedia.org/wiki/December_2",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYAd55ego1a2-2B_-IRmbXTh0VL95CJgU3t9jBeisM4jy6f5cOFmJRAz9GRzmXlr02Pbqw47Ba"
+    "image_url": "chip-of-the-day/images/2025-12-02.webp"
   },
   {
-    "chip_name": "Chicken",
+    "chip_name": "Fish",
     "date": "2025-12-03",
-    "description": "Today, we celebrate Doctors' Day in Cuba, honoring the healthcare heroes. Chicken-flavored chips bring warmth and comfort reminiscent of Cuban kitchens, adding flavor to this day's celebration.",
-    "event_name": "Doctors' Day (Cuba)",
-    "event_url": "https://en.wikipedia.org/wiki/December_3",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvgFdSWLOWQ1ITttW9qPErb3mo258Bit718xyGyN3g3KVAXAle4uEyTDoiFl41ftRVfR9t5kTz_eFX2eU8b1oTloddnySr"
+    "description": "Today's pick is Fish, drawn from the culinary traditions of Ukraine.",
+    "event_name": "Culinary traditions (Ukraine)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-03.webp"
   },
   {
-    "chip_name": "Baja Fiery Mango",
+    "chip_name": "Thai Chile Basil",
     "date": "2025-12-04",
-    "description": "Baja Fiery Mango is today's salute to Navy Day (India), capturing the spirit of the coastline and its bold flavors. Experience the vibrant taste that reflects India's seafaring history, now on your snack plate.",
-    "event_name": "Navy Day (India)",
+    "description": "Thai Chile Basil chips capture the vibrant spirit of Thailand's environmental celebration today, blending spicy chile with aromatic basil to honor the country's rich culinary heritage and green traditions.",
+    "event_name": "Thai Environment Day (Thailand)",
     "event_url": "https://en.wikipedia.org/wiki/December_4",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7hwcJ73g8QD252obQxy7lVjfkn_doRPzi9D-mnVhn2eHbo9iernAEU5uurU6TZHmAW-xBsVoZ-uY_55H0q_8i8sPQXesd9A"
+    "image_url": "chip-of-the-day/images/2025-12-04.webp"
   },
   {
-    "chip_name": "Chickpea Nacho",
+    "chip_name": "Jalapeno Cilantro Whole Grain",
     "date": "2025-12-05",
-    "description": "Today marks a special cultural convergence of Haiti and the Dominican Republic, inspiring our Chickpea Nacho flavor.",
+    "description": "Discovering Haiti and the Dominican Republic today inspires our Jalapeno Cilantro Whole Grain chip, celebrating the vibrant Caribbean flavors of spices and fresh herbs found in both nations' cuisines.",
     "event_name": "Discovery Day (Haiti and Dominican Republic)",
     "event_url": "https://en.wikipedia.org/wiki/December_5",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSjg8JbNfOwfkvwKC0DEuHYdXyVTMqzT7nI9dD49FF5zJukjGZLbQzOLS2D4YcVmBgSRU7D3O3ncKuL1xADZWImGimtYq1xN1AEC_Sj6Kv4kkjjX61oYFjU8Q"
+    "image_url": "chip-of-the-day/images/2025-12-05.webp"
   },
   {
-    "chip_name": "Salmon Korean Bbq",
+    "chip_name": "Spicy Jalapeno",
     "date": "2025-12-06",
-    "description": "Salmon Korean Bbq: A culinary celebration of today's independence for Finland.",
-    "event_name": "Independence Day, celebrates the independence of Finland from Russia in 1917.",
-    "event_url": "https://en.wikipedia.org/wiki/December_6",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwDithnoTaH0I5kvYnHiNYQp6_GNc41bdZnCk7xj9HNdLp_TUCFVIEBUcX6w"
+    "description": "Today's pick is Spicy Jalapeno, drawn from the culinary traditions of Lithuania.",
+    "event_name": "Culinary traditions (Lithuania)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-06.webp"
   },
   {
-    "chip_name": "Guacamole",
+    "chip_name": "Cheese",
     "date": "2025-12-07",
-    "description": "Today, celebrate Colombia's Day of the Little Candles with Guacamole-flavored chips, blending creamy avocado goodness and festive Latin vibes.",
-    "event_name": "Day of the Little Candles, begins after sunset (Colombia)",
-    "event_url": "https://en.wikipedia.org/wiki/December_7",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTmtr9U_0AXwZiqdIsI_qLJ0Bx0mt5kikqm9P_DbyEo2EMz3uCKtJ_j6I62zsF2sg0AFh5T-yycNCUPCGpVNNr2L5U3xNq-vK_UTa2TwShB_nbofYwIlCNF9g"
+    "description": "Today's pick is Cheese, drawn from the culinary traditions of Romania.",
+    "event_name": "Culinary traditions (Romania)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-07.webp"
   },
   {
-    "chip_name": "Spicy Miso Kale",
+    "chip_name": "Yuca Garlic",
     "date": "2025-12-08",
-    "description": "Spicy Miso Kale today brings Japan's Bodhi Day spirit to your plate. Savor the umami of miso and zest of chili as you embrace wisdom and growth on this holy day for enlightenment.",
-    "event_name": "Bodhi Day (Japan)",
-    "event_url": "https://en.wikipedia.org/wiki/December_8",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTupQB2etmeV5IJ9LUQAiwHNMH9MPOMU-vVvX5Yp6S3IFcO3E5pDgyN-Wrrjv0kwR6JGzaOTSoRcGlt84E0SAKzTbRgWWnsUw"
+    "description": "Today's pick is Yuca Garlic, drawn from the culinary traditions of Thailand.",
+    "event_name": "Culinary traditions (Thailand)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-08.webp"
   },
   {
-    "chip_name": "Cassava",
+    "chip_name": "Ceviche Plantain",
     "date": "2025-12-09",
-    "description": "Cassava chips are today's tribute to the Armed Forces of Peru. Made from this root crop, seasoned for honor and service, they're a crunchy reminder of those who protect their nation.",
+    "description": "Ceviche Plantain celebrates Peru's Armed Forces Day with a bold fusion of plantains, lime, and aromatic herbs that mirrors the vibrant spirit of Peruvian military traditions.",
     "event_name": "Armed Forces Day (Peru)",
     "event_url": "https://en.wikipedia.org/wiki/December_9",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRRNXxSe2Q4k_Vl6Cq4I6etptfwakJPmyTxk8QNt7T29x7Fw6oYo2CqYQJB06gGwS4mNV4FBz0cq4l-rV21gIYoEyrB1GxO"
+    "image_url": "chip-of-the-day/images/2025-12-09.webp"
   },
   {
-    "chip_name": "Sweet Basil",
+    "chip_name": "Skins Cheddar Bacon",
     "date": "2025-12-10",
-    "description": "Today, Thailand commemorates Constitution Day. Savor Sweet Basil's vibrant flavors, reminiscent of this cultural milestone, blending tradition and innovation for an unforgettable taste experience.",
-    "event_name": "Constitution Day (Thailand)",
-    "event_url": "https://en.wikipedia.org/wiki/December_10",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJgiS3NHKECzqHk7KDaVmpCEFTNauZdGiqglVL8lDEKARrULMvHg7npzGtHbR4i37HkYTAADa9oqoBe8PX01CC11TkyzDTZT14Gj5zALeWszUWMSMUXX9j"
+    "description": "Today's pick is Skins Cheddar Bacon, drawn from the culinary traditions of Austria.",
+    "event_name": "Culinary traditions (Austria)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-10.webp"
   },
   {
-    "chip_name": "Dulce De Leche Apple",
+    "chip_name": "Creamy Ranch",
     "date": "2025-12-11",
-    "description": "On this day that honors Argentina's national dance, savor the soulful blend of Dulce De Leche and crisp apple flavors that embody the passion of Tango.",
-    "event_name": "National Tango Day (Argentina)",
+    "description": "Celebrating Indiana's agricultural heritage today, Creamy Ranch chips capture the creamy richness of dairy farms across the Hoosier State.",
+    "event_name": "Indiana Day (United States)",
     "event_url": "https://en.wikipedia.org/wiki/December_11",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ3oar729LV3cuOOhRctHAYyqSsQIe7ChYD1TPdt8Tr3jt5mXJitrO2Lm49lF4HZe5hzN2tKgPx6i0eUyMAgJklMPs640SK"
+    "image_url": "chip-of-the-day/images/2025-12-11.webp"
   },
   {
-    "chip_name": "Chile Limon",
+    "chip_name": "Deli Honey",
     "date": "2025-12-12",
-    "description": "Chile Limon, today's spicy sensation, takes inspiration from the fiery passion of days gone by.",
-    "event_name": "Days of December",
-    "event_url": "https://en.wikipedia.org/wiki/December_12",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpzJp93aIdLu8BKCHrhV8-j0rp5aMhtdlyApiera22iJnow4ODZk9XdbRo5J_cLSd0pFVgKtrQZHJRwrzzpW1D9Nz0n4HNb0afoaUi3sET"
+    "description": "Today's pick is Deli Honey, drawn from the culinary traditions of Indonesia.",
+    "event_name": "Culinary traditions (Indonesia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-12.webp"
   },
   {
-    "chip_name": "Rum Barrel",
+    "chip_name": "Mushroom Sour Cream",
     "date": "2025-12-13",
-    "description": "Rum Barrel celebrates Saint Lucia's National Day by infusing traditional Caribbean flavors into crispy potato chips.",
-    "event_name": "National Day (Saint Lucia)",
+    "description": "Today's Mushroom Sour Cream chips honor Poland's Martial Law Victims Remembrance Day, capturing the quiet resilience of Polish cuisine with their earthy, comforting flavor profile that speaks to the s...",
+    "event_name": "Martial Law Victims Remembrance Day (Poland)",
     "event_url": "https://en.wikipedia.org/wiki/December_13",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQVfjUFlJjquyLaJ1Kn6prSgue1WiPYU-kiqNzWcJq3Iu7_Z7KC1nD3zWD9TZTkJ_7M4IHEuYN-0vlaxsaIF7sIqkzxdrNp"
+    "image_url": "chip-of-the-day/images/2025-12-13.webp"
   },
   {
-    "chip_name": "Mustard",
+    "chip_name": "Spicy Green",
     "date": "2025-12-14",
-    "description": "Mustard brings the rich history of Martyred Intellectuals Day to your plate today. Paying homage to resilience and courage, these bold, tangy chips celebrate the intellectual spirit that cannot be silenced.",
+    "description": "Spicy Green celebrates today's Martyred Intellectuals Day in Bangladesh, honoring those who courageously spoke truth to power.",
     "event_name": "Martyred Intellectuals Day (Bangladesh)",
     "event_url": "https://en.wikipedia.org/wiki/December_14",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQl3YOE4pCKwW_6QPIMVvrJF3wsN1zTs9E0JtBvtK0SxV2s3vc"
+    "image_url": "chip-of-the-day/images/2025-12-14.webp"
   },
   {
-    "chip_name": "Bacon",
+    "chip_name": "Nacho",
     "date": "2025-12-15",
-    "description": "Today, we celebrate the spirit of freedom and individual rights with 'Bacon' - embodying the essence of the 2nd Amendment's right to bear arms.",
-    "event_name": "2nd Amendment Day (South Carolina)",
-    "event_url": "https://en.wikipedia.org/wiki/December_15",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0MSfRwlG2cR7gzRJbEFUmi-mnHDGfQESGWJ3dFu0r6GuQ6vOW8k836umDaO9uSNQCcZmzaBuQDeyzsYykAmFP9pMoINDK"
+    "description": "Today's pick is Nacho, drawn from the culinary traditions of Cameroon.",
+    "event_name": "Culinary traditions (Cameroon)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-15.webp"
   },
   {
-    "chip_name": "Bakery Cardamom",
+    "chip_name": "Masa",
     "date": "2025-12-16",
-    "description": "Bakery Cardamom celebrates today's milestone of Bahrain's independence. Its rich, aromatic essence mirrors the historic significance, offering a delightful blend that honors this momentous day.",
-    "event_name": "National Day, celebrates the withdrawal of United Kingdom from Bahrain, making Bahrain an independent emirate in 1971.",
-    "event_url": "https://en.wikipedia.org/wiki/December_16",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfx4E3ejrMiRn6FTDupXl0yLjihkT9MktvLbBulHfYIB9DfN7Asc4NPi06ifxeVggnqgTxDnlYmkSt7KIkBogVy_g5jaxK5VNTa7UF2AHT869pF3K_fKnJag"
+    "description": "Today's pick is Masa, drawn from the culinary traditions of Dominican Republic.",
+    "event_name": "Culinary traditions (Dominican Republic)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-16.webp"
   },
   {
-    "chip_name": "Truffle Black Pepper",
+    "chip_name": "Spicy Sweet",
     "date": "2025-12-17",
-    "description": "Truffle Black Pepper Chip celebrates today's Wright Brothers Day.",
-    "event_name": "Wright Brothers Day, a United States federal observance by Presidential proclamation",
+    "description": "Today's Spicy Sweet flavor celebrates Bhutan's national pride with a bold blend of chili heat and sweet potato crunch that mirrors the country's vibrant cultural fusion.",
+    "event_name": "National Day (Bhutan)",
     "event_url": "https://en.wikipedia.org/wiki/December_17",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2025-12-17.webp"
   },
   {
-    "chip_name": "Sea Salt",
+    "chip_name": "Patos Spicy",
     "date": "2025-12-18",
-    "description": "Celebrating the serene beauty of the sea on Sebastian's birthdate - Eastern Orthodox Church's patron saint.",
-    "event_name": "Sebastian (Eastern Orthodox Church)",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Sebastian",
-    "image_url": "https://cdn0.woolworths.media/content/wowproductimages/large/587301.jpg"
+    "description": "Celebrating National Day in Qatar today, Patos Spicy brings the bold, fiery flavors of Middle Eastern spices that make this chip burst with celebratory heat and depth.",
+    "event_name": "National Day (Qatar)",
+    "event_url": "https://en.wikipedia.org/wiki/December_18",
+    "image_url": "chip-of-the-day/images/2025-12-18.webp"
   },
   {
-    "chip_name": "BBQ",
+    "chip_name": "Lime)",
     "date": "2025-12-19",
-    "description": "Event: \"Memorial Day Picnics\" | Chip: \"BBQ Flame\"\n \"As we honor our fallen heroes today, let's remember to savor Memorial Day's essence with these smoky BBQ Flame chips.",
-    "event_name": "O Radix",
-    "event_url": "https://en.wikipedia.org/wiki/O_Radix",
-    "image_url": "https://cdn.gardengrocer.com/attachments/photos/high_res/4315.jpg?4175"
+    "description": "Today's pick is Lime), drawn from the culinary traditions of Mexico.",
+    "event_name": "Culinary traditions (Mexico)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-19.webp"
   },
   {
-    "chip_name": "Coconut",
+    "chip_name": "Sweet Baja Barbeque",
     "date": "2025-12-20",
-    "description": "Celebrating Bo Aung Kyaw Day (Myanmar), this Coconut chip brings the essence of tropical flavors to your celebration.",
-    "event_name": "Bo Aung Kyaw Day (Myanmar)",
-    "event_url": "https://en.wikipedia.org/wiki/Bo_Aung_Kyaw_Day",
-    "image_url": "https://image.made-in-china.com/2f0j00IbhoyCKgrEcZ/Resealable-Plastic-Standing-Zipper-Coconut-Chip-Packaging-Bag.jpg"
+    "description": "Today's pick is Sweet Baja Barbeque, drawn from the culinary traditions of Côte d'Ivoire.",
+    "event_name": "Culinary traditions (Côte d'Ivoire)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-20.webp"
   },
   {
-    "chip_name": "Parmesan",
+    "chip_name": "Sweet Potato Coconut Oil",
     "date": "2025-12-21",
-    "description": "Celebrating the life of Peter Canisius, a prominent Jesuit theologian and missionary, today's Chip of the Day is infused with the essence of his profound teachings on unity and diversity.",
-    "event_name": "Peter Canisius",
-    "event_url": "https://en.wikipedia.org/wiki/Peter_Canisius",
-    "image_url": "https://img.everymarket.com/hurez8eo1tuhy5jaemo2bmfd0yao?width=650&height=650&format=jpg"
+    "description": "Honoring today's Armed Forces Day in the Philippines, these Sweet Potato Coconut Oil chips celebrate Filipino flavors with a sweet and savory twist that honors the country's rich culinary traditions.",
+    "event_name": "Armed Forces Day (Philippines)",
+    "event_url": "https://en.wikipedia.org/wiki/December_21",
+    "image_url": "chip-of-the-day/images/2025-12-21.webp"
   },
   {
-    "chip_name": "Cannoli",
+    "chip_name": "Roasted Garlic Rye",
     "date": "2025-12-22",
-    "description": "Event: \"St. Frances Xavier Cabrini Day\" (Outside US)\nChip Flavor: \"Ricotta and Chocolate\"\n\nConnect it to the flavor:\n\"In honor of St.",
-    "image_url": "https://m.media-amazon.com/images/I/81MbXxM0xqL.jpg"
+    "description": "Today's pick is Roasted Garlic Rye, drawn from the culinary traditions of Denmark.",
+    "event_name": "Culinary traditions (Denmark)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-22.webp"
   },
   {
-    "chip_name": "Lamb",
+    "chip_name": "Rice Cumin",
     "date": "2025-12-23",
-    "description": "Event: \"Thorlac Thorhallsson Day\" | Chip: \"Lamb Chips\"\n \"Honoring Iceland's patron saint on his special day, these Lamb Chips capture the essence of Nordic flavors.",
-    "event_name": "Thorlac Thorhallsson, patron saint of Iceland; The last day of preparations before Christmas.",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Thorlak",
-    "image_url": "https://bobolulucompany.com/cdn/shop/products/Lamb-Chips-first-thumbnail-photos-min_1400x.png?v=1677450655"
+    "description": "Today marks Egypt's Victory Day, celebrating military triumphs. Rice Cumin captures this spirit with its bold, warm spices that bring the pride of Egyptian street food to your snack.",
+    "event_name": "Victory Day (Egypt)",
+    "event_url": "https://en.wikipedia.org/wiki/December_23",
+    "image_url": "chip-of-the-day/images/2025-12-23.webp"
   },
   {
-    "chip_name": "Peppermint",
+    "chip_name": "Coconut Milk Taro",
     "date": "2025-12-24",
-    "description": "Event: \"The Declaration of Christmas Peace (Old Great Square of Turku, Finland's official Christmas City)\" | Chip: \"Peppermint\"\n\nOn this day, when peace is declared across the snowy landscapes of Finland, we celebrate with Peppermint potato chips.",
-    "event_name": "The Declaration of Christmas Peace (Old Great Square of Turku, Finland's official Christmas City)",
-    "event_url": "https://en.wikipedia.org/wiki/Declaration_of_Christmas_Peace"
+    "description": "Today's pick is Coconut Milk Taro, drawn from the culinary traditions of Sri Lanka.",
+    "event_name": "Culinary traditions (Sri Lanka)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-24.webp"
   },
   {
-    "chip_name": "Maple",
+    "chip_name": "Honey Roasted",
     "date": "2025-12-25",
-    "description": "Event: \"1914: World War I: A series of unofficial truces occur across the Western Front to celebrate Christmas.",
-    "image_url": "https://www.gardenproductsreviews.com/images/42734/J-c-s-Smoking-Wood-Chips-10-Qt-Bags-Maple11.jpg"
+    "description": "Honoring today's Constitution Day in Taiwan, these Honey Roasted chips capture the warm celebration of tradition and unity, offering a sweet homage to the nation's cultural heritage through their comf...",
+    "event_name": "Constitution Day (Taiwan)",
+    "event_url": "https://en.wikipedia.org/wiki/December_25",
+    "image_url": "chip-of-the-day/images/2025-12-25.webp"
   },
   {
-    "chip_name": "Truffle",
+    "chip_name": "Green Mint",
     "date": "2025-12-26",
-    "description": "Event: \"James the Just (Eastern Orthodox Church)\"\nChip: \"Truffle\"\n\nBorn on this day within the ancient traditions of the Eastern Orthodox Church lies our today's featured flavor - Truffle.",
-    "event_name": "James the Just (Eastern Orthodox Church)",
-    "event_url": "https://en.wikipedia.org/wiki/James_(brother_of_Jesus)",
-    "image_url": "https://www.gosupps.com/media/catalog/product/7/1/71jTEBSHebL.jpg"
+    "description": "Today's pick is Green Mint, drawn from the culinary traditions of Egypt.",
+    "event_name": "Culinary traditions (Egypt)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-26.webp"
   },
   {
-    "chip_name": "Garlic",
+    "chip_name": "Coriander",
     "date": "2025-12-27",
-    "description": "Today marks the birthday of Blessed Sra Salkahzi, a significant figure in Jewish history.",
-    "event_name": "Blessed Sára Salkaházi",
-    "event_url": "https://en.wikipedia.org/wiki/Beatification",
-    "image_url": "https://i5.walmartimages.com/seo/New-York-Style-Roasted-Garlic-Bagel-Crisps-Bagel-Chips-6-oz-Bag_e9b1c19c-212a-4c39-ab83-45cc7a636fb6.03fa3b4f9eb9a471dd39788547015c8f.jpeg"
+    "description": "Today's pick is Coriander, drawn from the culinary traditions of Tunisia.",
+    "event_name": "Culinary traditions (Tunisia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-27.webp"
   },
   {
-    "chip_name": "Jalapeño",
+    "chip_name": "Olive Oil",
     "date": "2025-12-28",
-    "description": "Event: Proclamation Day (South Australia) | Chip: Jalapeo\n\n\"Proclaimed as a day of celebration on the day following Christmas in South Australia, this festive tradition is brought to life with each crunchy bite of our Jalapeo tortilla chips.",
-    "event_name": "Proclamation Day (South Australia), celebration started on the day following Christmas (South Australia)",
-    "event_url": "https://en.wikipedia.org/wiki/Proclamation_Day_(South_Australia)",
-    "image_url": "https://m.media-amazon.com/images/I/71qtYELVsiL._AC_.jpg"
+    "description": "Today's pick is Olive Oil, drawn from the culinary traditions of Croatia.",
+    "event_name": "Culinary traditions (Croatia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2025-12-28.webp"
   },
   {
     "chip_name": "Ranch",
