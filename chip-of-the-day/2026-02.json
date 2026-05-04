@@ -200,12 +200,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSk1lDVxK-xb9_r87o1HvImB7BVY2MWS02Z6xiCEVNCHzjxmBtw"
   },
   {
-    "chip_name": "Restaurant",
+    "chip_name": "Smoky Bacon",
     "date": "2026-02-26",
-    "description": "Today, Kuwait celebrates Liberation Day from Iraqi occupation. Savor the freedom and joy of this historic event with our Restaurant chips, offering the bold flavors and rich tastes that embody the spirit of independence.",
-    "event_name": "Liberation Day (Kuwait)",
-    "event_url": "https://en.wikipedia.org/wiki/February_26",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRIGLG8kMS_6ggSzWzb_8OEATzvvAJPkFaVz8omCyw_fp2LIS_7rujkb4VMEVWJse2URNizSEiyztAwyMGh6NFul1a5e6OY"
+    "description": "Today's pick is Smoky Bacon — a flavor inspired by the culinary traditions of Austria.",
+    "event_name": "Culinary traditions (Austria)",
+    "event_url": "",
+    "image_url": null
   },
   {
     "chip_name": "Plantain",

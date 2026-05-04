@@ -52,6 +52,38 @@
     "category": "new_flavors"
   },
   {
+    "title": "Goldfish Is Ringing In 2025 With New Savory and Sweet Flavors — Here's a Sneak Peek - Food & Wine",
+    "url": "https://www.foodandwine.com/goldfish-new-crisps-sweet-grahams-2025-8762304",
+    "snippet": "",
+    "published_at": "Tue, 17 Dec 2024 08:00:00 GMT",
+    "source": "Food & Wine",
+    "score": 7,
+    "reason": "The article is about new flavors for Goldfish, a well-known snack brand. While not potato chips/crisps, it falls under the category of closely related snack foods and brand news.",
+    "category": "new_flavors"
+  },
+  {
+    "title": "The best Christmas crisps for all your 2025 festive get-togethers - Good Housekeeping",
+    "url": "https://www.goodhousekeeping.com/uk/food/food-reviews/g45426600/best-christmas-crisps/",
+    "snippet": "",
+    "published_at": "Tue, 14 Oct 2025 07:00:00 GMT",
+    "source": "Good Housekeeping",
+    "score": 9,
+    "reason": "The article is a direct product review and recommendation guide for crisps, making it highly relevant to a potato chip/crisp news website.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/best-christmas-crisps-lead-68ee2bb59401b.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "category": "reviews"
+  },
+  {
+    "title": "Mariah ridiculed over TV ad for chips - News.com.au",
+    "url": "https://www.news.com.au/entertainment/tv/tv-shows/viewers-slam-mariah-carey-for-hating-chips-in-christmas-advert-despite-16-million-pay-cheque/news-story/641c1fc5a6a3462395f66dda1041809b",
+    "snippet": "",
+    "published_at": "Tue, 12 Nov 2019 08:00:00 GMT",
+    "source": "News.com.au",
+    "score": 8,
+    "reason": "The article is about a chip brand's advertisement involving a celebrity, which falls under brand-related news.",
+    "image_url": "https://content.api.news/v3/images/bin/7ce9264b6f892ca9d3b3bdee63a68ea5",
+    "category": "oddities"
+  },
+  {
     "title": "Tyrrells launches new crisp flavour inspired by Downton Abbey - Somerset Live",
     "url": "https://www.dorset.live/whats-on/food-drink/downton-abbey-tyrrells-flavour-tendendo-10418895",
     "snippet": "",
@@ -106,6 +138,17 @@
     "category": "health"
   },
   {
+    "title": "Skips brings back 'phenomenal' flavour to the UK after a decade - Metro.co.uk",
+    "url": "https://metro.co.uk/2025/12/18/skips-brings-back-phenomenal-flavour-uk-a-decade-25582821/",
+    "snippet": "",
+    "published_at": "Thu, 18 Dec 2025 08:00:00 GMT",
+    "source": "Metro.co.uk",
+    "score": 9,
+    "reason": "The article is about flavor relaunch news for Skips, a well-known snack brand. This falls directly under brand and flavor news relevant to the snack industry.",
+    "image_url": "https://metro.co.uk/wp-content/uploads/2025/12/SEI_278367309-2661_1766075380.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "category": "new_flavors"
+  },
+  {
     "title": "Quaker Just Released a New Version of My Family's Favorite Snack",
     "url": "https://www.aol.com/articles/quaker-just-released-version-familys-110000722.html",
     "snippet": "A new Quaker snack is hitting shelves, and it's available in two crave-worthy flavor options. These bite-sized crisps offer a light, crunchy texture perfect for snacking. The new bags are rolling out ...",
@@ -142,6 +185,17 @@
     "reason": "The article is about a specific brand's new flavor crisps, directly related to potato chips/crisps with 'crisps' mentioned in the title and snippet",
     "image_url": "https://www.herefordtimes.com/resources/images/20820029.jpg?type=og-image",
     "category": "reviews"
+  },
+  {
+    "title": "Cape Cod Unveils Limited-Edition Lemon Herb Butter Potato Chips for Spring Rollout - PotatoPro",
+    "url": "https://www.potatopro.com/news/2026/cape-cod-unveils-limited-edition-lemon-herb-butter-potato-chips-spring-rollout",
+    "snippet": "",
+    "published_at": "Sat, 14 Mar 2026 07:00:00 GMT",
+    "source": "PotatoPro",
+    "score": 10,
+    "reason": "The article is directly about a new product launch (flavor) for a specific potato chip brand, which falls into the highest relevance category.",
+    "image_url": "https://media.potatopro.com/cape-cod-potato-chips-1200_1.jpg",
+    "category": "new_flavors"
   },
   {
     "title": "Walkers discontinues 'favourite' crisp flavour in blow to UK households - Birmingham Live",
@@ -183,6 +237,16 @@
     "category": "oddities"
   },
   {
+    "title": "Pringles Is Releasing Its First Sweet Flavor in 10 Years - Allrecipes",
+    "url": "https://www.allrecipes.com/pringles-september-2025-launch-11792593",
+    "snippet": "",
+    "published_at": "Mon, 25 Aug 2025 07:00:00 GMT",
+    "source": "Allrecipes",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch from Pringles, which is a major potato chip brand.",
+    "category": "new_flavors"
+  },
+  {
     "title": "The Trader Joe's potato chip dupe that actually beats the original",
     "url": "https://www.msn.com/en-us/food-and-drink/general/the-trader-joe-s-potato-chip-dupe-that-actually-beats-the-original/ar-AA1U4fjO",
     "snippet": "Trader Joe's has a potato chip dupe for one of the biggest and most popular brands on the market that's so delicious it might actually be even better.",
@@ -214,6 +278,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "Utz Brands Showcases New Chips, Pretzels and Bestsellers at Natural Products Expo West - Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/utz-brands-showcases-chips-pretzels-170000287.html",
+    "snippet": "",
+    "published_at": "Fri, 27 Feb 2026 08:00:00 GMT",
+    "source": "Yahoo Finance",
+    "score": 10,
+    "reason": "The article is directly about new chip product launches from a major snack brand (Utz), making it highly relevant to a potato chip news website.",
+    "image_url": "https://s.yimg.com/os/en/business-wire.com/9896416b10b183ea84c981fe04a58a49",
+    "category": "new_flavors"
+  },
+  {
     "title": "From Michelin stars to creating crisp flavours",
     "url": "https://www.msn.com/en-us/foodanddrink/foodnews/from-michelin-stars-to-creating-crisp-flavours/ar-AA1WMVkx",
     "snippet": "Tucked away in his kitchen, development chef Patrick Clifford is once again cooking up new flavours of crisps. \"I don't eat that many chips. A lot, but not as many as you might think,\" he says. The 55 ...",
@@ -232,6 +307,17 @@
     "reason": "Title directly mentions Pringles (a major potato chip/crisps brand) and describes new flavored crisps, which is highly relevant to a potato chip/news website. This fits the rubric for direct product/brand news about chips/crisps.",
     "image_url": "https://s.hdnux.com/photos/01/50/05/06/27283842/5/rawImage.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "I Tried 4 New Pringles Flavors and One Is My New Favorite - Sporked",
+    "url": "https://sporked.com/article/pringles-harvest-blends-review-2/",
+    "snippet": "",
+    "published_at": "Fri, 16 Jun 2023 07:00:00 GMT",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review of new flavors from Pringles, which falls into the highest relevance category for a potato chip news website.",
+    "image_url": "https://sporked.com/wp-content/uploads/2023/06/NPR_HARVEST-PRINGLES_HEADER.jpg",
+    "category": "reviews"
   },
   {
     "title": "Huge change announced for Cheetos, Doritos coming next month - MLive.com",
@@ -253,6 +339,28 @@
     "score": 8,
     "reason": "The title directly mentions PepsiCo's price cuts on Lay's, Tostitos, and Dorritos - all known chip/snack brands. This qualifies as direct business news about major snack food companies and their product lines, which falls squarely within the snack industry category. The article discusses specific chip brands and pricing changes for chips/crisps, meeting the criteria for a score of 8.",
     "category": "business"
+  },
+  {
+    "title": "Kwik Trip Leverages April Fools’ Day to Launch New Potato Chip Flavor - CSP Daily News",
+    "url": "https://cspdailynews.com/snacks-candy/kwik-trip-leverages-april-fools-day-launch-new-potato-chip-flavor",
+    "snippet": "",
+    "published_at": "Fri, 04 Apr 2025 07:00:00 GMT",
+    "source": "CSP Daily News",
+    "score": 10,
+    "reason": "The title explicitly mentions a new potato chip flavor, which falls directly into the highest relevance category.",
+    "image_url": "https://cdn.informaconnect.com/platform/files/public/2025-04/background/Kwik%20exterior%2C%20chips-forCMS.jpg?VersionId=4SLdj7xPmpKoFqCJIPgFZ_ft905o5d5Z",
+    "category": "new_flavors"
+  },
+  {
+    "title": "IShowSpeed’s Chip Flavor Leaked After Doritos’ Collab Tease - Yahoo",
+    "url": "https://www.yahoo.com/entertainment/celebrity/articles/ishowspeed-chip-flavor-leaked-doritos-013000050.html",
+    "snippet": "",
+    "published_at": "Fri, 02 Jan 2026 08:00:00 GMT",
+    "source": "Yahoo",
+    "score": 9,
+    "reason": "The article is directly about a new flavor leak from a major chip brand (Doritos), falling under the highest category of relevance.",
+    "image_url": "https://s.yimg.com/os/en/reality_tea_694/06d9a75ffca5f90269f6c687ba138bdb",
+    "category": "new_flavors"
   },
   {
     "title": "Costco launches Doritos protein chips with 10g protein per serving",

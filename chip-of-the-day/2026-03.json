@@ -40,12 +40,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHdEhosVJdvS5gf8HYF34zjkbqRXoUhb4KIWhoJilg-CP5x4Wq"
   },
   {
-    "chip_name": "Jerk",
+    "chip_name": "Lemon Herb Butter",
     "date": "2026-03-06",
-    "description": "Jerk, today's Chip of the Day, pays homage to Ghana's independence journey from Britain. Each crisp bite mirrors the bold flavors that marked this significant moment in history, celebrating freedom and heritage.",
-    "event_name": "Independence Day (Ghana), celebrates the independence of Ghana from the UK in 1957.",
-    "event_url": "https://en.wikipedia.org/wiki/March_6",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7JNNO7A0qFPx_ItSOQlNna11aBbsAvg3SdMoKxsjXE_Utr2wYUoTctXAOtVWpRlnDZt3BXgYM4z29hNAHBoIBjmHNq43cNw"
+    "description": "Today's pick is Lemon Herb Butter — a flavor inspired by the culinary traditions of Greece.",
+    "event_name": "Culinary traditions (Greece)",
+    "event_url": "",
+    "image_url": null
   },
   {
     "chip_name": "Queso",
@@ -128,12 +128,12 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStacH9i1IZ5vl2BVnD8WQHO0ka7ZtfskQOJ22yc6fcnRyZYEd4jz_jujvhIH0Qyv5iZCxB8h8JuEKf7ArZP8XZqrSsn8WtVg"
   },
   {
-    "chip_name": "Irish",
+    "chip_name": "Sour Cream Dab",
     "date": "2026-03-17",
-    "description": "Celebrate Irelands vibrant culture and rich history during St. Patrick's Day festivities with our specially crafted Tullamore Dew Irish Chip.",
-    "event_name": "St. Patrick's Day",
-    "event_url": "https://en.wikipedia.org/wiki/Saint_Patrick%27s_Day",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRTitC4uLIhLPb8Ba4tv1waMvaW4P6TuD6bKoWeYnLdTk84cZYW53hiCLW7j8G0IAmT12VYJio1-WAi2PL0ZmHIFHKxkQrRDw"
+    "description": "Today marks Evacuation Day in Massachusetts, commemorating the brave retreat of colonial forces. The Sour Cream Dab captures this historic moment with its bold, creamy flavor that stands strong against any challenge.",
+    "event_name": "Evacuation Day (Suffolk County, Massachusetts)",
+    "event_url": "https://en.wikipedia.org/wiki/March_17",
+    "image_url": null
   },
   {
     "chip_name": "Teriyaki Chicken",

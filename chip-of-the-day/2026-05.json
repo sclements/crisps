@@ -38,5 +38,13 @@
     "event_name": "Culinary traditions (Thailand)",
     "event_url": "",
     "image_url": null
+  },
+  {
+    "chip_name": "Black Pomegranate Sweet Oat",
+    "date": "2026-05-06",
+    "description": "Honoring the strength of Martyrs' Day, these Black Pomegranate Sweet Oat chips provide a deep, soulful flavor to celebrate an enduring legacy.",
+    "event_name": "Martyrs' Day (Lebanon and Syria)",
+    "event_url": "https://en.wikipedia.org/wiki/May_6",
+    "image_url": null
   }
 ]
