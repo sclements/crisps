@@ -1,5 +1,135 @@
 [
   {
+    "title": "Walkers brings back two crisp flavours after 20 years which fans say are 'confusingly good' - Liverpool Echo",
+    "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/walkers-brings-back-two-crisp-33406388",
+    "snippet": "",
+    "published_at": "Wed, 11 Feb 2026 08:00:00 GMT",
+    "source": "Liverpool Echo",
+    "score": 9,
+    "reason": "The title directly mentions 'Walkers' (a major crisp/chip brand) bringing back 'two crisp flavours,' which is highly relevant for a potato chip/crisps news website. The article focuses on specific flavor releases from a well-known snack brand, fitting the rubric criteria for direct potato chip/crisps coverage.",
+    "image_url": "https://i2-prod.liverpoolecho.co.uk/article33406696.ece/ALTERNATES/s1200d/0_1280x12802-ezgifcom-webp-to-jpg-converter.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "PepsiCo launches 'That’s Nuts' to reinvent nut snacks with crisp flavours - FoodBev Media",
+    "url": "https://www.foodbev.com/news/pepsico-launches-that-s-nuts-to-reinvent-nut-snacks-with-crisp-flavours",
+    "snippet": "",
+    "published_at": "Wed, 09 Jul 2025 07:00:00 GMT",
+    "source": "FoodBev Media",
+    "score": 7,
+    "reason": "PepsiCo is a major snack food company that operates Frito-Lay and produces Lay's potato chips, making it closely related to the chip/snack industry. While the article focuses on 'nut snacks' rather than potato chips specifically, PepsiCo's involvement in snack foods places this within the 7-8 range of relevance for a potato chip/crisps website.",
+    "image_url": "https://static.wixstatic.com/media/281327_824ddcb524fb4588a70035976ef1c832~mv2.jpg/v1/fill/w_666,h_375,al_c,q_80/281327_824ddcb524fb4588a70035976ef1c832~mv2.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Tyrrells launches new crisp flavour inspired by Downton Abbey - Somerset Live",
+    "url": "https://www.dorset.live/whats-on/food-drink/downton-abbey-tyrrells-flavour-tendendo-10418895",
+    "snippet": "",
+    "published_at": "Tue, 12 Aug 2025 07:00:00 GMT",
+    "source": "Somerset Live",
+    "score": 9,
+    "reason": "The article directly mentions 'new crisp flavour' which falls under potato chips/crisps category, and Tyrrells is a known crisp/chip brand in the UK snack market",
+    "image_url": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article10418896.ece/ALTERNATES/s1200/0_image001-31.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Fairfields Farm to host crisp taste testing event in Colchester city centre - Colchester Gazette",
+    "url": "https://www.gazette-news.co.uk/news/25841797.fairfields-farm-host-colchester-crisp-taste-tasting-event/",
+    "snippet": "",
+    "published_at": "Tue, 10 Feb 2026 08:00:00 GMT",
+    "source": "Colchester Gazette",
+    "score": 8,
+    "reason": "The article mentions 'crisp taste testing event' which directly relates to snack foods, and 'Fairfields Farm' appears to be a snack brand (known for crisps in the UK). This qualifies as closely related snack food coverage with a specific brand reference.",
+    "image_url": "https://www.gazette-news.co.uk/resources/images/20523230.jpg?type=og-image",
+    "category": "new_flavors"
+  },
+  {
+    "title": "I Tried the Most Popular Lay's Flavors, and the Winner Might Surprise You - Allrecipes",
+    "url": "https://www.allrecipes.com/lays-potato-chips-taste-test-11913989",
+    "snippet": "",
+    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT",
+    "source": "Allrecipes",
+    "score": 8,
+    "reason": "Title mentions 'Lay's' (a major potato chip brand) and 'flavors' which directly relates to potato chips, scoring 7+ for mentioning a known chip brand",
+    "category": "reviews"
+  },
+  {
+    "title": "I Tried All 13 Quest Chip Flavors and Ranked Them Worst To Best - AOL.com",
+    "url": "https://www.aol.com/articles/tried-13-quest-chip-flavors-011000634.html",
+    "snippet": "",
+    "published_at": "Tue, 03 Mar 2026 08:00:00 GMT",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article title mentions 'Quest Chip Flavors' and discusses ranking chip flavors, which falls under closely related snack foods (chips/crisps) with a specific focus on chip flavors and brand news.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/A62B6D805EEA247E722A25AED53E4FA15C32A0C647CE53AFD0DA0995137212B9/subgraphmysterio/resizefill_w1067_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_parade_744%2Fcf439f33ff0b674c46e6806a146bebe3",
+    "category": "reviews"
+  },
+  {
+    "title": "Doritos® Launches Boldest Innovation Yet: Doritos® Protein - PepsiCo",
+    "url": "https://www.pepsico.com/newsroom/press-releases/2026/doritos-launches-boldest-innovation-doritos-protein",
+    "snippet": "",
+    "published_at": "Thu, 26 Feb 2026 08:00:00 GMT",
+    "source": "PepsiCo",
+    "score": 8,
+    "reason": "The article mentions Doritos®, a known potato chip/snack brand, and 'Protein' as the innovation which positions it as a protein chip/functional snack food. This falls into the 'closely related snack foods' category with 7-8 points, as it's about a specific chip brand expanding into the protein chip market segment.",
+    "image_url": "https://digitalassets.pepsico.com/transform/4d317f57-b847-4f88-9602-204029f8badb/Doritos_Protein-nacho-cheese-sweet-tangy-bbq",
+    "category": "health"
+  },
+  {
+    "title": "Walkers discontinues 'favourite' crisp flavour in blow to UK households - Birmingham Live",
+    "url": "https://www.birminghammail.co.uk/whats-on/shopping/walkers-discontinues-favourite-crisp-flavour-32610675",
+    "snippet": "",
+    "published_at": "Sat, 04 Oct 2025 07:00:00 GMT",
+    "source": "Birmingham Live",
+    "score": 9,
+    "reason": "Title explicitly mentions 'Walkers' (a major potato chip/crisp brand) and 'crisp flavour', directly relating to potato chips and crisps news with a specific flavor discontinuation announcement",
+    "image_url": "https://i2-prod.birminghammail.co.uk/article32610692.ece/ALTERNATES/s1200d/0_walkers.jpg",
+    "category": "business"
+  },
+  {
+    "title": "The 11 Best International Chip Flavors to Try, According to a Snack Expert - AOL.com",
+    "url": "https://www.aol.com/articles/11-best-international-chip-flavors-133100225.html",
+    "snippet": "",
+    "published_at": "Fri, 27 Feb 2026 14:08:27 GMT",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The title mentions 'International Chip Flavors' which uses the word 'chip' in a food context, and it's about snack flavors which falls into the closely related snack foods category. While it doesn't specify a particular brand, it's clearly about chip flavors and snacks in general.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/CA51DFDCDCF376A1013832AE1F2183CE4B6FE979A47FC3717570DDCD5ED7B1A7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_food_wine_articles_308%2F9ade53d2fac1a8be1a0997a3ca6b6adf",
+    "category": "reviews"
+  },
+  {
+    "title": "Doritos Protein chips are coming. Here's what to know - USA Today",
+    "url": "https://www.usatoday.com/story/money/food/2026/02/26/doritos-protein-chips/88845377007/",
+    "snippet": "",
+    "published_at": "Fri, 27 Feb 2026 08:00:00 GMT",
+    "source": "USA Today",
+    "score": 8,
+    "reason": "The article mentions Doritos, which is a known chip/snack brand, and 'Protein chips' which falls into the closely related snack foods category. While not directly about traditional potato chips, it's about a protein-based chip variant from a major snack brand.",
+    "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/02/25/USAT/88867563007-doritos-protein-family.jpg?crop=9108,5121,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Huge change announced for Cheetos, Doritos coming next month - MLive.com",
+    "url": "https://www.mlive.com/news/2025/11/huge-change-announced-for-cheetos-doritos-coming-next-month.html",
+    "snippet": "",
+    "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
+    "source": "MLive.com",
+    "score": 8,
+    "reason": "Title mentions Doritos, which is a major potato chip/crisps brand, and Cheetos, which are cheese-flavored tortilla chips (closely related snack food). This falls into the 'closely related snack foods' category with known chip/snack brands, scoring 7-8",
+    "image_url": "https://www.mlive.com/resizer/v2/LSKNPXBEK5CMDG55LJCXYTXODE.jpg?auth=ddae0992d1ce48a158b4a33ae8c1d77d6e02490159fdbcc537f6851b568a1bbd&width=1280&smart=true&quality=90",
+    "category": "new_flavors"
+  },
+  {
+    "title": "PepsiCo Just Slashed Prices up to 15% on Lay’s, Tostitos, and Doritos (And Other Chips) - Simply Recipes",
+    "url": "https://www.simplyrecipes.com/pepsico-slashed-prices-on-lays-tostitos-doritos-11901172",
+    "snippet": "",
+    "published_at": "Fri, 06 Feb 2026 08:00:00 GMT",
+    "source": "Simply Recipes",
+    "score": 8,
+    "reason": "The title directly mentions PepsiCo's price cuts on Lay's, Tostitos, and Dorritos - all known chip/snack brands. This qualifies as direct business news about major snack food companies and their product lines, which falls squarely within the snack industry category. The article discusses specific chip brands and pricing changes for chips/crisps, meeting the criteria for a score of 8.",
+    "category": "business"
+  },
+  {
     "title": "Posh vegan chips selling for $46",
     "url": "https://www.news.com.au/finance/business/retail/londons-fortnum-and-mason-selling-46-vegan-chips/news-story/5c36832f2ce49fba0454f9a5f68267a3",
     "snippet": "A posh department store is selling vegan crisps for £25 ($A46) – and it has sparked a salty response from punters.",
