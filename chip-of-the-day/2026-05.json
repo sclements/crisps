@@ -6,5 +6,37 @@
     "event_name": "Armed Forces Day (Mauritania)",
     "event_url": "https://en.wikipedia.org/wiki/May_1",
     "image_url": null
+  },
+  {
+    "chip_name": "Cherry",
+    "date": "2026-05-02",
+    "description": "Today's pick is Cherry — a flavor inspired by the culinary traditions of Greece.",
+    "event_name": "Culinary traditions (Greece)",
+    "event_url": "",
+    "image_url": null
+  },
+  {
+    "chip_name": "Mild Green",
+    "date": "2026-05-03",
+    "description": "Today's pick is Mild Green — a flavor inspired by the culinary traditions of Cuba.",
+    "event_name": "Culinary traditions (Cuba)",
+    "event_url": "",
+    "image_url": null
+  },
+  {
+    "chip_name": "Creamy Ranch",
+    "date": "2026-05-04",
+    "description": "Celebrating the beauty of nature on Bird Day, we take flight with these savory Creamy Ranch chips.",
+    "event_name": "Bird Day (United States)",
+    "event_url": "https://en.wikipedia.org/wiki/May_4",
+    "image_url": null
+  },
+  {
+    "chip_name": "Grande Yuca Lemon Spicy",
+    "date": "2026-05-05",
+    "description": "Today's pick is Grande Yuca Lemon Spicy — a flavor inspired by the culinary traditions of Thailand.",
+    "event_name": "Culinary traditions (Thailand)",
+    "event_url": "",
+    "image_url": null
   }
 ]
