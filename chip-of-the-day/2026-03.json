@@ -40,12 +40,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHdEhosVJdvS5gf8HYF34zjkbqRXoUhb4KIWhoJilg-CP5x4Wq"
   },
   {
-    "chip_name": "Lemon Herb Butter",
+    "chip_name": "Onion Garlic",
     "date": "2026-03-06",
-    "description": "Today's pick is Lemon Herb Butter — a flavor inspired by the culinary traditions of Greece.",
-    "event_name": "Culinary traditions (Greece)",
+    "description": "Today's pick is Onion Garlic, drawn from the culinary traditions of Spain.",
+    "event_name": "Culinary traditions (Spain)",
     "event_url": "",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-03-06.webp"
   },
   {
     "chip_name": "Queso",
@@ -56,20 +56,20 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTUIqx07RhwqVErvbiaAKgi5909KKAO0rnr-XUZDZJ0yLcKMDMLsEZDvbtU0p04pzCp6oZ6vWukcOcitjtNM3kMvsMyXWzj"
   },
   {
-    "chip_name": "Lime Paprika",
+    "chip_name": "Maple",
     "date": "2026-03-08",
-    "description": "Lime Paprika Chip celebrates International Women's Day by honoring female leadership worldwide. Its vibrant tang and smoky essence pay tribute to the strength and flavor of global women leaders.",
-    "event_name": "International Women's Day, and its related observances: International Women's Collaboration Brew Day",
-    "event_url": "https://en.wikipedia.org/wiki/March_8",
-    "image_url": null
+    "description": "Today's pick is Maple, drawn from the culinary traditions of United States.",
+    "event_name": "Culinary traditions (United States)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-03-08.webp"
   },
   {
-    "chip_name": "Chipotle Lime",
+    "chip_name": "Roots",
     "date": "2026-03-09",
-    "description": "Today, savor the vibrant spirit of Days of March as we celebrate with Chipotle Lime - a bold twist on traditional flavors. Let this unique chip elevate your taste experience, just like the days that inspire it.",
-    "event_name": "Days of March",
-    "event_url": "https://en.wikipedia.org/wiki/March_9",
-    "image_url": null
+    "description": "Today's pick is Roots, drawn from the culinary traditions of Peru.",
+    "event_name": "Culinary traditions (Peru)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-03-09.webp"
   },
   {
     "chip_name": "Chipotles Chipotle Queso",
@@ -128,12 +128,12 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStacH9i1IZ5vl2BVnD8WQHO0ka7ZtfskQOJ22yc6fcnRyZYEd4jz_jujvhIH0Qyv5iZCxB8h8JuEKf7ArZP8XZqrSsn8WtVg"
   },
   {
-    "chip_name": "Sour Cream Dab",
+    "chip_name": "Guacamole",
     "date": "2026-03-17",
-    "description": "Today marks Evacuation Day in Massachusetts, commemorating the brave retreat of colonial forces. The Sour Cream Dab captures this historic moment with its bold, creamy flavor that stands strong against any challenge.",
-    "event_name": "Evacuation Day (Suffolk County, Massachusetts)",
-    "event_url": "https://en.wikipedia.org/wiki/March_17",
-    "image_url": null
+    "description": "Today's pick is Guacamole, drawn from the culinary traditions of Venezuela.",
+    "event_name": "Culinary traditions (Venezuela)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-03-17.webp"
   },
   {
     "chip_name": "Teriyaki Chicken",
@@ -160,12 +160,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfaHlQ5XxzPbIevSD8xk_NKd_CLonZ4ypnqOKRjkjjbN0IkA29pkAs4D_L2X1iw-19wZjs99ZqhXYVAixzpQOD6om_tVzzFJtoriGGXJyIjvCeDDPsK32qJw"
   },
   {
-    "chip_name": "Dill Pickle",
+    "chip_name": "Bay Salt Peppercorn",
     "date": "2026-03-21",
-    "description": "Today, we celebrate Oltenia Day in Romania. Pay tribute to this cultural event with our Dill Pickle chips - crisp and tangy, just like a traditional Romanian summer salad, bringing a burst of fresh flavor to your day.",
-    "event_name": "Oltenia Day (Romania)",
+    "description": "Today's Bay Salt Peppercorn chips capture Portugal's Arbor Day spirit, featuring the bold maritime flavors of coastal regions where sea salt meets peppery spices.",
+    "event_name": "Arbor Day (Portugal)",
     "event_url": "https://en.wikipedia.org/wiki/March_21",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-03-21.webp"
   },
   {
     "chip_name": "Chile Adobo Rolled",
@@ -224,12 +224,12 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSn6CQHFFitonM1U8N_IkEn78zuDw-58_VicocNTcu54jQiBpHkkWyNPlM4duyu4c2n1Kq29Wn9_GonQaBID4TJVFfCLDsRt2gpEQh9AZ3jq4aIpvUJWtut"
   },
   {
-    "chip_name": "Barbecue Smoky Mustard",
+    "chip_name": "Salt",
     "date": "2026-03-29",
-    "description": "Today's Chip of the Day is 'Barbecue Smoky Mustard', paying tribute to Day of the Young Combatant (Chile).",
-    "event_name": "Day of the Young Combatant (Chile)",
+    "description": "Today marks Taiwan's Youth Day honoring young people's role in society, celebrated with the Salt chip flavor that brings out the essential flavors of this vibrant culture through its clean, pure taste.",
+    "event_name": "Youth Day (Taiwan)",
     "event_url": "https://en.wikipedia.org/wiki/March_29",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-03-29.webp"
   },
   {
     "chip_name": "Jerk Chicken",

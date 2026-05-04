@@ -48,12 +48,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnlyres_AGhmeLwjWuIvHDUiQBB1ODANIhzyTFQiFZReeWYTXDqzDjsNqEK_eVe0cyJhVCG6Um_WNfe84NRw8opLiqTEoKGw"
   },
   {
-    "chip_name": "Parmesan Herb",
+    "chip_name": "Dill Ranch",
     "date": "2026-02-07",
-    "description": "Today marks Grenada's independence from the United Kingdom. Embrace freedom and flavor with our Parmesan Herb chips, celebrating diversity through every bite.",
-    "event_name": "Independence Day (Grenada), celebrates the independence of Grenada from the United Kingdom in 1974.",
+    "description": "Dill Ranch chips channel today's awareness spotlight on Black HIV/AIDS awareness, bringing the fresh, zesty flavor that helps celebrate and honor lives affected by this health crisis.",
+    "event_name": "National Black HIV/AIDS Awareness Day (United States)",
     "event_url": "https://en.wikipedia.org/wiki/February_7",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-02-07.webp"
   },
   {
     "chip_name": "Masala",
@@ -104,12 +104,12 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTDL7GFS6_oyzDGuF7UBLuDFcp6jaby1XwbMlu8iillhke1oaJngfc_EkE8xL9Vh1DHffhYSg4aZhRVduYJVVhvJw_UoZBFG8cCqgrEs4TQnHNBuxEZpAaF"
   },
   {
-    "chip_name": "Truffle Mushroom Brie",
+    "chip_name": "Maple Bacon",
     "date": "2026-02-14",
-    "description": "Today's celebration brings us Truffle Mushroom Brie - a gourmet delight reminiscent of February's cozy evenings.",
-    "event_name": "Days of February",
+    "description": "Oregon celebrates its statehood today, and these Maple Bacon chips capture the Pacific Northwest's cozy spirit with their sweet and smoky flavor profile that perfectly embodies the region's agricultural heritage.",
+    "event_name": "Statehood Day (Oregon, United States)",
     "event_url": "https://en.wikipedia.org/wiki/February_14",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-02-14.webp"
   },
   {
     "chip_name": "Rice Cauliflower Nacho",
@@ -160,20 +160,20 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMwwR9Co5A_WMSzedm01eSlgjdP_L8THqxQjsndnv57lzt2482JeXSwix4EqYJOVEtrw0X30vmVxLJsn7bf9F9y1sNXwnwHWOR7W76gRg"
   },
   {
-    "chip_name": "Lime zest",
+    "chip_name": "Garlic Herbs",
     "date": "2026-02-21",
-    "description": "On this day, we honor Vanuatu's cultural richness. Enjoy Lime Zest chips and savor the vibrant flavors of its cuisine, celebrating Father Lini Day.",
-    "event_name": "Father Lini Day (Vanuatu)",
+    "description": "Today's Language Movement Day in Bangladesh celebrates linguistic pride and cultural identity through the vibrant flavors of Garlic Herbs chips, bringing together the bold spices and herbs that define Bangladesh's rich culinary heritage.",
+    "event_name": "Language Movement Day (Bangladesh)",
     "event_url": "https://en.wikipedia.org/wiki/February_21",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-02-21.webp"
   },
   {
-    "chip_name": "Truffle Salt",
+    "chip_name": "Nacho Cheese",
     "date": "2026-02-22",
-    "description": "Truffle Salt, today's ode to Saint Lucia's independence from the UK.",
-    "event_name": "Independence Day, celebrates the independence of Saint Lucia from the United Kingdom in 1979.",
-    "event_url": "https://en.wikipedia.org/wiki/February_22",
-    "image_url": null
+    "description": "Today's pick is Nacho Cheese, drawn from the culinary traditions of Dominican Republic.",
+    "event_name": "Culinary traditions (Dominican Republic)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-02-22.webp"
   },
   {
     "chip_name": "Banana",
@@ -200,12 +200,12 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSk1lDVxK-xb9_r87o1HvImB7BVY2MWS02Z6xiCEVNCHzjxmBtw"
   },
   {
-    "chip_name": "Smoky Bacon",
+    "chip_name": "Amaranth",
     "date": "2026-02-26",
-    "description": "Today's pick is Smoky Bacon — a flavor inspired by the culinary traditions of Austria.",
-    "event_name": "Culinary traditions (Austria)",
+    "description": "Today's pick is Amaranth, drawn from the culinary traditions of Morocco.",
+    "event_name": "Culinary traditions (Morocco)",
     "event_url": "",
-    "image_url": null
+    "image_url": "chip-of-the-day/images/2026-02-26.webp"
   },
   {
     "chip_name": "Plantain",
