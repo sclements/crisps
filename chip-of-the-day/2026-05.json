@@ -54,5 +54,29 @@
     "event_name": "Culinary traditions (Yemen)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-07.webp"
+  },
+  {
+    "chip_name": "Beer",
+    "date": "2026-05-08",
+    "description": "Celebrating Czech liberation today, these Beer chips offer a savory toast to the spirit of freedom.",
+    "event_name": "Liberation Day (Czech Republic)",
+    "event_url": "https://en.wikipedia.org/wiki/May_8",
+    "image_url": "chip-of-the-day/images/2026-05-08.webp"
+  },
+  {
+    "chip_name": "Dried Lemon",
+    "date": "2026-05-09",
+    "description": "Today's pick is Dried Lemon, drawn from the culinary traditions of Tunisia.",
+    "event_name": "Culinary traditions (Tunisia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-09.webp"
+  },
+  {
+    "chip_name": "Carolina Bbq",
+    "date": "2026-05-10",
+    "description": "Honoring regional history on this day, we present Carolina Bbq. Taste the tangy-sweet tradition of the Carolinas in every bite.",
+    "event_name": "Confederate Memorial Day (North Carolina and South Carolina)",
+    "event_url": "https://en.wikipedia.org/wiki/May_10",
+    "image_url": "chip-of-the-day/images/2026-05-10.webp"
   }
 ]

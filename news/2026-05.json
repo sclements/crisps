@@ -392,6 +392,28 @@
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtxTApNWgRwOMx7tY0CznLe_-T7ddpChMkOtoHE8l9n-KobLDSk1HJLk&usqp=CAI&s"
   },
   {
+    "title": "Potato Chips and Nut Mixes Recalled for Salmonella Risk",
+    "url": "https://www.consumerreports.org/health/food-recalls/potato-chips-and-nut-mixes-recalled-for-salmonella-risk-a6307275780/",
+    "snippet": "",
+    "published_at": "05/07/2026, 03:31 PM, +0000 UTC",
+    "source": "Consumer Reports",
+    "score": 10,
+    "reason": "The article is a direct news report regarding a product recall for potato chips, which falls into the highest relevance category.",
+    "image_url": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1778097906/prod/content/dam/CRO-images-2026/Health/CR-Health-InlineHero-Zapps-and-Dirty-Potato-Chips-Recall-0526-v2",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "The Company Behind Takis Just Launched a Brand-New Chip at Walmart",
+    "url": "https://sporked.com/article/mi-tierra-tortilla-strips-walmart-2026/",
+    "snippet": "Barcel, the company behind Takis, has launched Mi Tierra tortilla strips at Walmart with three flavors inspired by traditional Mexican snack...",
+    "published_at": "05/06/2026, 03:31 PM, +0000 UTC",
+    "source": "Sporked",
+    "score": 8,
+    "reason": "The article covers the launch of a new tortilla chip brand by a well-known snack company. While it is a 'chip', the product type (tortilla strips) falls into the 7-8 category of closely related snack foods.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/05/NEWS_NEW-MI-TIERRA-CHIPS-2026_HEADER.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "Utz recalls Zapp's and Dirty chips over salmonella concerns",
     "url": "https://qz.com/utz-zapps-dirty-potato-chips-salmonella-recall-050526",
     "snippet": "",
