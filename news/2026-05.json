@@ -21,6 +21,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "The best Christmas crisps for all your 2025 festive get-togethers - Good Housekeeping",
+    "url": "https://www.goodhousekeeping.com/uk/food/food-reviews/g45426600/best-christmas-crisps/",
+    "snippet": "",
+    "published_at": "2025-10-14T07:00:00Z",
+    "source": "Good Housekeeping",
+    "score": 9,
+    "reason": "The article is a direct product review and recommendation guide for crisps, making it highly relevant to a potato chip/crisp news website.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/best-christmas-crisps-lead-68ee2bb59401b.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "category": "reviews"
+  },
+  {
     "title": "Fairfields Farm to host crisp taste testing event in Colchester city centre - Colchester Gazette",
     "url": "https://www.gazette-news.co.uk/news/25841797.fairfields-farm-host-colchester-crisp-taste-tasting-event/",
     "snippet": "",
@@ -62,6 +73,17 @@
     "reason": "The article mentions Doritos\u00ae, a known potato chip/snack brand, and 'Protein' as the innovation which positions it as a protein chip/functional snack food. This falls into the 'closely related snack foods' category with 7-8 points, as it's about a specific chip brand expanding into the protein chip market segment.",
     "image_url": "https://digitalassets.pepsico.com/transform/4d317f57-b847-4f88-9602-204029f8badb/Doritos_Protein-nacho-cheese-sweet-tangy-bbq",
     "category": "health"
+  },
+  {
+    "title": "Skips brings back 'phenomenal' flavour to the UK after a decade - Metro.co.uk",
+    "url": "https://metro.co.uk/2025/12/18/skips-brings-back-phenomenal-flavour-uk-a-decade-25582821/",
+    "snippet": "",
+    "published_at": "2025-12-18T08:00:00Z",
+    "source": "Metro.co.uk",
+    "score": 9,
+    "reason": "The article is about flavor relaunch news for Skips, a well-known snack brand. This falls directly under brand and flavor news relevant to the snack industry.",
+    "image_url": "https://metro.co.uk/wp-content/uploads/2025/12/SEI_278367309-2661_1766075380.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "category": "new_flavors"
   },
   {
     "title": "Quaker Just Released a New Version of My Family's Favorite Snack",
@@ -113,6 +135,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "Walkers discontinues 'favourite' crisp flavour in blow to UK households - Birmingham Live",
+    "url": "https://www.birminghammail.co.uk/whats-on/shopping/walkers-discontinues-favourite-crisp-flavour-32610675",
+    "snippet": "",
+    "published_at": "2025-10-04T07:00:00Z",
+    "source": "Birmingham Live",
+    "score": 9,
+    "reason": "Title explicitly mentions 'Walkers' (a major potato chip/crisp brand) and 'crisp flavour', directly relating to potato chips and crisps news with a specific flavor discontinuation announcement",
+    "image_url": "https://i2-prod.birminghammail.co.uk/article32610692.ece/ALTERNATES/s1200d/0_walkers.jpg",
+    "category": "business"
+  },
+  {
     "title": "When life gives you chips\u2026 stop overpaying for them",
     "url": "https://www.citizen.co.za/lifestyle/food-and-drink/stop-overpaying-for-potato-chips/",
     "snippet": "Some bags of potato chips are close to R30 a bag. Here's how to save on chips without losing flavour.",
@@ -130,6 +163,15 @@
     "score": 7,
     "reason": "The article is about tortilla chips made in an air fryer, which are closely related to potato chips/crisps as they are both types of crispy snack foods. While not directly about potato chips, tortilla chips fall into the 'closely related snack foods' category that scores 7-8, and this article specifically mentions 'chips' in the title and content.",
     "category": "oddities"
+  },
+  {
+    "title": "The Trader Joe's potato chip dupe that actually beats the original",
+    "url": "https://www.msn.com/en-us/food-and-drink/general/the-trader-joe-s-potato-chip-dupe-that-actually-beats-the-original/ar-AA1U4fjO",
+    "snippet": "Trader Joe's has a potato chip dupe for one of the biggest and most popular brands on the market that's so delicious it might actually be even better.",
+    "published_at": "2026-01-12T11:30:00Z",
+    "score": 9,
+    "reason": "The title directly mentions 'potato chip dupe' and 'Trader Joe's potato chip' which clearly falls into the 'directly about potato chips/crisps' category. The snippet reinforces this by discussing a Trader Joe's chip product that competes with major chip brands, making it highly relevant for a potato chip/crisps news website.",
+    "category": "reviews"
   },
   {
     "title": "The 11 Best International Chip Flavors to Try, According to a Snack Expert - AOL.com",
@@ -172,6 +214,38 @@
     "score": 8,
     "reason": "The article is about a chef developing new crisp flavors, which directly relates to the snack food industry. While it doesn't mention a specific brand name in the snippet, it's clearly about creating new flavors for potato crisps/snacks, which falls into the 'closely related snack foods' category with direct relevance to crisp manufacturers and flavor development.",
     "category": "oddities"
+  },
+  {
+    "title": "Huge change announced for Cheetos, Doritos coming next month - MLive.com",
+    "url": "https://www.mlive.com/news/2025/11/huge-change-announced-for-cheetos-doritos-coming-next-month.html",
+    "snippet": "",
+    "published_at": "2025-11-14T08:00:00Z",
+    "source": "MLive.com",
+    "score": 8,
+    "reason": "Title mentions Doritos, which is a major potato chip/crisps brand, and Cheetos, which are cheese-flavored tortilla chips (closely related snack food). This falls into the 'closely related snack foods' category with known chip/snack brands, scoring 7-8",
+    "image_url": "https://www.mlive.com/resizer/v2/LSKNPXBEK5CMDG55LJCXYTXODE.jpg?auth=ddae0992d1ce48a158b4a33ae8c1d77d6e02490159fdbcc537f6851b568a1bbd&width=1280&smart=true&quality=90",
+    "category": "new_flavors"
+  },
+  {
+    "title": "PepsiCo Just Slashed Prices up to 15% on Lay\u2019s, Tostitos, and Doritos (And Other Chips) - Simply Recipes",
+    "url": "https://www.simplyrecipes.com/pepsico-slashed-prices-on-lays-tostitos-doritos-11901172",
+    "snippet": "",
+    "published_at": "2026-02-06T08:00:00Z",
+    "source": "Simply Recipes",
+    "score": 8,
+    "reason": "The title directly mentions PepsiCo's price cuts on Lay's, Tostitos, and Dorritos - all known chip/snack brands. This qualifies as direct business news about major snack food companies and their product lines, which falls squarely within the snack industry category. The article discusses specific chip brands and pricing changes for chips/crisps, meeting the criteria for a score of 8.",
+    "category": "business"
+  },
+  {
+    "title": "IShowSpeed\u2019s Chip Flavor Leaked After Doritos\u2019 Collab Tease - Yahoo",
+    "url": "https://www.yahoo.com/entertainment/celebrity/articles/ishowspeed-chip-flavor-leaked-doritos-013000050.html",
+    "snippet": "",
+    "published_at": "2026-01-02T08:00:00Z",
+    "source": "Yahoo",
+    "score": 9,
+    "reason": "The article is directly about a new flavor leak from a major chip brand (Doritos), falling under the highest category of relevance.",
+    "image_url": "https://s.yimg.com/os/en/reality_tea_694/06d9a75ffca5f90269f6c687ba138bdb",
+    "category": "new_flavors"
   },
   {
     "title": "Costco launches Doritos protein chips with 10g protein per serving",
