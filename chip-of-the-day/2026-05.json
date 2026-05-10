@@ -86,5 +86,13 @@
     "event_name": "Culinary traditions (Albania)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-11.webp"
+  },
+  {
+    "chip_name": "Dill Pickle",
+    "date": "2026-05-12",
+    "description": "Today's pick is Dill Pickle, drawn from the culinary traditions of Denmark.",
+    "event_name": "Culinary traditions (Denmark)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-12.webp"
   }
 ]

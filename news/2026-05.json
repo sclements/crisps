@@ -1,5 +1,16 @@
 [
   {
+    "title": "America's favorite snacks, according to data—and Doritos are only #14 - AOL.com",
+    "url": "https://www.aol.com/news/americas-favorite-snacks-according-data-173323816.html",
+    "snippet": "",
+    "published_at": "2026-05-09T21:08:14Z",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The title mentions a major chip brand (Doritos) and discusses snack popularity rankings, which falls under the category of closely related snack food news.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/16C28593C267124F8EA96D2BF2859A1AE0EBB183666C75431B8FE28E2AA38E8D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_stacker_articles_387%2Ffb2062aa1093f19de7307ea3acbbe061",
+    "category": "business"
+  },
+  {
     "title": "Posh vegan chips selling for $46",
     "url": "https://www.news.com.au/finance/business/retail/londons-fortnum-and-mason-selling-46-vegan-chips/news-story/5c36832f2ce49fba0454f9a5f68267a3",
     "snippet": "A posh department store is selling vegan crisps for £25 ($A46) – and it has sparked a salty response from punters.",
@@ -9,6 +20,17 @@
     "reason": "The article is directly about a specific type of snack (vegan crisps/chips) and its market pricing, which falls under product-related news.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtxTApNWgRwOMx7tY0CznLe_-T7ddpChMkOtoHE8l9n-KobLDSk1HJLk&usqp=CAI&s",
     "category": "oddities"
+  },
+  {
+    "title": "7 Hippeas Puffs Flavors, Ranked - AOL.com",
+    "url": "https://www.aol.com/articles/7-hippeas-puffs-flavors-ranked-092000000.html",
+    "snippet": "",
+    "published_at": "2026-05-09T10:58:17Z",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article is a flavor ranking for Hippeas, which are veggie/protein-based snack puffs, falling under closely related snack foods.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/6C4A9A4FDA82DE6F9AFAD5E9B5E2B897CAF3BB1907B8093C34A5B1554489F362/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_tasting_table_516%2F80512c8227f034e5cbaf883681c84007",
+    "category": "reviews"
   },
   {
     "title": "We Tried 13 Potato Chips at Trader Joe’s — This Was the 1 Clear Winner",
@@ -227,6 +249,17 @@
     "score": 9,
     "reason": "Directly about potato crisps with a specific brand (Fairfields Farm Crisps) and new flavor launch (Cajun Barbecue). The title explicitly mentions 'crisps' and the snippet references a 'limited edition' crisp product, making this highly relevant for a potato chip/crisps news website.",
     "image_url": "https://retailtimes.co.uk/wp-content/uploads/2026/05/Cajun_Barbecue_FOP_150G1-1024x1024.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Shoppers rush to try new Walkers crisps flavour that is 'like a holiday in your mouth' - The Mirror",
+    "url": "https://www.mirror.co.uk/lifestyle/food-drink/shoppers-rush-try-new-walkers-37076575",
+    "snippet": "",
+    "published_at": "2026-04-27T07:00:00Z",
+    "source": "The Mirror",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release from Walkers, a major potato chip brand.",
+    "image_url": "https://i2-prod.mirror.co.uk/article37076574.ece/ALTERNATES/s1200d/0_Wales-Daily-Life.jpg",
     "category": "new_flavors"
   },
   {
