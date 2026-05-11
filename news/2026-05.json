@@ -1,5 +1,49 @@
 [
   {
+    "title": "London now has its first crisp restaurant: HipChips",
+    "url": "https://www.potatopro.com/news/2016/london-now-has-its-first-crisp-restaurant-hipchips",
+    "snippet": "From TIMEOUT Blog London, PotatoPro learned that London now has its first 'Crisp Restaurant'. This paradise for potato (chips) lovers is located in Soho and...",
+    "published_at": "2026-05-11T18:23:09Z",
+    "source": "PotatoPro",
+    "score": 9,
+    "reason": "The article is directly about a restaurant specializing in crisps (potato chips), which falls under direct news for the niche.",
+    "image_url": "https://media.potatopro.com/hipchips-storefront-1-1200.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "‘What’s not to love?’ Co-op launches 2 ‘proper crowd pleasers’ as supermarket expands ‘iconic’ range - but be quick",
+    "url": "https://www.gbnews.com/lifestyle/food/co-op-new-food-crisp-flavours-garlic-bread-thai-green-curry",
+    "snippet": "Co-op is preparing fans as the supermarket is readying to launch two brand-new crisp flavours that are set to “take shoppers by storm”",
+    "published_at": "2026-05-11T18:22:58Z",
+    "source": "GB News",
+    "score": 10,
+    "reason": "The article is directly about the launch of new crisp (potato chip) flavors, which falls into the highest relevance category.",
+    "image_url": "https://www.gbnews.com/media-library/co-op-store.jpg?id=61337553&width=1200&height=600&coordinates=0%2C427%2C0%2C427",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Calbee to sell potato chips in monochrome packaging due to naphtha shortage",
+    "url": "https://english.kyodonews.net/articles/-/75735",
+    "snippet": "Japan's leading potato chip maker Calbee Inc. will start selling some of its potato chip products in black-and-white packaging due to a...",
+    "published_at": "2026-05-11T14:12:24Z",
+    "source": "Japan Wire by Kyodo News",
+    "score": 9,
+    "reason": "The article is direct brand news regarding a major potato chip company (Calbee) and its specific product packaging, falling into the highest relevance category.",
+    "image_url": "https://english-kyodo.ismcdn.jp/mwimgs/c/b/1200x/img_cb8d97ceb692bc31aa93d0002578e894836164.jpg",
+    "category": "business"
+  },
+  {
+    "title": "If You Bought These Pita Chips, Don’t Eat Them",
+    "url": "https://www.mensjournal.com/news/if-you-bought-these-pita-chips-dont-eat-them",
+    "snippet": "If you've got a bag of pita chips sitting in your pantry for game night or a quick post-gym snack, you may want to take a closer look.",
+    "published_at": "2026-05-11T06:12:33Z",
+    "source": "Men's Journal",
+    "score": 7,
+    "reason": "The article is about a food safety warning/recall for pita chips, which falls under the 'closely related snack foods' category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR93uNO0b4-T9hj71Sz5sYlHcaNCdwQ32LswLuAU682N-ae7dnQXk2vpU&usqp=CAI&s",
+    "category": "recalls_safety"
+  },
+  {
     "title": "America's favorite snacks, according to data—and Doritos are only #14 - AOL.com",
     "url": "https://www.aol.com/news/americas-favorite-snacks-according-data-173323816.html",
     "snippet": "",

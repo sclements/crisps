@@ -94,5 +94,13 @@
     "event_name": "Culinary traditions (Denmark)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-12.webp"
+  },
+  {
+    "chip_name": "Tomato Olives Oregano",
+    "date": "2026-05-13",
+    "description": "Today's pick is Tomato Olives Oregano, drawn from the culinary traditions of Cyprus.",
+    "event_name": "Culinary traditions (Cyprus)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-13.webp"
   }
 ]
