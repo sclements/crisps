@@ -102,5 +102,13 @@
     "event_name": "Culinary traditions (Cyprus)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-13.webp"
+  },
+  {
+    "chip_name": "Bakery Millet",
+    "date": "2026-05-14",
+    "description": "Today's pick is Bakery Millet, drawn from the culinary traditions of Mali.",
+    "event_name": "Culinary traditions (Mali)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-14.webp"
   }
 ]
