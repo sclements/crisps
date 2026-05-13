@@ -110,5 +110,13 @@
     "event_name": "Culinary traditions (Mali)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-14.webp"
+  },
+  {
+    "chip_name": "Spicy Dill Pickle",
+    "date": "2026-05-15",
+    "description": "Today's pick is Spicy Dill Pickle, drawn from the culinary traditions of Ukraine.",
+    "event_name": "Culinary traditions (Ukraine)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-15.webp"
   }
 ]

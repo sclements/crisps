@@ -1,5 +1,71 @@
 [
   {
+    "title": "McCain Questions 'Chip or Crisp?' With New Vibes Range",
+    "url": "https://creative.salon/articles/work/mccain-indescribably-good-snacks",
+    "snippet": "McCain is sparking a national debate about how to describe its new sharing snack, a hot chip/crisp combo called Vibes, with a campaign by adam&eveDDB.",
+    "published_at": "2026-05-13T19:36:14Z",
+    "source": "Creative Salon",
+    "score": 10,
+    "reason": "This is direct brand news regarding a new potato chip/crisp product launch, which falls into the highest relevance category.",
+    "image_url": "https://img2.storyblok.com/560x300/f/102932/1240x697/b32f78f9ac/mccain-vibes-adam-eveddb.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Crisp packet colours should have an international flavour standard",
+    "url": "https://www.smh.com.au/goodfood/eating-out/crisp-packet-colours-should-have-an-international-flavour-standard-20200306-h1mc8u.html",
+    "snippet": "It started innocently enough, but a green packet of chicken flavoured crisps caused an international kerfuffle on twitter.",
+    "published_at": "2026-05-13T19:36:14Z",
+    "source": "SMH.com.au",
+    "score": 9,
+    "reason": "The article is directly about the flavoring and packaging of crisps (potato chips), which falls into the top tier of relevance.",
+    "image_url": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.4%2C$ratio_1.777778%2C$width_2000%2C$x_0%2C$y_136/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/bb51a096aa867b89825d9ed335cfbffe75f69ea1",
+    "category": "oddities"
+  },
+  {
+    "title": "Watch: FIFA World Cup spawns new crisp flavours - but do UK or US' sound tastier?",
+    "url": "https://metro.co.uk/video/fifa-world-cup-spawns-new-crisp-flavours-3650677/",
+    "snippet": "Video: FIFA World Cup spawns new crisp flavours - but do UK or US' sound tastier? Walkers have dropped a bunch of new crisp flavours as part...",
+    "published_at": "2026-05-13T14:35:53Z",
+    "source": "Metro.co.uk",
+    "score": 10,
+    "reason": "The article is directly about new flavors of crisps (potato chips) from a major brand (Walkers), which falls into the highest relevance category.",
+    "image_url": "https://metro.co.uk/wp-content/uploads/2026/05/108581217-0-image-m-53_1778683510924_1778683764.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Fritos’ New Limited-Time Flavor Twists Are Bringing Serious Heat This Summer",
+    "url": "https://www.aol.com/articles/fritos-limited-time-flavor-twists-110000365.html",
+    "snippet": "Move over, Honey BBQ, Fritos will soon release a new flavor that packs a punch in honor of America's 250th birthday: Fritos Flavor Twists...",
+    "published_at": "2026-05-13T14:35:43Z",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article is about a new flavor release from Fritos, a well-known snack brand. While specifically corn chips rather than potato chips, it falls under closely related snack foods and brand news.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/8890D3E3B013EBEAAD9FC113C9C8266DEA602E3DA47F38DA4A476DEFFFD8059A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_parade_744%2F34422f57ee247d0457f7423056326e14",
+    "category": "new_flavors"
+  },
+  {
+    "title": "The Potato Chips That Sold Out Multiple Times Last Year Are Finally Back, and Better Than Ever",
+    "url": "https://www.aol.com/articles/potato-chips-sold-multiple-times-140000602.html",
+    "snippet": "It takes a lot for a snack to get my attention—and even more to end up in my cart again and again. Each year, I try hundreds, if not thousands of new...",
+    "published_at": "2026-05-13T14:35:31Z",
+    "source": "AOL.com",
+    "score": 10,
+    "reason": "The article is directly about potato chips, which falls into the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/DF0DABBD78F446D4CCCDCC24FD0921825B1C4BCEE6C1E485E58CD8A18A8B2DEA/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_allrecipes_articles_781%2F4d237a3bb46657dbd05c3f586ff75bd7",
+    "category": "reviews"
+  },
+  {
+    "title": "I Didn't Have Graza Dominating The Potato Chip Game On My Bingo Card And Yet Here We Are",
+    "url": "https://www.tastingtable.com/2169927/graza-homestyle-potato-chips-review/",
+    "snippet": "Best known for its award-winning olive oil, Graza has just released a new line of potato chips. Here's our verdict on each of the four...",
+    "published_at": "2026-05-13T12:35:32Z",
+    "source": "Tasting Table",
+    "score": 10,
+    "reason": "The article is directly about a brand releasing and reviewing a new line of potato chips, which falls into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64lbdCiHahX5ObFG7ODWh5BMVuLf90hRDGgk4-AcG4kY2U56wlcVfVKI&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
     "title": "UK potato chips brand Real crisps runs 'political campaign'",
     "url": "https://www.potatopro.com/news/2010/uk-potato-chips-brand-real-crisps-runs-political-campaign",
     "snippet": "Real Crisps, a popular hand cooked crisps and chips brand in the United Kingdom, is embarking on an innovative campaign in a bid to unveil who UK consumers...",
