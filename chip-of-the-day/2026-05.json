@@ -126,5 +126,13 @@
     "event_name": "Culinary traditions (Carolina)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-16.webp"
+  },
+  {
+    "chip_name": "Banana Jaggery",
+    "date": "2026-05-17",
+    "description": "Today's pick is Banana Jaggery, drawn from the culinary traditions of Sri Lanka.",
+    "event_name": "Culinary traditions (Sri Lanka)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-17.webp"
   }
 ]
