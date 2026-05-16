@@ -134,5 +134,13 @@
     "event_name": "Culinary traditions (Sri Lanka)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-17.webp"
+  },
+  {
+    "chip_name": "Sriracha",
+    "date": "2026-05-18",
+    "description": "Today's pick is Sriracha, drawn from the culinary traditions of Taiwan.",
+    "event_name": "Culinary traditions (Taiwan)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-18.webp"
   }
 ]
