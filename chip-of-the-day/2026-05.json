@@ -142,5 +142,53 @@
     "event_name": "Culinary traditions (Taiwan)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-18.webp"
+  },
+  {
+    "chip_name": "Bakery Cardamom",
+    "date": "2026-05-19",
+    "description": "Reflecting on the spirit of remembrance today. These Bakery Cardamom chips deliver a warm, nostalgic spice that honors timeless tradition.",
+    "event_name": "Remembrance Day (Sri Lanka)",
+    "event_url": "https://en.wikipedia.org/wiki/May_19",
+    "image_url": "chip-of-the-day/images/2026-05-19.webp"
+  },
+  {
+    "chip_name": "Grande Yuca Lemon Spicy",
+    "date": "2026-05-20",
+    "description": "Honoring Cambodia's history on this day of remembrance. These Grande Yuca Lemon Spicy chips offer a bold, bright zest to honor an enduring spirit.",
+    "event_name": "Day of Remembrance (Cambodia)",
+    "event_url": "https://en.wikipedia.org/wiki/May_20",
+    "image_url": "chip-of-the-day/images/2026-05-20.webp"
+  },
+  {
+    "chip_name": "Italian Hoagie",
+    "date": "2026-05-21",
+    "description": "Celebrating the vibrant spirit of Afro-Colombian Day, we bring bold, global flavors to your palate with our Italian Hoagie chips.",
+    "event_name": "Afro-Colombian Day (Colombia)",
+    "event_url": "https://en.wikipedia.org/wiki/May_21",
+    "image_url": "chip-of-the-day/images/2026-05-21.webp"
+  },
+  {
+    "chip_name": "Chile Limon",
+    "date": "2026-05-22",
+    "description": "Today's pick is Chile Limon, drawn from the culinary traditions of Cyprus.",
+    "event_name": "Culinary traditions (Cyprus)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-22.webp"
+  },
+  {
+    "chip_name": "Bombay Spice",
+    "date": "2026-05-23",
+    "description": "Today's pick is Bombay Spice, drawn from the culinary traditions of Jamaica.",
+    "event_name": "Culinary traditions (Jamaica)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-23.webp"
+  },
+  {
+    "chip_name": "Sweet",
+    "date": "2026-05-24",
+    "description": "Today's pick is Sweet, drawn from the culinary traditions of Venezuela.",
+    "event_name": "Culinary traditions (Venezuela)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-24.webp"
   }
 ]

@@ -1,5 +1,159 @@
 [
   {
+    "title": "'That's really disappointing': Coles and Woolworths confirm removal of popular snack",
+    "url": "https://kitchen.nine.com.au/latest/tyrrells-potato-chips-disappear-coles-woolworths-supermarkets-confirm-removal/da6c9154-f0e1-4c1b-9bdc-0b12e561fe7b",
+    "snippet": "\"It's been confirmed from Tyrell's that Woolworths, Coles and IGA have stopped stocking these. Gone from their shelves without warning or even...",
+    "published_at": "2026-05-22T18:28:32Z",
+    "source": "9honey Kitchen",
+    "score": 9,
+    "reason": "The article is direct brand news regarding Tyrell's, a well-known potato chip manufacturer, specifically about the removal of a product from retail shelves.",
+    "image_url": "https://imageresizer.static9.net.au/xxJVv7pkupnWASGzkVbbgYw7Wq4=/0x378:4032x2646/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F40e17bae-6341-4d14-bdb4-c0f69fb92f16",
+    "category": "business"
+  },
+  {
+    "title": "Utz Lemonade Chips Are Returning for Summer—Now With a ‘Sizzlin’ New Flavor",
+    "url": "https://parade.com/food/utz-lemonade-chips-new-sizzlin-ripples-summer-flavors",
+    "snippet": "Utz is bringing back its controversial-turned-cult-favorite Lemonade Chips this summer, and this year, it's coming with an even bolder new...",
+    "published_at": "2026-05-22T18:22:24Z",
+    "source": "Parade",
+    "score": 10,
+    "reason": "The article is directly about a specific potato chip flavor and brand news (Utz), which falls under the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4--cqE-vr_N4-V01ZI95Ch9va_NHEToJtdUEgLHmdAELhwKbP56M40NE&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
+    "title": "'Batch after batch': I've finally found the best way to air-fry potato chips",
+    "url": "https://www.taste.com.au/taste-test-kitchen/articles/batch-after-batch-ive-finally-found-best-way-air-fry-potato-chips/juh1uyjo",
+    "snippet": "I have now made more batches of air fryer chips than I care to admit, in the hope of achieving one thing: chips that are genuinely crispy on...",
+    "published_at": "2026-05-22T14:28:24Z",
+    "source": "Taste",
+    "score": 9,
+    "reason": "The article is directly about making potato chips. According to the key rules, any mention of 'chips' in a food context must score 7 or higher; since this is a primary focus on the product itself, it qualifies for the top tier.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGEnskrN0mcuXvd1f_anxbrUxUa7qj4Zu3o8Z04uvtoZ_DtXS1yebjlQ&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "BonBon Evolves Into Savory Snacks",
+    "url": "https://www.preparedfoods.com/articles/131612-bonbon-evolves-into-savory-snacks",
+    "snippet": "BonBon Swedish Candy Co. is expanding beyond confectionery with the launch of its first savory snack line. The new potato chips highlight...",
+    "published_at": "2026-05-22T12:28:24Z",
+    "source": "Prepared Foods",
+    "score": 9,
+    "reason": "The article is directly about the launch of a new potato chip line, which falls under brand news and product launches for potato chips.",
+    "image_url": "https://www.preparedfoods.com/ext/resources/2026/05/20/BonBon_GotlandChips_900.jpg?height=635&t=1779296499&width=1200",
+    "category": "new_flavors"
+  },
+  {
+    "title": "6 Best Chips To Use For Walking Tacos",
+    "url": "https://www.chowhound.com/2176809/best-chips-use-walking-tacos/",
+    "snippet": "From extra-crunchy classics to bold flavor-packed options that can handle all your favorite toppings, try these chips next time you're...",
+    "published_at": "2026-05-22T12:28:24Z",
+    "source": "Chowhound",
+    "score": 9,
+    "reason": "The article is a recommendation/review list focused on selecting the best chips, making it directly relevant to chip enthusiasts and brands.",
+    "image_url": "https://www.chowhound.com/img/gallery/6-best-chips-to-use-for-walking-tacos/l-intro-1779210491.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "President’s Choice World of Flavours Canadian Chips Review",
+    "url": "https://chatelaine.com/food/pc-canadian-chip-flavours/",
+    "snippet": "Loblaws is no stranger to in-house chip flavours. From a crispy kettle-cooked potato chip line to a massive ruffled flavour selection and...",
+    "published_at": "2026-05-21T18:28:29Z",
+    "source": "Chatelaine",
+    "score": 10,
+    "reason": "The article is a direct review of potato chip flavors from the President's Choice brand, making it highly relevant to a specialized chips news website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEiQlT58ZzkLLqyHEXEkZ1Ai8ghfVK9reTeywSpQUV0P4NZp4yuni0czo&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "We Tried Every Trader Joe’s Potato Chip & These Were The Clear Winners",
+    "url": "https://www.delish.com/food/a71342911/trader-joes-potato-chips-ranked/",
+    "snippet": "Delish editors tried and ranked every Trader Joe's potato chip from worst to best.",
+    "published_at": "2026-05-21T18:28:23Z",
+    "source": "Delish",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of potato chips, which falls under the highest relevance category.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/656ffbb1-0a43-4396-a954-ffd1f52c325f.jpg?crop=1xw:0.667xh;0xw,0.182xh&resize=1200:*",
+    "category": "reviews"
+  },
+  {
+    "title": "Lay’s and Doritos maker to raise prices on small bags of chips",
+    "url": "https://www.nbcnews.com/business/consumer/lays-doritos-pepsico-raise-prices-small-bags-chips-rcna346181",
+    "snippet": "The company behind snack brands including Lay's and Doritos said it's raising prices on some of its smaller chip bags.",
+    "published_at": "2026-05-21T18:28:23Z",
+    "source": "NBC News",
+    "score": 9,
+    "reason": "The article is about brand news and price updates for major chip brands (Lay's and Doritos), falling directly into the highest relevance category.",
+    "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260520-lays-chips-ch-1602-5eac31.jpg",
+    "category": "business"
+  },
+  {
+    "title": "We tested 6 salt and vinegar chip varieties and the cheapest chips were our favourite",
+    "url": "https://www.taste.com.au/articles/we-tested-6-salt-vinegar-chip-varieties-cheapest-chips-were-our-favourite/jwtqylzv",
+    "snippet": "For a lot of us, salt and vinegar chips are deeply tied to childhood snacks, barbecue nibbles, road trips, birthday parties and school...",
+    "published_at": "2026-05-20T18:28:33Z",
+    "source": "Taste",
+    "score": 10,
+    "reason": "The article is a direct review of specific potato chip varieties, which falls under the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgmPIK7b6KFCWw_jA_CxUf5ZKjTNxJtNBXxjcrfI8prT0I3NIzBjEHC4&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "After 90 years, a central Pa. potato chip company has a new owner",
+    "url": "https://www.pennlive.com/food/2026/05/after-90-years-a-central-pa-potato-chip-company-has-a-new-owner.html",
+    "snippet": "Hartley's Potato Chip Co., a 90-year-old company rooted in central Pennsylvania, has been sold. Owners Dan Hartley and Kellie Johnson...",
+    "published_at": "2026-05-20T18:28:23Z",
+    "source": "PennLive.com",
+    "score": 9,
+    "reason": "The article is direct news about a specific potato chip brand's ownership change, which falls under brand news.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh0FleiozhsATPq0eW8WlxZiyRIVzmNbgi3nqqMrUP7Zxb2A26_G-KUA&usqp=CAI&s",
+    "category": "business"
+  },
+  {
+    "title": "Mr. Chip Will Vend Excellent Snacks in Portland",
+    "url": "https://bridgetownbites.com/2026/05/19/mr-chip-will-vend-excellent-snacks-in-portland-oregon/",
+    "snippet": "Mr. Chip, a vending machine selling interesting and unusual chips and other crunchy snacks - plus Flerps - will open soon in Portland.",
+    "published_at": "2026-05-19T18:28:31Z",
+    "source": "Bridgetown Bites",
+    "score": 9,
+    "reason": "The article is about the launch of a new chip brand/vending machine service, which qualifies as brand news.",
+    "image_url": "https://bridgetownbites.com/wp-content/uploads/2026/05/mr-chip-logo-portland-oregon.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Hyfoods halts new potato chip flavor after cultural backlash",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/20/2003857666",
+    "snippet": "Taiwanese snack company Hyfoods on Monday said it has halted shipments of a new bak kut teh-flavored potato chip, after its packaging...",
+    "published_at": "2026-05-19T18:28:29Z",
+    "source": "Taipei Times",
+    "score": 10,
+    "reason": "The article is directly about a potato chip brand's new flavor and its subsequent discontinuation, which fits the 9-10 category for brand news and new flavors.",
+    "image_url": "https://img.taipeitimes.com/images/2026/05/20/phpj4QLLU.jpg",
+    "category": "business"
+  },
+  {
+    "title": "EWG's Food Scores just took the work out of grocery shopping for me!",
+    "url": "https://www.ewg.org/foodscores/products/028400720243-RufflesQuesoCheesePotatoChipsQuesoCheese/",
+    "snippet": "Check out the food score for Ruffles Queso Cheese Potato Chips, Queso Cheese from EWG's Food Scores! EWG's Food Scores rates more than 80000 foods in a...",
+    "published_at": "2026-05-19T18:28:24Z",
+    "source": "Environmental Working Group",
+    "score": 9,
+    "reason": "The article is directly about a specific potato chip product (Ruffles Queso Cheese Potato Chips), which falls into the top category for relevance.",
+    "image_url": "https://www.ewg.org/foodscores/assets/food_database_stylesheet/share_image-37e9c8d3f0ff2600e6fcf1615c631fa6552d92fbf05c89c17906a41596d860db.jpg",
+    "category": "health"
+  },
+  {
+    "title": "Inside Utz’s rise from regional potato chip brand to salty snack juggernaut",
+    "url": "https://www.fooddive.com/news/utzs-regional-potato-chip-brand-salty-snack-giant/812739/",
+    "snippet": "The 105-year-old pretzel and chip maker is in the midst of a slow but steady national expansion as it competes with PepsiCo's Frito-Lay and...",
+    "published_at": "2026-05-18T18:28:24Z",
+    "source": "Food Dive",
+    "score": 9,
+    "reason": "The article is a brand news story directly about a major potato chip company (Utz), making it highly relevant for a specialized snack website.",
+    "image_url": "https://imgproxy.divecdn.com/fyVVCsiAgwa8K8uLcjhzQ4b6Tfw8LdA0HvZ3rnnronk/g:nowe:0:113/c:2944:1663/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjc4MS1mb3Rvci0yMDI2MDIyMTgyNTMxLmpwZw==.webp",
+    "category": "business"
+  },
+  {
     "title": "Lays chips, mustard and memories",
     "url": "https://www.leader-call.com/sports/lays-chips-mustard-and-memories/article_d4342e35-9293-4992-b39f-ce65f6b817f9.html",
     "snippet": "As summer rapidly approaches and high school and collegiate sports begin to wind down across the diamonds around the country,...",
@@ -789,6 +943,17 @@
     "reason": "The article mentions Doritos®, a known potato chip/snack brand, and 'Protein' as the innovation which positions it as a protein chip/functional snack food. This falls into the 'closely related snack foods' category with 7-8 points, as it's about a specific chip brand expanding into the protein chip market segment.",
     "image_url": "https://digitalassets.pepsico.com/transform/4d317f57-b847-4f88-9602-204029f8badb/Doritos_Protein-nacho-cheese-sweet-tangy-bbq",
     "category": "health"
+  },
+  {
+    "title": "I Tried The New Cheetos, Doritos & Ruffles 'Flavor Swap' Chips—And My Brain Is Broken",
+    "url": "https://www.delish.com/food-news/a70437711/frito-lay-flavor-swap-chips-review/",
+    "snippet": "After several rounds of consumer testing and input from some of Gen Z's most beloved stars, the brand identified the three best combinations:...",
+    "published_at": "2026-02-23T12:00:00Z",
+    "source": "Delish",
+    "score": 10,
+    "reason": "The article is a review of new chip flavors from major brands (Cheetos, Doritos, Ruffles), making it directly relevant to a potato chip/crisps website.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/img-3327-6998cfb6e7089.jpg?crop=0.666xw:0.444xh;0.179xw,0.318xh&resize=1200:*",
+    "category": "reviews"
   },
   {
     "title": "From Michelin stars to creating crisp flavours",
