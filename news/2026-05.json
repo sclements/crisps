@@ -1,5 +1,82 @@
 [
   {
+    "title": "Red Rock Deli has teamed up with Colin Fassnidge to create pork belly and apple sauce crisps",
+    "url": "https://www.delicious.com.au/eat-out/latest-news/article/red-rock-deli-colin-fassnidge-launch-chef-series-chips/67y9qdyw",
+    "snippet": "Crisp connoisseurs can now trade up the salt and vinegar for a new range of gourmet chips created by Red Rock Deli in collaboration with...",
+    "published_at": "2026-05-23T08:13:04Z",
+    "source": "delicious.com.au",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new flavored potato chip product from an established brand.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_t0OsLSzzyq9C1E5-UOgtKVFV45fAGU_YSa-m4hBlZ_JVKZ9z1grbZNI&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Why are Kiwis so obsessed with potato chips? - The Bay's News First",
+    "url": "https://www.sunlive.co.nz/news/362581-why-are-kiwis-so-obsessed-with-potato-chips-.html",
+    "snippet": "From the business of making chips to best-selling flavours and the ubiquity of Kiwi onion dip, Nikki Birrell unpacks our national obsession with this...",
+    "published_at": "2026-05-23T08:13:04Z",
+    "source": "SunLive",
+    "score": 10,
+    "reason": "The article is directly about potato chips, covering production, flavors, and cultural obsession with the product.",
+    "image_url": "https://www.nzherald.co.nz/resizer/v2/QENZ632Q3FHYVGJXP2I7EXOSCI.jpg?auth=649c28ffb853ec525eb0c89b37d443370d7d9596cf7c4bdc576639216eb70243&width=1440&height=810&quality=70&focal=927%2C580&smart=false",
+    "category": "oddities"
+  },
+  {
+    "title": "Crisp closure for Smith’s chip plant",
+    "url": "https://thewest.com.au/news/australia/crisp-closure-for-smiths-chip-plant-ng-ya-129820",
+    "snippet": "American food giant PepsiCo is shutting its Smith's chips factory in Canning Vale, putting up to 300 people out of work and slashing a fifth...",
+    "published_at": "2026-05-23T08:13:04Z",
+    "source": "The West Australian",
+    "score": 9,
+    "reason": "The article is directly about brand news involving a specific potato chip brand (Smith's) and its production facility.",
+    "image_url": "https://thewest.com.au/static/fallback-images/thewest-16x9.png?imwidth=1200",
+    "category": "business"
+  },
+  {
+    "title": "Diabolical chip flavours the world could do without in 2020",
+    "url": "https://www.delicious.com.au/food-files/news-articles/article/matt-preston-ranks-best-worst-chip-flavours/19o31f50",
+    "snippet": "With snacking season in full swing, beware of criminal chip flavours. In the world of crisps, writes Matt Preston, it seems nothing is too...",
+    "published_at": "2026-05-23T08:13:03Z",
+    "source": "delicious.com.au",
+    "score": 9,
+    "reason": "The article is directly about potato chip flavors and reviews, which fits the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSse8YJG_bb9w4R3MP2tTGD9nSh3jVm4JZkTUye_TpmlTJQqJRYGFvyPFY&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "Aussie’s mind-blowing snack discovery",
+    "url": "https://www.news.com.au/lifestyle/food/eat/aussies-shocked-to-learn-what-cultfavourite-chip-actually-is/news-story/9a8852e342b0f184c7fe7ac2432a0f61",
+    "snippet": "Aussies have been left mind blown after a shopper discovered how a popular chip, sold in Woolies and Coles, is actually made.",
+    "published_at": "2026-05-23T08:13:03Z",
+    "source": "News.com.au",
+    "score": 9,
+    "reason": "The article is directly about a discovery regarding how a popular chip is made, making it highly relevant to a potato chip/crisps news site.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjxRm3bIlCvA68bcRTHgK77wjAHnpqsbwxdLz6x5GzsqK_0Hx_o4-2iY&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "My Favorite Chip Just Became a New Doritos Flavor and I Got an Early Taste",
+    "url": "https://sporked.com/article/my-honest-review-of-the-new-cheddar-sour-cream-doritos/",
+    "snippet": "My favorite kind of chip just became a new Doritos flavor. If you're confused, let me break it down: Pepsico decided to do a “flavor swap”...",
+    "published_at": "2026-05-23T08:12:45Z",
+    "source": "Sporked",
+    "score": 8,
+    "reason": "The article is about a new Doritos flavor. According to the rubric, tortilla chips fall into the 7-8 score range.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/02/NPR_RUFFLES-DORITOS_HEADER.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "The blockade in Hormuz makes Japanese potatoes lose their colors",
+    "url": "https://en.ara.cat/international/the-blockade-in-hormuz-makes-japanese-potatoes-lose-their-colors_130_5745980.html",
+    "snippet": "The main snack manufacturer in the country reduces ink use and opts for black and white packaging to guarantee supply.",
+    "published_at": "2026-05-23T06:12:32Z",
+    "source": "Diari ARA",
+    "score": 7,
+    "reason": "This is snack industry business news regarding a manufacturer's packaging changes to ensure supply, which falls under the 7-8 category.",
+    "image_url": "https://static1.ara.cat/clip/cf5b8f89-c25a-4440-a867-c43c9841e854_facebook-aspect-ratio_default_0.jpg",
+    "category": "business"
+  },
+  {
     "title": "'That's really disappointing': Coles and Woolworths confirm removal of popular snack",
     "url": "https://kitchen.nine.com.au/latest/tyrrells-potato-chips-disappear-coles-woolworths-supermarkets-confirm-removal/da6c9154-f0e1-4c1b-9bdc-0b12e561fe7b",
     "snippet": "\"It's been confirmed from Tyrell's that Woolworths, Coles and IGA have stopped stocking these. Gone from their shelves without warning or even...",
@@ -31,6 +108,17 @@
     "reason": "The article is directly about making potato chips. According to the key rules, any mention of 'chips' in a food context must score 7 or higher; since this is a primary focus on the product itself, it qualifies for the top tier.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGEnskrN0mcuXvd1f_anxbrUxUa7qj4Zu3o8Z04uvtoZ_DtXS1yebjlQ&usqp=CAI&s",
     "category": "oddities"
+  },
+  {
+    "title": "New Issa’s Chips flavor: Hint of lime – News 4 Buffalo",
+    "url": "https://www.wivb.com/video/new-issas-chips-flavor-hint-of-lime/11816633/",
+    "snippet": "The latest videos from News 4 Buffalo.",
+    "published_at": "2026-05-22T13:12:36Z",
+    "source": "WIVB News 4",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release for a chip brand (Issa's Chips), which falls into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjA7Z7ZeuV_94hOnJR8C9Efhq5HSDXpmiwry854R-QSYQsDrls_-2SA4&usqp=CAI&s",
+    "category": "new_flavors"
   },
   {
     "title": "BonBon Evolves Into Savory Snacks",
@@ -110,6 +198,28 @@
     "category": "business"
   },
   {
+    "title": "It's a Pretty Big Dill! Quest Nutrition Unveils New Dill Pickle Original Style Protein Chips - the First New Flavor in Over a Decade",
+    "url": "https://www.prnewswire.com/news-releases/its-a-pretty-big-dill-quest-nutrition-unveils-new-dill-pickle-original-style-protein-chips--the-first-new-flavor-in-over-a-decade-302776316.html",
+    "snippet": "PRNewswire/ -- Quest Nutrition is expanding its lineup of high-protein chips and milkshakes with two mouthwatering new varieties to make...",
+    "published_at": "2026-05-20T08:12:37Z",
+    "source": "PR Newswire",
+    "score": 8,
+    "reason": "The article is about new protein chip flavors from a known snack brand, which falls under the 'closely related snack foods' category.",
+    "image_url": "https://mma.prnewswire.com/media/2983245/Quest_Dill_Pickle_Protein_Chips.jpg?p=facebook",
+    "category": "new_flavors"
+  },
+  {
+    "title": "2 iconic American brands team up for new chip flavor",
+    "url": "https://www.wandtv.com/news/videos/2-iconic-american-brands-team-up-for-new-chip-flavor/video_45605d82-a3c5-5f91-ac68-cd8163054bd6.html",
+    "snippet": "Click here to view this video from WAND.",
+    "published_at": "2026-05-20T08:12:36Z",
+    "source": "WANDTV.com",
+    "score": 10,
+    "reason": "The title directly identifies a new chip flavor news story, which is the primary subject matter for a potato chip/crisp website.",
+    "image_url": "https://bloximages.newyork1.vip.townnews.com/wandtv.com/content/tncms/assets/v3/editorial/4/56/45605d82-a3c5-5f91-ac68-cd8163054bd6/6a0c5fc75458e.image.png?crop=1080%2C567%2C0%2C4",
+    "category": "new_flavors"
+  },
+  {
     "title": "Mr. Chip Will Vend Excellent Snacks in Portland",
     "url": "https://bridgetownbites.com/2026/05/19/mr-chip-will-vend-excellent-snacks-in-portland-oregon/",
     "snippet": "Mr. Chip, a vending machine selling interesting and unusual chips and other crunchy snacks - plus Flerps - will open soon in Portland.",
@@ -141,6 +251,17 @@
     "reason": "The article is directly about a specific potato chip product (Ruffles Queso Cheese Potato Chips), which falls into the top category for relevance.",
     "image_url": "https://www.ewg.org/foodscores/assets/food_database_stylesheet/share_image-37e9c8d3f0ff2600e6fcf1615c631fa6552d92fbf05c89c17906a41596d860db.jpg",
     "category": "health"
+  },
+  {
+    "title": "Pringles Launches New Summer Chip Flavor With Miller Lite",
+    "url": "https://www.aol.com/articles/pringles-launches-summer-chip-flavor-151100883.html",
+    "snippet": "The limited-edition collection returns to store shelves nationwide in a few weeks.",
+    "published_at": "2026-05-19T08:12:38Z",
+    "source": "AOL.com",
+    "score": 10,
+    "reason": "The article is directly about a new chip flavor launch from a major brand (Pringles), making it highly relevant to the website.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/AE90C1B34B306F2573354912F0B95049E51EDE770163E1875B8963D4E05E86AA/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_parade_744%2F92662c9aaad20b2c838173f52ea62357",
+    "category": "new_flavors"
   },
   {
     "title": "Inside Utz’s rise from regional potato chip brand to salty snack juggernaut",
@@ -878,6 +999,17 @@
     "score": 10,
     "reason": "The title is directly about a new potato chip product, which falls into the highest relevance category for the website.",
     "category": "reviews"
+  },
+  {
+    "title": "Tayto reveal new crisps 'Tayto Crunchy' - and they come in two flavours",
+    "url": "https://www.lmfm.ie/news/entertainment/tayto-reveal-new-crisps-tayto-crunchy-and-they-come-in-two-flavours/",
+    "snippet": "Mr. Tayto has been hard at work crafting an unmissable new treat for snack lovers across the country.",
+    "published_at": "2026-03-03T12:00:00Z",
+    "source": "LMFM",
+    "score": 10,
+    "reason": "The article is directly about a new product launch for the potato chip brand Tayto.",
+    "image_url": "https://mmo.aiircdn.com/301/69a6c0a5bbd49.jpg",
+    "category": "new_flavors"
   },
   {
     "title": "I Tried the Most Popular Lay's Flavors, and the Winner Might Surprise You - Allrecipes",

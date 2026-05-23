@@ -190,5 +190,13 @@
     "event_name": "Culinary traditions (Venezuela)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-24.webp"
+  },
+  {
+    "chip_name": "Barbecue",
+    "date": "2026-05-25",
+    "description": "Today's pick is Barbecue, drawn from the culinary traditions of Madagascar.",
+    "event_name": "Culinary traditions (Madagascar)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-25.webp"
   }
 ]
