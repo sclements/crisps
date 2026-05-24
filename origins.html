@@ -449,7 +449,7 @@
             // Inject our stylesheet into the SVG document
             const style = svgDoc.createElementNS('http://www.w3.org/2000/svg', 'style');
             style.textContent = `
-                .map-country { fill: #e5e7eb; stroke: #fff; stroke-width: 0.5; transition: fill 0.2s; }
+                .map-country { fill: #e5e7eb; stroke: #fff; stroke-width: 0.5; transition: fill 0.4s, opacity 0.4s; }
                 .map-country.has-chips { fill: #f97316; cursor: pointer; }
                 .map-country.has-chips:hover { fill: #ea580c; }
                 .map-country.active { fill: #c2410c; }

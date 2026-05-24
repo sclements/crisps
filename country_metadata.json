@@ -173,7 +173,7 @@
     "AU": {
       "name": "Australia",
       "continent": "Oceania",
-      "fact": "Australia has unique native ingredients like bush tomato and wattleseed",
+      "fact": "Australia's bush food ingredients like wattleseed and lemon myrtle have been used by Aboriginal peoples for over 60,000 years",
       "ingredients": [
         "Wattleseed",
         "Macadamia Nut",
@@ -184,7 +184,7 @@
     "BE": {
       "name": "Belgium",
       "continent": "Europe",
-      "fact": "Belgium claims to have invented french fries, not France",
+      "fact": "Belgium's Trappist ales are brewed within monastery walls under strict monastic oversight",
       "ingredients": [
         "Trappist Ale",
         "Speculoos Spice"
@@ -193,7 +193,7 @@
     "BO": {
       "name": "Bolivia",
       "continent": "South America",
-      "fact": "Bolivia domesticated potato, quinoa, and peanut in the Andes",
+      "fact": "Bolivia grows over 200 varieties of native potatoes and was a center of peanut domestication",
       "ingredients": [
         "Potato",
         "Quinoa",
@@ -206,7 +206,7 @@
     "BR": {
       "name": "Brazil",
       "continent": "South America",
-      "fact": "Brazil's Amazon basin is the origin of cassava, peanut, cashew, and pineapple",
+      "fact": "The Amazon basin in Brazil is the origin of cassava, cashew, and guarana",
       "ingredients": [
         "Cassava",
         "Pão de Queijo",
@@ -221,7 +221,7 @@
     "CA": {
       "name": "Canada",
       "continent": "North America",
-      "fact": "Canada produces 80% of the world's maple syrup",
+      "fact": "Quebec produces over 70% of the world's maple syrup",
       "ingredients": [
         "Maple Syrup",
         "Smoked Peameal Bacon",
@@ -232,7 +232,7 @@
     "CH": {
       "name": "Switzerland",
       "continent": "Europe",
-      "fact": "Swiss Alps herbs include unique varieties found only at high altitudes",
+      "fact": "Swiss Gruyère cheese requires 400 liters of milk to make a single 35kg wheel",
       "ingredients": [
         "Alpine Herbs",
         "Raclette",
@@ -244,7 +244,7 @@
     "CL": {
       "name": "Chile",
       "continent": "South America",
-      "fact": "Chile's long coastline influences its unique seafood-potato combinations",
+      "fact": "Merkén is a smoked chili condiment from the Mapuche people of southern Chile",
       "ingredients": [
         "Merkén",
         "Pebre",
@@ -256,7 +256,7 @@
     "CN": {
       "name": "China",
       "continent": "Asia",
-      "fact": "China domesticated rice, soybean, tea, and ginger thousands of years ago",
+      "fact": "China is the origin of rice, soybean, tea, and Sichuan peppercorn — all domesticated thousands of years ago",
       "ingredients": [
         "Rice",
         "Sichuan Peppercorn",
@@ -271,7 +271,7 @@
     "DE": {
       "name": "Germany",
       "continent": "Europe",
-      "fact": "Germany is one of Europe's largest potato producers",
+      "fact": "German sauerkraut tradition dates to the 16th century; Captain Cook used it to prevent scurvy at sea",
       "ingredients": [
         "Sauerkraut",
         "Smoked Bratwurst",
@@ -281,7 +281,7 @@
     "ES": {
       "name": "Spain",
       "continent": "Europe",
-      "fact": "Spain was the first European country to cultivate potatoes from the Americas",
+      "fact": "Spanish Pimentón de la Vera has DOP status — the peppers are smoked over oak for two weeks",
       "ingredients": [
         "Smoked Paprika",
         "Manchego",
@@ -291,7 +291,7 @@
     "FI": {
       "name": "Finland",
       "continent": "Europe",
-      "fact": "Finnish cuisine features unique preparations like Karelian pasties and gravlax",
+      "fact": "Karelian pasties (karjalanpiirakka) are a Finnish national dish dating back centuries",
       "ingredients": [
         "Karjalanpiirakka"
       ]
@@ -299,7 +299,7 @@
     "FR": {
       "name": "France",
       "continent": "Europe",
-      "fact": "Herbes de Provence is a blend of dried herbs typical of southeastern France",
+      "fact": "France's five great cheeses — Camembert, Roquefort, Brie, Comté, and Reblochon — all have protected origins",
       "ingredients": [
         "Truffle",
         "Herbes de Provence",
@@ -311,7 +311,7 @@
     "GB": {
       "name": "United Kingdom",
       "continent": "Europe",
-      "fact": "The UK calls them 'crisps' - the term 'chips' refers to french fries",
+      "fact": "Stilton cheese can only legally be made in three English counties: Derbyshire, Leicestershire, and Nottinghamshire",
       "ingredients": [
         "Malt Vinegar",
         "Sharp Cheddar",
@@ -322,7 +322,7 @@
     "GH": {
       "name": "Ghana",
       "continent": "Africa",
-      "fact": "Ghana's plantain chips are a beloved street food",
+      "fact": "Ghana is within the domestication zone of both yam and oil palm, two pillars of West African cuisine",
       "ingredients": [
         "Yam",
         "Jollof",
@@ -333,7 +333,7 @@
     "GR": {
       "name": "Greece",
       "continent": "Europe",
-      "fact": "Greece is known for Feta, Oregano, and Kalamata Olives",
+      "fact": "Greek feta cheese has been made for thousands of years and holds EU Protected Designation of Origin",
       "ingredients": [
         "Kalamata Olive",
         "Feta"
@@ -342,7 +342,7 @@
     "ID": {
       "name": "Indonesia",
       "continent": "Asia",
-      "fact": "Indonesia is the origin of clove, nutmeg, and galangal from the Spice Islands",
+      "fact": "Indonesia's Maluku 'Spice Islands' are the native home of clove and nutmeg, once worth more than gold",
       "ingredients": [
         "Sambal",
         "Kaffir Lime",
@@ -356,7 +356,7 @@
     "IE": {
       "name": "Ireland",
       "continent": "Europe",
-      "fact": "The potato became central to Irish cuisine after its introduction from South America",
+      "fact": "Irish soda bread was born from necessity — baking soda was cheaper than yeast in 1830s Ireland",
       "ingredients": [
         "Soda Bread",
         "Stout",
@@ -367,7 +367,7 @@
     "IN": {
       "name": "India",
       "continent": "Asia",
-      "fact": "India is the origin of black pepper, cardamom, turmeric, and many key spices",
+      "fact": "India is the origin of black pepper, cardamom, turmeric, ginger, sesame, and eggplant",
       "ingredients": [
         "Garam Masala",
         "Turmeric",
@@ -385,7 +385,7 @@
     "IR": {
       "name": "Iran",
       "continent": "Asia",
-      "fact": "Iran is the origin of saffron and pomegranate, grown for thousands of years",
+      "fact": "Iran produces over 90% of the world's saffron and is the origin of pistachio and pomegranate",
       "ingredients": [
         "Saffron",
         "Pistachio",
@@ -397,7 +397,7 @@
     "JP": {
       "name": "Japan",
       "continent": "Asia",
-      "fact": "Japan has unique chip flavors like sakura and matcha",
+      "fact": "Wasabi is native to Japan's mountain streams and loses its flavor within 15 minutes of grating",
       "ingredients": [
         "Wasabi",
         "Miso",
@@ -409,7 +409,7 @@
     "KR": {
       "name": "South Korea",
       "continent": "Asia",
-      "fact": "Korean cuisine features unique fermented ingredients like gochujang",
+      "fact": "Korean gochujang is fermented for months in earthenware pots called onggi",
       "ingredients": [
         "Gochujang",
         "Kimchi"
@@ -427,7 +427,7 @@
     "MX": {
       "name": "Mexico",
       "continent": "North America",
-      "fact": "Mexico domesticated corn, chili peppers, vanilla, and cacao over 9,000 years ago",
+      "fact": "Mexico domesticated corn, chili, vanilla, cacao, tomato, avocado, squash, and black bean — reshaping global cuisine",
       "ingredients": [
         "Corn",
         "Chili",
@@ -446,7 +446,7 @@
     "NG": {
       "name": "Nigeria",
       "continent": "Africa",
-      "fact": "Nigeria is the world's largest producer of yams",
+      "fact": "Nigeria is the world's largest producer of yams, with over 45 million tonnes annually",
       "ingredients": [
         "Yam",
         "Jollof",
@@ -458,7 +458,7 @@
     "NL": {
       "name": "Netherlands",
       "continent": "Europe",
-      "fact": "The Dutch have a long history with potatoes since the 17th century",
+      "fact": "Gouda accounts for over 50% of all cheese produced in the Netherlands",
       "ingredients": [
         "Gouda",
         "Stroopwafel",
@@ -468,7 +468,7 @@
     "NO": {
       "name": "Norway",
       "continent": "Europe",
-      "fact": "Norwegian cuisine features unique preservation traditions",
+      "fact": "Norwegian brunost (brown cheese) is made by slowly caramelizing whey — a process unique to Scandinavia",
       "ingredients": [
         "Smoked Trout",
         "Brown Cheese"
@@ -483,7 +483,7 @@
     "PE": {
       "name": "Peru",
       "continent": "South America",
-      "fact": "Peru is the birthplace of the potato, cultivated since 8000 BC with over 3,000 varieties",
+      "fact": "Peru domesticated the potato around 8000 BC — the Inca grew over 3,000 varieties",
       "ingredients": [
         "Potato",
         "Ají Amarillo",
@@ -497,7 +497,7 @@
     "PH": {
       "name": "Philippines",
       "continent": "Asia",
-      "fact": "The Philippines has unique chip varieties made from banana and cassava",
+      "fact": "Calamansi, a citrus native to the Philippines, is essential to Filipino cooking and the national fruit",
       "ingredients": [
         "Banana",
         "Adobo",
@@ -509,7 +509,7 @@
     "SE": {
       "name": "Sweden",
       "continent": "Europe",
-      "fact": "Sweden is famous for surströmming, the world's smelliest food",
+      "fact": "Surströmming, Sweden's fermented herring, is so pungent that some airlines have banned it",
       "ingredients": [
         "Gravlax",
         "Crispbread",
@@ -519,7 +519,7 @@
     "SG": {
       "name": "Singapore",
       "continent": "Asia",
-      "fact": "Singapore's food culture blends Chinese, Malay, Indian, and Western influences",
+      "fact": "Singapore's laksa, Hainanese chicken rice, and chili crab reflect its multicultural food heritage",
       "ingredients": [
         "Laksa",
         "Hainanese Chicken",
@@ -529,7 +529,7 @@
     "TH": {
       "name": "Thailand",
       "continent": "Asia",
-      "fact": "Thai cuisine balances sweet, sour, salty, and spicy flavors",
+      "fact": "Thai Bird's Eye Chili is one of the hottest common culinary peppers, central to Thai cooking",
       "ingredients": [
         "Thai Basil",
         "Bird's Eye Chili",
@@ -539,7 +539,7 @@
     "TR": {
       "name": "Turkey",
       "continent": "Europe/Asia",
-      "fact": "Turkey/Anatolia is where rye, chickpea, and cherry were first domesticated",
+      "fact": "Anatolia (modern Turkey) is where rye, chickpea, and cherry were first domesticated",
       "ingredients": [
         "Urfa Biber",
         "Rye",
@@ -550,7 +550,7 @@
     "US": {
       "name": "United States",
       "continent": "North America",
-      "fact": "The potato chip was invented in Saratoga Springs, NY in 1853",
+      "fact": "The potato chip was invented in Saratoga Springs, New York in 1853",
       "ingredients": [
         "Spam",
         "Poke",
@@ -560,7 +560,7 @@
     "AF": {
       "name": "Afghanistan",
       "continent": "Asia",
-      "fact": "Afghanistan is known for Cardamom, Saffron and Cumin.",
+      "fact": "Kabuli Pulao, a fragrant rice dish with lamb and raisins, is Afghanistan's national dish",
       "ingredients": [
         "Kabuli Pulao"
       ]
@@ -568,7 +568,7 @@
     "AR": {
       "name": "Argentina",
       "continent": "South America",
-      "fact": "Argentina is known for Chimichurri, Grass-fed Beef and Smoked Paprika.",
+      "fact": "Argentina's chimichurri sauce originated with gauchos who needed a portable condiment for grilled meats",
       "ingredients": [
         "Chimichurri",
         "Dulce de Leche",
@@ -578,7 +578,7 @@
     "AM": {
       "name": "Armenia",
       "continent": "Asia",
-      "fact": "Armenia is the origin of lavash bread, recognized by UNESCO",
+      "fact": "Armenian lavash flatbread was inscribed on UNESCO's intangible heritage list in 2014",
       "ingredients": [
         "Lavash"
       ]
@@ -586,7 +586,7 @@
     "BD": {
       "name": "Bangladesh",
       "continent": "Asia",
-      "fact": "Bangladesh is known for Mustard Oil, Panch Phoron and Green Chili.",
+      "fact": "Panch Phoron is a unique Bengali five-seed spice blend — the only one that uses whole spices unmixed",
       "ingredients": [
         "Panch Phoron"
       ]
@@ -594,13 +594,13 @@
     "BY": {
       "name": "Belarus",
       "continent": "Europe",
-      "fact": "Belarus is known for Sour Cream-based flavors in its cuisine",
+      "fact": "",
       "ingredients": []
     },
     "CO": {
       "name": "Colombia",
       "continent": "South America",
-      "fact": "Colombia is known for Arepa, Ají and Hogao.",
+      "fact": "Colombian arepa flatbreads predate European contact and remain a daily staple",
       "ingredients": [
         "Arepa",
         "Ají",
@@ -611,7 +611,7 @@
     "CR": {
       "name": "Costa Rica",
       "continent": "North America",
-      "fact": "Costa Rica is known for Lizano Sauce, Coriander and Black Bean.",
+      "fact": "Salsa Lizano is so iconic in Costa Rica that it appears on nearly every restaurant table",
       "ingredients": [
         "Lizano Sauce"
       ]
@@ -619,7 +619,7 @@
     "CU": {
       "name": "Cuba",
       "continent": "North America",
-      "fact": "Cuba is known for Mojo, Sofrito and Plantain.",
+      "fact": "Cuban mojo sauce, made with sour orange and garlic, defines the island's roast pork tradition",
       "ingredients": [
         "Mojo",
         "Sofrito"
@@ -634,7 +634,7 @@
     "GE": {
       "name": "Georgia",
       "continent": "Asia",
-      "fact": "Georgia is known for Khmeli Suneli spice blend and Blue Fenugreek",
+      "fact": "Khmeli Suneli is Georgia's signature spice blend, used in nearly every traditional dish",
       "ingredients": [
         "Khmeli Suneli",
         "Blue Fenugreek"
@@ -643,7 +643,7 @@
     "HT": {
       "name": "Haiti",
       "continent": "North America",
-      "fact": "Haiti is known for Epis, Pikliz and Scotch Bonnet.",
+      "fact": "Pikliz, Haiti's spicy pickled cabbage relish, accompanies nearly every meal on the island",
       "ingredients": [
         "Epis",
         "Pikliz",
@@ -665,7 +665,7 @@
     "HU": {
       "name": "Hungary",
       "continent": "Europe",
-      "fact": "Hungary is known for Smoked Paprika, Caraway and Marjoram.",
+      "fact": "Hungarian smoked paprika (füstölt paprika) gets its distinctive flavor from slow oak-smoking",
       "ingredients": [
         "Smoked Paprika"
       ]
@@ -673,7 +673,7 @@
     "IQ": {
       "name": "Iraq",
       "continent": "Asia",
-      "fact": "Iraq (ancient Mesopotamia) is where the date palm was first domesticated",
+      "fact": "Ancient Mesopotamia (modern Iraq) was where the date palm was first cultivated over 6,000 years ago",
       "ingredients": [
         "Baharat",
         "Date Syrup",
@@ -684,7 +684,7 @@
     "IT": {
       "name": "Italy",
       "continent": "Other",
-      "fact": "Italy is known for Pesto, Parmesan, and Balsamic — all with protected origins",
+      "fact": "Parmigiano-Reggiano has been made in Emilia-Romagna for over 900 years with the same methods",
       "ingredients": [
         "Parmesan",
         "Balsamic Reduction",
@@ -694,7 +694,7 @@
     "LR": {
       "name": "Liberia",
       "continent": "Africa",
-      "fact": "Liberia is known for Cassava Leaf, Palm Oil and Scotch Bonnet.",
+      "fact": "Liberian cassava leaf stew is a national dish, though cassava itself originated in South America",
       "ingredients": [
         "Cassava Leaf",
         "Palm Oil"
@@ -703,7 +703,7 @@
     "MN": {
       "name": "Mongolia",
       "continent": "Asia",
-      "fact": "Mongolia is known for Mutton, Buuz and Dried Curd.",
+      "fact": "Buuz, Mongolian steamed dumplings, are the centerpiece of Tsagaan Sar (Lunar New Year) celebrations",
       "ingredients": [
         "Buuz",
         "Dried Curd",
@@ -713,7 +713,7 @@
     "MM": {
       "name": "Myanmar",
       "continent": "Asia",
-      "fact": "Myanmar is known for Mohinga, Lemongrass and Ngapi.",
+      "fact": "Mohinga, a fish-based rice noodle soup, is Myanmar's de facto national dish eaten at breakfast",
       "ingredients": [
         "Mohinga",
         "Ngapi"
@@ -722,7 +722,7 @@
     "NE": {
       "name": "Niger",
       "continent": "Africa",
-      "fact": "Niger is known for Millet, Date and Peanut Spice.",
+      "fact": "Niger is in the Sahel, where pearl millet was first domesticated as a drought-resistant grain",
       "ingredients": [
         "Millet"
       ]
@@ -730,7 +730,7 @@
     "PK": {
       "name": "Pakistan",
       "continent": "Asia",
-      "fact": "Pakistan is known for Garam Masala, Coriander and Ginger.",
+      "fact": "Pakistani garam masala blends differ from Indian versions, often heavier on cardamom and cinnamon",
       "ingredients": [
         "Garam Masala"
       ]
@@ -738,7 +738,7 @@
     "PL": {
       "name": "Poland",
       "continent": "Europe",
-      "fact": "Poland is known for Dill, Wild Mushroom and Horseradish.",
+      "fact": "Polish kiełbasa sausage-making traditions date back to the Middle Ages",
       "ingredients": [
         "Smoked Kiełbasa"
       ]
@@ -746,7 +746,7 @@
     "PR": {
       "name": "Puerto Rico",
       "continent": "North America",
-      "fact": "Puerto Rico is known for Sofrito, Adobo and Mofongo.",
+      "fact": "Puerto Rican sofrito is the aromatic base of the island's cuisine, distinct from Cuban and Spanish versions",
       "ingredients": [
         "Sofrito",
         "Adobo",
@@ -757,7 +757,7 @@
     "RO": {
       "name": "Romania",
       "continent": "Europe",
-      "fact": "Romania is known for Telemea Cheese, Lovage and Smoked Lard.",
+      "fact": "Telemea is Romania's signature brined cheese, traditionally made from sheep's milk",
       "ingredients": [
         "Telemea Cheese",
         "Smoked Lard"
@@ -766,7 +766,7 @@
     "RU": {
       "name": "Russia",
       "continent": "Europe",
-      "fact": "Russia is known for Dill, Smoked Sturgeon and Sour Cream.",
+      "fact": "Russian smoked sturgeon and caviar have been prized delicacies since the tsarist era",
       "ingredients": [
         "Smoked Sturgeon"
       ]
@@ -774,7 +774,7 @@
     "ZA": {
       "name": "South Africa",
       "continent": "Africa",
-      "fact": "South Africa is known for Biltong, Peri-Peri and Rooibos.",
+      "fact": "Rooibos tea is endemic to South Africa's Cederberg region and grows nowhere else on Earth",
       "ingredients": [
         "Biltong",
         "Peri-Peri",
@@ -786,7 +786,7 @@
     "UG": {
       "name": "Uganda",
       "continent": "Africa",
-      "fact": "Uganda is known for Matoke, Groundnut and Cassava.",
+      "fact": "Matoke, steamed green banana mash, is Uganda's staple food and cultural touchstone",
       "ingredients": [
         "Matoke"
       ]
@@ -794,7 +794,7 @@
     "UA": {
       "name": "Ukraine",
       "continent": "Europe",
-      "fact": "Ukraine is known for Borscht, Salo and Dill.",
+      "fact": "Borscht, Ukraine's iconic beet soup, was added to UNESCO's intangible heritage list in 2022",
       "ingredients": [
         "Borscht",
         "Salo",
@@ -823,7 +823,7 @@
     "TW": {
       "name": "Taiwan",
       "continent": "Asia",
-      "fact": "Taiwan is known for Soy Paste, Sesame Oil and Five Spice.",
+      "fact": "Taiwanese soy paste (doubanjiang) is a fermented staple distinct from Chinese and Japanese versions",
       "ingredients": [
         "Soy Paste"
       ]
@@ -837,7 +837,7 @@
     "CZ": {
       "name": "Czech Republic and Slovakia",
       "continent": "Europe",
-      "fact": "Czech Republic and Slovakia is known for Paprika, Caraway and Marjoram.",
+      "fact": "Czech pilsner, invented in Plzeň in 1842, revolutionized beer worldwide",
       "ingredients": [
         "Dumpling",
         "Beer"
@@ -846,7 +846,7 @@
     "DZ": {
       "name": "Algeria",
       "continent": "Africa",
-      "fact": "Algeria is known for Couscous, Merguez Sausage and Harissa.",
+      "fact": "Couscous was inscribed on UNESCO's intangible heritage list in 2020, shared across North Africa",
       "ingredients": [
         "Couscous",
         "Merguez Sausage",
@@ -856,7 +856,7 @@
     "AT": {
       "name": "Austria",
       "continent": "Europe",
-      "fact": "Austria is known for Caraway Seed, Horseradish and Smoked Bacon.",
+      "fact": "Styrian pumpkin seed oil has been produced in Austria since the 18th century and has protected geographic status",
       "ingredients": [
         "Pumpkin Seed Oil"
       ]
@@ -864,7 +864,7 @@
     "AZ": {
       "name": "Azerbaijan",
       "continent": "Asia",
-      "fact": "Azerbaijan is known for Saffron, Sumac and Pomegranate Reduction.",
+      "fact": "Narsharab, Azerbaijan's pomegranate reduction, is a cornerstone of Azerbaijani cuisine used on fish and meat",
       "ingredients": [
         "Pomegranate Reduction"
       ]
@@ -872,7 +872,7 @@
     "BH": {
       "name": "Bahrain",
       "continent": "Asia",
-      "fact": "Bahraini cuisine features Baharat spice blends",
+      "fact": "Baharat, meaning 'spices' in Arabic, is a warm blend central to Gulf cuisine",
       "ingredients": [
         "Baharat"
       ]
@@ -880,7 +880,7 @@
     "BT": {
       "name": "Bhutan",
       "continent": "Asia",
-      "fact": "Bhutan is known for Ema Datshi, Yak Cheese and Red Rice.",
+      "fact": "Ema Datshi, Bhutan's national dish, is a fiery stew of chili peppers and yak cheese",
       "ingredients": [
         "Ema Datshi",
         "Yak Cheese"
@@ -889,7 +889,7 @@
     "BG": {
       "name": "Bulgaria",
       "continent": "Europe",
-      "fact": "Bulgaria is known for Sirene Cheese, Chubritza Herb and Paprika.",
+      "fact": "Sirene cheese is Bulgaria's signature white brined cheese, protected under EU geographic indication",
       "ingredients": [
         "Sirene Cheese"
       ]
@@ -897,7 +897,7 @@
     "KH": {
       "name": "Cambodia",
       "continent": "Asia",
-      "fact": "Cambodia is known for Kreoung, Prahok and Lemongrass.",
+      "fact": "Kroeung is Cambodia's essential aromatic paste, and prahok fermented fish is called 'Cambodian cheese'",
       "ingredients": [
         "Kreoung",
         "Prahok"
@@ -906,7 +906,7 @@
     "CM": {
       "name": "Cameroon",
       "continent": "Africa",
-      "fact": "Cameroon is known for Ndolé, Plantain and Peanut.",
+      "fact": "Ndolé, a stew of bitter leaves and nuts, is Cameroon's national dish",
       "ingredients": [
         "Ndolé"
       ]
@@ -914,7 +914,7 @@
     "HR": {
       "name": "Croatia",
       "continent": "Europe",
-      "fact": "Croatia is known for Truffle, Olive Oil and Dalmatian Prosciutto.",
+      "fact": "Istrian truffles rival Italian ones in quality, and Dalmatian prosciutto has centuries of tradition",
       "ingredients": [
         "Truffle",
         "Dalmatian Prosciutto",
@@ -925,7 +925,7 @@
     "DK": {
       "name": "Denmark",
       "continent": "Europe",
-      "fact": "Denmark is known for Rye, Smoked Herring and Remoulade.",
+      "fact": "Danish smoked herring from Bornholm island has been a delicacy since the Middle Ages",
       "ingredients": [
         "Smoked Herring",
         "Remoulade",
@@ -935,7 +935,7 @@
     "EC": {
       "name": "Ecuador",
       "continent": "South America",
-      "fact": "Ecuador is known for Encebollado, Ají Criollo and Llapingachos.",
+      "fact": "Encebollado, a tuna and onion soup, is Ecuador's beloved hangover cure and national comfort food",
       "ingredients": [
         "Encebollado",
         "Ají Criollo",
@@ -945,7 +945,7 @@
     "EG": {
       "name": "Egypt",
       "continent": "Africa",
-      "fact": "Egypt is known for Dukka, a distinctive nut and spice blend",
+      "fact": "Dukka is an Egyptian nut-and-spice blend traditionally eaten by dipping bread in olive oil then into the mix",
       "ingredients": [
         "Dukka"
       ]
@@ -953,7 +953,7 @@
     "EE": {
       "name": "Estonia",
       "continent": "Europe",
-      "fact": "Estonian cuisine features rye bread and Baltic sprat sandwich traditions",
+      "fact": "Kiluvõileib, Estonia's open-faced sprat sandwich on black bread, is a national staple",
       "ingredients": [
         "Black Bread",
         "Kiluvõileib"
@@ -962,7 +962,7 @@
     "ET": {
       "name": "Ethiopia",
       "continent": "Africa",
-      "fact": "Ethiopia is the birthplace of coffee (Coffea arabica)",
+      "fact": "Ethiopia is the birthplace of Coffea arabica — legend says a goat herder discovered it around 850 AD",
       "ingredients": [
         "Berbere Spice",
         "Niter Kibbeh",
@@ -972,7 +972,7 @@
     "IS": {
       "name": "Iceland",
       "continent": "Europe",
-      "fact": "Iceland is known for Skyr, Dried Fish and Dill.",
+      "fact": "Icelandic skyr has been made since the Viking age, over 1,000 years ago",
       "ingredients": [
         "Skyr",
         "Dried Fish"
@@ -981,7 +981,7 @@
     "IL": {
       "name": "Israel",
       "continent": "Asia",
-      "fact": "Israel is known for Za'atar, Sumac and Tahini.",
+      "fact": "Za'atar is a Levantine herb blend so culturally significant it appears in ancient texts",
       "ingredients": [
         "Za'atar",
         "Tahini",
@@ -991,7 +991,7 @@
     "JM": {
       "name": "Jamaica",
       "continent": "North America",
-      "fact": "Jamaica is native home of Allspice and Scotch Bonnet peppers",
+      "fact": "Jamaica is the native home of allspice (pimento), the only spice grown exclusively in the Western Hemisphere",
       "ingredients": [
         "Jerk",
         "Scotch Bonnet",
@@ -1001,7 +1001,7 @@
     "JO": {
       "name": "Jordan",
       "continent": "Asia",
-      "fact": "Jordan is known for Mansaf, Sumac and Za'atar.",
+      "fact": "Mansaf, lamb in fermented yogurt sauce, is Jordan's national dish served at celebrations",
       "ingredients": [
         "Mansaf",
         "Za'atar",
@@ -1011,7 +1011,7 @@
     "KE": {
       "name": "Kenya",
       "continent": "Africa",
-      "fact": "Kenya is known for Nyama Choma, Collard Greens and Ginger.",
+      "fact": "Nyama Choma (roasted meat) is Kenya's most popular social food, central to gatherings",
       "ingredients": [
         "Nyama Choma"
       ]
@@ -1019,7 +1019,7 @@
     "LA": {
       "name": "Laos",
       "continent": "Asia",
-      "fact": "Laos is known for Padaek, Lemongrass and Galangal.",
+      "fact": "Padaek, Lao fermented fish paste, is the backbone of Laotian cuisine — every household makes its own",
       "ingredients": [
         "Padaek"
       ]
@@ -1027,7 +1027,7 @@
     "LV": {
       "name": "Latvia",
       "continent": "Europe",
-      "fact": "Latvia is known for Smoked Sprat and rye-based cuisine traditions",
+      "fact": "Latvian smoked sprat, cured over alder wood, is a Baltic delicacy with centuries of tradition",
       "ingredients": [
         "Smoked Sprat"
       ]
@@ -1035,7 +1035,7 @@
     "LB": {
       "name": "Lebanon",
       "continent": "Asia",
-      "fact": "Lebanon is known for Za'atar, Tahini and Baharat.",
+      "fact": "Lebanese cuisine gave the world za'atar, tahini, and pomegranate molasses",
       "ingredients": [
         "Za'atar",
         "Tahini",
@@ -1046,7 +1046,7 @@
     "LT": {
       "name": "Lithuania",
       "continent": "Europe",
-      "fact": "Lithuania is known for Cepelinai, Beet and Rye.",
+      "fact": "Cepelinai, Lithuania's national dish, are zeppelin-shaped potato dumplings stuffed with meat",
       "ingredients": [
         "Cepelinai"
       ]
@@ -1054,7 +1054,7 @@
     "MG": {
       "name": "Madagascar",
       "continent": "Africa",
-      "fact": "Madagascar is known for Romazava stew, a unique traditional dish",
+      "fact": "Romazava, a meat and leafy greens stew, is considered Madagascar's national dish",
       "ingredients": [
         "Romazava"
       ]
@@ -1062,7 +1062,7 @@
     "MY": {
       "name": "Malaysia",
       "continent": "Asia",
-      "fact": "Malaysia is known for Sambal, Belacan and Rendang.",
+      "fact": "Malaysian belacan (shrimp paste) and rendang are UNESCO-recognized culinary traditions",
       "ingredients": [
         "Sambal",
         "Belacan",
@@ -1074,7 +1074,7 @@
     "ML": {
       "name": "Mali",
       "continent": "Africa",
-      "fact": "Mali is known for Jollof, Millet and Peanut.",
+      "fact": "Mali is within the Sahel zone where pearl millet was first domesticated thousands of years ago",
       "ingredients": [
         "Jollof",
         "Millet",
@@ -1084,7 +1084,7 @@
     "MA": {
       "name": "Morocco",
       "continent": "Africa",
-      "fact": "Morocco is known for Preserved Lemon, Ras el Hanout and Harissa.",
+      "fact": "Moroccan preserved lemons require 30 days of salt-curing and are essential to tagines",
       "ingredients": [
         "Preserved Lemon",
         "Ras el Hanout",
@@ -1095,7 +1095,7 @@
     "MZ": {
       "name": "Mozambique",
       "continent": "Africa",
-      "fact": "Mozambique is known for Piri Piri, Coconut Milk and Cashew.",
+      "fact": "Mozambique's piri piri sauce blends African bird's eye chilies with Portuguese citrus traditions",
       "ingredients": [
         "Piri Piri"
       ]
@@ -1103,7 +1103,7 @@
     "NP": {
       "name": "Nepal",
       "continent": "Asia",
-      "fact": "Nepal is known for Timur Pepper, Ginger and Garlic.",
+      "fact": "Timur pepper (Sichuan pepper's Himalayan cousin) is native to Nepal and gives a unique numbing tingle",
       "ingredients": [
         "Timur Pepper"
       ]
@@ -1111,7 +1111,7 @@
     "OM": {
       "name": "Oman",
       "continent": "Asia",
-      "fact": "Oman is one of the world's few sources of frankincense",
+      "fact": "Oman's Dhofar region is one of the few places on Earth where frankincense trees grow wild",
       "ingredients": [
         "Frankincense"
       ]
@@ -1119,7 +1119,7 @@
     "PG": {
       "name": "Papua New Guinea",
       "continent": "Oceania",
-      "fact": "Papua New Guinea is known for Sago, Coconut and Taro.",
+      "fact": "Papua New Guinea is where sugarcane, plantain, and taro were first domesticated",
       "ingredients": [
         "Sago",
         "Coconut",
@@ -1133,7 +1133,7 @@
     "PT": {
       "name": "Portugal",
       "continent": "Europe",
-      "fact": "Portugal is known for Piri Piri, Smoked Paprika and Bay Leaf.",
+      "fact": "Portugal's salt cod (bacalhau) tradition began in the 15th century — they say there are 365 recipes, one for each day",
       "ingredients": [
         "Piri Piri",
         "Salt Cod"
@@ -1142,7 +1142,7 @@
     "QA": {
       "name": "Qatar",
       "continent": "Asia",
-      "fact": "Qatari cuisine features Baharat and Machboos rice dishes",
+      "fact": "Qatari cuisine features Baharat and machboos, a spiced rice dish",
       "ingredients": [
         "Baharat"
       ]
@@ -1150,7 +1150,7 @@
     "SA": {
       "name": "Saudi Arabia",
       "continent": "Asia",
-      "fact": "Saudi Arabian cuisine features Baharat spice blends and Kabsa",
+      "fact": "Saudi Kabsa, a spiced rice and meat dish, is the kingdom's most iconic meal",
       "ingredients": [
         "Baharat",
         "Kabsa"
@@ -1159,7 +1159,7 @@
     "SN": {
       "name": "Senegal",
       "continent": "Africa",
-      "fact": "Senegal is known for Yassa Lemon, Pili-Pili and Peanut.",
+      "fact": "Yassa, Senegal's tangy lemon-onion sauce, is one of West Africa's most beloved dishes",
       "ingredients": [
         "Yassa Lemon",
         "Pili-Pili"
@@ -1168,7 +1168,7 @@
     "RS": {
       "name": "Serbia",
       "continent": "Europe",
-      "fact": "Serbia is known for Ajvar, Kajmak and Smoked Paprika.",
+      "fact": "Serbian ajvar, a roasted red pepper relish, is made in huge batches every autumn as a family tradition",
       "ingredients": [
         "Ajvar",
         "Kajmak"
@@ -1177,7 +1177,7 @@
     "LK": {
       "name": "Sri Lanka",
       "continent": "Asia",
-      "fact": "Sri Lanka is the birthplace of true cinnamon (Cinnamomum verum)",
+      "fact": "Sri Lanka is the only source of true cinnamon (Cinnamomum verum), cultivated for over 2,000 years",
       "ingredients": [
         "Sambol",
         "Curry Leaf",
@@ -1188,7 +1188,7 @@
     "SD": {
       "name": "Sudan",
       "continent": "Africa",
-      "fact": "Sudan is known for Peanut, Falafel and Ful Medames.",
+      "fact": "Sudanese ful medames (stewed fava beans) is eaten daily and is one of the oldest known prepared foods",
       "ingredients": [
         "Falafel",
         "Ful Medames"
@@ -1197,7 +1197,7 @@
     "SY": {
       "name": "Syria",
       "continent": "Asia",
-      "fact": "Syria/Levant is the origin of olive cultivation and Aleppo Pepper",
+      "fact": "Aleppo pepper, a mild fruity chili, has been cultivated in Syria for centuries",
       "ingredients": [
         "Aleppo Pepper",
         "Pomegranate Molasses"
@@ -1206,7 +1206,7 @@
     "TZ": {
       "name": "Tanzania",
       "continent": "Africa",
-      "fact": "Tanzania's Pilau Masala is a signature spice blend of the Swahili coast",
+      "fact": "Pilau Masala, Tanzania's signature spice blend, reflects centuries of Swahili coast trade",
       "ingredients": [
         "Pilau Masala"
       ]
@@ -1214,7 +1214,7 @@
     "TN": {
       "name": "Tunisia",
       "continent": "Africa",
-      "fact": "Tunisia is known for Harissa, Caraway and Preserved Lemon.",
+      "fact": "Tunisian harissa was inscribed on UNESCO's intangible heritage list in 2022",
       "ingredients": [
         "Harissa",
         "Preserved Lemon"
@@ -1223,7 +1223,7 @@
     "UY": {
       "name": "Uruguay",
       "continent": "South America",
-      "fact": "Uruguay is known for Chimichurri, Dulce de Leche and Chivito.",
+      "fact": "Uruguay consumes more mate tea per capita than any other country",
       "ingredients": [
         "Chimichurri",
         "Dulce de Leche",
@@ -1233,7 +1233,7 @@
     "VE": {
       "name": "Venezuela",
       "continent": "South America",
-      "fact": "Venezuela is known for Arepa, Guasacaca and Hallaca.",
+      "fact": "Venezuelan arepas predate European contact and differ from Colombian versions in preparation",
       "ingredients": [
         "Arepa",
         "Guasacaca",
@@ -1244,7 +1244,7 @@
     "VN": {
       "name": "Vietnam",
       "continent": "Asia",
-      "fact": "Vietnam is known for Fish Sauce, Lemongrass and Thai Basil.",
+      "fact": "Vietnamese fish sauce (nước mắm) is fermented for 12-18 months in wooden barrels",
       "ingredients": [
         "Fish Sauce",
         "Star Anise",
@@ -1254,7 +1254,7 @@
     "YE": {
       "name": "Yemen",
       "continent": "Asia",
-      "fact": "Yemen is known for Zhug, Hawaij and Hilbeh.",
+      "fact": "Yemeni zhug and hawaij spice blends have influenced cuisine across the Horn of Africa",
       "ingredients": [
         "Zhug",
         "Hawaij",
@@ -1265,7 +1265,7 @@
     "ZW": {
       "name": "Zimbabwe",
       "continent": "Africa",
-      "fact": "Zimbabwe is known for Biltong Spice, Baobab and Piri Piri.",
+      "fact": "Baobab fruit, native to Zimbabwe's savanna, has six times more vitamin C than oranges",
       "ingredients": [
         "Biltong Spice",
         "Baobab",
