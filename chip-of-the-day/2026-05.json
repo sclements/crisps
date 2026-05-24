@@ -198,5 +198,13 @@
     "event_name": "Culinary traditions (Madagascar)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-25.webp"
+  },
+  {
+    "chip_name": "Curd",
+    "date": "2026-05-26",
+    "description": "Today's pick is Curd, drawn from the culinary traditions of Serbia.",
+    "event_name": "Culinary traditions (Serbia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-26.webp"
   }
 ]

@@ -1,5 +1,60 @@
 [
   {
+    "title": "No bad apples: Vacuum dryer makes apple crisps from blemished fruit",
+    "url": "https://www.abc.net.au/news/rural/2021-07-26/apples-crisps-from-damaged-fruit/100323966",
+    "snippet": "A Victorian fruit grower has shifted his business towards dried fruit after setting up the only factory in Australia that uses vacuum-drying technology from...",
+    "published_at": "2026-05-24T15:48:05Z",
+    "source": "Australian Broadcasting Corporation",
+    "score": 7,
+    "reason": "The title mentions 'apple crisps', which triggers the rule to score 7+; it falls into the category of closely related snack foods.",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/2b23018e569a3f7d8d20fa2bb1ab2b7f?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "category": "business"
+  },
+  {
+    "title": "PepsiCo’s first creator-led product launch reimagines chips for Gen Z",
+    "url": "https://www.marketingdive.com/news/pepsicos-first-creator-led-product-launch-reimagines-chips-for-gen-z/812502/",
+    "snippet": "The CPG giant teamed with Madison Beer, iShowSpeed and Dude Perfect on products meant to shrink the distance between creators,...",
+    "published_at": "2026-05-24T15:47:43Z",
+    "source": "Marketing Dive",
+    "score": 9,
+    "reason": "The article is directly about a new product launch involving chips, falling into the highest category of relevance for brand news and new flavors.",
+    "image_url": "https://imgproxy.divecdn.com/batuy8thLogSis-QOMoELs21H7VHrf_diBxczaQXKAo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QUl9GbGF2b3JfU3dhcDk4NTUuanBn.webp",
+    "category": "new_flavors"
+  },
+  {
+    "title": "I Tried 12 Popular Potato Chip Brands—This Is the One I'm Buying From Now On",
+    "url": "https://www.allrecipes.com/best-plain-potato-chip-taste-test-11966407",
+    "snippet": "We tried the top potato chips brands on grocery store shelves to find the best. Here is a ranking of the tastiest, crispiest,...",
+    "published_at": "2026-05-24T13:47:22Z",
+    "source": "Allrecipes",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of various potato chip brands, making it highly relevant to a dedicated potato chip/crisps website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6RC0vOdmkdgD9iLRWbyT-EcOIFpkGSDrE-f6O5z-4U9z-mO-nssinUVE&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "Wirecutter’s journalists blind-tasted more than 70 kinds of plain salted potato chips — kettle-fried, classic thin-and-crispy, and rippled and ridged — to find the best. The results were genuinely surprising. https://nyti.ms/4upZcGN",
+    "url": "https://www.facebook.com/nytimes/photos/wirecutters-journalists-blind-tasted-more-than-70-kinds-of-plain-salted-potato-c/1380175927298200/",
+    "snippet": "",
+    "published_at": "2026-05-23T19:47:23Z",
+    "source": "Facebook",
+    "score": 10,
+    "reason": "The article is a direct review of various types of potato chips, making it highly relevant to a specialized potato chip news website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpohPG_Cnu_VKIxOdmBMX4bwEk-9j7v_0A2asKiXirHtpw7OcNMxaBfqQ&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "The Trader Joe's Find So Good I Buy 10 Bags Every Summer",
+    "url": "https://www.aol.com/articles/trader-joes-good-buy-10-200200918.html",
+    "snippet": "Every devoted Trader Joe's shopper has at least one seasonal product they eagerly keep an eye out for once the time is right.",
+    "published_at": "2026-05-23T15:47:22Z",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article is a review of a seasonal snack product (likely chips or popcorn) from Trader Joe's, making it highly relevant to a snack-focused website.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/0A0AD7A947E5183870DA1D46A3038182A027DEE36592E616966F5644B9B4D2C6/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_simply_recipes_articles_149%2F9e4ca511b45e7c64f0961b5ffc18c21d",
+    "category": "reviews"
+  },
+  {
     "title": "Red Rock Deli has teamed up with Colin Fassnidge to create pork belly and apple sauce crisps",
     "url": "https://www.delicious.com.au/eat-out/latest-news/article/red-rock-deli-colin-fassnidge-launch-chef-series-chips/67y9qdyw",
     "snippet": "Crisp connoisseurs can now trade up the salt and vinegar for a new range of gourmet chips created by Red Rock Deli in collaboration with...",
@@ -251,6 +306,17 @@
     "reason": "The article is directly about a specific potato chip product (Ruffles Queso Cheese Potato Chips), which falls into the top category for relevance.",
     "image_url": "https://www.ewg.org/foodscores/assets/food_database_stylesheet/share_image-37e9c8d3f0ff2600e6fcf1615c631fa6552d92fbf05c89c17906a41596d860db.jpg",
     "category": "health"
+  },
+  {
+    "title": "I taste-tested the most iconic Canadian chips and ranked them from worst to best",
+    "url": "https://www.mtlblog.com/canadian-chips-ultimate-taste-test",
+    "snippet": "From Miss Vickie's spicy dill pickle to Ruffles all-dressed and Hickory Sticks, I taste-tested the most iconic Canadian chip brands on the...",
+    "published_at": "2026-05-19T15:47:28Z",
+    "source": "MTL Blog",
+    "score": 10,
+    "reason": "The article is a direct product review and ranking of potato chip brands, which falls squarely into the highest relevance category.",
+    "image_url": "https://www.mtlblog.com/media-library/a-woman-holding-multiple-bags-of-canadian-chips-in-a-grocery-store-aisle-right-a-bowl-of-hardbite-bbq-chips.jpg?id=66749653&width=1200&height=600&coordinates=0%2C36%2C0%2C36",
+    "category": "reviews"
   },
   {
     "title": "Pringles Launches New Summer Chip Flavor With Miller Lite",
