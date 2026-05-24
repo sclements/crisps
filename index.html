@@ -375,6 +375,10 @@
             return `${diffYears.toFixed(1)} years ago`;
         }
 
+        function formatMonthKey(date) {
+            return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+        }
+
         // --- NEWS SECTION ---
         // State for infinite scroll
         let newsArchive = [];
@@ -393,7 +397,7 @@
                 // Load the last 6 months of news
                 for (let i = 0; i < 6; i++) {
                     const date = new Date(today.getFullYear(), today.getMonth() - i, 1);
-                    const monthKey = date.toISOString().slice(0, 7); // "2026-02"
+                    const monthKey = formatMonthKey(date); // "2026-02"
                     
                     try {
                         const response = await fetch(`news/${monthKey}.json`);
@@ -438,7 +442,7 @@
                 // Load months 7-18 (up to 1.5 years back)
                 for (let i = 6; i < 18; i++) {
                     const date = new Date(today.getFullYear(), today.getMonth() - i, 1);
-                    const monthKey = date.toISOString().slice(0, 7);
+                    const monthKey = formatMonthKey(date);
                     
                     try {
                         const response = await fetch(`news/${monthKey}.json`);
@@ -851,7 +855,7 @@
                 // Try to load the last 12 months of chip history
                 for (let i = 0; i < 12; i++) {
                     const date = new Date(today.getFullYear(), today.getMonth() - i, 1);
-                    const monthKey = date.toISOString().slice(0, 7);
+                    const monthKey = formatMonthKey(date);
                     
                     try {
                         const response = await fetch(`chip-of-the-day/${monthKey}.json`);
