@@ -206,5 +206,13 @@
     "event_name": "Culinary traditions (Serbia)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-26.webp"
+  },
+  {
+    "chip_name": "Smoky Mesquite Bbq",
+    "date": "2026-05-27",
+    "description": "Today's pick is Smoky Mesquite Bbq, drawn from the culinary traditions of Latvia.",
+    "event_name": "Culinary traditions (Latvia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-27.webp"
   }
 ]

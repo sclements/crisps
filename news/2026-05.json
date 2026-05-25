@@ -1,5 +1,16 @@
 [
   {
+    "title": "At least 35% recyclate to enter Aldi’s crisp, popcorn, and lentil chip bags",
+    "url": "https://packagingeurope.com/news/at-least-35-recyclate-to-enter-aldis-crisp-popcorn-and-lentil-chip-bags/11530.article",
+    "snippet": "Aldi is incorporating a minimum of 35% recycled content into its Specially Selected Hand Cooked crisp range, with its own-label popcorn and lentil chip ranges...",
+    "published_at": "2026-05-25T12:37:02Z",
+    "source": "Packaging Europe",
+    "score": 9,
+    "reason": "The article is directly about brand news regarding the packaging of specific chip and crisp product lines, meeting the criteria for 9-10.",
+    "image_url": "https://d2wrwj382xgrci.cloudfront.net/Pictures/1024x536/8/6/7/14867_pe_aldi_crisps_315131.png",
+    "category": "business"
+  },
+  {
     "title": "No bad apples: Vacuum dryer makes apple crisps from blemished fruit",
     "url": "https://www.abc.net.au/news/rural/2021-07-26/apples-crisps-from-damaged-fruit/100323966",
     "snippet": "A Victorian fruit grower has shifted his business towards dried fruit after setting up the only factory in Australia that uses vacuum-drying technology from...",
@@ -1003,6 +1014,17 @@
     "category": "reviews"
   },
   {
+    "title": "Lay’s Celebrates the World Cup With Limited-Time Chip Flavors",
+    "url": "https://www.foodnetwork.com/fn-dish/news/lays-releases-3-flavors-for-the-world-cup",
+    "snippet": "Adam has been a contributing news writer to Food Network since 2023, covering new food and beverage products, social media hacks and trends...",
+    "published_at": "2026-04-25T12:36:29Z",
+    "source": "Food Network",
+    "score": 10,
+    "reason": "The article is directly about new flavors from Lay's, a major potato chip brand.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMSdA89m7w49HdYVkSwPiGNiu4j5vlCkuTJUEzh9JQ29miBn2_wrEW6g&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
     "title": "QUAKER® EXPANDS PORTFOLIO WITH NEW PROTEIN RICE CRISPS OFFERING GOOD SOURCE OF PROTEIN (6G PROTEIN) AND 9G WHOLE GRAINS PER SERVING",
     "url": "https://finance.yahoo.com/sectors/healthcare/articles/quaker-expands-portfolio-protein-rice-120000738.html",
     "snippet": "As a majority of Americans (86%) are adding protein to their daily diet,1 Quaker continues to expand its range with the new Quaker Protein Rice Crisps. With a light texture and airy crunch fans ...",
@@ -1141,6 +1163,17 @@
     "reason": "The article mentions Doritos®, a known potato chip/snack brand, and 'Protein' as the innovation which positions it as a protein chip/functional snack food. This falls into the 'closely related snack foods' category with 7-8 points, as it's about a specific chip brand expanding into the protein chip market segment.",
     "image_url": "https://digitalassets.pepsico.com/transform/4d317f57-b847-4f88-9602-204029f8badb/Doritos_Protein-nacho-cheese-sweet-tangy-bbq",
     "category": "health"
+  },
+  {
+    "title": "Trader Joe’s New Yellow Curry Chips Might Be Their Boldest Flavor Yet",
+    "url": "https://sporked.com/article/trader-joes-new-thai-yellow-curry-chips-review/",
+    "snippet": "Pros: Hey, this has a really impressive, authentic yellow curry flavor, not just a smattering of spices. You can taste the cumin, curry powder,...",
+    "published_at": "2026-02-25T12:00:00Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is directly about a new potato chip flavor from a known brand, which falls into the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/02/NPR_TRADER-JOES-YELLOW-CURRY-CHIPS_HEADER.jpg",
+    "category": "reviews"
   },
   {
     "title": "I Tried The New Cheetos, Doritos & Ruffles 'Flavor Swap' Chips—And My Brain Is Broken",
