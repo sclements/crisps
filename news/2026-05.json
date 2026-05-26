@@ -1,5 +1,71 @@
 [
   {
+    "title": "These are the Best Potato Chips We Tried in 2025",
+    "url": "https://sporked.com/article/best-chips-2025-2/",
+    "snippet": "We tried a ton of new chip flavors in 2025! These two stood out as the most creative and craveable of the year.",
+    "published_at": "2026-05-26T17:47:27Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is directly about potato chip reviews and flavor rankings, which falls under the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2025/11/SPORKED-AWARDS-2025_WEB_CHIPS_HEADER.JPG.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "José Andrés’ Legendary 3-Ingredient Potato Chip Snack Is So Good, You’ll Want to Make It Once a Week",
+    "url": "https://www.thekitchn.com/jose-andres-patatas-chips-con-boquerones-review-23773186",
+    "snippet": "If you make it true to Chef Andrés' restaurant recipe, you get the delicately flavored, crisp chips, seasoned with the brine from the olives and...",
+    "published_at": "2026-05-26T17:47:15Z",
+    "source": "The Kitchn",
+    "score": 9,
+    "reason": "The article is a recipe specifically for making potato chips, which falls under the 9-10 category of being directly about potato chips.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi2UxghIWfLyNhqepqVkPS-PELl_Cpv67yKl-tk-N3jJQ46OZTbBp2F1I&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "The Delicious Potato Chips Margot Robbie Ate Every Single Day for Weeks on Set (\"My Favorite Part of This Job\")",
+    "url": "https://www.thekitchn.com/margot-robbie-favorite-chips-23769344",
+    "snippet": "What You Should Know About Tayto Cheese and Onion Potato Crisps. During press for one of her prior projects, A Big Bold Beautiful Journey,...",
+    "published_at": "2026-05-26T17:47:15Z",
+    "source": "The Kitchn",
+    "score": 9,
+    "reason": "The article is directly about potato chips/crisps (Tayto brand), specifically discussing them in the context of celebrity interest. According to the rules, mentions of 'chips' or 'crisps' in a food context warrant a score of 7+.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKT8Dd5_JwIXO2ivfbVcYOIY4vHDLIK2VPCo8VGuIK2jJHVtJsRgEH6gc&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "FAM STUMABO: Stopping stones from crushing your potato chip line — and your margins.",
+    "url": "https://farmersreviewafrica.com/fam-stumabo-stopping-stones-from-crushing-your-potato-chip-line-and-your-margins/",
+    "snippet": "As processors increasingly work with potatoes sourced from more challenging growing conditions, FAM STUMABO introduces StoneExtractor to...",
+    "published_at": "2026-05-26T08:47:05Z",
+    "source": "Farmers Review Africa",
+    "score": 8,
+    "reason": "The article is about industrial equipment for a potato chip production line, which falls under snack industry business.",
+    "image_url": "https://farmersreviewafrica.com/wp-content/uploads/2026/05/FAM-STUMABO_Flat-chips-scaled-e1779783327188.jpg",
+    "category": "business"
+  },
+  {
+    "title": "These Potato Chips Are So Good I've Already Eaten 3 Bags",
+    "url": "https://www.allrecipes.com/jail-breaker-brands-cell-boss-blend-potato-chips-11966385",
+    "snippet": "Meet Jail Breaker Brands' Cell Boss Blend Potato Chips. They're a sweet and spicy all-dressed-style chip that I can't get enough of.",
+    "published_at": "2026-05-26T06:47:05Z",
+    "source": "Allrecipes",
+    "score": 10,
+    "reason": "The article is a direct review of specific potato chips, which falls into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSO9HIQw9eaB8vc-zojRsIH9tOWoLVeqHp-CQgK7sWp-UAzsTr52Vpe3s&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "Always Pack This Salty Snack For Camping, It Doubles As A Fire Starter",
+    "url": "https://www.tastingtable.com/2178556/camping-salty-snack-chips-use-emergency-fire-starter/",
+    "snippet": "Most chips are highly flammable due to the amount of oil used in making them, so if you have a match, a few chips make great fire starters...",
+    "published_at": "2026-05-25T17:47:05Z",
+    "source": "Tasting Table",
+    "score": 7,
+    "reason": "The snippet mentions 'chips' in a food context, which triggers the key rule to score 7 or higher. It does not qualify for a 9-10 as it is a lifestyle/camping tip rather than news regarding flavors, brands, or industry updates.",
+    "image_url": "https://www.tastingtable.com/img/gallery/always-pack-this-salty-snack-for-camping-it-doubles-as-a-fire-starter/l-intro-1779375765.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "At least 35% recyclate to enter Aldi’s crisp, popcorn, and lentil chip bags",
     "url": "https://packagingeurope.com/news/at-least-35-recyclate-to-enter-aldis-crisp-popcorn-and-lentil-chip-bags/11530.article",
     "snippet": "Aldi is incorporating a minimum of 35% recycled content into its Specially Selected Hand Cooked crisp range, with its own-label popcorn and lentil chip ranges...",
@@ -985,6 +1051,17 @@
     "category": "oddities"
   },
   {
+    "title": "I Tried Buldak Ramen Potato Chips and I NEED More",
+    "url": "https://sporked.com/article/buldak-quattro-cheese-potato-chips-review/",
+    "snippet": "I love them. They have a subtle, almost BBQ sweetness that reminds me more of Buldak's Carbonara ramen broth than their Quattro Cheese, mixed...",
+    "published_at": "2026-04-26T17:47:12Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review of a specific potato chip product/flavor.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/NPR_BULDAK-QUATTRO-CHEESE-CHIPS_HEADER.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "Quaker Just Released a New Version of My Family's Favorite Snack",
     "url": "https://www.aol.com/articles/quaker-just-released-version-familys-110000722.html",
     "snippet": "A new Quaker snack is hitting shelves, and it's available in two crave-worthy flavor options. These bite-sized crisps offer a light, crunchy texture perfect for snacking. The new bags are rolling out ...",
@@ -1066,6 +1143,17 @@
     "reason": "The title is a direct review/ranking of potato chip brands, which falls into the highest relevance category.",
     "image_url": "https://townsquare.media/site/694/files/2026/04/attachment-great-lakes-michigan-cherry-bbq-chips-1.jpg?w=1200&q=75&format=natural",
     "category": "reviews"
+  },
+  {
+    "title": "Eat Real launches Multiseed Tortillas Chips",
+    "url": "https://www.betterretailing.com/br/product-news/eat-real-launches-multiseed-tortillas-chips/",
+    "snippet": "The flavours include A Touch of Sea Salt, Birdseye Chilli, Zesty Lime & A Touch of Sea Salt and Smoky Tomato Salsa with a Hint of Chilli.",
+    "published_at": "2026-03-31T12:00:00Z",
+    "source": "Better Retailing",
+    "score": 8,
+    "reason": "The article is about a new product launch for tortilla chips, which falls into the 7-8 category for closely related snack foods.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTh4aRorVUf5aWfo93fIyCi1Q_QZ9JcpSYcFIeQdKqIAY1y2UTgHKf1yQ&usqp=CAI&s",
+    "category": "new_flavors"
   },
   {
     "title": "Cape Cod Unveils Limited-Edition Lemon Herb Butter Potato Chips for Spring Rollout - PotatoPro",

@@ -214,5 +214,13 @@
     "event_name": "Culinary traditions (Latvia)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-27.webp"
+  },
+  {
+    "chip_name": "Roasted Garlic Herbs",
+    "date": "2026-05-28",
+    "description": "Today's pick is Roasted Garlic Herbs, drawn from the culinary traditions of South Korea.",
+    "event_name": "Culinary traditions (South Korea)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-28.webp"
   }
 ]
