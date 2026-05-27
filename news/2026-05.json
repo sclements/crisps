@@ -1,5 +1,38 @@
 [
   {
+    "title": "My snack-obsessed daughter gave these chips her highest honor",
+    "url": "https://www.aol.com/shopping/health/articles/my-snack-obsessed-daughter-gave-these-chips-her-highest-honor-184436241.html",
+    "snippet": "The snack I'm throwing in every beach bag this summer are as tasty as they are convenient.",
+    "published_at": "2026-05-27T18:25:11Z",
+    "source": "AOL.com",
+    "score": 9,
+    "reason": "The article is a review/recommendation of potato chips, which falls directly into the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/DBA47A7CCFFBB16ACDF2E1843A43814083A2EC04CC5DBAB2B21AE667C3BB7B85/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-1455962145_3834.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "All Time Low Enter Their Crunch Era With New Potato Chip Collaboration",
+    "url": "https://musictalkers.com/latest-news/10278-all-time-low-enter-their-crunch-era-with-new-potato-chip-collaboration",
+    "snippet": "After more than two decades of chart hits, sold-out tours, and emotionally devastating pop-punk choruses, All Time Low have officially...",
+    "published_at": "2026-05-27T10:25:11Z",
+    "source": "Music Talkers",
+    "score": 9,
+    "reason": "The article is directly about a new potato chip product launch via a brand collaboration, which falls under 'new flavors/brand news' in the 9-10 category.",
+    "image_url": "https://musictalkers.com/images/newnew/chip77.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Lay's Goes Beyond Chips With A New Potato-Themed Dining Experience In China",
+    "url": "https://food.ndtv.com/news/lays-goes-beyond-chips-with-a-new-potato-themed-dining-experience-in-china-11552923",
+    "snippet": "After Madrid, PepsiCo launched Chinas first Lays Potato Restaurant in Shanghai to tell the story of the potato, from farm to finished chip.",
+    "published_at": "2026-05-26T21:25:20Z",
+    "source": "NDTV Food",
+    "score": 9,
+    "reason": "The article is about brand news for Lay's (a major chip brand) and directly involves the production and story of potato chips, meeting the criteria for a high score.",
+    "image_url": "https://c.ndtvimg.com/2026-05/lo1jprvs_lays-restaurant_625x300_27_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+    "category": "oddities"
+  },
+  {
     "title": "These are the Best Potato Chips We Tried in 2025",
     "url": "https://sporked.com/article/best-chips-2025-2/",
     "snippet": "We tried a ton of new chip flavors in 2025! These two stood out as the most creative and craveable of the year.",

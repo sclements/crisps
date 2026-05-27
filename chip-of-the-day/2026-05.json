@@ -222,5 +222,13 @@
     "event_name": "Culinary traditions (South Korea)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-28.webp"
+  },
+  {
+    "chip_name": "Sprouts Lime Rolled",
+    "date": "2026-05-29",
+    "description": "Today's pick is Sprouts Lime Rolled, drawn from the culinary traditions of Cuba.",
+    "event_name": "Culinary traditions (Cuba)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-29.webp"
   }
 ]
