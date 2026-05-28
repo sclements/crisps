@@ -230,5 +230,13 @@
     "event_name": "Culinary traditions (Cuba)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-29.webp"
+  },
+  {
+    "chip_name": "Hot Cheddar Sour Cream",
+    "date": "2026-05-30",
+    "description": "Today's pick is Hot Cheddar Sour Cream, drawn from the culinary traditions of Slovenia.",
+    "event_name": "Culinary traditions (Slovenia)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-30.webp"
   }
 ]
