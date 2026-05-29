@@ -238,5 +238,13 @@
     "event_name": "Culinary traditions (Slovenia)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-30.webp"
+  },
+  {
+    "chip_name": "Sharp Cheddar",
+    "date": "2026-05-31",
+    "description": "Today's pick is Sharp Cheddar, drawn from the culinary traditions of Kosovo.",
+    "event_name": "Culinary traditions (Kosovo)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-05-31.webp"
   }
 ]

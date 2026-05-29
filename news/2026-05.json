@@ -1,5 +1,38 @@
 [
   {
+    "title": "Proper Crisps proposes closing Nelson factory, moving to Auckland",
+    "url": "https://www.thepress.co.nz/nz-news/360828323/proper-crisps-proposes-closing-nelson-factory-moving-auckland",
+    "snippet": "Proper Crisps is proposing to close its Nelson factory and shift its production to South Auckland. The potato chip company, which is owned...",
+    "published_at": "2026-05-29T12:32:05Z",
+    "source": "The Press",
+    "score": 9,
+    "reason": "The article is direct brand news concerning a potato chip company (Proper Crisps), which falls under the top tier of relevance.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlD-tCJfj_tiuTMSK6uf8QfJsiHs0gKd657UP38e5Pqi2P2nJjbR_Awo&usqp=CAI&s",
+    "category": "business"
+  },
+  {
+    "title": "Celebratory Sauce-Flavored Snack Chips",
+    "url": "https://www.trendhunter.com/trends/doritos-ultimate-garlic-parm",
+    "snippet": "Doritos Ultimate Garlic Parm snack chips have been unveiled by the PepsiCo-owned brand as its latest entrant to the market that pays homage...",
+    "published_at": "2026-05-29T10:09:51Z",
+    "source": "Trend Hunter",
+    "score": 9,
+    "reason": "The article is a product news announcement regarding a new flavor of Doritos, which falls directly under brand news and new chip flavors.",
+    "image_url": "https://cdn.trendhunterstatic.com/phpthumbnails/615/615495/615495_1_1200.jpeg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Fans Eager for Takis Fuego Hot Sauce Launching at Family Dollar on June 8 - AOL.com",
+    "url": "https://www.aol.com/articles/fans-eager-takis-fuego-hot-232500000.html",
+    "snippet": "",
+    "published_at": "2026-05-29T02:46:12Z",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article discusses brand news from Takis, a well-known snack brand. Since the product is hot sauce rather than chips, it falls into the 7-8 category for closely related snack brand news.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/7082F6A493A943043058B1FAAF370986C53536B5C0D468B502558B93D3CD0F21/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_parade_744%2F4b858c453ecaf7dc56d3f36193473ecb",
+    "category": "new_flavors"
+  },
+  {
     "title": "‘Outrageous’ portions, ‘cooked with love’: Chefs share their favourite crisps and hot chips",
     "url": "https://www.theage.com.au/goodfood/melbourne-eating-out/outrageous-portions-cooked-with-love-chefs-share-their-favourite-crisps-and-hot-chips-20260311-p5o9gh.html",
     "snippet": "Ask a chef about chips and you'll still be talking seasoning, crunch and condiments hours later. Chips might be one of the more humble...",
@@ -66,6 +99,17 @@
     "category": "oddities"
   },
   {
+    "title": "Mistakes That Made America: Potato Chips - History.com",
+    "url": "https://www.history.com/videos/mistakes-that-made-america-potato-chips",
+    "snippet": "",
+    "published_at": "2026-05-27T19:31:01Z",
+    "source": "History.com",
+    "score": 9,
+    "reason": "The article is directly about the history of potato chips, which falls under the top tier of relevance for a dedicated chip website.",
+    "image_url": "https://cropper.watch.aetnd.com/public-content-aetn.video.aetnd.com/video-thumbnails/AETN-History_VMS/668/798/THC_HSSH_266671_GLB_429797_2398_3_22000202_01_screengrab.JPG?w=500",
+    "category": "oddities"
+  },
+  {
     "title": "My snack-obsessed daughter gave these chips her highest honor",
     "url": "https://www.aol.com/shopping/health/articles/my-snack-obsessed-daughter-gave-these-chips-her-highest-honor-184436241.html",
     "snippet": "The snack I'm throwing in every beach bag this summer are as tasty as they are convenient.",
@@ -75,6 +119,39 @@
     "reason": "The article is a review/recommendation of potato chips, which falls directly into the highest relevance category.",
     "image_url": "https://s.yimg.com/lo/mysterio/api/DBA47A7CCFFBB16ACDF2E1843A43814083A2EC04CC5DBAB2B21AE667C3BB7B85/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-1455962145_3834.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "Love Doritos? You could win $250K building landmarks from chips - AOL.com",
+    "url": "https://www.aol.com/articles/love-doritos-could-win-250k-173709773.html",
+    "snippet": "",
+    "published_at": "2026-05-27T17:37:09Z",
+    "source": "AOL.com",
+    "score": 9,
+    "reason": "The article is brand news involving Doritos (a major chip brand) and a contest centered around using chips, making it directly relevant to the snack industry.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/0554C89656794100673B7981D98E64D125B7CD294A4004FEC39E03FB84F027BF/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_usatoday_us_articles_590%2Fbf8e1108e4de6f629aaa5b4f9d11cad2",
+    "category": "oddities"
+  },
+  {
+    "title": "Calbee UK brings authentic Japanese snacks to Tesco shelves - Grocery Trader",
+    "url": "https://grocerytrader.co.uk/calbee-uk-brings-authentic-japanese-snacks-to-tesco-shelves/",
+    "snippet": "",
+    "published_at": "2026-05-27T14:24:40Z",
+    "source": "Grocery Trader",
+    "score": 9,
+    "reason": "Calbee is a major snack brand primarily known for potato chips; news regarding their brand expansion and product availability falls directly under chip brand news.",
+    "image_url": "https://grocerytrader.co.uk/wp-content/uploads/2026/05/5016451498445_T1.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Dear Maria, crunch me in: All Time Low announces signature chip - AOL.com",
+    "url": "https://www.aol.com/news/dear-maria-crunch-time-low-100000543.html",
+    "snippet": "",
+    "published_at": "2026-05-27T11:57:51Z",
+    "source": "AOL.com",
+    "score": 9,
+    "reason": "The article is about a brand announcing a new signature chip product, which falls under the category of brand news and new flavors.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/9B683C6A77849C016AFE4AC08A0D30EDB7DFCCDFB7C6A5B15A1FA4C446BECC88/subgraphmysterio/resizefill_w630_h354;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_abc_audio_645%2F9f87fb2144c51215ebf2ffe0684725e5",
+    "category": "new_flavors"
   },
   {
     "title": "All Time Low Enter Their Crunch Era With New Potato Chip Collaboration",
@@ -130,6 +207,17 @@
     "reason": "The article is directly about potato chips/crisps (Tayto brand), specifically discussing them in the context of celebrity interest. According to the rules, mentions of 'chips' or 'crisps' in a food context warrant a score of 7+.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKT8Dd5_JwIXO2ivfbVcYOIY4vHDLIK2VPCo8VGuIK2jJHVtJsRgEH6gc&usqp=CAI&s",
     "category": "oddities"
+  },
+  {
+    "title": "Kettle Chips expands Krinkle range - Talking Retail",
+    "url": "https://www.talkingretail.com/products-news/crisps-snacks/kettle-chips-expands-krinkle-range-26-05-2026/",
+    "snippet": "",
+    "published_at": "2026-05-26T11:28:49Z",
+    "source": "Talking Retail",
+    "score": 10,
+    "reason": "The article is directly about a specific potato chip brand (Kettle Chips) expanding its product range, which falls under the highest level of relevance for a potato chip news site.",
+    "image_url": "https://d2td6mzj4f4e1e.cloudfront.net/wp-content/uploads/sites/9/2026/05/Untitled-1-Recovered-Recovered-3.webp",
+    "category": "new_flavors"
   },
   {
     "title": "FAM STUMABO: Stopping stones from crushing your potato chip line — and your margins.",
@@ -999,6 +1087,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "UTZ recalls Zapps, Dirty potato chips - KOTA Territory News",
+    "url": "https://www.kotatv.com/video/2026/05/05/utz-recalls-zapps-dirty-potato-chips/",
+    "snippet": "",
+    "published_at": "2026-05-05T07:00:00Z",
+    "source": "KOTA Territory News",
+    "score": 10,
+    "reason": "The article is directly about a recall of specific potato chip brands (Utz, Zapps, Dirty), making it highly relevant to a potato chip news website.",
+    "image_url": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F05-05-2026%2Ft_698fa103756048b4942590a3c364abcd_name_story_summary_image__5__scaled.jpg?auth=94415b3cd2c9e7851e0fb156a1a12e0016f116348ecb94482f12d19fc55e5092&width=1200&height=600&smart=true",
+    "category": "recalls_safety"
+  },
+  {
     "title": "Can You Make a Healthier Potato Chip Without Losing the Crunch? TNA Solutions Says Yes",
     "url": "https://www.potatopro.com/news/2026/can-you-make-healthier-potato-chip-without-losing-crunch-tna-solutions-says-yes",
     "snippet": "TNA Solutions to unveil Patent-Pending Vacuum De-Oiler at Interpack 2026, Cutting Potato Chip Fat Content to the Low 20% Range.",
@@ -1211,6 +1310,26 @@
     "category": "health"
   },
   {
+    "title": "Which Beef Tallow Potato Chips Are Actually Worth It? - The Good Men Project",
+    "url": "https://goodmenproject.com/everyday-life-2/which-beef-tallow-potato-chips-are-actually-worth-it/",
+    "snippet": "",
+    "published_at": "2026-04-15T07:00:00Z",
+    "source": "The Good Men Project",
+    "score": 10,
+    "reason": "The article is a direct review of potato chips, which falls into the highest relevance category.",
+    "category": "reviews"
+  },
+  {
+    "title": "This Beloved Canadian Chips Brand Is Partnering With The Blue Jays - Chatelaine",
+    "url": "https://chatelaine.com/food/covered-bridge-blue-jays-collab/",
+    "snippet": "",
+    "published_at": "2026-04-14T07:00:00Z",
+    "source": "Chatelaine",
+    "score": 9,
+    "reason": "The article is about brand news regarding a potato chip company, which falls directly into the top scoring category.",
+    "category": "new_flavors"
+  },
+  {
     "title": "Tyrrells brings back retro flavours with new limited-edition ham and mustard crisps",
     "url": "https://www.goodhousekeeping.com/uk/food/a70800417/tyrrells-ham-and-mustard-crisps/",
     "snippet": "Available from April, the new flavour blends the savoury richness of traditional ham with the warming kick of mustard. Resulting in a bold,...",
@@ -1220,6 +1339,17 @@
     "reason": "The article is directly about a new flavor launch from a well-known potato chip brand (Tyrrells), making it highly relevant.",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/be548aee-db2b-4d52-bbbe-ebbc3f78ddce.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
     "category": "new_flavors"
+  },
+  {
+    "title": "Bangers decided potato chips needed 200mg of caffeine. It kinda works? - USA Today",
+    "url": "https://ftw.usatoday.com/story/entertainment/pop-culture/2026/04/11/bangers-caffeine-potato-chips-review-paradise-barbeque/89552292007/",
+    "snippet": "",
+    "published_at": "2026-04-11T07:00:00Z",
+    "source": "USA Today",
+    "score": 10,
+    "reason": "The article is directly about a new product/flavor innovation specifically involving potato chips.",
+    "image_url": "https://ftw.usatoday.com/gcdn/authoring/authoring-images/2026/04/10/SFTW/89552575007-bangers-cover.jpg?crop=1413,796,x0,y24&width=1413&height=796&format=pjpg&auto=webp",
+    "category": "reviews"
   },
   {
     "title": "Aldi brings back 'best ever' limited-edition crisp flavour for a CHEAPER price - but you'll have to hurry - The Sun",
@@ -1244,6 +1374,17 @@
     "category": "reviews"
   },
   {
+    "title": "Is There a Proper Way to Eat Chip Dust? - The New York Times",
+    "url": "https://www.nytimes.com/interactive/2026/04/03/magazine/potato-chip-bag-hodgman-quiz.html",
+    "snippet": "",
+    "published_at": "2026-04-03T07:00:00Z",
+    "source": "The New York Times",
+    "score": 9,
+    "reason": "The title directly discusses a topic specific to the consumption of potato chips (chip dust), making it highly relevant to a chip-focused website.",
+    "image_url": "https://static01.nyt.com/images/2026/04/05/magazine/05mag-hodgman/05mag-hodgman-facebookJumbo.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Eat Real launches Multiseed Tortillas Chips",
     "url": "https://www.betterretailing.com/br/product-news/eat-real-launches-multiseed-tortillas-chips/",
     "snippet": "The flavours include A Touch of Sea Salt, Birdseye Chilli, Zesty Lime & A Touch of Sea Salt and Smoky Tomato Salsa with a Hint of Chilli.",
@@ -1253,6 +1394,28 @@
     "reason": "The article is about a new product launch for tortilla chips, which falls into the 7-8 category for closely related snack foods.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTh4aRorVUf5aWfo93fIyCi1Q_QZ9JcpSYcFIeQdKqIAY1y2UTgHKf1yQ&usqp=CAI&s",
     "category": "new_flavors"
+  },
+  {
+    "title": "From the bleachy to the bubbly: The ultimate plain-salted crisp taste test - The Age",
+    "url": "https://www.theage.com.au/goodfood/tips-and-advice/from-the-bleachy-to-the-bubbly-the-ultimate-plain-salted-crisp-taste-test-20260317-p5ofna.html",
+    "snippet": "",
+    "published_at": "2026-03-24T07:00:00Z",
+    "source": "The Age",
+    "score": 10,
+    "reason": "The article is a direct review and taste test of potato crisps, which falls into the highest relevance category.",
+    "image_url": "https://static.ffx.io/images/$zoom_0.2327%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_75/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/c7192e8794ce09f2d5c1798297ba0190b7e07485",
+    "category": "reviews"
+  },
+  {
+    "title": "Hormuz crisis takes a bite out of Japan’s potato chips supply - The Japan Times",
+    "url": "https://www.japantimes.co.jp/business/2026/03/18/japan-wasabeef-potato-chips-on-pause/",
+    "snippet": "",
+    "published_at": "2026-03-18T07:00:00Z",
+    "source": "The Japan Times",
+    "score": 8,
+    "reason": "The article is about the supply chain and business implications for the potato chip industry, which falls under 'snack industry business'.",
+    "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/03/18/529881.png?v=3.1",
+    "category": "business"
   },
   {
     "title": "Cape Cod Unveils Limited-Edition Lemon Herb Butter Potato Chips for Spring Rollout - PotatoPro",
@@ -1266,6 +1429,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "Why chip charcuteries are the new loaded nachos (and how to make them) - SMH.com.au",
+    "url": "https://www.smh.com.au/goodfood/tips-and-advice/why-chip-charcuteries-are-the-new-loaded-nachos-and-how-to-make-them-20260306-p5o84z.html",
+    "snippet": "",
+    "published_at": "2026-03-12T07:00:00Z",
+    "source": "SMH.com.au",
+    "score": 7,
+    "reason": "The title mentions 'chip' in a food context, which triggers the rule to score 7+. While it is a food trend/lifestyle article, it is centered around using chips as a primary ingredient.",
+    "image_url": "https://static.ffx.io/images/$zoom_0.1698%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/33d2a4181b0a0f9b1ea26ece2ae7b2e50400a17d",
+    "category": "oddities"
+  },
+  {
     "title": "The New Potato Chip Is So Good, I Get Why It’s Selling Out - The Kitchn",
     "url": "https://www.thekitchn.com/keyas-snacks-potato-chips-product-review-23771963",
     "snippet": "",
@@ -1273,6 +1447,17 @@
     "source": "The Kitchn",
     "score": 10,
     "reason": "The title is directly about a new potato chip product, which falls into the highest relevance category for the website.",
+    "category": "reviews"
+  },
+  {
+    "title": "Watch Pro Chefs Blind Taste Test Every Potato Chip | The Taste Panel - Epicurious",
+    "url": "https://www.epicurious.com/video/watch/big-taste-test-pro-chefs-blind-taste-test-every-potato-chip",
+    "snippet": "",
+    "published_at": "2026-03-05T08:00:00Z",
+    "source": "Epicurious",
+    "score": 10,
+    "reason": "The article is a direct review and taste test of potato chips, which falls into the highest relevance category.",
+    "image_url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_epicurious.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1772709076/epicurious_big-taste-test-pro-chefs-blind-taste-test-every-potato-chip.jpg",
     "category": "reviews"
   },
   {
