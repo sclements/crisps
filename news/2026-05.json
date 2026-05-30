@@ -1,5 +1,38 @@
 [
   {
+    "title": "A Major Snack Brand Is Shaking Up Its Flavors with Unexpected Crossovers",
+    "url": "https://whatnow.com/news/retail/a-major-snack-brand-is-shaking-up-its-flavors-with-unexpected-crossovers/",
+    "snippet": "Lay's is introducing new flavor swaps this January, blending fan-favorite tastes from Doritos, Ruffles, and Cheetos into limited-time...",
+    "published_at": "2026-05-30T09:19:54Z",
+    "source": "WhatNow",
+    "score": 10,
+    "reason": "The article is directly about new flavor launches for major potato chip brands (Lay's and Ruffles), making it highly relevant to a potato chip news site.",
+    "image_url": "https://whatnow.com/wp-content/uploads/2025/12/BBQ-Cheetos-1-1.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Black-and-White Potato Chips Hit Shelves",
+    "url": "https://newsonjapan.com/article/149436.php",
+    "snippet": "More than 1000 food products and other consumer goods will see price increases from June, with the effects of instability in the Middle East...",
+    "published_at": "2026-05-30T00:19:34Z",
+    "source": "News On Japan",
+    "score": 10,
+    "reason": "The title directly announces the launch of a new type of potato chip product, which falls into the 9-10 category.",
+    "image_url": "https://i2.ytimg.com/vi/p7eRpENElRQ/maxresdefault.jpg",
+    "category": "business"
+  },
+  {
+    "title": "PepsiCo Foods Just Dropped a New Version of My All-Time Favorite Chip",
+    "url": "https://www.aol.com/articles/pepsico-foods-just-dropped-version-220000000.html",
+    "snippet": "I can't wait to try every flavor.",
+    "published_at": "2026-05-29T22:19:44Z",
+    "source": "AOL.com",
+    "score": 10,
+    "reason": "The article is directly about a new product release in the chip category from a major brand (PepsiCo), fitting the top tier of the rubric.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/BA16862A0E0D5C98F8B7992190898D12318A30FFEC723E29EBC7A5081541ED71/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_allrecipes_articles_781%2Feaf1a00eae70fe7bb01004bd277401e3",
+    "category": "new_flavors"
+  },
+  {
     "title": "Proper Crisps proposes closing Nelson factory, moving to Auckland",
     "url": "https://www.thepress.co.nz/nz-news/360828323/proper-crisps-proposes-closing-nelson-factory-moving-auckland",
     "snippet": "Proper Crisps is proposing to close its Nelson factory and shift its production to South Auckland. The potato chip company, which is owned...",
