@@ -1,5 +1,27 @@
 [
   {
+    "title": "Wait, What? Pringles Can’t Officially Be Called Potato ‘Chips’—Here’s Why",
+    "url": "https://curlytales.com/india/food/wait-what-pringles-cant-officially-be-called-potato-chips-heres-why/",
+    "snippet": "According to the US Food and Drug Administration (FDA), Pringles cannot officially be labelled as 'chips,' which is why they are marketed as...",
+    "published_at": "2026-05-31T14:31:29Z",
+    "source": "Curly Tales",
+    "score": 9,
+    "reason": "The article is direct brand news concerning Pringles, a major chip brand, which falls under the 9-10 category for chip-related news.",
+    "image_url": "https://curlytales.com/wp-content/uploads/2026/05/pringles.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "Inside Masa And The Rise Of The Blue-Chip Tortilla Chip",
+    "url": "https://www.forbes.com/sites/chloesorvino/2026/05/29/masa-ancient-crunch-rise-of-the-blue-chip-tortilla-chip/",
+    "snippet": "Thanks to a push from Joe Rogan, Tucker Carlson and MAHA influencers, Ancient Crunch sells 500000 bags of its $13 seed-oil-free Masa chips...",
+    "published_at": "2026-05-31T09:31:36Z",
+    "source": "Forbes",
+    "score": 8,
+    "reason": "The article is about a specific brand of tortilla chips, which falls under the 'closely related snack foods' category.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a19b77e8585029c518c4ab0/0x0.jpg?format=jpg&crop=2123,1194,x0,y86,safe&height=900&width=1600&fit=bounds",
+    "category": "business"
+  },
+  {
     "title": "A Major Snack Brand Is Shaking Up Its Flavors with Unexpected Crossovers",
     "url": "https://whatnow.com/news/retail/a-major-snack-brand-is-shaking-up-its-flavors-with-unexpected-crossovers/",
     "snippet": "Lay's is introducing new flavor swaps this January, blending fan-favorite tastes from Doritos, Ruffles, and Cheetos into limited-time...",
@@ -31,6 +53,17 @@
     "reason": "The article is directly about a new product release in the chip category from a major brand (PepsiCo), fitting the top tier of the rubric.",
     "image_url": "https://s.yimg.com/lo/mysterio/api/BA16862A0E0D5C98F8B7992190898D12318A30FFEC723E29EBC7A5081541ED71/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_allrecipes_articles_781%2Feaf1a00eae70fe7bb01004bd277401e3",
     "category": "new_flavors"
+  },
+  {
+    "title": "The Best Things We Ate In May: Graza Chips, Gooey Dates And More",
+    "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-things-we-ate-may-2026/",
+    "snippet": "These are some of our standout bites and sips from May 2026, including a creamy hummus, zesty chips and better-for-you soda.",
+    "published_at": "2026-05-29T17:31:35Z",
+    "source": "Forbes",
+    "score": 9,
+    "reason": "The title explicitly mentions a chip brand ('Graza Chips') as a featured item, making it directly relevant to chip news and reviews.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a18808a95be28af1d5307b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "category": "reviews"
   },
   {
     "title": "Proper Crisps proposes closing Nelson factory, moving to Auckland",
