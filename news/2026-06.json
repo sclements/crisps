@@ -1,5 +1,60 @@
 [
   {
+    "title": "Kettle Chips adds 'authentic' Thai Sweet Chilli flavour to crisps lineup",
+    "url": "https://www.thegrocer.co.uk/news/kettle-chips-adds-authentic-thai-sweet-chilli-flavour-to-crisps-lineup/603676.article",
+    "snippet": "Kettle Chips has added a Thai Sweet Chilli flavour to its lineup. The NPD is billed as containing “iconic Thai ingredients with real depth and interest”.",
+    "published_at": "2026-06-02T16:05:31Z",
+    "source": "The Grocer",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch for the Kettle Chips brand, falling into the highest relevance category.",
+    "image_url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/4/3/1/182431_kettlechipstsc_441880.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Burts Chips becomes first crisps brand to win Red Tractor stamp",
+    "url": "https://www.thegrocer.co.uk/news/burts-chips-becomes-first-crisps-brand-to-win-red-tractor-stamp/554018.article",
+    "snippet": "The Red Tractor logo will appear on Burts' 40g bags from next month and 150g packs from September. The first new variants to carry the stamp of...",
+    "published_at": "2026-06-02T16:05:31Z",
+    "source": "The Grocer",
+    "score": 10,
+    "reason": "The article is direct news about a potato chip brand (Burts Chips) and its product certification, which falls directly into the 9-10 category.",
+    "image_url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/5/3/8/116538_Burts-Bacon.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Seabrook celebrates milestone with new fish & chip flavour crisps",
+    "url": "https://www.conveniencestore.co.uk/grocery-and-snacks/seabrook-celebrates-milestone-with-new-fish-and-chip-flavour-crisps/604400.article",
+    "snippet": "Seabrook Crisps is celebrating its 75th anniversary with the introduction of a limited-edition fish & chips flavour.",
+    "published_at": "2026-06-02T16:05:31Z",
+    "source": "www.conveniencestore.co.uk",
+    "score": 10,
+    "reason": "The article is directly about a specific chip brand releasing a new flavor, which falls into the highest relevance category.",
+    "image_url": "https://d2dyh47stel7w4.cloudfront.net/Pictures/1024x536/7/5/2/183752_seabrookfishnchipspair_973757.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "The inspirations behind Frito-Lay chip flavors",
+    "url": "https://www.axios.com/local/dallas/2026/06/02/the-inspirations-behind-frito-lay-chip-flavors",
+    "snippet": "PepsiCo's chefs often travel the world in search of new flavors. The Golden Sriracha Doritos were inspired by one chef's Thai heritage.",
+    "published_at": "2026-06-02T14:05:08Z",
+    "source": "Axios",
+    "score": 8,
+    "reason": "The article discusses flavor development for Frito-Lay and Doritos. Since the content focuses on tortilla chips (categorized in the 7-8 range) rather than potato chips, it scores an 8.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CB0ClDhidUuc4qmtQTgUaI6Wz6IWaz3apFZ9VDWtj6bhnc7gQpPJoZE&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "Italian Cuisine Snack Chips",
+    "url": "https://www.trendhunter.com/trends/aldi-cucina-crisps",
+    "snippet": "ALDI Cucina Crisps - The ALDI Cucina Crisps range is being expanded by the retailer as a nod to the growing popularity of global cuisine...",
+    "published_at": "2026-06-02T01:04:47Z",
+    "source": "Trend Hunter",
+    "score": 9,
+    "reason": "The article is directly about a brand expanding its specific chip/crisp product line, which falls into the highest relevance category.",
+    "image_url": "https://cdn.trendhunterstatic.com/phpthumbnails/615/615885/615885_1_1200.jpeg",
+    "category": "new_flavors"
+  },
+  {
     "title": "Potato Protein Crisps - Trend Hunter",
     "url": "https://www.trendhunter.com/trends/snackish",
     "snippet": "",

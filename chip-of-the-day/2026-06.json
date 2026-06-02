@@ -14,5 +14,21 @@
     "event_name": "Culinary traditions (Austria)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-06-02.webp"
+  },
+  {
+    "chip_name": "Honey Roasted",
+    "date": "2026-06-03",
+    "description": "Honoring the legacy of Uganda's Martyrs' Day, we celebrate with a golden touch. These Honey Roasted chips offer a sweet tribute to this significant day.",
+    "event_name": "Martyrs' Day (Uganda)",
+    "event_url": "https://en.wikipedia.org/wiki/June_3",
+    "image_url": "chip-of-the-day/images/2026-06-03.webp"
+  },
+  {
+    "chip_name": "Greens",
+    "date": "2026-06-04",
+    "description": "Today's pick is Greens, drawn from the culinary traditions of Zimbabwe.",
+    "event_name": "Culinary traditions (Zimbabwe)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-06-04.webp"
   }
 ]
