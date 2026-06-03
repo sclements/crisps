@@ -30,5 +30,13 @@
     "event_name": "Culinary traditions (Zimbabwe)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-06-04.webp"
+  },
+  {
+    "chip_name": "Jalapeno Popper",
+    "date": "2026-06-05",
+    "description": "Today's pick is Jalapeno Popper, drawn from the culinary traditions of Venezuela.",
+    "event_name": "Culinary traditions (Venezuela)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-06-05.webp"
   }
 ]

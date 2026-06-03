@@ -1,5 +1,16 @@
 [
   {
+    "title": "Limited-Edition Easter Snack Chips",
+    "url": "https://www.trendhunter.com/trends/new-walkers-sensations-flavors",
+    "snippet": "These new Walkers Sensations flavors are arriving as a series of limited-edition Easter-themed options perfect for consumers to try out this...",
+    "published_at": "2026-06-03T08:00:38Z",
+    "source": "Trend Hunter",
+    "score": 10,
+    "reason": "The article is directly about new flavors of a specific potato chip brand (Walkers Sensations), falling into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDynXgriSAIE4QRM3NSRj-943difQgX3HR5eraVH-RzR5JQuCrL9jAeec&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
     "title": "Aldi Aisle Of Shame: Can The Discount Savoritz Artisan Crisps Compete With Upscale Brands? - AOL.com",
     "url": "https://www.aol.com/articles/aldi-aisle-shame-discount-savoritz-183900000.html",
     "snippet": "",
@@ -137,6 +148,24 @@
     "category": "reviews"
   },
   {
+    "title": "Dietitians rank the 6 healthiest chips in the snack aisle",
+    "url": "https://www.msn.com/en-us/health/nutrition/dietitians-rank-the-6-healthiest-chips-in-the-snack-aisle/ar-AA24yhCv",
+    "snippet": "Forgo salty, oily chips for these healthier, protein-packed picks.",
+    "published_at": "2026-06-01T04:30:00Z",
+    "score": 9,
+    "reason": "The article is directly about ranking and reviewing chips, which fits the 9-10 category for chip-related content.",
+    "category": "reviews"
+  },
+  {
+    "title": "Are sweet potato chips healthier than the standard potato chip?",
+    "url": "https://www.msn.com/en-us/health/nutrition/are-sweet-potato-chips-healthier-than-the-standard-potato-chip/ar-AA24xXha",
+    "snippet": "Sweet potato chips are often marketed as a healthy alternative to regular potato chips, but are they really that much better?",
+    "published_at": "2026-06-01T03:35:00Z",
+    "score": 9,
+    "reason": "The article is directly about potato chips and their nutritional comparison, which falls under the primary subject matter of the website.",
+    "category": "health"
+  },
+  {
     "title": "Potato Protein Crisps - Trend Hunter",
     "url": "https://www.trendhunter.com/trends/snackish",
     "snippet": "",
@@ -170,6 +199,16 @@
     "category": "oddities"
   },
   {
+    "title": "Family Size Vs Party Size Potato Chips: What's The Difference And What's The Better Deal?",
+    "url": "https://www.aol.com/articles/family-size-vs-party-size-224000000.html",
+    "snippet": "Sometimes you find yourself questioning just how much you actually need when feeding chips and dip to a crowd. Between super-sized offerings, including family and party bags of potato chips, this is ...",
+    "published_at": "2026-05-29T15:40:00Z",
+    "score": 9,
+    "reason": "The article is directly about potato chips, providing consumer-focused information on product sizing and value, which falls under the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/8ECE723FC409F05C3E2DDC5F3BA93C943331EDD733831078D27E8F2A1C2D61CC/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_tasting_table_516%2F514da244e54a57293c54a75f2283fd54",
+    "category": "oddities"
+  },
+  {
     "title": "Realm just launched nationwide. Its savory veggie crisps are part of a much bigger snack trend.",
     "url": "https://www.msn.com/en-us/food-and-drink/beverages/realm-just-launched-nationwide-its-savory-veggie-crisps-are-part-of-a-much-bigger-snack-trend/ar-AA24cuVh",
     "snippet": "For years, the snack aisle operated on an unspoken rule: you could have flavor or you could have clean ingredients, but not both. Legacy chip ... Read more The post Realm Just Launched Nationwide. Its ...",
@@ -177,6 +216,15 @@
     "score": 9,
     "reason": "The article is news about a specific brand launching its savory veggie crisps nationwide, which falls directly into the category of chip/crisp brand news.",
     "category": "new_flavors"
+  },
+  {
+    "title": "Can I finish 4 bags of salt & vinegar chips?",
+    "url": "https://www.msn.com/en-us/foodanddrink/cookingschool/can-i-finish-4-bags-of-salt-vinegar-chips/vi-AA247Ipe",
+    "snippet": "Revisiting the Potato Chip Challenge with Salt & Vinegar Chips. Watch as I attempt to conquer the mountain of chips faster than before. #PotatoChipChallenge #SaltAndVinegarChips ...",
+    "published_at": "2026-05-26T09:00:00Z",
+    "score": 9,
+    "reason": "The content is directly about potato chips (a flavor-based eating challenge), which falls under the highest relevance category for a chip news website.",
+    "category": "oddities"
   },
   {
     "title": "'Healthiest' crisps in the UK have a 'perfect crunch' and cost just £1 for a multipack",
