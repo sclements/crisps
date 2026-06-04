@@ -1,5 +1,16 @@
 [
   {
+    "title": "The Real Reason You Can't Stop Eating Chips After a Drink (It's Not Lack of Willpower)",
+    "url": "https://www.mix1049.com.au/trending/stories/why-a-few-drinks-make-you-crave-chips-and-pizza-according-to-science/",
+    "snippet": "We have all been there. You are a few glasses into a relaxed evening with friends, and suddenly, the humble bowl of nuts on the table is no...",
+    "published_at": "2026-06-04T07:32:06Z",
+    "source": "Mix 1049",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which according to the key rules triggers an automatic score of 7+. Since it is a science/behavioral piece rather than direct product news (like new flavors or recalls), it fits the 7-8 range.",
+    "image_url": "https://www.mix1049.com.au/wp-content/uploads/sites/12/2026/06/20260603-beerandpizza-Feature.jpg",
+    "category": "health"
+  },
+  {
     "title": "Limited-Edition Easter Snack Chips",
     "url": "https://www.trendhunter.com/trends/new-walkers-sensations-flavors",
     "snippet": "These new Walkers Sensations flavors are arriving as a series of limited-edition Easter-themed options perfect for consumers to try out this...",
@@ -265,6 +276,17 @@
     "category": "reviews"
   },
   {
+    "title": "Walkers launches exciting range of crisps for the World Cup available now - East London Advertiser",
+    "url": "https://www.eastlondonadvertiser.co.uk/news/26106658.walkers-launches-exciting-range-crisps-world-cup/",
+    "snippet": "",
+    "published_at": "2026-05-14T07:00:00Z",
+    "source": "East London Advertiser",
+    "score": 10,
+    "reason": "The article is directly about a new product launch of potato crisps from the brand Walkers, which fits the highest relevance category.",
+    "image_url": "https://www.eastlondonadvertiser.co.uk/resources/images/20914334.jpg?type=og-image",
+    "category": "new_flavors"
+  },
+  {
     "title": "I’ve Tasted a Ton of Protein Chips, These Actually Taste Good - Sporked",
     "url": "https://sporked.com/article/best-keto-chips/",
     "snippet": "",
@@ -413,6 +435,17 @@
     "source": "Better Retailing",
     "score": 9,
     "reason": "The article is brand news regarding a specific potato chip company (Kettle Chips), which falls directly into the 9-10 category.",
+    "category": "business"
+  },
+  {
+    "title": "Why Potato Chips Are So Expensive, Despite Low Manufacturing Costs - Tasting Table",
+    "url": "https://www.tastingtable.com/2119230/why-potato-chips-cost-so-much/",
+    "snippet": "",
+    "published_at": "2026-03-15T07:00:00Z",
+    "source": "Tasting Table",
+    "score": 9,
+    "reason": "The article is directly about potato chips and their production/pricing, which is a primary topic for a dedicated chip news site.",
+    "image_url": "https://www.tastingtable.com/img/gallery/why-potato-chips-cost-so-much/l-intro-1773099081.jpg",
     "category": "business"
   },
   {
