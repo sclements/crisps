@@ -38,5 +38,13 @@
     "event_name": "Culinary traditions (Venezuela)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-06-05.webp"
+  },
+  {
+    "chip_name": "Dried Pods",
+    "date": "2026-06-07",
+    "description": "Today's pick is Dried Pods, drawn from the culinary traditions of Nigeria.",
+    "event_name": "Culinary traditions (Nigeria)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-06-07.webp"
   }
 ]
