@@ -1,5 +1,49 @@
 [
   {
+    "title": "WHAT TO STOCK – CHIPS, CRISPS AND SPECIALTY EDITION",
+    "url": "https://supermarketnews.co.nz/whats-hot/what-to-stock/what-to-stock-chips-crisps-and-specialty-edition/",
+    "snippet": "Family owned and operated, Macy & Tailor products are free of preservatives and are non-GMO. Macy and Tailor is cute, quirky and humourous but...",
+    "published_at": "2026-06-07T20:58:03Z",
+    "source": "supermarketnews.co.nz",
+    "score": 9,
+    "reason": "The title and snippet focus specifically on a brand (Macy & Tailor) that produces chips and crisps, which falls under direct brand news.",
+    "image_url": "https://supermarketnews.co.nz/wp-content/uploads/2017/08/WHAT-TO-STOCK_Chips_1.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "The Easy Trick That Keeps Chips Fresh Way Longer",
+    "url": "https://www.simplyrecipes.com/keep-chips-fresh-trick-11853280",
+    "snippet": "I discovered a way to keep potato chips fresher longer—and it's not what you'd expect.",
+    "published_at": "2026-06-07T20:57:32Z",
+    "source": "Simply Recipes",
+    "score": 9,
+    "reason": "The article is directly about potato chips, which falls into the highest relevance category for a dedicated chip website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScwAQjlhKphaWiq-UgklJ-YnYnQCYUyliiDTeom1ce015XkthCePfJoPs&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "Dot's Pretzels Is Releasing a New Flavor So Good My Family Already Ate an Entire Bag",
+    "url": "https://www.yahoo.com/lifestyle/articles/dots-pretzels-releasing-flavor-good-180000621.html",
+    "snippet": "In a snack aisle that's saturated with new potato chips, tortilla chips, and cheesy crackers, there was a time when grabbing a bag of...",
+    "published_at": "2026-06-07T17:57:24Z",
+    "source": "Yahoo",
+    "score": 8,
+    "reason": "The article is about a new flavor release for Dot's Pretzels, which falls under closely related snack foods. The mention of chips in the snippet also ensures a score of 7 or higher per the key rules.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/12c3b0613b7de63c1a53e98cb5a266a79c73feabad4b6b577e1bb03e252668be/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fall_recipes_969%2F0e1e6a42c71acf291ea61cba15163a4f",
+    "category": "reviews"
+  },
+  {
+    "title": "Cozy Denver pub takes classic fish and chips to the next level",
+    "url": "https://www.denverpost.com/2026/06/07/best-fish-chips-denver-burns-pub/",
+    "snippet": "It's difficult to imagine a more perfect fish and chips than the shatteringly crisp platter sold at The Burns Pub & Restaurant in...",
+    "published_at": "2026-06-07T11:57:55Z",
+    "source": "The Denver Post",
+    "score": 7,
+    "reason": "The article is about a restaurant meal (fish and chips), but per the key rule, because the title mentions 'chips' in a food context, it must score 7 or higher.",
+    "image_url": "https://www.denverpost.com/wp-content/uploads/2026/06/tdp-l-fish-chips-burns-pub-0602-01.jpeg?w=1024&h=768",
+    "category": "reviews"
+  },
+  {
     "title": "I Never Shop Trader Joe's Snack Aisle—But These New Ranch Chips Changed My Mind",
     "url": "https://www.aol.com/articles/never-shop-trader-joes-snack-183700000.html",
     "snippet": "The zesty seasoning kept me reaching back into the bag.",
