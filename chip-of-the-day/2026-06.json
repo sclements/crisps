@@ -46,5 +46,13 @@
     "event_name": "Culinary traditions (Nigeria)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-06-07.webp"
+  },
+  {
+    "chip_name": "Ginger",
+    "date": "2026-06-08",
+    "description": "Today's pick is Ginger, drawn from the culinary traditions of South Korea.",
+    "event_name": "Culinary traditions (South Korea)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-06-08.webp"
   }
 ]
