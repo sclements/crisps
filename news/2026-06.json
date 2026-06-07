@@ -10,6 +10,17 @@
     "image_url": "https://s.yimg.com/lo/mysterio/api/D7FCEE795E82C87997D69C0F360AA04477B2EC6C48FC46A7CEAF7C9FF55B28FE/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_southern_living_articles_226%2Fc8056f7799443d972d024c97c05a440d"
   },
   {
+    "title": "Nerdy Food: Toll House Drops Chocolate Chip Remix Cookie Dough - Bleeding Cool News",
+    "url": "https://bleedingcool.com/pop-culture/nerdy-food-nestle-toll-house-drops-chocolate-chip-remix-cookie-dough/",
+    "snippet": "",
+    "published_at": "2026-06-06T14:43:10Z",
+    "source": "Bleeding Cool News",
+    "score": 7,
+    "reason": "The title mentions 'chocolate chip', which triggers the specific instruction to score 7+ when the word 'chip' is mentioned in a food context.",
+    "image_url": "https://bleedingcool.com/wp-content/uploads/2026/06/Nestle-Toll-House-Chocolate-Chip-Remix-Cookie-Dough-2000x1125.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "Cheesy Italian Potato Chips",
     "url": "https://www.trendhunter.com/trends/lays-italian-herbs-cheese",
     "snippet": "Lay's Italian Herbs & Cheese - Subway Canada's Italian Herbs & Cheese bread is a menu staple that can now be savored as a crunchy snack,...",
@@ -19,6 +30,50 @@
     "reason": "The article is directly about a new flavor of Lay's potato chips, which falls into the highest relevance category.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLyhwO629WKgCUz-QMzL0zvwHIdFIZ034ijTWpq4&usqp=CAI&s",
     "category": "new_flavors"
+  },
+  {
+    "title": "Where We Are Going Today: ‘Sellfish’ (Fish and chips) restaurant in Jeddah - Arab News",
+    "url": "https://www.arabnews.com/node/2646120/food-health",
+    "snippet": "",
+    "published_at": "2026-06-05T19:01:18Z",
+    "source": "Arab News",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the specific instruction to score 7+.",
+    "image_url": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2026/06/05/4718978-242702729.jpg?itok=Srgdq9Zl",
+    "category": "reviews"
+  },
+  {
+    "title": "National fish and chips day: Don't bother if you're in London - London Evening Standard",
+    "url": "https://www.standard.co.uk/going-out/restaurants/london-fish-and-chips-where-good-b1162496.html",
+    "snippet": "",
+    "published_at": "2026-06-05T15:38:07Z",
+    "source": "London Evening Standard",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the rule to score 7+.",
+    "image_url": "https://static.standard.co.uk/2026/06/04/12/2160882185..?width=1200&auto=webp&quality=75",
+    "category": "oddities"
+  },
+  {
+    "title": "I tried award-winning fish and chips in pretty village – here's what it's really like - Wales Online",
+    "url": "https://www.walesonline.co.uk/whats-on/food-drink-news/tried-award-winning-fish-chips-34074105",
+    "snippet": "",
+    "published_at": "2026-06-05T15:38:00Z",
+    "source": "Wales Online",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the rule to score 7 or higher. However, it refers to fries (fish and chips) rather than snack-style potato chips/crisps.",
+    "image_url": "https://i2-prod.walesonline.co.uk/article34074103.ece/ALTERNATES/s1200d/0_Matt-Davies.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Chip, chip, hooray! Let's celebrate National Fish and Chip Day - InYourArea",
+    "url": "https://www.inyourarea.co.uk/news/chip-chip-hooray-lets-celebrate-national-fish-and-chip-day",
+    "snippet": "",
+    "published_at": "2026-06-05T14:57:11Z",
+    "source": "InYourArea",
+    "score": 7,
+    "reason": "The title mentions 'chip' in a food context (fish and chips), which triggers the rule to score 7 or higher. It is not directly about packaged potato chips, so it does not reach the 9-10 range.",
+    "image_url": "https://images-cropper-prod.inyourarea.co.uk/unsafe/700x394/smart/harvester-img-972a6ebe347ae121eafef2ad56eb5338.jpg",
+    "category": "oddities"
   },
   {
     "title": "Subway® Canada and Lay’s® Launch Iconic Italian Herbs & Cheese Flavoured Potato Chips",
@@ -41,6 +96,28 @@
     "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2026-05/29/18/thumb/anmeNHZnu.jpg?crop=2999:1570;1,0%26downsize=1250:*"
   },
   {
+    "title": "Study Explains Why Alcohol Makes You Reach For Chips, Not Candy - StudyFinds",
+    "url": "https://studyfinds.com/alcohol-makes-you-want-chips/",
+    "snippet": "",
+    "published_at": "2026-06-04T15:59:12Z",
+    "source": "StudyFinds",
+    "score": 8,
+    "reason": "The title explicitly mentions 'chips' in a food context, which triggers the 7+ rule. While it is a scientific study rather than brand news, it directly addresses consumer behavior regarding chips.",
+    "image_url": "https://studyfinds.com/wp-content/uploads/2024/12/beer-nuts-scaled.jpg",
+    "category": "health"
+  },
+  {
+    "title": "Burts and Radnor Hills collaborate in Canny Snacks business - Food and Drink Technology",
+    "url": "https://www.foodanddrinktechnology.com/news/67545/burts-and-radnor-hills-collaborate-in-canny-snacks-business/",
+    "snippet": "",
+    "published_at": "2026-06-04T10:13:33Z",
+    "source": "Food and Drink Technology",
+    "score": 9,
+    "reason": "The article involves Burts, a well-known potato chip brand, regarding business news in the snack industry.",
+    "image_url": "https://www.foodanddrinktechnology.com/wp-content/uploads/cannysnacks_burts-RH_jun26.jpg",
+    "category": "business"
+  },
+  {
     "title": "The Real Reason You Can't Stop Eating Chips After a Drink (It's Not Lack of Willpower)",
     "url": "https://www.mix1049.com.au/trending/stories/why-a-few-drinks-make-you-crave-chips-and-pizza-according-to-science/",
     "snippet": "We have all been there. You are a few glasses into a relaxed evening with friends, and suddenly, the humble bowl of nuts on the table is no...",
@@ -50,6 +127,16 @@
     "reason": "The title mentions 'chips' in a food context, which according to the key rules triggers an automatic score of 7+. Since it is a science/behavioral piece rather than direct product news (like new flavors or recalls), it fits the 7-8 range.",
     "image_url": "https://www.mix1049.com.au/wp-content/uploads/sites/12/2026/06/20260603-beerandpizza-Feature.jpg",
     "category": "health"
+  },
+  {
+    "title": "These Melting Potatoes Taste Like Salt & Vinegar Chips - EatingWell",
+    "url": "https://www.eatingwell.com/salt-vinegar-melting-potatoes-11971536",
+    "snippet": "",
+    "published_at": "2026-06-03T22:04:54Z",
+    "source": "EatingWell",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the mandatory 7+ score rule. However, since it is a recipe rather than news about actual potato chip products or brands, it does not qualify for a 9-10.",
+    "category": "oddities"
   },
   {
     "title": "Limited-Edition Easter Snack Chips",
@@ -206,6 +293,16 @@
     "published_at": "2026-06-01T15:00:00Z",
     "score": 10,
     "reason": "The article is a direct review of a new chip brand and mentions Tostitos, making it highly relevant to snack-focused readers.",
+    "category": "reviews"
+  },
+  {
+    "title": "Pringles Debuts New Cheeseburger and Beer Flavor, and We Tried the Unexpected Combo Before It Hits Stores - People.com",
+    "url": "https://people.com/we-tried-pringles-new-cheese-burger-and-beer-flavor-11981607",
+    "snippet": "",
+    "published_at": "2026-06-01T13:30:00Z",
+    "source": "People.com",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch from Pringles, which falls under brand news and new flavors for potato chips.",
     "category": "reviews"
   },
   {
@@ -389,6 +486,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "Eating one bag of chips a day increases dementia risk, new study suggests - National Post",
+    "url": "https://nationalpost.com/news/eating-one-bag-of-chips-a-day-increases-dementia-risk-new-study-suggests",
+    "snippet": "",
+    "published_at": "2026-04-29T07:00:00Z",
+    "source": "National Post",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the rule to score 7+; however, because it is health news rather than a product update like a new flavor or brand announcement, it does not meet the 9-10 criteria.",
+    "image_url": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/04/gettyimages-1276412880_90827902.jpg",
+    "category": "health"
+  },
+  {
     "title": "MSU, Better Made team up to find the perfect potato chip - ClickOnDetroit | WDIV Local 4",
     "url": "https://www.clickondetroit.com/news/local/2026/04/28/msu-better-made-team-up-to-find-the-perfect-potato-chip/",
     "snippet": "",
@@ -442,6 +550,17 @@
     "reason": "The article is directly about news regarding a specific potato chip brand, which fits the highest relevance category.",
     "image_url": "https://gray-kwqc-prod.gtv-cdn.com/resizer/v2/KE2K2EFZM5HYDMVRV5IHS63PYA.png?auth=ff3852373aab58e545bf0b50332d8fa2c27ec9d6487836f1acf6f5937eb3f28b&width=1200&height=600&smart=true",
     "category": "business"
+  },
+  {
+    "title": "Potato chips meet chocolate-y ice cream in Salt & Straw's ‘Waste Less Series' - NBC Los Angeles",
+    "url": "https://www.nbclosangeles.com/the-scene/potato-chips-meet-ice-cream-waste-less-series-salt-straw/3876203/",
+    "snippet": "",
+    "published_at": "2026-04-16T07:00:00Z",
+    "source": "NBC Los Angeles",
+    "score": 7,
+    "reason": "The title mentions 'potato chips' in a food context, which triggers the rule to score 7 or higher. Since the article is about an ice cream product rather than a new chip variety, it falls into the 7-8 range.",
+    "image_url": "https://media.nbclosangeles.com/2026/04/saltandstrawapril.jpg?quality=85&strip=all&resize=1200%2C675",
+    "category": "new_flavors"
   },
   {
     "title": "Khloé Kardashian’s Khloud Protein Chips Are a Mixed Bag - Sporked",
@@ -518,6 +637,17 @@
     "reason": "The article is directly about potato chips and their production/pricing, which is a primary topic for a dedicated chip news site.",
     "image_url": "https://www.tastingtable.com/img/gallery/why-potato-chips-cost-so-much/l-intro-1773099081.jpg",
     "category": "business"
+  },
+  {
+    "title": "The best fish and chips in NSW are found in this pretty seaside village - Time Out Worldwide",
+    "url": "https://www.timeout.com/sydney/restaurants/rosies-fish-chips",
+    "snippet": "",
+    "published_at": "2026-03-15T07:00:00Z",
+    "source": "Time Out Worldwide",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which according to the key rules triggers a score of 7+.",
+    "image_url": "https://media.timeout.com/images/106335167/image.jpg",
+    "category": "reviews"
   },
   {
     "title": "Snoop Dogg's Has a New Line of Chips and They're Available Exclusively at Costco - Sporked",
