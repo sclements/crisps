@@ -54,5 +54,13 @@
     "event_name": "Culinary traditions (South Korea)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-06-08.webp"
+  },
+  {
+    "chip_name": "Hamburger Dill",
+    "date": "2026-06-10",
+    "description": "Today's pick is Hamburger Dill, drawn from the culinary traditions of Denmark.",
+    "event_name": "Culinary traditions (Denmark)",
+    "event_url": "",
+    "image_url": "chip-of-the-day/images/2026-06-10.webp"
   }
 ]
