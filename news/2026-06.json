@@ -1,5 +1,16 @@
 [
   {
+    "title": "Herr's debuts the ‘Flavored by Philly: Taste the 250' winning flavors",
+    "url": "https://www.nbcphiladelphia.com/news/local/herrs-debuts-the-flavored-by-philly-taste-the-250-winning-flavors/4414007/",
+    "snippet": "The 'Flavored Philly: Taste the 250' winners are hitting shelves soon, and the celebratory chip flavors have officially been revealed.",
+    "published_at": "2026-06-08T23:00:02Z",
+    "source": "NBC10 Philadelphia",
+    "score": 10,
+    "reason": "The article is directly about a known chip brand (Herr's) launching new chip flavors, which fits the highest relevance category.",
+    "image_url": "https://media.nbcphiladelphia.com/2026/06/image-1-7.jpg?quality=85&strip=all&resize=1200%2C675",
+    "category": "new_flavors"
+  },
+  {
     "title": "Irish potato chips manufacturer Keogh's Crisps secures contract with Emirates Airline",
     "url": "https://www.potatopro.com/news/2018/irish-potato-chips-manufacturer-keoghs-crisps-secures-contract-emirates-airline",
     "snippet": "The Irish Potato Chip manufacturer Keogh's Crisps has secured a major contract with Emirates, which will see an estimated one million bags...",
@@ -20,6 +31,17 @@
     "reason": "The title mentions a major chip brand (Lay's), which according to the rules triggers a score of 7 or higher. This likely refers to a brand partnership/collaboration.",
     "image_url": "https://restaurantandcafe.co.nz/wp-content/uploads/2026/06/Feature-Image-All-Websites-2026-06-08T152744.219.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "I Grew Up Eating This Unusual Snack And Trader Joe's New Version Is My Favorite Yet",
+    "url": "https://www.southernliving.com/trader-joes-garlic-shrimp-chips-11991045",
+    "snippet": "Reminiscent of the shrimp chips I grew up buying from my local Asian grocery store, Trader Joe's new Garlic Shrimp Chips are the crunchy, savory, melt-in-your mouth snack that I can't get enough of.",
+    "published_at": "2026-06-08T01:54:00Z",
+    "source": "Southern Living",
+    "score": 9,
+    "reason": "The article is a direct review of a new snack chip product (shrimp chips) from Trader Joe's, making it highly relevant to a chips/crisps website.",
+    "image_url": "https://www.southernliving.com/thmb/ASR6pr3G459SDZB-PKmDwGTlwHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2160358549-5bd00747bd3e41de8b70b260dc8846a4.jpg",
+    "category": "reviews"
   },
   {
     "title": "WHAT TO STOCK – CHIPS, CRISPS AND SPECIALTY EDITION",
@@ -649,6 +671,17 @@
     "reason": "The article is a review of various chip products, which falls directly under the top tier of relevance for a potato chip/crisps website.",
     "image_url": "https://sporked.com/wp-content/uploads/2025/03/RANKING-UPDATE_TRADER-JOES-CHIPS_HEADER.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "Kent Crisps launches Beef Brisket & Stout flavour in local collaboration - PotatoPro",
+    "url": "https://www.potatopro.com/news/2026/kent-crisps-launches-beef-brisket-stout-flavour-local-collaboration",
+    "snippet": "",
+    "published_at": "2026-04-06T07:00:00Z",
+    "source": "PotatoPro",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch for a brand of crisps, making it highly relevant to a potato chip/crisp news website.",
+    "image_url": "https://media.potatopro.com/kent-chips-beef-1200.jpg",
+    "category": "new_flavors"
   },
   {
     "title": "Khloé K Names The Family Members Already Loving Her New Khloud Chips [Exclusive] - Elite Daily",
