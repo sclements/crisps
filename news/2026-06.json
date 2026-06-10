@@ -1,5 +1,71 @@
 [
   {
+    "title": "Late July Debuts Pickle Lemonade Tortilla Chips - Prepared Foods",
+    "url": "https://www.preparedfoods.com/articles/131652-late-july-debuts-pickle-lemonade-tortilla-chips",
+    "snippet": "",
+    "published_at": "2026-06-10T07:00:00Z",
+    "source": "Prepared Foods",
+    "score": 8,
+    "reason": "The article is about a new flavor of tortilla chips from a known snack brand, which falls under closely related snack foods.",
+    "image_url": "https://www.preparedfoods.com/ext/resources/2026/06/09/LateJuly_PickleLemonade_900.jpg?height=635&t=1781022334&width=1200",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Spotlight New England: Putting pizza chips on the map - AOL.com",
+    "url": "https://www.aol.com/news/spotlight-england-putting-pizza-chips-195828219.html",
+    "snippet": "",
+    "published_at": "2026-06-09T22:37:43Z",
+    "source": "AOL.com",
+    "score": 8,
+    "reason": "The article is about 'pizza chips,' which falls into the category of closely related snack foods/chips.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/AF7413BA17F6649771DABBCB7AB40E0BD6B20CFD2DD591FC1B88BF6BF0B37D30/subgraphmysterio/resizefill_w900_h506;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_wpri_providence_articles_714%2F4be294b199e16cd37f90d6a065bebd61",
+    "category": "oddities"
+  },
+  {
+    "title": "10 Salty Snacks At Whole Foods To Look For On Your Next Visit - Daily Meal",
+    "url": "https://www.thedailymeal.com/2186166/whole-foods-salty-snacks-look-for/",
+    "snippet": "",
+    "published_at": "2026-06-09T16:39:00Z",
+    "source": "Daily Meal",
+    "score": 7,
+    "reason": "The article is a product recommendation list for 'salty snacks', which falls under the category of closely related snack foods.",
+    "image_url": "https://www.thedailymeal.com/img/gallery/10-salty-snacks-at-whole-foods-to-look-for-on-your-next-visit/l-intro-1780433995.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Herr’s Took Me On a Sightseeing Bus Tour to Try the 2026 \"Flavored by Philly\" Potato Chip Lineup - Crossing Broad",
+    "url": "https://www.crossingbroad.com/news/trending/herrs-took-me-on-a-sightseeing-bus-tour-to-try-the-2026-flavored-by-philly-potato-chip-lineup/",
+    "snippet": "",
+    "published_at": "2026-06-09T16:28:00Z",
+    "source": "Crossing Broad",
+    "score": 10,
+    "reason": "The article is directly about new potato chip flavors from the brand Herr's, making it highly relevant to a potato chip news website.",
+    "image_url": "https://www.crossingbroad.com/app/uploads/2026/06/image-768x1024.png",
+    "category": "oddities"
+  },
+  {
+    "title": "Are protein chips really diet-friendly? - The Korea Times",
+    "url": "https://www.koreatimes.co.kr/lifestyle/20260610/are-protein-chips-really-diet-friendly",
+    "snippet": "",
+    "published_at": "2026-06-09T15:00:00Z",
+    "source": "The Korea Times",
+    "score": 7,
+    "reason": "The article discusses protein chips, which falls under the 'closely related snack foods' category in the scoring rubric.",
+    "image_url": "https://newsimg.koreatimes.co.kr/2026/06/09/2b8ae500-d6b6-4ea9-ac82-daecf3058c99.jpg",
+    "category": "health"
+  },
+  {
+    "title": "Chips Tasted: Many Taste Good, Price Makes a Difference - Vienna.at",
+    "url": "https://www.vienna.at/chips-tasted-many-taste-good-price-makes-a-difference/10238435",
+    "snippet": "",
+    "published_at": "2026-06-09T08:44:08Z",
+    "source": "Vienna.at",
+    "score": 9,
+    "reason": "The title indicates a taste test and review of chips, which falls directly into the category of chip reviews/news.",
+    "image_url": "https://www.vienna.at/2026/06/1493309134_BLD_Online-vodl-10237823-16-9-1200x675.jpg?v=18a6d58c",
+    "category": "reviews"
+  },
+  {
     "title": "Herr's debuts the ‘Flavored by Philly: Taste the 250' winning flavors",
     "url": "https://www.nbcphiladelphia.com/news/local/herrs-debuts-the-flavored-by-philly-taste-the-250-winning-flavors/4414007/",
     "snippet": "The 'Flavored Philly: Taste the 250' winners are hitting shelves soon, and the celebratory chip flavors have officially been revealed.",
