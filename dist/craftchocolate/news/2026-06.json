@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Raaka Chocolate Announces All-New Bananas Foster Bar",
+    "url": "https://example.com/raaka-bananas-foster",
+    "snippet": "Raaka is celebrating summer with a new unroasted dark chocolate bar flavored with caramelized bananas, brown sugar, and rum.",
+    "published_at": "2026-06-09",
+    "source": "Chocolate Connoisseur",
+    "score": 9,
+    "reason": "Directly mentions craft chocolate bar release."
+  },
+  {
+    "title": "Ecuadorian Cacao Co-ops Report Historic Nacional Harvest",
+    "url": "https://example.com/ecuadorian-cacao-harvest-2026",
+    "snippet": "Smallholder farmers in the Esmeraldas region report premium yields of highly-aromatic Nacional cocoa beans.",
+    "published_at": "2026-06-08",
+    "source": "Cacao Chronicle",
+    "score": 8,
+    "reason": "Directly relates to single origin cocoa bean harvest."
+  }
+]

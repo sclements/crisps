@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>cris.ps | Discover the World's Best Potato Chips & Crisps</title>
-    <meta name="description" content="Explore fascinating crisp and chip flavors from around the world. Discover today's featured chip, learn fun facts about snack history, and browse our global collection of unique potato chip varieties.">
-    <meta name="keywords" content="potato chips, crisps, snack chips, chip flavors, international chips, chip of the day, snack guide, world chips">
+    <title>cris.ps | Discover the World's Best Bean-to-Bar Craft Chocolates</title>
+    <meta name="description" content="Explore fascinating bean-to-bar craft chocolates from around the world. Discover today's featured chocolate, learn fun facts about cacao history, and browse our global collection of unique chocolate varieties.">
+    <meta name="keywords" content="craft chocolate, bean to bar, cacao, cocoa, dark chocolate, chocolate of the day, chocolate guide, world chocolates">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://cris.ps/">
     
@@ -13,14 +13,14 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cris.ps/">
     <meta property="og:title" content="cris.ps | Discover the World's Best Potato Chips & Crisps">
-    <meta property="og:description" content="Explore fascinating crisp and chip flavors from around the world. Discover today's featured chip and learn fun facts about snack history.">
+    <meta property="og:description" content="Explore fascinating bean-to-bar craft chocolates from around the world. Discover today's featured chip and learn fun facts about snack history.">
     <meta property="og:site_name" content="cris.ps">
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:url" content="https://cris.ps/">
     <meta name="twitter:title" content="cris.ps | Discover the World's Best Potato Chips & Crisps">
-    <meta name="twitter:description" content="Explore fascinating crisp and chip flavors from around the world. Discover today's featured chip and learn fun facts about snack history.">
+    <meta name="twitter:description" content="Explore fascinating bean-to-bar craft chocolates from around the world. Discover today's featured chip and learn fun facts about snack history.">
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -33,9 +33,9 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "cris.ps",
-        "alternateName": "Crisps - Your Ultimate Chip Guide",
+        "alternateName": "Craft Chocolate - Your Ultimate Cacao Guide",
         "url": "https://cris.ps/",
-        "description": "Explore fascinating crisp and chip flavors from around the world",
+        "description": "Explore fascinating bean-to-bar craft chocolates from around the world",
         "potentialAction": {
             "@type": "SearchAction",
             "target": {
@@ -109,7 +109,7 @@
         <!-- Main Grid Layout -->
         <div class="flex flex-col lg:flex-row gap-8">
             
-            <!-- Left Column: Chip of the Day -->
+            <!-- Left Column: Chocolate of the Day -->
             <div class="lg:w-[420px] flex-shrink-0">
                 <section id="chip-of-the-day" class="bg-gradient-to-br from-amber-100 via-orange-50 to-amber-50 rounded-3xl p-6 shadow-xl relative overflow-hidden border border-orange-200/50">
                     <!-- Decorative background elements -->
@@ -123,12 +123,12 @@
                         <div class="flex flex-col items-center">
                             <div class="inline-flex items-center gap-2 bg-orange-500 text-white text-xs font-bold px-3 py-1.5 rounded-full mb-5 shadow-md">
                                 <span>✨</span>
-                                <span class="locale-chip-of-day">Chip of the Day</span>
+                                <span class="locale-chip-of-day">Chocolate of the Day</span>
                             </div>
                             <div class="animate-pulse w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-200 rounded-2xl flex items-center justify-center shadow-md mb-5">
-                                <span class="text-4xl">🥔</span>
+                                <span class="text-4xl">🍫</span>
                             </div>
-                            <p class="text-gray-500 text-sm locale-discovering">Discovering today's chip...</p>
+                            <p class="text-gray-500 text-sm locale-discovering">Discovering today's chocolate...</p>
                         </div>
                     </div>
                     
@@ -142,9 +142,9 @@
                     <div id="status" class="text-center py-16">
                         <div class="relative inline-block">
                             <div id="status-spinner" class="animate-spin rounded-full h-16 w-16 border-4 border-orange-200 border-t-orange-500 mx-auto mb-4"></div>
-                            <span class="absolute inset-0 flex items-center justify-center text-2xl">🥔</span>
+                            <span class="absolute inset-0 flex items-center justify-center text-2xl">🍫</span>
                         </div>
-                        <p id="status-text" class="font-medium text-gray-600">Loading the crunchiest database...</p>
+                        <p id="status-text" class="font-medium text-gray-600">Loading the finest chocolate database...</p>
                     </div>
 
                     <!-- News Grid -->
@@ -160,7 +160,7 @@
                             <p class="text-gray-500 mt-2 text-sm">Loading more news...</p>
                         </div>
                         <div id="news-end" class="hidden text-center py-6">
-                            <p class="text-gray-400 text-sm">You've reached the end of the news archive 🥔</p>
+                            <p class="text-gray-400 text-sm">You've reached the end of the news archive 🍫</p>
                         </div>
                     </div>
 
@@ -729,7 +729,7 @@
                 const todayStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
                 const monthKey = todayStr.slice(0, 7);
                 
-                const response = await fetch(`chip-of-the-day/${monthKey}.json`);
+                const response = await fetch(`daily/${monthKey}.json`);
                 if (!response.ok) throw new Error(`${L.chip} of the day not available`);
                 const monthlyChips = await response.json();
                 
@@ -779,9 +779,9 @@
                 
                 // Chip image or fallback emoji
                 const chipImageHtml = chipData.image_url
-                    ? `<img src="${chipData.image_url}" alt="${chipData.chip_name}" class="w-32 h-32 object-contain rounded-2xl bg-white shadow-md" onerror="this.outerHTML='<div class=\\'w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md\\'><span class=\\'text-4xl\\'>🥔</span></div>'">`
+                    ? `<img src="${chipData.image_url}" alt="${chipData.chip_name}" class="w-32 h-32 object-contain rounded-2xl bg-white shadow-md" onerror="this.outerHTML='<div class=\\'w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md\\'><span class=\\'text-4xl\\'>🍫</span></div>'">`
                     : `<div class="w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md">
-                            <span class="text-4xl">🥔</span>
+                            <span class="text-4xl">🍫</span>
                        </div>`;
                 
                 // Event reference link (if available)
@@ -833,7 +833,7 @@
                             ${L.chip} of the Day
                         </div>
                         <div class="w-24 h-24 mx-auto bg-gradient-to-br from-gray-200 to-gray-300 rounded-full flex items-center justify-center shadow-lg mb-4">
-                            <span class="text-4xl">🥔</span>
+                            <span class="text-4xl">🍫</span>
                         </div>
                         <p class="text-gray-500 text-sm">No ${L.chip.toLowerCase()} of the day yet</p>
                     </div>
@@ -858,7 +858,7 @@
                     const monthKey = formatMonthKey(date);
                     
                     try {
-                        const response = await fetch(`chip-of-the-day/${monthKey}.json`);
+                        const response = await fetch(`daily/${monthKey}.json`);
                         if (response.ok) {
                             const monthData = await response.json();
                             history.push(...monthData);
@@ -895,9 +895,9 @@
                     
                     // Image or emoji fallback
                     const imageHtml = chip.image_url
-                        ? `<img src="${chip.image_url}" alt="${chip.chip_name}" class="w-12 h-12 object-contain rounded-lg bg-white" onerror="this.outerHTML='<div class=\\'w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center\\'><span class=\\'text-lg\\'>🥔</span></div>'">`
+                        ? `<img src="${chip.image_url}" alt="${chip.chip_name}" class="w-12 h-12 object-contain rounded-lg bg-white" onerror="this.outerHTML='<div class=\\'w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center\\'><span class=\\'text-lg\\'>🍫</span></div>'">`
                         : `<div class="w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center">
-                                <span class="text-lg">🥔</span>
+                                <span class="text-lg">🍫</span>
                            </div>`;
                     
                     html += `
@@ -1023,7 +1023,7 @@
             const articles = [];
             for (const m of months) {
                 try {
-                    const r = await fetch(`chip-of-the-day/${m}.json`);
+                    const r = await fetch(`daily/${m}.json`);
                     if (r.ok) {
                         const items = await r.json();
                         for (const c of items) {
@@ -1095,9 +1095,9 @@
             const color = cardColors[index % cardColors.length];
             if (article.type === 'chip' || article.type === 'news') {
                 const imageHtml = article.image
-                    ? `<img src="${article.image}" alt="" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 bg-white" onerror="this.outerHTML='<div class=\\'w-16 h-16 bg-white/60 rounded-lg flex items-center justify-center flex-shrink-0\\'><span class=\\'text-2xl\\'>${article.type === 'chip' ? '🥔' : '📰'}</span></div>'">`
-                    : `<div class="w-16 h-16 bg-white/60 rounded-lg flex items-center justify-center flex-shrink-0"><span class="text-2xl">${article.type === 'chip' ? '🥔' : '📰'}</span></div>`;
-                const typeLabel = article.type === 'chip' ? 'Chip of the Day' : 'News';
+                    ? `<img src="${article.image}" alt="" class="w-16 h-16 object-cover rounded-lg flex-shrink-0 bg-white" onerror="this.outerHTML='<div class=\\'w-16 h-16 bg-white/60 rounded-lg flex items-center justify-center flex-shrink-0\\'><span class=\\'text-2xl\\'>${article.type === 'chip' ? '🍫' : '📰'}</span></div>'">`
+                    : `<div class="w-16 h-16 bg-white/60 rounded-lg flex items-center justify-center flex-shrink-0"><span class="text-2xl">${article.type === 'chip' ? '🍫' : '📰'}</span></div>`;
+                const typeLabel = article.type === 'chip' ? 'Chocolate of the Day' : 'News';
                 const dateStr = formatSearchDate(article.date);
                 const metaParts = [typeLabel];
                 if (dateStr) metaParts.push(dateStr);

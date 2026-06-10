@@ -64,11 +64,11 @@
     "image_url": "chip-of-the-day/images/2026-06-09.webp"
   },
   {
-    "chip_name": "Hamburger Dill",
+    "chip_name": "Chicken",
     "date": "2026-06-10",
-    "description": "Today's pick is Hamburger Dill, drawn from the culinary traditions of Denmark.",
-    "event_name": "Culinary traditions (Denmark)",
-    "event_url": "",
+    "description": "Today's pick is Chicken, drawn from the culinary traditions of South Africa.",
+    "event_name": "Culinary traditions (South Africa)",
+    "event_url": "USDA Cache",
     "image_url": "chip-of-the-day/images/2026-06-10.webp"
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "chip_name": "Akesson's Bejofo Estate Madagascar 75% Honey",
+    "description": "Event: World Honey Bee Day\nChocolate: Akesson's Bejofo Estate Madagascar 75% Honey\n\nCelebrating World Honey Bee Day with this exquisite organic Madagascar chocolate infused with natural wildflower honey.",
+    "date": "2026-06-09",
+    "event_url": "https://en.wikipedia.org/wiki/Beekeeping",
+    "event_name": "World Honey Bee Day",
+    "image_url": "https://example.com/akessons-honey.jpg"
+  },
+  {
+    "chip_name": "Ritual Chocolate El Fuego",
+    "description": "Event: Day of the Dead (Mexico)\nChocolate: Ritual Chocolate El Fuego\n\nMarking Dia de los Muertos with Ritual's spiced El Fuego chocolate featuring organic Mexican cinnamon and chilis.",
+    "date": "2026-06-08",
+    "event_url": "https://en.wikipedia.org/wiki/Day_of_the_Dead",
+    "event_name": "Day of the Dead",
+    "image_url": "https://example.com/ritual-fuego.jpg"
+  }
+]

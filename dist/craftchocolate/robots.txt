@@ -1,0 +1,6 @@
+# robots.txt for cris.ps
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://cris.ps/sitemap.xml
