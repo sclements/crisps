@@ -40,6 +40,14 @@
     "image_url": "chip-of-the-day/images/2026-06-05.webp"
   },
   {
+    "chip_name": "Fries",
+    "date": "2026-06-06",
+    "description": "Today's pick is Fries, drawn from the culinary traditions of Palestinian territories.",
+    "event_name": "Culinary traditions (Palestinian territories)",
+    "event_url": "USDA Cache",
+    "image_url": "chip-of-the-day/images/2026-06-06.webp"
+  },
+  {
     "chip_name": "Dried Pods",
     "date": "2026-06-07",
     "description": "Today's pick is Dried Pods, drawn from the culinary traditions of Nigeria.",
@@ -70,5 +78,13 @@
     "event_name": "Culinary traditions (South Africa)",
     "event_url": "USDA Cache",
     "image_url": "chip-of-the-day/images/2026-06-10.webp"
+  },
+  {
+    "chip_name": "Green Cardamom Pods Spice",
+    "date": "2026-06-12",
+    "description": "Today's pick is Green Cardamom Pods Spice, drawn from the culinary traditions of Qatar.",
+    "event_name": "Culinary traditions (Qatar)",
+    "event_url": "USDA Cache",
+    "image_url": "chip-of-the-day/images/2026-06-12.webp"
   }
 ]
