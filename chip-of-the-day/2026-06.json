@@ -94,5 +94,13 @@
     "event_name": "Culinary traditions (Qatar)",
     "event_url": "USDA Cache",
     "image_url": "chip-of-the-day/images/2026-06-12.webp"
+  },
+  {
+    "chip_name": "Sweet Bbq",
+    "date": "2026-06-14",
+    "description": "Today's pick is Sweet Bbq, drawn from the culinary traditions of Vietnam.",
+    "event_name": "Culinary traditions (Vietnam)",
+    "event_url": "USDA Cache",
+    "image_url": "chip-of-the-day/images/2026-06-14.webp"
   }
 ]
