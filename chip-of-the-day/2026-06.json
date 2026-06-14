@@ -110,5 +110,13 @@
     "event_name": "Culinary traditions (Costa Rica)",
     "event_url": "USDA Cache",
     "image_url": "chip-of-the-day/images/2026-06-15.webp"
+  },
+  {
+    "chip_name": "Churros Turtle",
+    "date": "2026-06-16",
+    "description": "Today's pick is Churros Turtle, drawn from the culinary traditions of Chile.",
+    "event_name": "Culinary traditions (Chile)",
+    "event_url": "Google Shopping",
+    "image_url": "chip-of-the-day/images/2026-06-16.webp"
   }
 ]
