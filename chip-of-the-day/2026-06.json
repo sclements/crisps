@@ -118,5 +118,13 @@
     "event_name": "Culinary traditions (Chile)",
     "event_url": "Google Shopping",
     "image_url": "chip-of-the-day/images/2026-06-16.webp"
+  },
+  {
+    "chip_name": "Sweet Potato",
+    "date": "2026-06-17",
+    "description": "Today's pick is Sweet Potato, drawn from the culinary traditions of Mongolia.",
+    "event_name": "Culinary traditions (Mongolia)",
+    "event_url": "Google Shopping",
+    "image_url": "chip-of-the-day/images/2026-06-17.webp"
   }
 ]
