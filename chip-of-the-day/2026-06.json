@@ -134,5 +134,13 @@
     "event_name": "Culinary traditions (Latvia)",
     "event_url": "Google Shopping",
     "image_url": "chip-of-the-day/images/2026-06-18.webp"
+  },
+  {
+    "chip_name": "Korean Honey Mustard",
+    "date": "2026-06-19",
+    "description": "Today's pick is Korean Honey Mustard, drawn from the culinary traditions of Germany.",
+    "event_name": "Culinary traditions (Germany)",
+    "event_url": "Google Shopping",
+    "image_url": "chip-of-the-day/images/2026-06-19.webp"
   }
 ]
