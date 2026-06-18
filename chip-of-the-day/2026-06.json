@@ -96,6 +96,14 @@
     "image_url": "chip-of-the-day/images/2026-06-12.webp"
   },
   {
+    "chip_name": "Cheddar Shallot",
+    "date": "2026-06-13",
+    "description": "Today's pick is Cheddar Shallot, drawn from the culinary traditions of Belgium.",
+    "event_name": "Culinary traditions (Belgium)",
+    "event_url": "Google Shopping",
+    "image_url": "chip-of-the-day/images/2026-06-13.webp"
+  },
+  {
     "chip_name": "Sweet Bbq",
     "date": "2026-06-14",
     "description": "Today's pick is Sweet Bbq, drawn from the culinary traditions of Vietnam.",
@@ -142,5 +150,13 @@
     "event_name": "Culinary traditions (Germany)",
     "event_url": "Google Shopping",
     "image_url": "chip-of-the-day/images/2026-06-19.webp"
+  },
+  {
+    "chip_name": "Sprouts Zesty Lemon",
+    "date": "2026-06-20",
+    "description": "Today's pick is Sprouts Zesty Lemon, drawn from the culinary traditions of Cyprus.",
+    "event_name": "Culinary traditions (Cyprus)",
+    "event_url": "Google Shopping",
+    "image_url": "chip-of-the-day/images/2026-06-20.webp"
   }
 ]
