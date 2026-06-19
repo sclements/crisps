@@ -158,5 +158,13 @@
     "event_name": "Culinary traditions (Cyprus)",
     "event_url": "Google Shopping",
     "image_url": "chip-of-the-day/images/2026-06-20.webp"
+  },
+  {
+    "chip_name": "Masala Ragi",
+    "date": "2026-06-21",
+    "description": "Today's pick is Masala Ragi, drawn from the culinary traditions of Afghanistan.",
+    "event_name": "Culinary traditions (Afghanistan)",
+    "event_url": "Google Shopping",
+    "image_url": "chip-of-the-day/images/2026-06-21.webp"
   }
 ]
