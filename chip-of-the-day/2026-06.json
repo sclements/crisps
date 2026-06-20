@@ -166,5 +166,13 @@
     "event_name": "Culinary traditions (Afghanistan)",
     "event_url": "Google Shopping",
     "image_url": "chip-of-the-day/images/2026-06-21.webp"
+  },
+  {
+    "chip_name": "Raw Baobab",
+    "date": "2026-06-22",
+    "description": "Today's pick is Raw Baobab, drawn from the culinary traditions of Zimbabwe.",
+    "event_name": "Culinary traditions (Zimbabwe)",
+    "event_url": "USDA Cache",
+    "image_url": "chip-of-the-day/images/2026-06-22.webp"
   }
 ]
