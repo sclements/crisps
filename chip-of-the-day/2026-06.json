@@ -182,5 +182,13 @@
     "event_name": "Culinary traditions (Malaysia)",
     "event_url": "USDA Cache",
     "image_url": "chip-of-the-day/images/2026-06-23.webp"
+  },
+  {
+    "chip_name": "Olive Oil",
+    "date": "2026-06-24",
+    "description": "Today's pick is Olive Oil, drawn from the culinary traditions of Italy.",
+    "event_name": "Culinary traditions (Italy)",
+    "event_url": "USDA Cache",
+    "image_url": "chip-of-the-day/images/2026-06-24.webp"
   }
 ]
