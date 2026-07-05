@@ -1,0 +1,58 @@
+[
+  {
+    "chip_name": "Nacho Chipotle",
+    "date": "2026-07-01",
+    "description": "Today's pick is Nacho Chipotle, drawn from the culinary traditions of Mexico.",
+    "event_name": "Culinary traditions (Mexico)",
+    "event_url": "Google Shopping",
+    "image_url": "https://www.kroger.com/product/images/large/front/0081509902033"
+  },
+  {
+    "chip_name": "Salted Egg Salmon Skin",
+    "date": "2026-07-02",
+    "description": "Today's pick is Salted Egg Salmon Skin, drawn from the culinary traditions of Sweden.",
+    "event_name": "Culinary traditions (Sweden)",
+    "event_url": "Google Shopping",
+    "image_url": "https://m.media-amazon.com/images/I/91+62IUxqaL._SL1500_.jpg"
+  },
+  {
+    "chip_name": "Mesquite Bbq",
+    "date": "2026-07-03",
+    "description": "Today's pick is Mesquite Bbq, drawn from the culinary traditions of Texas.",
+    "event_name": "Culinary traditions (Texas)",
+    "event_url": "Google Shopping",
+    "image_url": "https://www.gosupps.com/media/catalog/product/cache/25/image/1500x/040ec09b1e35df139433887a97daa66f/7/1/71rkUQTjjYL.jpg"
+  },
+  {
+    "chip_name": "Tallow Fries, Made",
+    "date": "2026-07-04",
+    "description": "Today's pick is Tallow Fries, Made, drawn from the culinary traditions of Argentina.",
+    "event_name": "Culinary traditions (Argentina)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSghCJP4gr-OdtzbBo8G1WMQm7ztL153vLBQEt4CNeVbRj8EBWdMXRfH4PcWtyIO2MAmva4BJo"
+  },
+  {
+    "chip_name": "Platter Coconut",
+    "date": "2026-07-05",
+    "description": "Today's pick is Platter Coconut, drawn from the culinary traditions of Philippines.",
+    "event_name": "Culinary traditions (Philippines)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRInpDLAUeehXSpI1SCGGFL6bgu-DHX__gHkOgaHV_9XBJ-ckZFru3Ph5lT-ApRe7iDHrQ7FU44"
+  },
+  {
+    "chip_name": "Rice Cakes",
+    "date": "2026-07-06",
+    "description": "Today's pick is Rice Cakes, drawn from the culinary traditions of Bhutan.",
+    "event_name": "Culinary traditions (Bhutan)",
+    "event_url": "Google Shopping",
+    "image_url": "https://images.heb.com/is/image/HEBGrocery/014793511-1"
+  },
+  {
+    "chip_name": "French Fries Sirene Cheese",
+    "date": "2026-07-07",
+    "description": "Today's pick is French Fries Sirene Cheese, drawn from the culinary traditions of Bulgaria.",
+    "event_name": "Culinary traditions (Bulgaria)",
+    "event_url": "Google Shopping",
+    "image_url": "https://www.gosupps.com/media/catalog/product/7/1/71Ibq-vg91L.jpg"
+  }
+]

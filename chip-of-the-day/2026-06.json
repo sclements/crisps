@@ -190,5 +190,45 @@
     "event_name": "Culinary traditions (Italy)",
     "event_url": "USDA Cache",
     "image_url": "chip-of-the-day/images/2026-06-24.webp"
+  },
+  {
+    "chip_name": "Spanish Wasabi",
+    "date": "2026-06-25",
+    "description": "Today's pick is Spanish Wasabi, drawn from the culinary traditions of Japan.",
+    "event_name": "Culinary traditions (Japan)",
+    "event_url": "Google Shopping",
+    "image_url": "https://mediacdn.mynauticalstore.com/gfm/products/f8a5302a-f0ba-498a-b84b-c5f6e759b7e3.jpg"
+  },
+  {
+    "chip_name": "Bakery Parmesan",
+    "date": "2026-06-27",
+    "description": "Today's pick is Bakery Parmesan, drawn from the culinary traditions of Italy.",
+    "event_name": "Culinary traditions (Italy)",
+    "event_url": "Google Shopping",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/61dcdaf886eb6b1962415280/1bb4b4a0-c571-4f29-b951-25c54273d626/Joyfull+Bakery_Everything+Crisps_Angle-min.png"
+  },
+  {
+    "chip_name": "Bbq Chipotle Greens",
+    "date": "2026-06-28",
+    "description": "Today's pick is Bbq Chipotle Greens, drawn from the culinary traditions of Kenya.",
+    "event_name": "Culinary traditions (Kenya)",
+    "event_url": "Google Shopping",
+    "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_eff0169d-0ee5-467a-abdf-a316648e52c2.png"
+  },
+  {
+    "chip_name": "Jalapeno Cilantro Whole Grain",
+    "date": "2026-06-29",
+    "description": "Today's pick is Jalapeno Cilantro Whole Grain, drawn from the culinary traditions of Mexico.",
+    "event_name": "Culinary traditions (Mexico)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSlXDE9rgLHWLVRzJLokHGmT96B4-z9BlHeat9VWfjTAWDzOu6OBtg0zdYw6EjhBVGEob36wcM"
+  },
+  {
+    "chip_name": "Ginger Date Kale",
+    "date": "2026-06-30",
+    "description": "Today's pick is Ginger Date Kale, drawn from the culinary traditions of Bahrain.",
+    "event_name": "Culinary traditions (Bahrain)",
+    "event_url": "Google Shopping",
+    "image_url": "https://store.thevegetariansite.com/image/cache/catalog/KKGD1-500x500.jpg"
   }
 ]
