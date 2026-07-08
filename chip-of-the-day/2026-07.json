@@ -62,5 +62,13 @@
     "event_name": "Culinary traditions (Nigeria)",
     "event_url": "Google Shopping",
     "image_url": "chip-of-the-day/images/2026-07-08.webp"
+  },
+  {
+    "chip_name": "Mast Masala",
+    "date": "2026-07-10",
+    "description": "Today's pick is Mast Masala, drawn from the culinary traditions of Bangladesh.",
+    "event_name": "Culinary traditions (Bangladesh)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFUafab2_U0qP_l0nn9uqnSmpadGcAr1RyWXtZEWpQSO3SsGegKonCMyVWTI_WrKx8tHgodET8Eu023e4YTxZiLJImEr7OBtQGFWPSvsBvmTfVPexfoneP"
   }
 ]
