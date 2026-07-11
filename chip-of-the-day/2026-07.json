@@ -40,12 +40,36 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRInpDLAUeehXSpI1SCGGFL6bgu-DHX__gHkOgaHV_9XBJ-ckZFru3Ph5lT-ApRe7iDHrQ7FU44"
   },
   {
+    "chip_name": "Smoked Beef",
+    "date": "2026-07-06",
+    "description": "Today's pick is Smoked Beef, drawn from the culinary traditions of Kosovo.",
+    "event_name": "Culinary traditions (Kosovo)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgbcdjVXXqeoGOznY2GJfvDq6ZvholN6f6shrgTYnE3eNNf3yQku0NwbgVYrZNwGCI4iryHVtAuACiQfP5n5Klbw_Xju4MXOHWCOEUoddU-TwqQuVG89Bc"
+  },
+  {
+    "chip_name": "Tempura Seaweed",
+    "date": "2026-07-07",
+    "description": "Honoring the celestial wishes of Tanabata, these Tempura Seaweed chips bring a savory, umami-rich crunch to your celebration today.",
+    "event_name": "Tanabata (Japan)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_GC0IaBmtnu-vwcbQ6L7gbykG9QAdndnIPREJwMAnkvyI2YoEbrXYDXwBz-08Dt_VBxDmibdmv6LXgudc1swlrF1qIK6bDOjR6qeFErgzXMeCp9GkWMJsMw"
+  },
+  {
     "chip_name": "Lime Rolled",
     "date": "2026-07-08",
     "description": "Today's pick is Lime Rolled, drawn from the culinary traditions of Nigeria.",
     "event_name": "Culinary traditions (Nigeria)",
     "event_url": "Google Shopping",
     "image_url": "chip-of-the-day/images/2026-07-08.webp"
+  },
+  {
+    "chip_name": "Thai Coconut Milk",
+    "date": "2026-07-09",
+    "description": "Today's pick is Thai Coconut Milk, drawn from the culinary traditions of Mozambique.",
+    "event_name": "Culinary traditions (Mozambique)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSw1JTYW1o54tIWRbKR_hBjFj4VD5ZmSjlM8wE7G11NppU9D8v03HOyVLJ6aU0pp6YkllH_SynQWkWGU8xK286dbixJvxW"
   },
   {
     "chip_name": "Mast Masala",
@@ -62,5 +86,21 @@
     "event_name": "Culinary traditions (Mexico)",
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnPefAG767g4IcKx3fKT1e4DvbJU6UF936fgKIBrtDVtbl4tZt2C7IKSccVNcylXBjEXsK1OAFs51V7haTHK8VxBsd0S8rs062PfPKy9E"
+  },
+  {
+    "chip_name": "Garlic",
+    "date": "2026-07-12",
+    "description": "Today's pick is Garlic, drawn from the culinary traditions of Estonia.",
+    "event_name": "Culinary traditions (Estonia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSp0nTvS0XZip3tDvR4Jse8L6wC8GuMBFWjDzc1zloIjp_hnJk4XmkwofnY8RtPDUJ7wxr2pRHg7Nou_tTPw-an9LgxqmYyGg8Q_H1p45Ul0fXqgg8fUpib4Q"
+  },
+  {
+    "chip_name": "Seed",
+    "date": "2026-07-13",
+    "description": "Today's pick is Seed, drawn from the culinary traditions of Spain.",
+    "event_name": "Culinary traditions (Spain)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlP_uu7h81bUPAYDlpnQqbMVETEa1HobhWF72xknNJUSMO_j9HDLBPuQyRc4VYdBK-Chl935Ny3GYvbnSWn2YAYxXZds2ZI2IGakyOgrQZzlkAAVlDwZxwHA"
   }
 ]

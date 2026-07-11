@@ -1,5 +1,60 @@
 [
   {
+    "title": "Potato chip-flavored dressing coming to stores in Japan",
+    "url": "https://japantoday.com/category/features/new-products/potato-chip-flavored-dressing-coming-to-stores-in-japan",
+    "snippet": "An age-old problem for many parents is how to get kids to eat their vegetables. In an age of hyper-palatable ultra-processed food, it can be...",
+    "published_at": "2026-07-10T12:56:23Z",
+    "source": "Japan Today",
+    "score": 7,
+    "reason": "The title mentions 'potato chip' in a food context, which triggers the rule to score 7 or higher.",
+    "image_url": "https://media.japantoday.com/img/store/ef/ef/215df9cbb7dbb15316bfdf28d806ebfe4751/screenshot-2026-07-07-at-10-51-00/_w1700.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Three iconic British Smith’s chip flavours have just landed at Aldi. Are they worth the hype? We have the answer",
+    "url": "https://www.nine.com.au/lifestyle/food/aldi-british-smiths-chip-flavours-taste-test-prawn-cocktail-cheese-pickle-worcestershire-sauce-20260708-p60dnx.html",
+    "snippet": "The flavour that surprised us the most, and the one we couldn't get enough of.",
+    "published_at": "2026-07-08T12:56:50Z",
+    "source": "Nine.com.au",
+    "score": 10,
+    "reason": "The article is directly about new flavors and product news for potato chips (Smith's), making it perfectly relevant to a chip-focused website.",
+    "image_url": "https://static.ffx.io/images/$zoom_0.9675%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_91%2C$y_0/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/5c83155ccd638c4ff4c63bc98cbd6d7a43855fdb51fd5c31e1598df4fdfd1224",
+    "category": "reviews"
+  },
+  {
+    "title": "Jail Breaker Potato Chips delivers bold flavor, and second chances, through Meijer partnership",
+    "url": "https://newsroom.meijer.com/2026-07-08-Jail-Breaker-Potato-Chips-delivers-bold-flavor,-and-second-chances,-through-Meijer-partnership",
+    "snippet": "At Jail Breaker Potato Chips, bold flavors are only part of the story. The Kentucky-based brand was built on a bigger idea: that the right...",
+    "published_at": "2026-07-08T12:56:24Z",
+    "source": "Meijer Newsroom",
+    "score": 10,
+    "reason": "The article is directly about a potato chip brand's news and business partnership, which falls under the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbaFSGayQFwWMCw_pyXYl07FT6TmN1RTaMjImxNN_484fJ_EPpA6ScrL0&usqp=CAI&s",
+    "category": "business"
+  },
+  {
+    "title": "Review: Pringles Has Entered The Hot Dog Bun Chat And We're All For It",
+    "url": "https://www.mashed.com/2201777/pringles-pop-dogs-buns-review/",
+    "snippet": "Honey Mustard, BBQ, and Sour Cream and Onion Pringles Pop Dog Buns are a fun way to incorporate your favorite chip flavors into your...",
+    "published_at": "2026-07-07T12:56:41Z",
+    "source": "Mashed",
+    "score": 10,
+    "reason": "The article is a product review for Pringles, which falls directly into the category of brand news and new chip products.",
+    "image_url": "https://www.mashed.com/img/gallery/pringles-pop-dogs-buns-review-temp-hed/l-intro-1782373771.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "We Tried Pringles’ New Potato Chip-Flavored Pop Dog Buns",
+    "url": "https://nerdist.com/article/we-tried-pringles-new-potato-chip-flavored-pop-dog-buns/",
+    "snippet": "We tasted Pringles new Pop Dog Buns, and these potato chip-infused flavored breads are both exactly what you'd expect and surprising.",
+    "published_at": "2026-07-07T12:56:28Z",
+    "source": "Nerdist",
+    "score": 8,
+    "reason": "The article features a major chip brand (Pringles) and focuses on a potato chip-flavored product, meeting the criteria for high relevance despite the product being bread.",
+    "image_url": "https://cdn.nerdist.com/wp-content/uploads/2026/07/06071841/Pringles-Pop-Dog-Buns.webp",
+    "category": "reviews"
+  },
+  {
     "title": "Costco Has a New Snack Fans Hope It 'Never Gets Rid Of'",
     "url": "https://www.aol.com/lifestyle/costco-snack-fans-hope-never-210000870.html",
     "snippet": "Over the years, Snack Factory, the creator of the ultra-thin, snackable Pretzel Crisps, has reinvented the classic chocolate-covered pretzel into a new, over-the-top, flavorful munchie.  This summer,",
@@ -41,6 +96,17 @@
     "score": 7,
     "reason": "The title's pun ('leafs') and the description of a 'wholesome snack' strongly suggest the product is veggie-based chips or crisps, which falls into the closely related snack food category.",
     "category": "business"
+  },
+  {
+    "title": "Brits love crisps from abroad – top flavours to try",
+    "url": "https://www.walesonline.co.uk/news/uk-news/food-drink-crisps-brits-tendendo-34227743",
+    "snippet": "A poll of 2000 adults found 39% enjoy trying crisps which aren't available in the UK, with six in 10 more likely to try international snack...",
+    "published_at": "2026-07-04T12:56:46Z",
+    "source": "Wales Online",
+    "score": 9,
+    "reason": "The article is directly about potato chip flavors and consumer trends related to crisps, making it highly relevant to a dedicated chips news site.",
+    "image_url": "https://i2-prod.walesonline.co.uk/article34227740.ece/ALTERNATES/s1200d/0_LoveHolidays_Crisps_Abroad_503.jpg",
+    "category": "oddities"
   },
   {
     "title": "Olly Hiscocks Is Trying To Turn Olives Into The New Potato Chips",
@@ -160,6 +226,17 @@
     "score": 10,
     "reason": "The article is direct brand news regarding Pringles, a major potato chip/crisp brand, which falls into the highest relevance category.",
     "image_url": "https://i2-prod.walesonline.co.uk/article34204059.ece/ALTERNATES/s1200d/55362675997_ef98cb89fa_b.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Surrey-based potato chip brand teams up with BC Lions for fiery new flavour",
+    "url": "https://surreynowleader.com/2026/06/22/surrey-based-potato-chip-brand-teams-up-with-bc-lions-for-fiery-new-flavour/",
+    "snippet": "The BC Lions issued a release Monday (June 22) noting the new chips are a Hardbite limited edition flavour, as they team up with Naturally...",
+    "published_at": "2026-06-27T12:56:28Z",
+    "source": "Surrey Now-Leader",
+    "score": 10,
+    "reason": "The article is directly about a potato chip brand launching a new limited edition flavor, which falls under the highest relevance category.",
+    "image_url": "https://surreynowleader.com/wp-content/uploads/sites/8/2026/06/42625184_web1_260625-PAN-new-BC-Lions-Hardbite-chips_1.jpg?w=1024",
     "category": "new_flavors"
   },
   {
