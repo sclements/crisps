@@ -102,5 +102,13 @@
     "event_name": "Culinary traditions (Spain)",
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlP_uu7h81bUPAYDlpnQqbMVETEa1HobhWF72xknNJUSMO_j9HDLBPuQyRc4VYdBK-Chl935Ny3GYvbnSWn2YAYxXZds2ZI2IGakyOgrQZzlkAAVlDwZxwHA"
+  },
+  {
+    "chip_name": "Camembert Cheese",
+    "date": "2026-07-14",
+    "description": "Honoring the spirit of Bastille Day, these Camembert Cheese chips bring a creamy taste of French tradition to your snack bowl.",
+    "event_name": "Bastille Day (France and dependencies)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHnGObkzuSrxwz3THM__U4Lk35mWZPVZmJvq_a2t41YyYq_vZG-QdPKhDaY1Urk6VTVijY3OfsVsqRyBUnwyxPF2-xnjXgAsYDugIzVGyKQQyPLVfacF4t"
   }
 ]

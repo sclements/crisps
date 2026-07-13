@@ -11,6 +11,28 @@
     "category": "new_flavors"
   },
   {
+    "title": "Better Made launches new gluten-free chip",
+    "url": "https://www.msn.com/en-us/foodanddrink/foodnews/better-made-launches-new-gluten-free-chip/ar-AA27vtht",
+    "snippet": "Plus, Cloud Boba opens in Novi the Beverly lunches weekday lunch and Leña and Hungry Howie's have new menu items",
+    "published_at": "2026-07-08T19:14:00Z",
+    "source": "The Detroit News",
+    "score": 10,
+    "reason": "The title directly reports on a new product launch for a chip brand, which falls under the highest relevance category.",
+    "image_url": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2025/08/06/PDTN/85540832007-0805-better-made-exteriors-02.jpg?crop=8255,4644,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+    "category": "new_flavors"
+  },
+  {
+    "title": "We tried the new class of high-protein snack chips. There's 1 clear winner.",
+    "url": "https://www.msn.com/en-us/health/nutrition/we-tried-the-new-class-of-high-protein-snack-chips-there-s-1-clear-winner/ar-AA27ubcs",
+    "snippet": "Doritos, Quest, and Khloe Kardashian (?) all have new options.",
+    "published_at": "2026-07-08T13:54:26Z",
+    "source": "Men's Health",
+    "score": 9,
+    "reason": "The article is a direct product review of snack chips, which falls into the highest relevance category for a chip-focused website.",
+    "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA27tJFD.img?w=1200&h=600&m=4&q=75",
+    "category": "reviews"
+  },
+  {
     "title": "Three iconic British Smith’s chip flavours have just landed at Aldi. Are they worth the hype? We have the answer",
     "url": "https://www.nine.com.au/lifestyle/food/aldi-british-smiths-chip-flavours-taste-test-prawn-cocktail-cheese-pickle-worcestershire-sauce-20260708-p60dnx.html",
     "snippet": "The flavour that surprised us the most, and the one we couldn't get enough of.",
@@ -53,6 +75,17 @@
     "reason": "The article features a major chip brand (Pringles) and focuses on a potato chip-flavored product, meeting the criteria for high relevance despite the product being bread.",
     "image_url": "https://cdn.nerdist.com/wp-content/uploads/2026/07/06071841/Pringles-Pop-Dog-Buns.webp",
     "category": "reviews"
+  },
+  {
+    "title": "Beloved snack brand transformed boring hot dog buns into 3 favorite chip flavors",
+    "url": "https://www.mlive.com/business/2026/07/beloved-snack-brand-transformed-boring-hot-dog-buns-into-3-favorite-chip-flavors.html",
+    "snippet": "The snack brand is releasing Sour Cream & Onion, BBQ, and Honey Mustard hot dog buns packaged in its iconic cylindrical cans.",
+    "published_at": "2026-07-06T21:09:00Z",
+    "source": "mlive",
+    "score": 7,
+    "reason": "The title mentions 'chip flavors' and a snack brand (implied to be Pringles), which triggers the rule to score 7+ even though the product itself is a bun.",
+    "image_url": "https://www.mlive.com/resizer/v2/LSEWADHWZJDFTMKPHA7DIAR3XY.jpg?auth=c3390a865a43128e8b6b01d6421617a8868b95d6309e22ba6c83a963f08d9fd1&width=1280&smart=true&quality=90",
+    "category": "new_flavors"
   },
   {
     "title": "Costco Has a New Snack Fans Hope It 'Never Gets Rid Of'",
