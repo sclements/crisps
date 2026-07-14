@@ -110,5 +110,21 @@
     "event_name": "Bastille Day (France and dependencies)",
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHnGObkzuSrxwz3THM__U4Lk35mWZPVZmJvq_a2t41YyYq_vZG-QdPKhDaY1Urk6VTVijY3OfsVsqRyBUnwyxPF2-xnjXgAsYDugIzVGyKQQyPLVfacF4t"
+  },
+  {
+    "chip_name": "Roasted Garlic",
+    "date": "2026-07-15",
+    "description": "Today's pick is Roasted Garlic, drawn from the culinary traditions of Italy.",
+    "event_name": "Culinary traditions (Italy)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUO32ESHsoMkshgq1z2g_si5eIjSFRe21Zv7c-fgiWFA7FjAyuWqGuyo7tiE6AgYDkHxSV-WoTJuh-R8pFSJ3QR_6aNf9A-bQpfgwE3HfL9IyBozJk6S6Ttw"
+  },
+  {
+    "chip_name": "Chickpea",
+    "date": "2026-07-16",
+    "description": "Today's pick is Chickpea, drawn from the culinary traditions of Egypt.",
+    "event_name": "Culinary traditions (Egypt)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRPvkXgEFpKTn1m8Wa2JgkawBvlS_QYFwpVe0AGsn0m4zJx0nX6a5jsx8HEpQIyCCFD19WOQsMytjI-QAF0f9M2jf7IpQuzP_AAhc_F9UY14qNguOb2BhqDuQ"
   }
 ]
