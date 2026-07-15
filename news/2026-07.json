@@ -1,5 +1,32 @@
 [
   {
+    "title": "The air inside potato chip bags isn’t actually air",
+    "url": "https://www.msn.com/en-us/food-and-drink/general/the-air-inside-potato-chip-bags-isn-t-actually-air/ar-AA27PSuV",
+    "snippet": "The explanation might just surprise you!",
+    "published_at": "2026-07-13T12:50:12Z",
+    "score": 8,
+    "reason": "The article is a piece of trivia/science directly related to the product itself (potato chips), which meets the requirement for a 7+ score due to the food-based mention of 'potato chip'.",
+    "category": "oddities"
+  },
+  {
+    "title": "This bougie snack is 3 ingredients and starts with a bag of potato chips",
+    "url": "https://www.msn.com/en-us/foodanddrink/recipes/this-bougie-snack-is-3-ingredients-and-starts-with-a-bag-of-potato-chips/ar-AA27NP2V",
+    "snippet": "With the ability to snack and customize to your heart's desire, potato chips are ubiquitous for a reason. Turn it up by throwing on these two ingredients.",
+    "published_at": "2026-07-12T19:35:00Z",
+    "score": 7,
+    "reason": "The title and snippet explicitly mention 'potato chips' as the primary subject, which triggers the mandatory 7+ score according to the key rules. While it is a recipe/cooking hack rather than hard news, it remains highly relevant to a snack-focused website.",
+    "category": "oddities"
+  },
+  {
+    "title": "The FDA just issued its highest-risk warning for these popular potato chips",
+    "url": "https://www.msn.com/en-us/food-and-drink/general/the-fda-just-issued-its-highest-risk-warning-for-these-popular-potato-chips/ar-AA27HEnP",
+    "snippet": "The FDA Just Issued Its Highest-Risk Warning for These Popular Potato Chips ...",
+    "published_at": "2026-07-11T06:30:21Z",
+    "score": 10,
+    "reason": "The article is directly about a high-risk warning/recall concerning potato chips, which falls under the highest relevance category.",
+    "category": "recalls_safety"
+  },
+  {
     "title": "Potato chip-flavored dressing coming to stores in Japan",
     "url": "https://japantoday.com/category/features/new-products/potato-chip-flavored-dressing-coming-to-stores-in-japan",
     "snippet": "An age-old problem for many parents is how to get kids to eat their vegetables. In an age of hyper-palatable ultra-processed food, it can be...",
@@ -273,6 +300,25 @@
     "category": "new_flavors"
   },
   {
+    "title": "Crisp brand fans say is 'superior to Walkers' axes its 4 best flavours",
+    "url": "https://www.msn.com/en-ie/money/other/crisp-brand-fans-say-is-superior-to-walkers-axes-its-4-best-flavours/ar-AA26xeDW",
+    "snippet": "Fans say the crisps are 'superior to Walkers'.",
+    "published_at": "2026-06-25T07:55:59Z",
+    "score": 10,
+    "reason": "The article is directly about a crisp brand discontinuing specific flavors, which falls under the highest category of direct chip/crisp news.",
+    "category": "business"
+  },
+  {
+    "title": "I tried all flavours of Walkers World Cup crisps — one is a definite winner",
+    "url": "https://www.mirror.co.uk/lifestyle/food-drink/tried-flavours-walkers-world-cup-37331337",
+    "snippet": "The World Cup is in full swing with England's second match rapidly approaching. As someone who doesn't usually follow sport, I never imagined I'd be this engrossed in the football matches, but it ...",
+    "published_at": "2026-06-22T08:18:00Z",
+    "score": 10,
+    "reason": "The article is a direct review of specific flavors from the Walkers brand, which falls under the highest category for chip reviews and new flavors.",
+    "image_url": "https://i2-prod.mirror.co.uk/article37331335.ece/ALTERNATES/s1200d/0_World-Cup-inspired-crisps.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "An Internationally-Loved Lay’s Chip Just Arrived in the U.S.—Exclusively at Costco",
     "url": "https://www.allrecipes.com/costco-lays-taro-with-lime-12003664",
     "snippet": "Lay's has spent years swapping flavors across borders. Through its fan-voted \"Do Us a Flavor\" contest and global flavor releases, the brand...",
@@ -281,6 +327,16 @@
     "score": 10,
     "reason": "The article is directly about a new product release from a major potato chip brand (Lay's), which falls into the highest relevance category.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvlOBoP_t6g1EmQ0rp8v_4WRhsTusxkxGvf5gnuJ21Rvr1Y6IFCnLJqtk&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Doritos Has a New Limited-Edition Flavor That Tastes Like a Late-Night Favorite",
+    "url": "https://ca.news.yahoo.com/doritos-limited-edition-flavor-tastes-110000827.html",
+    "snippet": "The new Doritos Late Night Hot Honey Pizza transforms a popular pizzeria combo into a snackable bite you can enjoy any time of day. The chips feature a corn tortilla chip base and ...",
+    "published_at": "2026-06-14T04:00:00Z",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch for Doritos, which constitutes primary brand news and product information for a chip-focused website.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/65794c22f4293af4b85234fc33a0121524b5be97b3d5bc8c7fc5926ec78448c9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fall_recipes_969%2F6e45fc3b89f2f1f2216029396e858cf5",
     "category": "new_flavors"
   },
   {

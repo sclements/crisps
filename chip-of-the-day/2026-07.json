@@ -126,5 +126,13 @@
     "event_name": "Culinary traditions (Egypt)",
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRPvkXgEFpKTn1m8Wa2JgkawBvlS_QYFwpVe0AGsn0m4zJx0nX6a5jsx8HEpQIyCCFD19WOQsMytjI-QAF0f9M2jf7IpQuzP_AAhc_F9UY14qNguOb2BhqDuQ"
+  },
+  {
+    "chip_name": "Caramel Apple",
+    "date": "2026-07-17",
+    "description": "Today's pick is Caramel Apple, drawn from the culinary traditions of Netherlands.",
+    "event_name": "Culinary traditions (Netherlands)",
+    "event_url": "Google Shopping",
+    "image_url": "https://s3.amazonaws.com/grocery-project/product_images/door-county-caramel-apple-cris-8235167-10930379.jpg"
   }
 ]
