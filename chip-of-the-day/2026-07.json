@@ -136,11 +136,11 @@
     "image_url": "https://s3.amazonaws.com/grocery-project/product_images/door-county-caramel-apple-cris-8235167-10930379.jpg"
   },
   {
-    "chip_name": "Truffle",
+    "chip_name": "Spanish Chorizo",
     "date": "2026-07-18",
-    "description": "Today's pick is Truffle, drawn from the culinary traditions of Slovenia.",
-    "event_name": "Culinary traditions (Slovenia)",
-    "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDYDD2IZrwFGpYGpiUJN09IwR2HjHXnDnlWNozFWo0lxE2U2ReJAUtn0Ddv1SMsujFhdMU2ASa7L4kJGa3dsg3BfZFVP9hHxm5fYUef6VVJ0lXxqlxQW3uNw"
+    "description": "Celebrating Uruguay's Constitution Day, our Spanish Chorizo chips bring a bold and smoky spirit to honor this historic day.",
+    "event_name": "Constitution Day (Uruguay)",
+    "event_url": "https://en.wikipedia.org/wiki/July_18",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKhIDB4X1aARyg6HEn1DrcT1rKNKeWeF0Wi_TN6p2pgAdAKqh_eLHKCneh1kx4LHYXNWsT9pA"
   }
 ]
