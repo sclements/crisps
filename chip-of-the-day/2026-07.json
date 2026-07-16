@@ -134,5 +134,13 @@
     "event_name": "Culinary traditions (Netherlands)",
     "event_url": "Google Shopping",
     "image_url": "https://s3.amazonaws.com/grocery-project/product_images/door-county-caramel-apple-cris-8235167-10930379.jpg"
+  },
+  {
+    "chip_name": "Truffle",
+    "date": "2026-07-18",
+    "description": "Today's pick is Truffle, drawn from the culinary traditions of Slovenia.",
+    "event_name": "Culinary traditions (Slovenia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDYDD2IZrwFGpYGpiUJN09IwR2HjHXnDnlWNozFWo0lxE2U2ReJAUtn0Ddv1SMsujFhdMU2ASa7L4kJGa3dsg3BfZFVP9hHxm5fYUef6VVJ0lXxqlxQW3uNw"
   }
 ]
