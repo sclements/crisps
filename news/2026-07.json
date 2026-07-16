@@ -1,5 +1,82 @@
 [
   {
+    "title": "Product review: Corn chips better than potato crisps, but enjoy in moderation",
+    "url": "https://www.stuff.co.nz/life-style/well-good/teach-me/300418287/product-review-corn-chips-better-than-potato-crisps-but-enjoy-in-moderation",
+    "snippet": "OPINION: Potato chips are a lot higher in fat and sodium making the corn chips a more nutritious, but they're still a high fat so enjoy in...",
+    "published_at": "2026-07-16T14:00:31Z",
+    "source": "Stuff",
+    "score": 9,
+    "reason": "The article is a product review directly comparing potato crisps to corn chips, which falls into the 9-10 category for reviews of the target product.",
+    "image_url": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DfGZQfjEdZd7oKlsiR53VLHvSZExpMzuRmKdwHbkL9PkEGfwgkFZOwmaaKj4SxX1saDzGa99J+LbgSlwol6GPTHREsJTMaLUYzRhu3aBxK00zdbLBtl3EIudAKWl%2FcS80bBDj5WOTjyxZRTrZiII%2FB9U8vrigkhdp6tT82J1MhNu",
+    "category": "reviews"
+  },
+  {
+    "title": "Cava Just Dropped A New Pita Chip Flavor (And They're Spicy)",
+    "url": "https://sporked.com/article/cava-harissa-bbq-pita-chips/",
+    "snippet": "Cava has added a new pita chip flavor to its menu, Harissa BBQ, for the summer. Customers will also find a new strawberry ginger beverage...",
+    "published_at": "2026-07-16T11:00:02Z",
+    "source": "Sporked",
+    "score": 8,
+    "reason": "The article is about a new flavor of pita chips, which falls under closely related snack foods. According to the rule, mentioning 'chips' in a food context ensures a score of 7+.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/07/cava-chips.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Most Avocado Oil Chips and Dressings Are Adulterated With Other Oils",
+    "url": "https://www.technologynetworks.com/tn/news/most-avocado-oil-chips-and-dressings-are-adulterated-with-other-oils-414709",
+    "snippet": "If you've been reaching for chips, mayonnaise or salad dressing labeled \"made with avocado oil,\" there's a good chance the oil inside isn't...",
+    "published_at": "2026-07-16T08:59:50Z",
+    "source": "Technology Networks",
+    "score": 8,
+    "reason": "The article is about the quality and authenticity of 'avocado oil chips.' Since it involves a specific type of chip/snack, it qualifies for a 7+ score per the key rules. It falls into the 7-8 range as it pertains to alternative snack foods rather than traditional potato chips.",
+    "image_url": "https://assets.technologynetworks.com/production/dynamic/images/content/414709/avocado-oil-unsplash-640x360.jpg?cb=20260716",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "What's New At Trader Joe's In July 2026? Here's What To Buy",
+    "url": "https://www.mashed.com/2216212/best-items-buy-trader-joes-july-2026/",
+    "snippet": "Trader Joe's is known for unique items and occasionally new products. This July you can find candy, cookies, chips, frozen treats,...",
+    "published_at": "2026-07-15T22:00:02Z",
+    "source": "Mashed",
+    "score": 7,
+    "reason": "The snippet explicitly mentions 'chips' in a food context, which triggers the rule to score 7 or higher. Since it is a general product roundup rather than an article exclusively about chips, it falls into the 7 range.",
+    "image_url": "https://www.mashed.com/img/gallery/whats-new-at-trader-joes-in-july-2026-heres-what-to-buy/l-intro-1784153243.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Are Pizzeria Badiali chips the best in Canada? We put the Miss Vickie’s collabs to the test",
+    "url": "https://streetsoftoronto.com/uncategorized/are-pizzeria-badiali-chips-the-best-in-canada-we-put-the-miss-vickies-collabs-to-the-test/",
+    "snippet": "What happens when three of Canada's hottest Italian restaurants trade pasta and pizza for Miss Vickie's Ristoranti Series potato chips?",
+    "published_at": "2026-07-15T16:59:56Z",
+    "source": "Streets Of Toronto",
+    "score": 10,
+    "reason": "The article is a direct review and comparison of specific potato chip flavors/collaborations, making it highly relevant to a dedicated snack website.",
+    "image_url": "https://streetsoftoronto.com/wp-content/uploads/2026/07/missvickies.webp",
+    "category": "reviews"
+  },
+  {
+    "title": "Will You Eat It Wednesday Hot Dog Potato Chips",
+    "url": "https://wzid.com/nh-in-the-am/will-you-eat-it-wednesday-hot-dog-potato-chips/",
+    "snippet": "There's a company called Couch Potato Chips, and they have some fun flavors of chips, we tried the Mustard Hot Dog flavor and the Pizza...",
+    "published_at": "2026-07-15T13:59:50Z",
+    "source": "WZID",
+    "score": 10,
+    "reason": "The article is a direct review of new potato chip flavors from a specific brand, falling into the highest relevance category.",
+    "image_url": "https://wzid.com/wp-content/blogs.dir/24/files/2026/07/1460f0cd-b8b2-4dc0-af46-7c57aa81ebbc-590x400.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "I Ate at Madrid’s New Lay’s Restaurant. Here’s Why We’ve Been Eating Potato Chips Wrong for 94 Years",
+    "url": "https://parade.com/news/i-ate-at-madrids-new-lays-restaurant-heres-why-weve-been-eating-potato-chips-wrong-for-94-years",
+    "snippet": "Could Lay's potato chips make a better Spanish tortilla than fresh potatoes? I visited Madrid's new Pilla Tortilla to put the theory to the...",
+    "published_at": "2026-07-15T13:59:49Z",
+    "source": "Parade Magazine",
+    "score": 10,
+    "reason": "The article is a brand-focused review centered entirely on Lay's potato chips and their application in a unique culinary setting.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFXLDILJdWEQ_bQUsgRh9bQ1IEYyScsZqOjQ_so8&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
     "title": "The air inside potato chip bags isn’t actually air",
     "url": "https://www.msn.com/en-us/food-and-drink/general/the-air-inside-potato-chip-bags-isn-t-actually-air/ar-AA27PSuV",
     "snippet": "The explanation might just surprise you!",
@@ -35,6 +112,17 @@
     "score": 7,
     "reason": "The title mentions 'potato chip' in a food context, which triggers the rule to score 7 or higher.",
     "image_url": "https://media.japantoday.com/img/store/ef/ef/215df9cbb7dbb15316bfdf28d806ebfe4751/screenshot-2026-07-07-at-10-51-00/_w1700.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Pringles Surprising New Release Isn’t a Chip",
+    "url": "https://parade.com/food/pringles-pop-dog-buns-release-date",
+    "snippet": "Pringles is celebrating one of summer's most popular staples, the hot dog, with a truly first-of-its-kind release—and no, it's not a hot...",
+    "published_at": "2026-07-09T14:00:12Z",
+    "source": "Parade Magazine",
+    "score": 9,
+    "reason": "This is brand news regarding Pringles, a major chip manufacturer. According to the rules, mentioning a known chip brand triggers a score of 7+, and brand news falls into the 9-10 category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEd88hudAKlkGTRprzvO3_AH71jvOYnP4Q_O0rkhI4fRfpYImrg8CZwyM&usqp=CAI&s",
     "category": "new_flavors"
   },
   {
@@ -234,6 +322,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "Walkers drops new kits with classic shirts inspired by iconic crisp flavours",
+    "url": "https://www.elystandard.co.uk/news/26240439.walkers-drops-new-kits-classic-shirts-inspired-crisp-flavours/",
+    "snippet": "Wayne Newton, Senior Marketing Director for Walkers, said: \"For decades, Walkers has been synonymous with football. We've been intertwined with...",
+    "published_at": "2026-07-02T14:00:21Z",
+    "source": "Ely Standard",
+    "score": 9,
+    "reason": "This is brand news regarding Walkers, a major chip manufacturer. Since the news is centered on their identity and flavors, it falls directly under brand news.",
+    "image_url": "https://www.elystandard.co.uk/resources/images/21119517.jpg?type=og-image",
+    "category": "oddities"
+  },
+  {
     "title": "Marylanders love an Utz chip, but how do they flavor it? A new survey reveals their favorite.",
     "url": "https://baltimorefishbowl.com/stories/marylanders-love-an-utz-chip-but-how-do-they-flavor-it-a-new-survey-reveals-their-favorite/",
     "snippet": "A new survey commissioned by Utz with Censuswide reveals the favorite chip flavor in each state, including Maryland.",
@@ -298,6 +397,17 @@
     "reason": "The article is directly about a potato chip brand launching a new limited edition flavor, which falls under the highest relevance category.",
     "image_url": "https://surreynowleader.com/wp-content/uploads/sites/8/2026/06/42625184_web1_260625-PAN-new-BC-Lions-Hardbite-chips_1.jpg?w=1024",
     "category": "new_flavors"
+  },
+  {
+    "title": "How a better-for-you chip brand is raising the stakes in the category",
+    "url": "https://www.foodnavigator.com/Article/2026/06/23/snackish-wants-to-reinvent-the-potato-chip-category/",
+    "snippet": "How a better-for-you chip brand is raising the stakes in the category.",
+    "published_at": "2026-06-25T14:00:00Z",
+    "source": "FoodNavigator.com",
+    "score": 9,
+    "reason": "The article is directly about chip brand news and business within the snack category, which falls into the highest relevance tier.",
+    "image_url": "https://www.foodnavigator.com/resizer/v2/Z5N7IXPGPZCLTIVYXNIUGSNAIM.jpg?auth=09ca46751fae4ad999f52712778795b19449ab9d43a83fa463e0f0d9677c1b3e&width=1200&height=630&smart=true",
+    "category": "business"
   },
   {
     "title": "Crisp brand fans say is 'superior to Walkers' axes its 4 best flavours",
