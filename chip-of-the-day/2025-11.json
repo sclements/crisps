@@ -1,0 +1,50 @@
+[
+  {
+    "chip_name": "Lemon",
+    "date": "2025-11-24",
+    "description": "Today's pick is Lemon, drawn from the culinary traditions of Haiti.",
+    "event_name": "Culinary traditions (Haiti)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3bMB1u-2SmA90weLXkErGI-U547TRqtgS-ursF0VjeeUK00ufd3uc4YmMbGZUicSdbrEghzZGdTwZJhv4R7aSVqWiOoLS5CFP1-0l0jZ0Nm2AUn0X3lmNjQ"
+  },
+  {
+    "chip_name": "Millet",
+    "date": "2025-11-26",
+    "description": "Today's pick is Millet, drawn from the culinary traditions of Mali.",
+    "event_name": "Culinary traditions (Mali)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1SZ1RxtDtz8X3wkbnaNGE69oi94sr31HhMOLKZP0Jl2-4hLnnOuEla1ZoiGUkNVoI1GhzCFHXbirdFVCFCaRWNGtoNsK_u1njaIsNASk9IhcBtgQOB7VuLA"
+  },
+  {
+    "chip_name": "Cheddar Shallot",
+    "date": "2025-11-27",
+    "description": "Celebrating Lancashire Day, a tribute to the UK's rich northern heritage. These Cheddar Shallot chips offer a savory, creamy nod to this special day.",
+    "event_name": "Lancashire Day (United Kingdom)",
+    "event_url": "https://en.wikipedia.org/wiki/November_27",
+    "image_url": "chip-of-the-day/images/2026-06-13.webp"
+  },
+  {
+    "chip_name": "Coconut All",
+    "date": "2025-11-28",
+    "description": "Celebrating Timor-Leste's independence today. Our Coconut All chips capture the tropical spirit of freedom to honor this historic day.",
+    "event_name": "Proclamation of Independence Day (Timor-Leste), celebrating the declaration of independence of the Democratic Republic of East Timor from Portugal in 1975.",
+    "event_url": "https://en.wikipedia.org/wiki/November_28",
+    "image_url": "chip-of-the-day/images/2026-06-23.webp"
+  },
+  {
+    "chip_name": "Feta Olive",
+    "date": "2025-11-29",
+    "description": "Honoring Republic Day, our Feta Olive chips celebrate the union of classic Mediterranean flavors. A savory tribute to history on this day.",
+    "event_name": "Republic Day (Yugoslavia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8NmA-gEDyEleRYCJN1VEv9RDxlBXFWD1l_dQ1IS0LynamTOOAxnjHk94WtdLdnXWTDE3TRxBmiPrw2hgraMiJ15gU3c61"
+  },
+  {
+    "chip_name": "Ginger Date Kale",
+    "date": "2025-11-30",
+    "description": "Honoring the UAEs heritage on Commemoration Day. Our Ginger Date Kale chips blend traditional date sweetness with warming ginger to honor the spirit of today.",
+    "event_name": "Commemoration Day (United Arab Emirates)",
+    "event_url": "https://en.wikipedia.org/wiki/November_30",
+    "image_url": "https://store.thevegetariansite.com/image/cache/catalog/KKGD1-500x500.jpg"
+  }
+]
