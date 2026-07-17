@@ -1,5 +1,49 @@
 [
   {
+    "title": "Forget salt and vinegar, did you know there are 1,400 bona fide flavours of chips? This is how they're created",
+    "url": "/goto?url=CAESrAEB7keqTX_21H2yYmkQNSnpgn_Sk2K_igOsa8iTUbOe6FMHfwjAsxnnW3acZqXJJOSZ_vvT98DS8jxTqGfJegewCgUP2zzuVfvoJOrI377CgrGi1nDgGT-VhgY7m5gpHbqTnUh4ztvj63U50u_GKqQxJajxLchnk8Twt4Mjv4ONbQetYRszuaiTnb4-8eirV2Hwi3FmxN7kcFA3kFRqc2aLKE7lOrFT9L1btWy-",
+    "snippet": "The humble bag of chips has come a long way, with flavours like cheeseburger, curry, and cucumber now available. To get the flavours right...",
+    "published_at": "2026-07-17T15:44:01Z",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "score": 10,
+    "reason": "The article is directly about potato chip flavors and the production process, making it highly relevant to a chip-focused website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgyFdxXk5XOGMGbaakPN3luUonzv5ayu1YejI29sum-qFXPhtMhCr-aAc&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "'I thought I was going to die,' says girl who ate spicy Doritos",
+    "url": "https://www.theguardian.com/uk-news/2015/jul/17/dorito-danger-i-thought-i-was-going-to-die-says-girl-who-ate-spicy-chips",
+    "snippet": "School warns parents about 'dangerous' Doritos Roulette crisps after 14-year-old Beth Laybourn suffered breathing difficulties after eating...",
+    "published_at": "2026-07-17T15:15:51Z",
+    "source": "The Guardian",
+    "score": 9,
+    "reason": "The article is directly about a specific snack brand (Doritos) and the product itself (crisps), falling under 'brand news' as per the rubric.",
+    "image_url": "https://i.guim.co.uk/img/media/fbd9622133c6a83aaa4acadaefb27a83642cc003/9_444_1233_739/master/1233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=7d0ec630f23ee1fc3888030a1eb5e4db",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Beyond Snack expands portfolio with ZERO and VIBE banana chips range - Indian Television",
+    "url": "https://indiantelevision.com/mam/beyond-snack-expands-portfolio-with-zero-and-vibe-banana-chips-range/",
+    "snippet": "",
+    "published_at": "2026-07-17T11:47:22Z",
+    "source": "Indian Television",
+    "score": 8,
+    "reason": "The article is about a snack brand expanding its portfolio with banana chips, which falls under closely related snack foods and snack industry business news.",
+    "image_url": "https://indiantelevision.com/wp-content/uploads/2026/07/zero-1-1000x600.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Salutem expands its range of toasts with new flavors.",
+    "url": "https://grandeconsumo.com/en/salutem-reinforces-range-of-toasts-with-new-flavors/",
+    "snippet": "Salutem has expanded its range of Crisp Bread toasts with the launch of two new varieties: Aromatic Herbs and Chili & Garlic.",
+    "published_at": "2026-07-16T15:15:36Z",
+    "source": "Grande Consumo",
+    "score": 7,
+    "reason": "The mention of 'Crisp Bread' contains the keyword 'crisp', which triggers a score of 7+ per the rules, although the product is a cracker/bread rather than a potato chip.",
+    "image_url": "https://grandeconsumo.com/wp-content/uploads/2026/07/Salutem-Crisp-Bread.webp",
+    "category": "new_flavors"
+  },
+  {
     "title": "Product review: Corn chips better than potato crisps, but enjoy in moderation",
     "url": "https://www.stuff.co.nz/life-style/well-good/teach-me/300418287/product-review-corn-chips-better-than-potato-crisps-but-enjoy-in-moderation",
     "snippet": "OPINION: Potato chips are a lot higher in fat and sodium making the corn chips a more nutritious, but they're still a high fat so enjoy in...",
@@ -9,6 +53,17 @@
     "reason": "The article is a product review directly comparing potato crisps to corn chips, which falls into the 9-10 category for reviews of the target product.",
     "image_url": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DfGZQfjEdZd7oKlsiR53VLHvSZExpMzuRmKdwHbkL9PkEGfwgkFZOwmaaKj4SxX1saDzGa99J+LbgSlwol6GPTHREsJTMaLUYzRhu3aBxK00zdbLBtl3EIudAKWl%2FcS80bBDj5WOTjyxZRTrZiII%2FB9U8vrigkhdp6tT82J1MhNu",
     "category": "reviews"
+  },
+  {
+    "title": "The One Thing You Should Do Before Opening A Bag Of Chips - Yahoo",
+    "url": "https://www.yahoo.com/lifestyle/videos/one-thing-opening-bag-chips-100000210.html",
+    "snippet": "",
+    "published_at": "2026-07-16T14:00:00Z",
+    "source": "Yahoo",
+    "score": 8,
+    "reason": "The title explicitly mentions 'chips' in a food context, which triggers the rule to score 7+; it is directly relevant to chip consumers.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/a37c3f300e276b120233ad666b8214c8acccd32cbae9f8908daa9d02ee3471e0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmashed_video_231%2Fd592f2928097e3c09060d7fd7e395ecd",
+    "category": "oddities"
   },
   {
     "title": "Cava Just Dropped A New Pita Chip Flavor (And They're Spicy)",
@@ -41,6 +96,16 @@
     "score": 7,
     "reason": "The snippet explicitly mentions 'chips' in a food context, which triggers the rule to score 7 or higher. Since it is a general product roundup rather than an article exclusively about chips, it falls into the 7 range.",
     "image_url": "https://www.mashed.com/img/gallery/whats-new-at-trader-joes-in-july-2026-heres-what-to-buy/l-intro-1784153243.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Canada’s Most-Wanted Chips Are Back On Shelves - chatelaine.com",
+    "url": "https://chatelaine.com/food/miss-vickies-ristoranti-chips-return/",
+    "snippet": "",
+    "published_at": "2026-07-15T19:13:10Z",
+    "source": "chatelaine.com",
+    "score": 9,
+    "reason": "The title directly refers to 'chips' being back on shelves, which is primary news for a chip-focused website.",
     "category": "new_flavors"
   },
   {
@@ -333,6 +398,17 @@
     "category": "oddities"
   },
   {
+    "title": "Are H-E-B's summer chips worth buying? These are our favorites - Austin American-Statesman",
+    "url": "https://www.statesman.com/entertainment/dining/article/heb-best-potato-chips-rankings-22322137.php",
+    "snippet": "",
+    "published_at": "2026-07-01T07:00:00Z",
+    "source": "Austin American-Statesman",
+    "score": 10,
+    "reason": "The article is a direct review and recommendation of chip products, which falls into the highest relevance category.",
+    "image_url": "https://s.hdnux.com/photos/01/66/53/11/31109742/6/rawImage.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "Marylanders love an Utz chip, but how do they flavor it? A new survey reveals their favorite.",
     "url": "https://baltimorefishbowl.com/stories/marylanders-love-an-utz-chip-but-how-do-they-flavor-it-a-new-survey-reveals-their-favorite/",
     "snippet": "A new survey commissioned by Utz with Censuswide reveals the favorite chip flavor in each state, including Maryland.",
@@ -440,6 +516,28 @@
     "category": "new_flavors"
   },
   {
+    "title": "JÖEY Nordic Seed Crisps Exhibits New Flavours at Summer Fancy Food Show",
+    "url": "https://www.specialtyfood.com/news-media/news-features/member-press-releases/joey-nordic-seed-crisps-exhibits-new-flavours-at-summer-fancy-food-show/",
+    "snippet": "New York, June 2026: JÖEY Nordic Seed Crisps, a Canadian-based premium snack brand renowned for its innovative watermelon seed-based crackers,...",
+    "published_at": "2026-06-17T15:15:35Z",
+    "source": "Specialty Food Association",
+    "score": 9,
+    "reason": "The article is direct brand news about new flavors for a company specifically named 'Seed Crisps', which falls directly into the category of chip/crisp news.",
+    "image_url": "https://www.specialtyfood.com:443/getmedia/7579e767-a8a9-4381-b859-0738e3d45165/2019_Specialty_Food_Association_Logo.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Iconic Irish chips brand Tayto release divisive new flavor - Irish Star",
+    "url": "https://www.irishstar.com/news/ireland-news/irish-tayto-chips-crisps-flavor-37304724",
+    "snippet": "",
+    "published_at": "2026-06-16T07:00:00Z",
+    "source": "Irish Star",
+    "score": 10,
+    "reason": "The article is directly about a potato chip brand releasing a new flavor, which falls into the highest relevance category.",
+    "image_url": "https://i2-prod.irishstar.com/article37304789.ece/ALTERNATES/s1200d/0_TAYTO-LE-Candyfloss.png",
+    "category": "new_flavors"
+  },
+  {
     "title": "Doritos Has a New Limited-Edition Flavor That Tastes Like a Late-Night Favorite",
     "url": "https://ca.news.yahoo.com/doritos-limited-edition-flavor-tastes-110000827.html",
     "snippet": "The new Doritos Late Night Hot Honey Pizza transforms a popular pizzeria combo into a snackable bite you can enjoy any time of day. The chips feature a corn tortilla chip base and ...",
@@ -459,5 +557,37 @@
     "reason": "The article discusses a specific marketing campaign for Walkers, a major potato chip brand, regarding flavor innovation.",
     "image_url": "https://cdn.trendhunterstatic.com/phpthumbnails/614/614143/614143_1_1200.jpeg",
     "category": "oddities"
+  },
+  {
+    "title": "McCoy’s launches TWO new ‘American-inspired’ crisp flavours in UK supermarkets – but you’ll need to hurry - The Sun",
+    "url": "https://www.thesun.co.uk/money/39317921/mccoys-launches-american-crisp-flavours-uk/",
+    "snippet": "",
+    "published_at": "2026-06-05T07:00:00Z",
+    "source": "The Sun",
+    "score": 10,
+    "reason": "The article is directly about the launch of new flavors for a specific potato chip brand (McCoy's).",
+    "image_url": "https://www.thesun.co.uk/wp-content/uploads/2026/05/null-963676283.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Scandinavian-Style Potato Chips - Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/bonbons-potato-chips",
+    "snippet": "",
+    "published_at": "2026-05-18T07:00:00Z",
+    "source": "Trend Hunter",
+    "score": 9,
+    "reason": "The title is directly about a specific type of potato chip trend.",
+    "image_url": "https://cdn.trendhunterstatic.com/phpthumbnails/614/614027/614027_1_1200.jpeg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Sam's Club Has an All-New Doritos Flavor That’s Already Selling Out - Allrecipes",
+    "url": "https://www.allrecipes.com/sams-club-new-doritos-ultimate-garlic-parm-11968028",
+    "snippet": "",
+    "published_at": "2026-05-06T07:00:00Z",
+    "source": "Allrecipes",
+    "score": 8,
+    "reason": "The article is about a new flavor of Doritos (a major chip brand), which falls into the 'closely related snack foods' category (tortilla chips) per the rubric.",
+    "category": "new_flavors"
   }
 ]
