@@ -1,5 +1,29 @@
 [
   {
+    "chip_name": "Sweet Basil",
+    "date": "2025-11-20",
+    "description": "Today's pick is Sweet Basil, drawn from the culinary traditions of Italy.",
+    "event_name": "Culinary traditions (Italy)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQJFX79wjjW8KNUk2bumskmZ0va9jl_LrWpw1Ni8dm0K7tk6finuDIUMGtBWl2_35BLJikKGQczKh9dJtAvMZJPqteLlDuxFtdWfvR9qaSJQdbFrkUfBnTuUA"
+  },
+  {
+    "chip_name": "Smoked Gouda",
+    "date": "2025-11-21",
+    "description": "Today's pick is Smoked Gouda, drawn from the culinary traditions of Netherlands.",
+    "event_name": "Culinary traditions (Netherlands)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-X9xH6_TNIV9UytYhd0972ckPT7g4MFQWM2imtZO9IaGX7u00cy3Se7wr7BRGJ2YGm9Q6DPobqFBbtOuTk8XjyuKpGMsd"
+  },
+  {
+    "chip_name": "Wasabi Ginger",
+    "date": "2025-11-23",
+    "description": "Honoring Japan's Labor Thanksgiving Day, our Wasabi Ginger chips deliver a bold, sharp zest to celebrate the spirit of hard work.",
+    "event_name": "Labor Thanksgiving Day (Japan)",
+    "event_url": "https://en.wikipedia.org/wiki/November_23",
+    "image_url": "chip-of-the-day/images/2026-06-07.webp"
+  },
+  {
     "chip_name": "Lemon",
     "date": "2025-11-24",
     "description": "Today's pick is Lemon, drawn from the culinary traditions of Haiti.",
