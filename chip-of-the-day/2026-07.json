@@ -150,5 +150,13 @@
     "event_name": "Culinary traditions (Chad)",
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTP-2taOK3-fV0ektxfm2VJ33I5gmgDkgt1dQOD5xLCHGN7iN9Cw9iT7oUQavVaeVfj0VtqEZxnUGRxzZ6N5dzSAwKjjr53"
+  },
+  {
+    "chip_name": "Cheese",
+    "date": "2026-07-20",
+    "description": "Celebrating the birthday of Norway's Crown Prince Haakon Magnus today. These Cheese chips honor his nations rich dairy traditions.",
+    "event_name": "Birthday of Crown Prince Haakon Magnus (Norway)",
+    "event_url": "https://en.wikipedia.org/wiki/July_20",
+    "image_url": "chip-of-the-day/images/2025-12-07.webp"
   }
 ]
