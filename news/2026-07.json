@@ -1,5 +1,27 @@
 [
   {
+    "title": "The Viral ‘Chip Bag Sandwich’ Is an Easy Summer Lunch You Can Customize Endlessly",
+    "url": "https://www.foodandwine.com/chip-bag-sandwich-trend-12023253",
+    "snippet": "Earlier this summer, Yaphank Deli in New York kicked off the “chip bag sandwich” trend — and now home cooks are putting their own spin on it...",
+    "published_at": "2026-07-21T12:13:32Z",
+    "source": "Food & Wine",
+    "score": 7,
+    "reason": "The article describes a food trend involving chips. According to the key rules, mentions of 'chip' in a food context require a score of 7 or higher.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96FlJ9IsjbmxmD88OnS_Hcf9t_mFnC4SxGJ2nDN0baLSXhOFV1gt2Svo&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "The Potato Chip Bag-Sealing Hack You'll Wish You Knew About - Yahoo",
+    "url": "https://www.yahoo.com/lifestyle/videos/potato-chip-bag-sealing-hack-151500137.html",
+    "snippet": "",
+    "published_at": "2026-07-21T12:00:00Z",
+    "source": "Yahoo",
+    "score": 9,
+    "reason": "The title is directly about potato chips (specifically a usage hack for the packaging), which falls into the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/d62628b38b28d3695d578026e4edd0c18194781240312a6267d6456de703d3d1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmashed_video_231%2Fd53e744d6523216694aa8d81741f5912",
+    "category": "oddities"
+  },
+  {
     "title": "Red Rock Deli chips: Beloved Australian snack brand announces major ingredient change effective immediately",
     "url": "https://www.nine.com.au/lifestyle/food/red-rock-deli-chips-beloved-brand-announces-major-ingredient-change-due-to-supply-disruption-20260218-p5okdn.html",
     "snippet": "R﻿ed Rock Deli has announced a major change in the ingredients used to make their popular snack, and this change has already happened.",
@@ -206,6 +228,17 @@
     "reason": "The article is a brand-focused review centered entirely on Lay's potato chips and their application in a unique culinary setting.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFXLDILJdWEQ_bQUsgRh9bQ1IEYyScsZqOjQ_so8&usqp=CAI&s",
     "category": "reviews"
+  },
+  {
+    "title": "Snacks of the World: Irvins Salted Egg Potato Chips and Fish Skins",
+    "url": "https://www.broadsheet.com.au/national/food-and-drink/article/international-snack-spotlight-irvins-salted-egg-potato-chips-and-fish-skins",
+    "snippet": "When Singaporean restaurateur Irvin Gunawan started experimenting with salted egg-flavoured snacks back in 2014, he probably didn't think WAP...",
+    "published_at": "2026-07-15T13:13:38Z",
+    "source": "Broadsheet",
+    "score": 10,
+    "reason": "The article is directly about a specific potato chip brand (Irvins) and its products, meeting the highest relevance criteria.",
+    "image_url": "https://cdn.broadsheet.com.au/cache/b0/3b/b03b9f19c1c72018bf50e0ad2bff2f93.webp",
+    "category": "oddities"
   },
   {
     "title": "The air inside potato chip bags isn’t actually air",
@@ -711,6 +744,17 @@
     "reason": "The article is directly about new flavors for Pringles, a major potato chip brand.",
     "image_url": "https://media.potatopro.com/pringles-hawaiian-barbecue-bbq-ribs-2026-1200.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "Potato Chips at a Shabbos Meal? - COLlive",
+    "url": "https://collive.com/potato-chips-at-a-shabbos-meal/",
+    "snippet": "",
+    "published_at": "2026-05-13T07:00:00Z",
+    "source": "COLlive",
+    "score": 7,
+    "reason": "The title mentions 'Potato Chips' in a food context, which triggers the rule to score 7+. Since it is an inquiry regarding religious etiquette rather than product news (flavors, recalls, brands), a 7 is appropriate.",
+    "image_url": "https://collive.com/wp-content/uploads/2026/05/chips-in-a-bowl.jpg",
+    "category": "oddities"
   },
   {
     "title": "Sam's Club Has an All-New Doritos Flavor That’s Already Selling Out - Allrecipes",
