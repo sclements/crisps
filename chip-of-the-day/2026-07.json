@@ -182,5 +182,69 @@
     "event_name": "Revolution Day (Egypt)",
     "event_url": "https://en.wikipedia.org/wiki/July_23",
     "image_url": "chip-of-the-day/images/2025-12-23.webp"
+  },
+  {
+    "chip_name": "Lamb Cumin",
+    "date": "2026-07-24",
+    "description": "Celebrating Tunisia's vibrant Carnival of Awussu today! These Lamb Cumin chips capture the aromatic, savory spices found in traditional festive feasts.",
+    "event_name": "Carnival of Awussu (Tunisia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://arcaera.com/cdn/shop/products/Lay_s-Potato-Chips-Roasted-Cumin-Lamb-Skewer-Flavor---70g_1200x.jpg?v=1675066633"
+  },
+  {
+    "chip_name": "Ceviche Plantain",
+    "date": "2026-07-25",
+    "description": "Celebrating Puerto Ricos Constitution Day, our Ceviche Plantain chips deliver a bright, zesty taste of the islands coastal spirit.",
+    "event_name": "Puerto Rico Constitution Day (Puerto Rico)",
+    "event_url": "https://en.wikipedia.org/wiki/July_25",
+    "image_url": "chip-of-the-day/images/2025-12-09.webp"
+  },
+  {
+    "chip_name": "Coconut Milk Taro",
+    "date": "2026-07-26",
+    "description": "Celebrating Maldives' independence today! These Coconut Milk Taro chips bring the lush, tropical flavors of the islands to your snack time.",
+    "event_name": "Independence Day (Maldives), celebrates the independence of Maldives from the United Kingdom in 1965.",
+    "event_url": "https://en.wikipedia.org/wiki/July_26",
+    "image_url": "chip-of-the-day/images/2025-12-24.webp"
+  },
+  {
+    "chip_name": "Horseradish",
+    "date": "2026-07-27",
+    "description": "Today's pick is Horseradish, drawn from the culinary traditions of Russia.",
+    "event_name": "Culinary traditions (Russia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTL7f58kNDpDC785tpclcm3h3siBjIfLnKS2zAf2JWOVnRJ-aOYPpg8zj0EbMOwgprir0hYrV3rfqjBT_X9hr6WsMa6l2dDassASyA-a5Y"
+  },
+  {
+    "chip_name": "Lemon Basil",
+    "date": "2026-07-28",
+    "description": "Celebrating San Marino's liberation today! These Lemon Basil chips offer a bright, refreshing zest to honor their spirited independence.",
+    "event_name": "Liberation Day (San Marino)",
+    "event_url": "https://en.wikipedia.org/wiki/July_28",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjjAj37cUBuvMuqR_f8t4WXWydfTgkvfihgpAPsHDoQY4zOofTe7h8xLzUrPNZCSQ5GWFitdOM-WYHcq8gSHF1ecF4ddZs"
+  },
+  {
+    "chip_name": "Mango Salsa",
+    "date": "2026-07-29",
+    "description": "Celebrating Somer's Day today! These Mango Salsa chips bring the bright, tropical spirit of a summer holiday to your palate.",
+    "event_name": "Earliest day on which Somer's Day can fall, while August 4 is the latest; celebrated on Friday before the first Monday in August. (Bermuda)",
+    "event_url": "https://en.wikipedia.org/wiki/July_29",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS99nqKshnLxdKh-6hTkfgs4KO6cyFvy580H_2ffPyxF1s9QPMPFX7ZjE26d0MDhMdcpehsaMiv6nMTiSbj799N5TMAjc4VHNsMcAOGVDmCEMad8vZi-ROWkQ"
+  },
+  {
+    "chip_name": "Olive Hamburger Dill",
+    "date": "2026-07-30",
+    "description": "Commemorating South Sudan's martyrs on this day. Our Olive Hamburger Dill chips offer a bold, savory flavor to honor their resilient legacy.",
+    "event_name": "Martyrs Day (South Sudan)",
+    "event_url": "https://en.wikipedia.org/wiki/July_30",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSEHat6CBWMoxh0BwE9bIBmuxFKleow9J1BcV_mWv6evc9IeyKdobRgnytEwB4vJ__Co6J52lrz372RSC_bCIZIbmq0OiXC"
+  },
+  {
+    "chip_name": "Pineapple, Banana, Taro, Pumpkin",
+    "date": "2026-07-31",
+    "description": "Honoring Sovereignty Restoration Day, these Pineapple, Banana, Taro, Pumpkin chips celebrate the natural bounty and heritage of the islands.",
+    "event_name": "Sovereignty Restoration Day (Hawaiian sovereignty movement)",
+    "event_url": "https://en.wikipedia.org/wiki/July_31",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4QgpFzrT58UrqP8Rw6rP1es5LVntrRMx-bNge-5hoJICa38qygb0JwW2tbugcsNL6e0E2KeqNI3jykOezvguWlEwtMu-yRVQ36mVC4SbEEZRs-8d9CYN3"
   }
 ]
