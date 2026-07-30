@@ -1,5 +1,71 @@
 [
   {
+    "title": "Summer Snack Showdown: We Ranked Maine’s Humpty Dumpty Chip Flavors...But Which One Takes the Crown?",
+    "url": "https://q1065.fm/ixp/495/p/maine-humpty-dumpty-potato-chips/",
+    "snippet": "Let's settle a very important Maine debate: What's your favorite Humpty Dumpty chip flavor? Few snacks are as tied to Maine summers as...",
+    "published_at": "2026-07-30T10:15:09Z",
+    "source": "Q106.5",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of potato chip flavors from a specific brand, falling squarely into the highest relevance category.",
+    "image_url": "https://townsquare.media/site/495/files/2026/07/attachment-humpty-dumpty-1.jpg?w=1200&q=75&format=natural",
+    "category": "reviews"
+  },
+  {
+    "title": "Hailey Bieber Endorses a Sweet-and-Salty Snack Featuring Nutella: ‘Please Try This Combo’",
+    "url": "https://people.com/hailey-bieber-endorses-sweet-salty-snack-featuring-nutella-please-try-this-combo-12030547",
+    "snippet": "Hailey Bieber shared her sweet-and-salty snack combo of ridged potato chips and Nutella in a summer Instagram photo dump on Wednesday,...",
+    "published_at": "2026-07-29T22:15:09Z",
+    "source": "People.com",
+    "score": 8,
+    "reason": "The article is about a specific way to consume ridged potato chips. According to the key rules, since 'chips' is mentioned in a food context, the score must be 7 or higher.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFRNj0cN-tQuCRfJWnOfkbne0RqmAyzDm1YN5LTzMGsgE2s6T3RLT0iU&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "Heidi Klum wore a thong bikini to promote her new potato chips",
+    "url": "https://pagesix.com/2026/07/29/style/heidi-klum-wore-a-thong-bikini-to-promote-her-new-potato-chips/",
+    "snippet": "Heidi Klum lounged on a yacht in a barely-there thong bikini to promote her snack collaboration with Chipsfrisch.",
+    "published_at": "2026-07-29T16:15:09Z",
+    "source": "Page Six",
+    "score": 9,
+    "reason": "The article is directly about a brand news event involving the launch/promotion of new potato chips.",
+    "image_url": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/135869501.jpg?quality=75&strip=all&w=1200",
+    "category": "oddities"
+  },
+  {
+    "title": "Trader Joe's Customers Are Divided On This Salty Snack",
+    "url": "https://www.thedailymeal.com/2218783/trader-joes-customers-potato-chips-reaction/",
+    "snippet": "Trader Joe's just released Sea Salt & Vinegar Chips with Avocado Oil, and while some customers love them, others say they seem to taste...",
+    "published_at": "2026-07-27T13:15:10Z",
+    "source": "Daily Meal",
+    "score": 10,
+    "reason": "The article is directly about a new potato chip flavor release and consumer reviews, which falls into the highest relevance category.",
+    "image_url": "https://www.thedailymeal.com/img/gallery/trader-joes-customers-are-divided-on-this-salty-snack/l-intro-1784563695.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Wilde snacks opens massive new plant in Kentucky",
+    "url": "https://www.courier-journal.com/story/money/companies/2026/07/27/wilde-snacks-expands-production-in-kentucky/90862350007/",
+    "snippet": "Wilde, the maker of chicken-based protein chips, opened a massive new facility in Kentucky to meet rising demand.",
+    "published_at": "2026-07-27T13:15:10Z",
+    "source": "The Courier-Journal",
+    "score": 7,
+    "reason": "The article is about snack industry business expansion and specifically mentions protein chips, which falls into the 7-8 category according to the rubric.",
+    "image_url": "https://www.courier-journal.com/gcdn/authoring/authoring-images/2026/07/23/PLOU/91027717007-wilde-production-ju-20.jpg?crop=2751,1548,x0,y143&width=2751&height=1548&format=pjpg&auto=webp",
+    "category": "business"
+  },
+  {
+    "title": "Review: Once You Pop It's Very Easy To Stop With Pringles X Buffalo Wild Wings Flavored Crisps",
+    "url": "https://www.thetakeout.com/2221661/pringles-buffalo-wild-wings-chips-review/",
+    "snippet": "We tried every flavor of the Pringles x Buffalo Wild Wings range – Parmesan Garlic, Medium Buffalo, and Asian Zing – to see if the...",
+    "published_at": "2026-07-24T13:15:31Z",
+    "source": "The Takeout",
+    "score": 10,
+    "reason": "The article is a direct review of new flavored potato crisps from a major brand (Pringles), which falls directly into the highest relevance category.",
+    "image_url": "https://www.thetakeout.com/img/gallery/pringles-x-buffalo-wild-wings-tbd/l-intro-1784810037.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "The Viral ‘Chip Bag Sandwich’ Is an Easy Summer Lunch You Can Customize Endlessly",
     "url": "https://www.foodandwine.com/chip-bag-sandwich-trend-12023253",
     "snippet": "Earlier this summer, Yaphank Deli in New York kicked off the “chip bag sandwich” trend — and now home cooks are putting their own spin on it...",
@@ -287,6 +353,17 @@
     "score": 9,
     "reason": "This is brand news regarding Pringles, a major chip manufacturer. According to the rules, mentioning a known chip brand triggers a score of 7+, and brand news falls into the 9-10 category.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEd88hudAKlkGTRprzvO3_AH71jvOYnP4Q_O0rkhI4fRfpYImrg8CZwyM&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Walkers unveils 3 brand new crisp flavours — including bangers and mash",
+    "url": "https://www.aol.co.uk/articles/walkers-unveils-3-brand-crisp-191255000.html",
+    "snippet": "Sparks, Jet, Now! and Coconut Grove were launched this week, each costing just £1. They were part of M&S's sweet lineup around 50 years ago, and are a delicious...",
+    "published_at": "2026-07-09T13:15:39Z",
+    "source": "AOL.co.uk",
+    "score": 10,
+    "reason": "The article is directly about new flavors for a major potato chip brand (Walkers), placing it in the highest relevance category.",
+    "image_url": "https://hermes.media.static.aol.com/media/2026/05/13/8d1c96ac-c5a0-3816-8473-31fe09a901a9/0ec9f728-474d-4fc1-b6e0-a31d9c32fefe.jpg",
     "category": "new_flavors"
   },
   {
