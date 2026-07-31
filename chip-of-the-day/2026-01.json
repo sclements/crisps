@@ -8,10 +8,12 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqOqlBB1ag2Rs3WaIg5DkckIeqWlmTX3nrXK6obJK69aN7Sbgtq6UTiZe4hOmT17STN3OiXKq41yV9vLHZlBkNkoEI-CdLax55oIEoVKANh6s925CSzbJDew"
   },
   {
-    "chip_name": "Lime",
+    "chip_name": "Green Bean",
     "date": "2026-01-02",
-    "description": "Today's Chip of the Day is inspired by Colombia cuisine: Arepas. Born on this day, 1980 - Dian Rueda, a Colombian actress and model known for her roles in telenovelas.",
-    "image_url": "https://i5.walmartimages.com/seo/Late-July-Snacks-Jalapeno-Lime-Tortilla-Chips-16-oz-Bag_8e5b6540-2f63-464d-8ef5-4c21572b4854.00f2232808565369e524ff4b7ecc9c5e.jpeg"
+    "description": "Today's pick is Green Bean, drawn from the culinary traditions of China.",
+    "event_name": "Culinary traditions (China)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-mBUNgJb6Z8MBuWy590_usJSMqcycqsPnUFQZINe5YosWMxYcn0Z9-tKYHpM4nLsuPxb2t_iPy7taNvkBzcrm6pfIggkEXpsgObrYj5Lf3eQMW-XCwHGX6Q"
   },
   {
     "chip_name": "Seaweed Tempura",
@@ -158,12 +160,12 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4-c2eAnWXT4R0Vt-QwrRG2jYzqkRqLCzRWrG6V4VkIDLQWVtzqOht6zKxH6_VmowPYKas3pVNPlkiswJxpZ862_h0l1hs"
   },
   {
-    "chip_name": "Sweet Spicy Jalapeno",
+    "chip_name": "Rum Barrel",
     "date": "2026-01-21",
-    "description": "Honoring one of America's heartwarming culinary traditions, National Chili Day. These Sweet Spicy Jalapeno chips bring the robust flavors of Southern comfort food to your dining table.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/January_21",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5_96ekWPRRB42xvgmlrVoAgnX1iGKNYdF1t2EWwVimgRAQtVy87W1GOs6djygfa8nj6ow7Bg0ZAs2ig8Czx8VATFZjF4di3aTCtTN-lLufPNdlI0n5Ypz"
+    "description": "Honoring Errol Barrow, the Father of Barbadian Independence today! These Rum Barrel chips capture the bold, spirited essence of his beloved island.",
+    "event_name": "Errol Barrow Day (Barbados)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUj3Yr8PuzZ7pPYrgQX3ZqHljPIoHYU2d1tztxTE10exSEwGhTFlnZheqMOkbf4GJrQIuMT58MoKMmc0fx7U5-DDwyawfZr0HC0MBXp4VYbsP3q2YbiEBbKw"
   },
   {
     "chip_name": "Olive Hamburger Dill",
@@ -238,11 +240,11 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTh1q2dEi2BcmtlTIMSbxJCl5nC3PPs58qDSRq8HdQh-0uM_1fbXJravwPDL29w0az3_L9pMieG5QBQRL5IezWi74F2gfGj"
   },
   {
-    "chip_name": "Basil Tomato",
+    "chip_name": "Smoky Bacon",
     "date": "2026-01-31",
-    "description": "Today's pick is Basil Tomato, drawn from the culinary traditions of Romania.",
-    "event_name": "Culinary traditions (Romania)",
-    "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-01-31.webp"
+    "description": "To honor Street Children's Day in Austria, our Smoky Bacon chips capture the hearty and comforting essence of a classic street-side snack.",
+    "event_name": "Street Children's Day (Austria)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQTX5CcvwN_RGdr5ze7ykJlqIbvTQ4m_DvpnOqcNpq27UnsyoLv-dhLm1l4f6GqaN3nM4sd1wsKecCJQ0shjBH12wGbS_GyoA"
   }
 ]

@@ -16,12 +16,12 @@
     "image_url": "https://m.media-amazon.com/images/I/91+62IUxqaL._SL1500_.jpg"
   },
   {
-    "chip_name": "Mesquite Bbq",
+    "chip_name": "Sausage",
     "date": "2026-07-03",
-    "description": "Today's pick is Mesquite Bbq, drawn from the culinary traditions of Texas.",
-    "event_name": "Culinary traditions (Texas)",
-    "event_url": "Google Shopping",
-    "image_url": "https://www.gosupps.com/media/catalog/product/cache/25/image/1500x/040ec09b1e35df139433887a97daa66f/7/1/71rkUQTjjYL.jpg"
+    "description": "Today's pick is Sausage, drawn from the culinary traditions of Germany.",
+    "event_name": "Culinary traditions (Germany)",
+    "event_url": "USDA Cache",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTg0JiW-jHx0bQL9bdGaVY6nB_aqOGJQPDrhbP2JKFd1hQ-wT2S8FIW_MzE7dx40RktwV-Fju-D_2i-URH6Xhw0GKZ6kcB"
   },
   {
     "chip_name": "Salted Coconut",
@@ -48,20 +48,20 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgbcdjVXXqeoGOznY2GJfvDq6ZvholN6f6shrgTYnE3eNNf3yQku0NwbgVYrZNwGCI4iryHVtAuACiQfP5n5Klbw_Xju4MXOHWCOEUoddU-TwqQuVG89Bc"
   },
   {
-    "chip_name": "Tempura Seaweed",
+    "chip_name": "Mango",
     "date": "2026-07-07",
-    "description": "Honoring the celestial wishes of Tanabata, these Tempura Seaweed chips bring a savory, umami-rich crunch to your celebration today.",
-    "event_name": "Tanabata (Japan)",
+    "description": "Today's pick is Mango, drawn from the culinary traditions of Myanmar.",
+    "event_name": "Culinary traditions (Myanmar)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS_GC0IaBmtnu-vwcbQ6L7gbykG9QAdndnIPREJwMAnkvyI2YoEbrXYDXwBz-08Dt_VBxDmibdmv6LXgudc1swlrF1qIK6bDOjR6qeFErgzXMeCp9GkWMJsMw"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQl9TmHLFhjnF9sSZFriWvVWOfxUvzIt9cFcfoccY4FzzwHBA6piBIsKJQKwYQJFAtzXSfVKVd0qvJnAARgkurZnRp05IPXXYWLenTOKOeLVbh2Zj8Dsu9h"
   },
   {
-    "chip_name": "Lime Rolled",
+    "chip_name": "Spicy Grill",
     "date": "2026-07-08",
-    "description": "Today's pick is Lime Rolled, drawn from the culinary traditions of Nigeria.",
-    "event_name": "Culinary traditions (Nigeria)",
+    "description": "Today's pick is Spicy Grill, drawn from the culinary traditions of Thailand.",
+    "event_name": "Culinary traditions (Thailand)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-07-08.webp"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSH8FqXug_8mulwnmJfdiniGeYfig5NWlvM64DhUka4zFoJXpdpv_kmoAZ8U2THqTuTZVhCLqrQJy35fS1KYjmPIgsAkIpX0gI3TPSaV8UzUZlxFdcvXT8Y"
   },
   {
     "chip_name": "Thai Coconut Milk",
@@ -112,12 +112,12 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHnGObkzuSrxwz3THM__U4Lk35mWZPVZmJvq_a2t41YyYq_vZG-QdPKhDaY1Urk6VTVijY3OfsVsqRyBUnwyxPF2-xnjXgAsYDugIzVGyKQQyPLVfacF4t"
   },
   {
-    "chip_name": "Roasted Garlic",
+    "chip_name": "Argentinian Steak",
     "date": "2026-07-15",
-    "description": "Today's pick is Roasted Garlic, drawn from the culinary traditions of Italy.",
-    "event_name": "Culinary traditions (Italy)",
+    "description": "Today's pick is Argentinian Steak, drawn from the culinary traditions of Uruguay.",
+    "event_name": "Culinary traditions (Uruguay)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUO32ESHsoMkshgq1z2g_si5eIjSFRe21Zv7c-fgiWFA7FjAyuWqGuyo7tiE6AgYDkHxSV-WoTJuh-R8pFSJ3QR_6aNf9A-bQpfgwE3HfL9IyBozJk6S6Ttw"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKwqzMxc_ocs1CxGB3OIIta997PZgxJQ-aXNm9NPDFgN45mBy1Ag6yRkGs40y9AYBoGA46N5EpLb6pMdzWq12oHnMQ1xNA"
   },
   {
     "chip_name": "Chickpea",
@@ -136,52 +136,52 @@
     "image_url": "https://s3.amazonaws.com/grocery-project/product_images/door-county-caramel-apple-cris-8235167-10930379.jpg"
   },
   {
-    "chip_name": "Spanish Chorizo",
+    "chip_name": "Vinegar",
     "date": "2026-07-18",
-    "description": "Celebrating Uruguay's Constitution Day, our Spanish Chorizo chips bring a bold and smoky spirit to honor this historic day.",
-    "event_name": "Constitution Day (Uruguay)",
-    "event_url": "https://en.wikipedia.org/wiki/July_18",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKhIDB4X1aARyg6HEn1DrcT1rKNKeWeF0Wi_TN6p2pgAdAKqh_eLHKCneh1kx4LHYXNWsT9pA"
-  },
-  {
-    "chip_name": "Millet",
-    "date": "2026-07-19",
-    "description": "Today's pick is Millet, drawn from the culinary traditions of Chad.",
-    "event_name": "Culinary traditions (Chad)",
+    "description": "Today's pick is Vinegar, drawn from the culinary traditions of Vietnam.",
+    "event_name": "Culinary traditions (Vietnam)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTP-2taOK3-fV0ektxfm2VJ33I5gmgDkgt1dQOD5xLCHGN7iN9Cw9iT7oUQavVaeVfj0VtqEZxnUGRxzZ6N5dzSAwKjjr53"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTm4vSa-LNgAFCLD8IfNMKOi3VxMTvuObDyeDYFIs4FJpgpQkCG6aDHQc_sq5dR-aNhzR9Xw_0slamXaTyHuvgf6caUn0Fcv2e6mklfSUBAD5V1xJBdvSFwng"
   },
   {
-    "chip_name": "Cheese",
+    "chip_name": "Caraway",
+    "date": "2026-07-19",
+    "description": "Today's pick is Caraway, drawn from the culinary traditions of Hungary.",
+    "event_name": "Culinary traditions (Hungary)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvC9_mbvxtLY-phRbFGhZ6dkbpg8fIUDgQelylLWTouzyS_1KNVnPhGQAmFZP-Pz3KPHtw8zoxU4ByPO8bbkx-mXHN8prm4pD3CIG1s2iQDjs1houxlVLp"
+  },
+  {
+    "chip_name": "Smoked Trout Fillets",
     "date": "2026-07-20",
-    "description": "Celebrating the birthday of Norway's Crown Prince Haakon Magnus today. These Cheese chips honor his nations rich dairy traditions.",
+    "description": "Celebrating the birthday of Norway's Crown Prince Haakon Magnus today. These Smoked Trout Fillets capture a sophisticated taste of Nordic coastal tradition.",
     "event_name": "Birthday of Crown Prince Haakon Magnus (Norway)",
-    "event_url": "https://en.wikipedia.org/wiki/July_20",
-    "image_url": "chip-of-the-day/images/2025-12-07.webp"
+    "event_url": "USDA",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVp96NV3zS4-pNrXNPwxegQNPiOLcw4pW3P04cQkUKr7RmJdl7k9rrWEUtU5xijDU7TizoTUnQo44FY6jDqAb-SrSJinlvBHdz-sVLhXPgoc041Vq4R2E2Sw"
   },
   {
-    "chip_name": "Mushroom Sour Cream",
+    "chip_name": "Salted Caramel",
     "date": "2026-07-21",
-    "description": "Celebrating the birth of Summer Kazanskaya today. These Mushroom Sour Cream chips capture the rich, earthy essence of traditional Russian forest flavors.",
-    "event_name": "Summer Kazanskaya (Russia)",
-    "event_url": "https://en.wikipedia.org/wiki/July_21",
-    "image_url": "chip-of-the-day/images/2025-12-13.webp"
+    "description": "Celebrating Belgian National Day, these Salted Caramel chips honor the nation's world-renowned confectionery tradition.",
+    "event_name": "Belgian National Day (Belgium)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtuEA6t0H668DoUS9tUINsCXF3IuHAVf0qiwzDPRFWGlrX3Olwgn9ZPefctB9KM4uJYsJMU_p5p3mFl5IKbyTl-8w5OmqgBFlRbYSGjqoLPrNDpEmWwfMm"
   },
   {
-    "chip_name": "Sweet Baja Barbeque",
+    "chip_name": "Lime Black Pepper",
     "date": "2026-07-22",
-    "description": "Celebrating Sarawak's independence today, our Sweet Baja Barbeque chips honor the spirit of freedom with a bold and smoky fusion.",
+    "description": "Celebrating Sarawak's independence today! We honor the region's legendary spice heritage with our zesty Lime Black Pepper chips.",
     "event_name": "Sarawak Independence Day (Sarawak, Malaysia)",
-    "event_url": "https://en.wikipedia.org/wiki/July_22",
-    "image_url": "chip-of-the-day/images/2025-12-20.webp"
+    "event_url": "USDA Cache",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHH2U63Hq02lFJk1_Y2PXiByIWMYXPJokImds5je4tlt-auqqwcerqUUuo4o5PobvyRCZoKjnl-fG9B3yj9akgwdByjWrPE30a23rCzL3yPV3HaUOZ2xTG"
   },
   {
-    "chip_name": "Rice Cumin",
+    "chip_name": "Eggplant Cane Honey",
     "date": "2026-07-23",
-    "description": "Honoring Egypt's Revolution Day, these Rice Cumin chips capture the warm, aromatic spice profiles found in traditional Egyptian cuisine.",
-    "event_name": "Revolution Day (Egypt)",
-    "event_url": "https://en.wikipedia.org/wiki/July_23",
-    "image_url": "chip-of-the-day/images/2025-12-23.webp"
+    "description": "Today's pick is Eggplant Cane Honey, drawn from the culinary traditions of Turkey.",
+    "event_name": "Culinary traditions (Turkey)",
+    "event_url": "USDA",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRt_GUujwg1cefH1bpBCZEZwiwTcICGta75R8UNiwZMJkhaW8J-eydJ-zcqvMxH1KtZ5qx67Pamty4V6J0a0UJYjCfXMKGubitHQW-qwHXC3-EDk3K2F3Om"
   },
   {
     "chip_name": "Lamb Cumin",
@@ -192,20 +192,20 @@
     "image_url": "https://arcaera.com/cdn/shop/products/Lay_s-Potato-Chips-Roasted-Cumin-Lamb-Skewer-Flavor---70g_1200x.jpg?v=1675066633"
   },
   {
-    "chip_name": "Ceviche Plantain",
+    "chip_name": "Brazilian Garlic",
     "date": "2026-07-25",
-    "description": "Celebrating Puerto Ricos Constitution Day, our Ceviche Plantain chips deliver a bright, zesty taste of the islands coastal spirit.",
-    "event_name": "Puerto Rico Constitution Day (Puerto Rico)",
-    "event_url": "https://en.wikipedia.org/wiki/July_25",
-    "image_url": "chip-of-the-day/images/2025-12-09.webp"
+    "description": "Today's pick is Brazilian Garlic, drawn from the culinary traditions of South Korea.",
+    "event_name": "Culinary traditions (South Korea)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgbT5l4yMOqFGcLfs61LpNW2P0G8jFFwAz_8OqGoi-JgA5V144iiFJrtAwtLeUkm8k_t6rU1GMkHuoJ2_v2gqZRCeeJ0nXRUVbGS3ezQQ"
   },
   {
-    "chip_name": "Coconut Milk Taro",
+    "chip_name": "Tempura",
     "date": "2026-07-26",
-    "description": "Celebrating Maldives' independence today! These Coconut Milk Taro chips bring the lush, tropical flavors of the islands to your snack time.",
-    "event_name": "Independence Day (Maldives), celebrates the independence of Maldives from the United Kingdom in 1965.",
-    "event_url": "https://en.wikipedia.org/wiki/July_26",
-    "image_url": "chip-of-the-day/images/2025-12-24.webp"
+    "description": "Today's pick is Tempura, drawn from the culinary traditions of Philippines.",
+    "event_name": "Culinary traditions (Philippines)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSm_RhkoVyW36VLAzF8JyWfMnG_Vj1WAs7fz-565tH_oYsnjGN9Kgkf1qryYbsTRqAvndxONh2HXjHSSzmBNbSWyiNs063HcxdJDXfCNaGzvF2LtaGKRV_og"
   },
   {
     "chip_name": "Horseradish",
@@ -216,20 +216,20 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTL7f58kNDpDC785tpclcm3h3siBjIfLnKS2zAf2JWOVnRJ-aOYPpg8zj0EbMOwgprir0hYrV3rfqjBT_X9hr6WsMa6l2dDassASyA-a5Y"
   },
   {
-    "chip_name": "Lemon Basil",
+    "chip_name": "Black Truffle",
     "date": "2026-07-28",
-    "description": "Celebrating San Marino's liberation today! These Lemon Basil chips offer a bright, refreshing zest to honor their spirited independence.",
+    "description": "Honoring San Marino's liberation today! Celebrate the hard-won spirit of freedom with the bold, sophisticated luxury of our Black Truffle chips.",
     "event_name": "Liberation Day (San Marino)",
-    "event_url": "https://en.wikipedia.org/wiki/July_28",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjjAj37cUBuvMuqR_f8t4WXWydfTgkvfihgpAPsHDoQY4zOofTe7h8xLzUrPNZCSQ5GWFitdOM-WYHcq8gSHF1ecF4ddZs"
+    "event_url": "USDA Cache",
+    "image_url": "https://www.hunterfoods.com/assets/wp-content/uploads/2024/04/Black-Truffle-hand-cooked-potato-chips-new-new.png"
   },
   {
-    "chip_name": "Mango Salsa",
+    "chip_name": "Fire Roasted Hatch Chile",
     "date": "2026-07-29",
-    "description": "Celebrating Somer's Day today! These Mango Salsa chips bring the bright, tropical spirit of a summer holiday to your palate.",
-    "event_name": "Earliest day on which Somer's Day can fall, while August 4 is the latest; celebrated on Friday before the first Monday in August. (Bermuda)",
-    "event_url": "https://en.wikipedia.org/wiki/July_29",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS99nqKshnLxdKh-6hTkfgs4KO6cyFvy580H_2ffPyxF1s9QPMPFX7ZjE26d0MDhMdcpehsaMiv6nMTiSbj799N5TMAjc4VHNsMcAOGVDmCEMad8vZi-ROWkQ"
+    "description": "Today's pick is Fire Roasted Hatch Chile, drawn from the culinary traditions of Mexico.",
+    "event_name": "Culinary traditions (Mexico)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0hHHOyrzvaUF_LGS8897u5YsFcsi7_evefzH-lxeQl1xzMzLlTAt_EOfPwdu7Vsw-FoPpErUpwB_pm6ekn2CANuNBHpxyhSGc1wL0ttFE3MOkhyV_Qa-4"
   },
   {
     "chip_name": "Falafel",
@@ -240,9 +240,9 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-HwGiaWD29WNJx--0rl1YcTm4jtnVCCGzZCCQCKSHYnWl8AuFj8f0PqCYUOXRTijzH9OTLg0-0qDMv3UlQ5VMOLNhrQy2SQ"
   },
   {
-    "chip_name": "Pineapple Banana",
+    "chip_name": "Pineapple, Banana, Taro, Pumpkin",
     "date": "2026-07-31",
-    "description": "Honoring Sovereignty Restoration Day, these Pineapple Banana chips celebrate the natural bounty and heritage of the islands.",
+    "description": "Commemorating Sovereignty Restoration Day, these Pineapple, Banana, Taro, Pumpkin chips honor the ancestral flavors and natural abundance of the islands.",
     "event_name": "Sovereignty Restoration Day (Hawaiian sovereignty movement)",
     "event_url": "https://en.wikipedia.org/wiki/July_31",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4QgpFzrT58UrqP8Rw6rP1es5LVntrRMx-bNge-5hoJICa38qygb0JwW2tbugcsNL6e0E2KeqNI3jykOezvguWlEwtMu-yRVQ36mVC4SbEEZRs-8d9CYN3"
