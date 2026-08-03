@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Adobo-Spiced Plantain Chips",
+    "url": "https://www.trendhunter.com/trends/tostones-chips",
+    "snippet": "Goya recently unveiled new Adobo-Inspired Plantain and Tostones Chips that are bursting with flavor.",
+    "published_at": "2026-08-02T20:00:06Z",
+    "source": "Trend Hunter",
+    "score": 8,
+    "reason": "The article is about a new chip product release (plantain chips), which falls under closely related snack foods/veggie chips.",
+    "image_url": "https://cdn.trendhunterstatic.com/phpthumbnails/625/625095/625095_1_1200.jpeg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "7 Absolute Best Kroger Branded Snacks And 5 You Should Ditch",
+    "url": "https://www.thetakeout.com/2226431/absolute-best-and-worst-kroger-branded-snacks/",
+    "snippet": "While great Kroger-branded foods exist, its snack offerings can be hit or miss. I'm exploring which ones are truly worth the buy and which...",
+    "published_at": "2026-08-02T14:00:05Z",
+    "source": "The Takeout",
+    "score": 7,
+    "reason": "The article is a review of snack foods. According to the rubric, reviews of closely related snack foods fall into the 7-8 range.",
+    "image_url": "https://www.thetakeout.com/img/gallery/7-absolute-best-kroger-branded-snacks-and-5-you-should-ditch/l-intro-1785350601.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Tostitos Could Be Dropping 5 New Chips (Plus A Dip) In 2027",
+    "url": "https://sporked.com/article/tostitos-could-be-dropping-5-new-chips-plus-a-dip-in-2027/",
+    "snippet": "The Tostitos company has been long established as one of the quintessential chip brands in American households and grocery stores.",
+    "published_at": "2026-08-02T08:00:15Z",
+    "source": "Sporked",
+    "score": 9,
+    "reason": "The article is directly about new product launches from a major chip brand (Tostitos), which falls under the highest relevance category for news regarding chip brands and new flavors.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/LISTICLE_TOSTITOS_HEADER.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Your Chips Are Starting To Taste Like Restaurant Menus",
+    "url": "https://sporked.com/article/your-chips-are-starting-to-taste-like-restaurant-menus/",
+    "snippet": "Remember when chips came in simple flavours like… barbecue? Chicken? Maybe sour cream and onion if brands were feeling adventurous.",
+    "published_at": "2026-08-02T08:00:06Z",
+    "source": "Sporked",
+    "score": 9,
+    "reason": "The article is directly about flavor trends in the potato chip industry, which falls under new flavors and brand news.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/07/dinner-plate.jpg",
+    "category": "business"
+  },
+  {
+    "title": "In praise of Stella & Milo’s Kettle-cooked Tallow Potato Chips",
+    "url": "https://www.telegram.com/story/entertainment/dining/2026/07/31/table-hoppin-stella-milos-is-changing-the-potato-chip-game/91082014007/",
+    "snippet": "The potato chip is without doubt one of America's favorite snacks. While most everyone has a go-to bag of chips, a fresh, new local company...",
+    "published_at": "2026-08-01T08:00:05Z",
+    "source": "Worcester Telegram",
+    "score": 10,
+    "reason": "The article is a review of a specific potato chip brand, making it directly relevant to the site's core topic.",
+    "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/23/NTEG/91027507007-act-table-hop-1-0802.jpg?auto=webp&crop=4499,2531,x0,y291&format=pjpg&width=1200",
+    "category": "business"
+  },
+  {
+    "title": "Chips Ahoy Just Dropped A New Mystery Flavor (And Fans Have To Decode It)",
+    "url": "https://sporked.com/article/chips-ahoy-mystery-cookie/",
+    "snippet": "Chips Ahoy has dropped a mystery flavor and fans have been tasked with figuring it out ahead of the October 31 reveal.",
+    "published_at": "2026-07-31T08:00:16Z",
+    "source": "Sporked",
+    "score": 7,
+    "reason": "While the brand name contains 'Chips', the product is cookies rather than potato chips/crisps. It falls into the 7-8 range as closely related snack food news.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/07/chocolate-chip-cookie.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "New limited-time flavor brings a bold kick to the Tostitos® roster in time for football season",
+    "url": "https://www.pepsico.com/newsroom/stories/2026/spicy-queso-blanco-tostitos-football-season",
+    "snippet": "Tostitos is taking game day snacking up a notch with the launch of Spicy Queso Blanco Flavored Tortilla Chips, Chunky Guacamole Mild and...",
+    "published_at": "2026-07-31T08:00:15Z",
+    "source": "PepsiCo",
+    "score": 8,
+    "reason": "The article announces new flavors for Tostitos, which are tortilla chips. According to the rubric, tortilla chips fall into the 7-8 score range.",
+    "image_url": "https://digitalassets.pepsico.com/transform/2172f30d-f23c-4107-9470-466a5420b000/Tostitos_Guacamole-Dip-Main",
+    "category": "new_flavors"
+  }
+]
