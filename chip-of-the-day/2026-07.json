@@ -1,250 +1,250 @@
 [
   {
-    "chip_name": "Nacho Chipotle",
     "date": "2026-07-01",
     "description": "Today's pick is Nacho Chipotle, drawn from the culinary traditions of Mexico.",
     "event_name": "Culinary traditions (Mexico)",
     "event_url": "Google Shopping",
-    "image_url": "https://www.kroger.com/product/images/large/front/0081509902033"
+    "image_url": "https://www.kroger.com/product/images/large/front/0081509902033",
+    "item_name": "Nacho Chipotle"
   },
   {
-    "chip_name": "Salted Egg Salmon Skin",
     "date": "2026-07-02",
     "description": "Today's pick is Salted Egg Salmon Skin, drawn from the culinary traditions of Sweden.",
     "event_name": "Culinary traditions (Sweden)",
     "event_url": "Google Shopping",
-    "image_url": "https://m.media-amazon.com/images/I/91+62IUxqaL._SL1500_.jpg"
+    "image_url": "https://m.media-amazon.com/images/I/91+62IUxqaL._SL1500_.jpg",
+    "item_name": "Salted Egg Salmon Skin"
   },
   {
-    "chip_name": "Sausage",
     "date": "2026-07-03",
     "description": "Today's pick is Sausage, drawn from the culinary traditions of Germany.",
     "event_name": "Culinary traditions (Germany)",
     "event_url": "USDA Cache",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTg0JiW-jHx0bQL9bdGaVY6nB_aqOGJQPDrhbP2JKFd1hQ-wT2S8FIW_MzE7dx40RktwV-Fju-D_2i-URH6Xhw0GKZ6kcB"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTg0JiW-jHx0bQL9bdGaVY6nB_aqOGJQPDrhbP2JKFd1hQ-wT2S8FIW_MzE7dx40RktwV-Fju-D_2i-URH6Xhw0GKZ6kcB",
+    "item_name": "Sausage"
   },
   {
-    "chip_name": "Salted Coconut",
     "date": "2026-07-04",
     "description": "Today's pick is Salted Coconut, drawn from the culinary traditions of Mozambique.",
     "event_name": "Culinary traditions (Mozambique)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQU4-tjHJUHFgA_dYG3jwSdbTMIREVoYkkIEUG37aWB3rn7z37Cnmc3gUqI7QdrkurS7YiQoe7O5wfe-I4K0sWVtGI2RMrtNRrVfQfVGLQq8hPFmmmgJ9WW"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQU4-tjHJUHFgA_dYG3jwSdbTMIREVoYkkIEUG37aWB3rn7z37Cnmc3gUqI7QdrkurS7YiQoe7O5wfe-I4K0sWVtGI2RMrtNRrVfQfVGLQq8hPFmmmgJ9WW",
+    "item_name": "Salted Coconut"
   },
   {
-    "chip_name": "Platter Coconut",
     "date": "2026-07-05",
     "description": "Today's pick is Platter Coconut, drawn from the culinary traditions of Philippines.",
     "event_name": "Culinary traditions (Philippines)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRInpDLAUeehXSpI1SCGGFL6bgu-DHX__gHkOgaHV_9XBJ-ckZFru3Ph5lT-ApRe7iDHrQ7FU44"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRInpDLAUeehXSpI1SCGGFL6bgu-DHX__gHkOgaHV_9XBJ-ckZFru3Ph5lT-ApRe7iDHrQ7FU44",
+    "item_name": "Platter Coconut"
   },
   {
-    "chip_name": "Smoked Beef",
     "date": "2026-07-06",
     "description": "Today's pick is Smoked Beef, drawn from the culinary traditions of Kosovo.",
     "event_name": "Culinary traditions (Kosovo)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgbcdjVXXqeoGOznY2GJfvDq6ZvholN6f6shrgTYnE3eNNf3yQku0NwbgVYrZNwGCI4iryHVtAuACiQfP5n5Klbw_Xju4MXOHWCOEUoddU-TwqQuVG89Bc"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRgbcdjVXXqeoGOznY2GJfvDq6ZvholN6f6shrgTYnE3eNNf3yQku0NwbgVYrZNwGCI4iryHVtAuACiQfP5n5Klbw_Xju4MXOHWCOEUoddU-TwqQuVG89Bc",
+    "item_name": "Smoked Beef"
   },
   {
-    "chip_name": "Mango",
     "date": "2026-07-07",
     "description": "Today's pick is Mango, drawn from the culinary traditions of Myanmar.",
     "event_name": "Culinary traditions (Myanmar)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQl9TmHLFhjnF9sSZFriWvVWOfxUvzIt9cFcfoccY4FzzwHBA6piBIsKJQKwYQJFAtzXSfVKVd0qvJnAARgkurZnRp05IPXXYWLenTOKOeLVbh2Zj8Dsu9h"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQl9TmHLFhjnF9sSZFriWvVWOfxUvzIt9cFcfoccY4FzzwHBA6piBIsKJQKwYQJFAtzXSfVKVd0qvJnAARgkurZnRp05IPXXYWLenTOKOeLVbh2Zj8Dsu9h",
+    "item_name": "Mango"
   },
   {
-    "chip_name": "Spicy Grill",
     "date": "2026-07-08",
     "description": "Today's pick is Spicy Grill, drawn from the culinary traditions of Thailand.",
     "event_name": "Culinary traditions (Thailand)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSH8FqXug_8mulwnmJfdiniGeYfig5NWlvM64DhUka4zFoJXpdpv_kmoAZ8U2THqTuTZVhCLqrQJy35fS1KYjmPIgsAkIpX0gI3TPSaV8UzUZlxFdcvXT8Y"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSH8FqXug_8mulwnmJfdiniGeYfig5NWlvM64DhUka4zFoJXpdpv_kmoAZ8U2THqTuTZVhCLqrQJy35fS1KYjmPIgsAkIpX0gI3TPSaV8UzUZlxFdcvXT8Y",
+    "item_name": "Spicy Grill"
   },
   {
-    "chip_name": "Thai Coconut Milk",
     "date": "2026-07-09",
     "description": "Today's pick is Thai Coconut Milk, drawn from the culinary traditions of Mozambique.",
     "event_name": "Culinary traditions (Mozambique)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSw1JTYW1o54tIWRbKR_hBjFj4VD5ZmSjlM8wE7G11NppU9D8v03HOyVLJ6aU0pp6YkllH_SynQWkWGU8xK286dbixJvxW"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQSw1JTYW1o54tIWRbKR_hBjFj4VD5ZmSjlM8wE7G11NppU9D8v03HOyVLJ6aU0pp6YkllH_SynQWkWGU8xK286dbixJvxW",
+    "item_name": "Thai Coconut Milk"
   },
   {
-    "chip_name": "Mast Masala",
     "date": "2026-07-10",
     "description": "Today's pick is Mast Masala, drawn from the culinary traditions of Bangladesh.",
     "event_name": "Culinary traditions (Bangladesh)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFUafab2_U0qP_l0nn9uqnSmpadGcAr1RyWXtZEWpQSO3SsGegKonCMyVWTI_WrKx8tHgodET8Eu023e4YTxZiLJImEr7OBtQGFWPSvsBvmTfVPexfoneP"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFUafab2_U0qP_l0nn9uqnSmpadGcAr1RyWXtZEWpQSO3SsGegKonCMyVWTI_WrKx8tHgodET8Eu023e4YTxZiLJImEr7OBtQGFWPSvsBvmTfVPexfoneP",
+    "item_name": "Mast Masala"
   },
   {
-    "chip_name": "Chipotle Limon",
     "date": "2026-07-11",
     "description": "Today's pick is Chipotle Limon, drawn from the culinary traditions of Mexico.",
     "event_name": "Culinary traditions (Mexico)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnPefAG767g4IcKx3fKT1e4DvbJU6UF936fgKIBrtDVtbl4tZt2C7IKSccVNcylXBjEXsK1OAFs51V7haTHK8VxBsd0S8rs062PfPKy9E"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnPefAG767g4IcKx3fKT1e4DvbJU6UF936fgKIBrtDVtbl4tZt2C7IKSccVNcylXBjEXsK1OAFs51V7haTHK8VxBsd0S8rs062PfPKy9E",
+    "item_name": "Chipotle Limon"
   },
   {
-    "chip_name": "Garlic",
     "date": "2026-07-12",
     "description": "Today's pick is Garlic, drawn from the culinary traditions of Estonia.",
     "event_name": "Culinary traditions (Estonia)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSp0nTvS0XZip3tDvR4Jse8L6wC8GuMBFWjDzc1zloIjp_hnJk4XmkwofnY8RtPDUJ7wxr2pRHg7Nou_tTPw-an9LgxqmYyGg8Q_H1p45Ul0fXqgg8fUpib4Q"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSp0nTvS0XZip3tDvR4Jse8L6wC8GuMBFWjDzc1zloIjp_hnJk4XmkwofnY8RtPDUJ7wxr2pRHg7Nou_tTPw-an9LgxqmYyGg8Q_H1p45Ul0fXqgg8fUpib4Q",
+    "item_name": "Garlic"
   },
   {
-    "chip_name": "Seed",
     "date": "2026-07-13",
     "description": "Today's pick is Seed, drawn from the culinary traditions of Spain.",
     "event_name": "Culinary traditions (Spain)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlP_uu7h81bUPAYDlpnQqbMVETEa1HobhWF72xknNJUSMO_j9HDLBPuQyRc4VYdBK-Chl935Ny3GYvbnSWn2YAYxXZds2ZI2IGakyOgrQZzlkAAVlDwZxwHA"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlP_uu7h81bUPAYDlpnQqbMVETEa1HobhWF72xknNJUSMO_j9HDLBPuQyRc4VYdBK-Chl935Ny3GYvbnSWn2YAYxXZds2ZI2IGakyOgrQZzlkAAVlDwZxwHA",
+    "item_name": "Seed"
   },
   {
-    "chip_name": "Camembert Cheese",
     "date": "2026-07-14",
     "description": "Honoring the spirit of Bastille Day, these Camembert Cheese chips bring a creamy taste of French tradition to your snack bowl.",
     "event_name": "Bastille Day (France and dependencies)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHnGObkzuSrxwz3THM__U4Lk35mWZPVZmJvq_a2t41YyYq_vZG-QdPKhDaY1Urk6VTVijY3OfsVsqRyBUnwyxPF2-xnjXgAsYDugIzVGyKQQyPLVfacF4t"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHnGObkzuSrxwz3THM__U4Lk35mWZPVZmJvq_a2t41YyYq_vZG-QdPKhDaY1Urk6VTVijY3OfsVsqRyBUnwyxPF2-xnjXgAsYDugIzVGyKQQyPLVfacF4t",
+    "item_name": "Camembert Cheese"
   },
   {
-    "chip_name": "Argentinian Steak",
     "date": "2026-07-15",
     "description": "Today's pick is Argentinian Steak, drawn from the culinary traditions of Uruguay.",
     "event_name": "Culinary traditions (Uruguay)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKwqzMxc_ocs1CxGB3OIIta997PZgxJQ-aXNm9NPDFgN45mBy1Ag6yRkGs40y9AYBoGA46N5EpLb6pMdzWq12oHnMQ1xNA"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKwqzMxc_ocs1CxGB3OIIta997PZgxJQ-aXNm9NPDFgN45mBy1Ag6yRkGs40y9AYBoGA46N5EpLb6pMdzWq12oHnMQ1xNA",
+    "item_name": "Argentinian Steak"
   },
   {
-    "chip_name": "Chickpea",
     "date": "2026-07-16",
     "description": "Today's pick is Chickpea, drawn from the culinary traditions of Egypt.",
     "event_name": "Culinary traditions (Egypt)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRPvkXgEFpKTn1m8Wa2JgkawBvlS_QYFwpVe0AGsn0m4zJx0nX6a5jsx8HEpQIyCCFD19WOQsMytjI-QAF0f9M2jf7IpQuzP_AAhc_F9UY14qNguOb2BhqDuQ"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRPvkXgEFpKTn1m8Wa2JgkawBvlS_QYFwpVe0AGsn0m4zJx0nX6a5jsx8HEpQIyCCFD19WOQsMytjI-QAF0f9M2jf7IpQuzP_AAhc_F9UY14qNguOb2BhqDuQ",
+    "item_name": "Chickpea"
   },
   {
-    "chip_name": "Caramel Apple",
     "date": "2026-07-17",
     "description": "Today's pick is Caramel Apple, drawn from the culinary traditions of Netherlands.",
     "event_name": "Culinary traditions (Netherlands)",
     "event_url": "Google Shopping",
-    "image_url": "https://s3.amazonaws.com/grocery-project/product_images/door-county-caramel-apple-cris-8235167-10930379.jpg"
+    "image_url": "https://s3.amazonaws.com/grocery-project/product_images/door-county-caramel-apple-cris-8235167-10930379.jpg",
+    "item_name": "Caramel Apple"
   },
   {
-    "chip_name": "Vinegar",
     "date": "2026-07-18",
     "description": "Today's pick is Vinegar, drawn from the culinary traditions of Vietnam.",
     "event_name": "Culinary traditions (Vietnam)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTm4vSa-LNgAFCLD8IfNMKOi3VxMTvuObDyeDYFIs4FJpgpQkCG6aDHQc_sq5dR-aNhzR9Xw_0slamXaTyHuvgf6caUn0Fcv2e6mklfSUBAD5V1xJBdvSFwng"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTm4vSa-LNgAFCLD8IfNMKOi3VxMTvuObDyeDYFIs4FJpgpQkCG6aDHQc_sq5dR-aNhzR9Xw_0slamXaTyHuvgf6caUn0Fcv2e6mklfSUBAD5V1xJBdvSFwng",
+    "item_name": "Vinegar"
   },
   {
-    "chip_name": "Caraway",
     "date": "2026-07-19",
     "description": "Today's pick is Caraway, drawn from the culinary traditions of Hungary.",
     "event_name": "Culinary traditions (Hungary)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvC9_mbvxtLY-phRbFGhZ6dkbpg8fIUDgQelylLWTouzyS_1KNVnPhGQAmFZP-Pz3KPHtw8zoxU4ByPO8bbkx-mXHN8prm4pD3CIG1s2iQDjs1houxlVLp"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvC9_mbvxtLY-phRbFGhZ6dkbpg8fIUDgQelylLWTouzyS_1KNVnPhGQAmFZP-Pz3KPHtw8zoxU4ByPO8bbkx-mXHN8prm4pD3CIG1s2iQDjs1houxlVLp",
+    "item_name": "Caraway"
   },
   {
-    "chip_name": "Smoked Trout Fillets",
     "date": "2026-07-20",
     "description": "Celebrating the birthday of Norway's Crown Prince Haakon Magnus today. These Smoked Trout Fillets capture a sophisticated taste of Nordic coastal tradition.",
     "event_name": "Birthday of Crown Prince Haakon Magnus (Norway)",
     "event_url": "USDA",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVp96NV3zS4-pNrXNPwxegQNPiOLcw4pW3P04cQkUKr7RmJdl7k9rrWEUtU5xijDU7TizoTUnQo44FY6jDqAb-SrSJinlvBHdz-sVLhXPgoc041Vq4R2E2Sw"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSVp96NV3zS4-pNrXNPwxegQNPiOLcw4pW3P04cQkUKr7RmJdl7k9rrWEUtU5xijDU7TizoTUnQo44FY6jDqAb-SrSJinlvBHdz-sVLhXPgoc041Vq4R2E2Sw",
+    "item_name": "Smoked Trout Fillets"
   },
   {
-    "chip_name": "Salted Caramel",
     "date": "2026-07-21",
     "description": "Celebrating Belgian National Day, these Salted Caramel chips honor the nation's world-renowned confectionery tradition.",
     "event_name": "Belgian National Day (Belgium)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtuEA6t0H668DoUS9tUINsCXF3IuHAVf0qiwzDPRFWGlrX3Olwgn9ZPefctB9KM4uJYsJMU_p5p3mFl5IKbyTl-8w5OmqgBFlRbYSGjqoLPrNDpEmWwfMm"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtuEA6t0H668DoUS9tUINsCXF3IuHAVf0qiwzDPRFWGlrX3Olwgn9ZPefctB9KM4uJYsJMU_p5p3mFl5IKbyTl-8w5OmqgBFlRbYSGjqoLPrNDpEmWwfMm",
+    "item_name": "Salted Caramel"
   },
   {
-    "chip_name": "Lime Black Pepper",
     "date": "2026-07-22",
     "description": "Celebrating Sarawak's independence today! We honor the region's legendary spice heritage with our zesty Lime Black Pepper chips.",
     "event_name": "Sarawak Independence Day (Sarawak, Malaysia)",
     "event_url": "USDA Cache",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHH2U63Hq02lFJk1_Y2PXiByIWMYXPJokImds5je4tlt-auqqwcerqUUuo4o5PobvyRCZoKjnl-fG9B3yj9akgwdByjWrPE30a23rCzL3yPV3HaUOZ2xTG"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHH2U63Hq02lFJk1_Y2PXiByIWMYXPJokImds5je4tlt-auqqwcerqUUuo4o5PobvyRCZoKjnl-fG9B3yj9akgwdByjWrPE30a23rCzL3yPV3HaUOZ2xTG",
+    "item_name": "Lime Black Pepper"
   },
   {
-    "chip_name": "Eggplant Cane Honey",
     "date": "2026-07-23",
     "description": "Today's pick is Eggplant Cane Honey, drawn from the culinary traditions of Turkey.",
     "event_name": "Culinary traditions (Turkey)",
     "event_url": "USDA",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRt_GUujwg1cefH1bpBCZEZwiwTcICGta75R8UNiwZMJkhaW8J-eydJ-zcqvMxH1KtZ5qx67Pamty4V6J0a0UJYjCfXMKGubitHQW-qwHXC3-EDk3K2F3Om"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRt_GUujwg1cefH1bpBCZEZwiwTcICGta75R8UNiwZMJkhaW8J-eydJ-zcqvMxH1KtZ5qx67Pamty4V6J0a0UJYjCfXMKGubitHQW-qwHXC3-EDk3K2F3Om",
+    "item_name": "Eggplant Cane Honey"
   },
   {
-    "chip_name": "Lamb Cumin",
     "date": "2026-07-24",
     "description": "Celebrating Tunisia's vibrant Carnival of Awussu today! These Lamb Cumin chips capture the aromatic, savory spices found in traditional festive feasts.",
     "event_name": "Carnival of Awussu (Tunisia)",
     "event_url": "Google Shopping",
-    "image_url": "https://arcaera.com/cdn/shop/products/Lay_s-Potato-Chips-Roasted-Cumin-Lamb-Skewer-Flavor---70g_1200x.jpg?v=1675066633"
+    "image_url": "https://arcaera.com/cdn/shop/products/Lay_s-Potato-Chips-Roasted-Cumin-Lamb-Skewer-Flavor---70g_1200x.jpg?v=1675066633",
+    "item_name": "Lamb Cumin"
   },
   {
-    "chip_name": "Brazilian Garlic",
     "date": "2026-07-25",
     "description": "Today's pick is Brazilian Garlic, drawn from the culinary traditions of South Korea.",
     "event_name": "Culinary traditions (South Korea)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgbT5l4yMOqFGcLfs61LpNW2P0G8jFFwAz_8OqGoi-JgA5V144iiFJrtAwtLeUkm8k_t6rU1GMkHuoJ2_v2gqZRCeeJ0nXRUVbGS3ezQQ"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgbT5l4yMOqFGcLfs61LpNW2P0G8jFFwAz_8OqGoi-JgA5V144iiFJrtAwtLeUkm8k_t6rU1GMkHuoJ2_v2gqZRCeeJ0nXRUVbGS3ezQQ",
+    "item_name": "Brazilian Garlic"
   },
   {
-    "chip_name": "Tempura",
     "date": "2026-07-26",
     "description": "Today's pick is Tempura, drawn from the culinary traditions of Philippines.",
     "event_name": "Culinary traditions (Philippines)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSm_RhkoVyW36VLAzF8JyWfMnG_Vj1WAs7fz-565tH_oYsnjGN9Kgkf1qryYbsTRqAvndxONh2HXjHSSzmBNbSWyiNs063HcxdJDXfCNaGzvF2LtaGKRV_og"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSm_RhkoVyW36VLAzF8JyWfMnG_Vj1WAs7fz-565tH_oYsnjGN9Kgkf1qryYbsTRqAvndxONh2HXjHSSzmBNbSWyiNs063HcxdJDXfCNaGzvF2LtaGKRV_og",
+    "item_name": "Tempura"
   },
   {
-    "chip_name": "Horseradish",
     "date": "2026-07-27",
     "description": "Today's pick is Horseradish, drawn from the culinary traditions of Russia.",
     "event_name": "Culinary traditions (Russia)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTL7f58kNDpDC785tpclcm3h3siBjIfLnKS2zAf2JWOVnRJ-aOYPpg8zj0EbMOwgprir0hYrV3rfqjBT_X9hr6WsMa6l2dDassASyA-a5Y"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTL7f58kNDpDC785tpclcm3h3siBjIfLnKS2zAf2JWOVnRJ-aOYPpg8zj0EbMOwgprir0hYrV3rfqjBT_X9hr6WsMa6l2dDassASyA-a5Y",
+    "item_name": "Horseradish"
   },
   {
-    "chip_name": "Black Truffle",
     "date": "2026-07-28",
     "description": "Honoring San Marino's liberation today! Celebrate the hard-won spirit of freedom with the bold, sophisticated luxury of our Black Truffle chips.",
     "event_name": "Liberation Day (San Marino)",
     "event_url": "USDA Cache",
-    "image_url": "https://www.hunterfoods.com/assets/wp-content/uploads/2024/04/Black-Truffle-hand-cooked-potato-chips-new-new.png"
+    "image_url": "https://www.hunterfoods.com/assets/wp-content/uploads/2024/04/Black-Truffle-hand-cooked-potato-chips-new-new.png",
+    "item_name": "Black Truffle"
   },
   {
-    "chip_name": "Fire Roasted Hatch Chile",
     "date": "2026-07-29",
     "description": "Today's pick is Fire Roasted Hatch Chile, drawn from the culinary traditions of Mexico.",
     "event_name": "Culinary traditions (Mexico)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0hHHOyrzvaUF_LGS8897u5YsFcsi7_evefzH-lxeQl1xzMzLlTAt_EOfPwdu7Vsw-FoPpErUpwB_pm6ekn2CANuNBHpxyhSGc1wL0ttFE3MOkhyV_Qa-4"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0hHHOyrzvaUF_LGS8897u5YsFcsi7_evefzH-lxeQl1xzMzLlTAt_EOfPwdu7Vsw-FoPpErUpwB_pm6ekn2CANuNBHpxyhSGc1wL0ttFE3MOkhyV_Qa-4",
+    "item_name": "Fire Roasted Hatch Chile"
   },
   {
-    "chip_name": "Falafel",
     "date": "2026-07-30",
     "description": "Honoring the bravery of South Sudan's martyrs on this day. These Falafel chips offer a savory, spice-filled tribute to the rich flavors of heritage.",
     "event_name": "Martyrs Day (South Sudan)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-HwGiaWD29WNJx--0rl1YcTm4jtnVCCGzZCCQCKSHYnWl8AuFj8f0PqCYUOXRTijzH9OTLg0-0qDMv3UlQ5VMOLNhrQy2SQ"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-HwGiaWD29WNJx--0rl1YcTm4jtnVCCGzZCCQCKSHYnWl8AuFj8f0PqCYUOXRTijzH9OTLg0-0qDMv3UlQ5VMOLNhrQy2SQ",
+    "item_name": "Falafel"
   },
   {
-    "chip_name": "Pineapple, Banana, Taro, Pumpkin",
     "date": "2026-07-31",
     "description": "Commemorating Sovereignty Restoration Day, these Pineapple, Banana, Taro, Pumpkin chips honor the ancestral flavors and natural abundance of the islands.",
     "event_name": "Sovereignty Restoration Day (Hawaiian sovereignty movement)",
     "event_url": "https://en.wikipedia.org/wiki/July_31",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4QgpFzrT58UrqP8Rw6rP1es5LVntrRMx-bNge-5hoJICa38qygb0JwW2tbugcsNL6e0E2KeqNI3jykOezvguWlEwtMu-yRVQ36mVC4SbEEZRs-8d9CYN3"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4QgpFzrT58UrqP8Rw6rP1es5LVntrRMx-bNge-5hoJICa38qygb0JwW2tbugcsNL6e0E2KeqNI3jykOezvguWlEwtMu-yRVQ36mVC4SbEEZRs-8d9CYN3",
+    "item_name": "Pineapple, Banana, Taro, Pumpkin"
   }
 ]

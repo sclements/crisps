@@ -1,242 +1,242 @@
 [
   {
-    "chip_name": "Laver",
     "date": "2026-06-01",
     "description": "Celebrating the protection of children's rights today. Our light, savory Laver chips provide a natural crunch perfect for fueling the bright futures of our little ones.",
     "event_name": "The Day of Protection of Children Rights (Armenia)",
     "event_url": "https://en.wikipedia.org/wiki/June_1",
-    "image_url": "chip-of-the-day/images/2026-06-01.webp"
+    "image_url": "chip-of-the-day/images/2026-06-01.webp",
+    "item_name": "Laver"
   },
   {
-    "chip_name": "Cranberry Pumpkin Seed",
     "date": "2026-06-02",
     "description": "Today's pick is Cranberry Pumpkin Seed, drawn from the culinary traditions of Austria.",
     "event_name": "Culinary traditions (Austria)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-06-02.webp"
+    "image_url": "chip-of-the-day/images/2026-06-02.webp",
+    "item_name": "Cranberry Pumpkin Seed"
   },
   {
-    "chip_name": "Hickory",
     "date": "2026-06-03",
     "description": "Honoring the heritage observed today in Kentucky and Tennessee, these smoky Hickory chips capture the spirit of Southern wood-fired tradition.",
     "event_name": "Confederate Memorial Day (Kentucky, and Tennessee, United States)",
     "event_url": "USDA Cache",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRewR909VXyGqbXcc0f1Kik272D5TsISs5BeWyETuZaiHW-ul-1hDeVBn9n3x0yUSwY6udDmmqg0WxZ8aFP-JYy4VJr30Mmyw"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRewR909VXyGqbXcc0f1Kik272D5TsISs5BeWyETuZaiHW-ul-1hDeVBn9n3x0yUSwY6udDmmqg0WxZ8aFP-JYy4VJr30Mmyw",
+    "item_name": "Hickory"
   },
   {
-    "chip_name": "Greens",
     "date": "2026-06-04",
     "description": "Today's pick is Greens, drawn from the culinary traditions of Zimbabwe.",
     "event_name": "Culinary traditions (Zimbabwe)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-06-04.webp"
+    "image_url": "chip-of-the-day/images/2026-06-04.webp",
+    "item_name": "Greens"
   },
   {
-    "chip_name": "Jalapeno Popper",
     "date": "2026-06-05",
     "description": "Today's pick is Jalapeno Popper, drawn from the culinary traditions of Venezuela.",
     "event_name": "Culinary traditions (Venezuela)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-06-05.webp"
+    "image_url": "chip-of-the-day/images/2026-06-05.webp",
+    "item_name": "Jalapeno Popper"
   },
   {
-    "chip_name": "Fish Salt Vinegar",
     "date": "2026-06-06",
     "description": "Today's pick is Fish Salt Vinegar, drawn from the culinary traditions of Vietnam.",
     "event_name": "Culinary traditions (Vietnam)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-06.webp"
+    "image_url": "chip-of-the-day/images/2026-06-06.webp",
+    "item_name": "Fish Salt Vinegar"
   },
   {
-    "chip_name": "Pear",
     "date": "2026-06-07",
     "description": "Honoring the courage shown during the Battle of Arica today, these sweet Pear chips offer a crisp and bright tribute to Chile's legendary spirit.",
     "event_name": "Battle of Arica Day (Arica y Parinacota Region, Chile)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5LSvRrFlXtD8zjw-7TvUKXgZJa0NVjNcMEUpj9ZHKnhQa50Ze9Jo9aXpB3-4_VtJlX0KXsgVnxg-CVXl3SSPPDFWBC5lb-L5H_26nlwOmGteuL1afSn4R"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ5LSvRrFlXtD8zjw-7TvUKXgZJa0NVjNcMEUpj9ZHKnhQa50Ze9Jo9aXpB3-4_VtJlX0KXsgVnxg-CVXl3SSPPDFWBC5lb-L5H_26nlwOmGteuL1afSn4R",
+    "item_name": "Pear"
   },
   {
-    "chip_name": "Ginger",
     "date": "2026-06-08",
     "description": "Today's pick is Ginger, drawn from the culinary traditions of South Korea.",
     "event_name": "Culinary traditions (South Korea)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-06-08.webp"
+    "image_url": "chip-of-the-day/images/2026-06-08.webp",
+    "item_name": "Ginger"
   },
   {
-    "chip_name": "Snaps Green Pea",
     "date": "2026-06-09",
     "description": "Today's pick is Snaps Green Pea, drawn from the culinary traditions of Latvia.",
     "event_name": "Culinary traditions (Latvia)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-09.webp"
+    "image_url": "chip-of-the-day/images/2026-06-09.webp",
+    "item_name": "Snaps Green Pea"
   },
   {
-    "chip_name": "Chicken",
     "date": "2026-06-10",
     "description": "Today's pick is Chicken, drawn from the culinary traditions of South Africa.",
     "event_name": "Culinary traditions (South Africa)",
     "event_url": "USDA Cache",
-    "image_url": "chip-of-the-day/images/2026-06-10.webp"
+    "image_url": "chip-of-the-day/images/2026-06-10.webp",
+    "item_name": "Chicken"
   },
   {
-    "chip_name": "Goat Cheese Pepper",
     "date": "2026-06-11",
     "description": "Today's pick is Goat Cheese Pepper, drawn from the culinary traditions of Switzerland.",
     "event_name": "Culinary traditions (Switzerland)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-11.webp"
+    "image_url": "chip-of-the-day/images/2026-06-11.webp",
+    "item_name": "Goat Cheese Pepper"
   },
   {
-    "chip_name": "Crystallized Ginger",
     "date": "2026-06-12",
     "description": "Today's pick is Crystallized Ginger, drawn from the culinary traditions of Madagascar.",
     "event_name": "Culinary traditions (Madagascar)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTKSqXz4B590DsZ3-HQWNUnp9XT_bDwbri6ugW_ibPr3iRtDmdn9DaR5mqbSI3vzihiFyTk-Y3_bxp6OUdMn19euDDOJiVcaqPkOo5zR_w-5061Pjjur5J"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTKSqXz4B590DsZ3-HQWNUnp9XT_bDwbri6ugW_ibPr3iRtDmdn9DaR5mqbSI3vzihiFyTk-Y3_bxp6OUdMn19euDDOJiVcaqPkOo5zR_w-5061Pjjur5J",
+    "item_name": "Crystallized Ginger"
   },
   {
-    "chip_name": "Herbes De Provence",
     "date": "2026-06-13",
     "description": "Today's pick is Herbes De Provence, drawn from the culinary traditions of France.",
     "event_name": "Culinary traditions (France)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT3JaIaoaJnTujH4rpA7rzMoR5Bmk7zQTTFPWUXJwbggbFlAECNhxlpSa_GfOl0_YD3ive6ukpHXFBzaSpto4vkE2_LdEeMWIILo9Y4LdeU"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT3JaIaoaJnTujH4rpA7rzMoR5Bmk7zQTTFPWUXJwbggbFlAECNhxlpSa_GfOl0_YD3ive6ukpHXFBzaSpto4vkE2_LdEeMWIILo9Y4LdeU",
+    "item_name": "Herbes De Provence"
   },
   {
-    "chip_name": "Sweet Bbq",
     "date": "2026-06-14",
     "description": "Today's pick is Sweet Bbq, drawn from the culinary traditions of Vietnam.",
     "event_name": "Culinary traditions (Vietnam)",
     "event_url": "USDA Cache",
-    "image_url": "chip-of-the-day/images/2026-06-14.webp"
+    "image_url": "chip-of-the-day/images/2026-06-14.webp",
+    "item_name": "Sweet Bbq"
   },
   {
-    "chip_name": "Yucca",
     "date": "2026-06-15",
     "description": "Today's pick is Yucca, drawn from the culinary traditions of Democratic Republic of the Congo.",
     "event_name": "Culinary traditions (Democratic Republic of the Congo)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJOasDjhU7f7wznB4LLMa_vHxnRGxwZHanyMEJHxeMfj8-CKPfVSlJw1X_byFtALFIsX9TxZnGEa0JNkw-z-mvDf9CRPCtEDKu8SEcsZtq_MmX7uomqxXAuw"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJOasDjhU7f7wznB4LLMa_vHxnRGxwZHanyMEJHxeMfj8-CKPfVSlJw1X_byFtALFIsX9TxZnGEa0JNkw-z-mvDf9CRPCtEDKu8SEcsZtq_MmX7uomqxXAuw",
+    "item_name": "Yucca"
   },
   {
-    "chip_name": "Churros Turtle",
     "date": "2026-06-16",
     "description": "Today's pick is Churros Turtle, drawn from the culinary traditions of Chile.",
     "event_name": "Culinary traditions (Chile)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-16.webp"
+    "image_url": "chip-of-the-day/images/2026-06-16.webp",
+    "item_name": "Churros Turtle"
   },
   {
-    "chip_name": "Sweet Potato",
     "date": "2026-06-17",
     "description": "Today's pick is Sweet Potato, drawn from the culinary traditions of Mongolia.",
     "event_name": "Culinary traditions (Mongolia)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-17.webp"
+    "image_url": "chip-of-the-day/images/2026-06-17.webp",
+    "item_name": "Sweet Potato"
   },
   {
-    "chip_name": "Strawberry",
     "date": "2026-06-18",
     "description": "Celebrating Benguet's foundation day! These Strawberry chips capture the sweet, fresh essence of its famous highland farms.",
     "event_name": "Foundation Day (Benguet)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiZyUSzIkLv4P0a0zkb5A095Tf4mvrdzcnWDN9C1YWe7N3ErpQtBiOKAoXFBPvYhj7DScKLstYUtUwr8RWrkJuI4h0wDA8W1fz8Vl0TdYiB1ZGLahGp_XJ"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRiZyUSzIkLv4P0a0zkb5A095Tf4mvrdzcnWDN9C1YWe7N3ErpQtBiOKAoXFBPvYhj7DScKLstYUtUwr8RWrkJuI4h0wDA8W1fz8Vl0TdYiB1ZGLahGp_XJ",
+    "item_name": "Strawberry"
   },
   {
-    "chip_name": "Korean Honey Mustard",
     "date": "2026-06-19",
     "description": "Today's pick is Korean Honey Mustard, drawn from the culinary traditions of Germany.",
     "event_name": "Culinary traditions (Germany)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-19.webp"
+    "image_url": "chip-of-the-day/images/2026-06-19.webp",
+    "item_name": "Korean Honey Mustard"
   },
   {
-    "chip_name": "Sprouts Zesty Lemon",
     "date": "2026-06-20",
     "description": "Today's pick is Sprouts Zesty Lemon, drawn from the culinary traditions of Cyprus.",
     "event_name": "Culinary traditions (Cyprus)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-20.webp"
+    "image_url": "chip-of-the-day/images/2026-06-20.webp",
+    "item_name": "Sprouts Zesty Lemon"
   },
   {
-    "chip_name": "Masala Ragi",
     "date": "2026-06-21",
     "description": "Today's pick is Masala Ragi, drawn from the culinary traditions of Afghanistan.",
     "event_name": "Culinary traditions (Afghanistan)",
     "event_url": "Google Shopping",
-    "image_url": "chip-of-the-day/images/2026-06-21.webp"
+    "image_url": "chip-of-the-day/images/2026-06-21.webp",
+    "item_name": "Masala Ragi"
   },
   {
-    "chip_name": "Raw Baobab",
     "date": "2026-06-22",
     "description": "Today's pick is Raw Baobab, drawn from the culinary traditions of Zimbabwe.",
     "event_name": "Culinary traditions (Zimbabwe)",
     "event_url": "USDA Cache",
-    "image_url": "chip-of-the-day/images/2026-06-22.webp"
+    "image_url": "chip-of-the-day/images/2026-06-22.webp",
+    "item_name": "Raw Baobab"
   },
   {
-    "chip_name": "Cajun Spice",
     "date": "2026-06-23",
     "description": "Today's pick is Cajun Spice, drawn from the culinary traditions of Barbados.",
     "event_name": "Culinary traditions (Barbados)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUIlTjdchvCvRxmQ-d_byeri4tupukarxxfJqzQ2qt6OvCBpSaMBkO3wzCIa3KdXsL5q_-3asg4h0tj6jFUbVuwSsqwpilow"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUIlTjdchvCvRxmQ-d_byeri4tupukarxxfJqzQ2qt6OvCBpSaMBkO3wzCIa3KdXsL5q_-3asg4h0tj6jFUbVuwSsqwpilow",
+    "item_name": "Cajun Spice"
   },
   {
-    "chip_name": "Kale",
     "date": "2026-06-24",
     "description": "Today's pick is Kale, drawn from the culinary traditions of Kenya.",
     "event_name": "Culinary traditions (Kenya)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWJrNYZnwel1d_lAU9IhJupk5PBjiC3Wd1AiSlg67Dx2SNkeITd5sPIvxdf99Nipdq0CySCtZbGDxAU9BSkV-XlRNfWDv2_qlo11xDpZFo7H5OnEhXqBrO"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWJrNYZnwel1d_lAU9IhJupk5PBjiC3Wd1AiSlg67Dx2SNkeITd5sPIvxdf99Nipdq0CySCtZbGDxAU9BSkV-XlRNfWDv2_qlo11xDpZFo7H5OnEhXqBrO",
+    "item_name": "Kale"
   },
   {
-    "chip_name": "Spanish Wasabi",
     "date": "2026-06-25",
     "description": "Today's pick is Spanish Wasabi, drawn from the culinary traditions of Japan.",
     "event_name": "Culinary traditions (Japan)",
     "event_url": "Google Shopping",
-    "image_url": "https://mediacdn.mynauticalstore.com/gfm/products/f8a5302a-f0ba-498a-b84b-c5f6e759b7e3.jpg"
+    "image_url": "https://mediacdn.mynauticalstore.com/gfm/products/f8a5302a-f0ba-498a-b84b-c5f6e759b7e3.jpg",
+    "item_name": "Spanish Wasabi"
   },
   {
-    "chip_name": "Queso Whole Grain",
     "date": "2026-06-26",
     "description": "Today's pick is Queso Whole Grain, drawn from the culinary traditions of Cuba.",
     "event_name": "Culinary traditions (Cuba)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQa3QyUo6JV1Yvu5eH9raXRYxu6buZonODsrW3dsqoQo6heyulie7XQiIydbOE"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQa3QyUo6JV1Yvu5eH9raXRYxu6buZonODsrW3dsqoQo6heyulie7XQiIydbOE",
+    "item_name": "Queso Whole Grain"
   },
   {
-    "chip_name": "Bakery Parmesan",
     "date": "2026-06-27",
     "description": "Today's pick is Bakery Parmesan, drawn from the culinary traditions of Italy.",
     "event_name": "Culinary traditions (Italy)",
     "event_url": "Google Shopping",
-    "image_url": "https://images.squarespace-cdn.com/content/v1/61dcdaf886eb6b1962415280/1bb4b4a0-c571-4f29-b951-25c54273d626/Joyfull+Bakery_Everything+Crisps_Angle-min.png"
+    "image_url": "https://images.squarespace-cdn.com/content/v1/61dcdaf886eb6b1962415280/1bb4b4a0-c571-4f29-b951-25c54273d626/Joyfull+Bakery_Everything+Crisps_Angle-min.png",
+    "item_name": "Bakery Parmesan"
   },
   {
-    "chip_name": "Bbq Chipotle Greens",
     "date": "2026-06-28",
     "description": "Today's pick is Bbq Chipotle Greens, drawn from the culinary traditions of Kenya.",
     "event_name": "Culinary traditions (Kenya)",
     "event_url": "Google Shopping",
-    "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_eff0169d-0ee5-467a-abdf-a316648e52c2.png"
+    "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_eff0169d-0ee5-467a-abdf-a316648e52c2.png",
+    "item_name": "Bbq Chipotle Greens"
   },
   {
-    "chip_name": "Sweet Chilli Sour Cream",
     "date": "2026-06-29",
     "description": "Today's pick is Sweet Chilli Sour Cream, drawn from the culinary traditions of Georgia.",
     "event_name": "Culinary traditions (Georgia)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSCN059BNGOe2vZ4R3ZH7d_w6S9jF5Az3zPOHAnAfM3AKVlIgqkY7HasS3Fx8PkiEwOHMQY5U4jJRmgyg29t76qjZ1wTiuIbcdDnCE69Yk"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSCN059BNGOe2vZ4R3ZH7d_w6S9jF5Az3zPOHAnAfM3AKVlIgqkY7HasS3Fx8PkiEwOHMQY5U4jJRmgyg29t76qjZ1wTiuIbcdDnCE69Yk",
+    "item_name": "Sweet Chilli Sour Cream"
   },
   {
-    "chip_name": "Rosemary Feta",
     "date": "2026-06-30",
     "description": "Today's pick is Rosemary Feta, drawn from the culinary traditions of Turkey.",
     "event_name": "Culinary traditions (Turkey)",
     "event_url": "USDA Cache",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvM41rPMBZyKQ4rgIJTABxdSZjQH7813WtCg-9VhjE_hBe8IPT7Q3U8XkHrc8pgV_014WJdLF07fnoad_8Ki-qpfrhyNl6edAY0omZfmeX_-2UtjobSq7n"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvM41rPMBZyKQ4rgIJTABxdSZjQH7813WtCg-9VhjE_hBe8IPT7Q3U8XkHrc8pgV_014WJdLF07fnoad_8Ki-qpfrhyNl6edAY0omZfmeX_-2UtjobSq7n",
+    "item_name": "Rosemary Feta"
   }
 ]

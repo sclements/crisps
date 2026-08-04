@@ -1,250 +1,250 @@
 [
   {
-    "chip_name": "Spicy Peanut",
     "date": "2026-05-01",
-    "description": "Today's pick is Spicy Peanut — a flavor inspired by the culinary traditions of Niger.",
+    "description": "Today's pick is Spicy Peanut \u2014 a flavor inspired by the culinary traditions of Niger.",
     "event_name": "Culinary traditions (Niger)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-01.webp"
+    "image_url": "chip-of-the-day/images/2026-05-01.webp",
+    "item_name": "Spicy Peanut"
   },
   {
-    "chip_name": "Sago",
     "date": "2026-05-02",
     "description": "Today's pick is Sago, drawn from the culinary traditions of Papua New Guinea.",
     "event_name": "Culinary traditions (Papua New Guinea)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-02.webp"
+    "image_url": "chip-of-the-day/images/2026-05-02.webp",
+    "item_name": "Sago"
   },
   {
-    "chip_name": "Peanut",
     "date": "2026-05-03",
-    "description": "Today's pick is Peanut — a flavor inspired by the culinary traditions of Senegal.",
+    "description": "Today's pick is Peanut \u2014 a flavor inspired by the culinary traditions of Senegal.",
     "event_name": "Culinary traditions (Senegal)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-03.webp"
+    "image_url": "chip-of-the-day/images/2026-05-03.webp",
+    "item_name": "Peanut"
   },
   {
-    "chip_name": "Green Chile",
     "date": "2026-05-04",
-    "description": "Today's pick is Green Chile — a flavor inspired by the culinary traditions of Israel.",
+    "description": "Today's pick is Green Chile \u2014 a flavor inspired by the culinary traditions of Israel.",
     "event_name": "Culinary traditions (Israel)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-04.webp"
+    "image_url": "chip-of-the-day/images/2026-05-04.webp",
+    "item_name": "Green Chile"
   },
   {
-    "chip_name": "Smoked Paprika",
     "date": "2026-05-05",
-    "description": "Today's pick is Smoked Paprika — a flavor inspired by the culinary traditions of Serbia.",
+    "description": "Today's pick is Smoked Paprika \u2014 a flavor inspired by the culinary traditions of Serbia.",
     "event_name": "Culinary traditions (Serbia)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-05.webp"
+    "image_url": "chip-of-the-day/images/2026-05-05.webp",
+    "item_name": "Smoked Paprika"
   },
   {
-    "chip_name": "Black Pomegranate Sweet Oat",
     "date": "2026-05-06",
     "description": "Honoring today's Martyrs' Day, Black Pomegranate Sweet Oat captures the bittersweet celebration of resilience through its rich, complex flavor profile that mirrors the deep cultural significance of re...",
     "event_name": "Martyrs' Day (Lebanon and Syria)",
     "event_url": "https://en.wikipedia.org/wiki/May_6",
-    "image_url": "chip-of-the-day/images/2026-05-06.webp"
+    "image_url": "chip-of-the-day/images/2026-05-06.webp",
+    "item_name": "Black Pomegranate Sweet Oat"
   },
   {
-    "chip_name": "Buttermilk Ranch",
     "date": "2026-05-07",
     "description": "Today's pick is Buttermilk Ranch, drawn from the culinary traditions of Yemen.",
     "event_name": "Culinary traditions (Yemen)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-07.webp"
+    "image_url": "chip-of-the-day/images/2026-05-07.webp",
+    "item_name": "Buttermilk Ranch"
   },
   {
-    "chip_name": "Beer",
     "date": "2026-05-08",
     "description": "Celebrating Czech liberation today, these Beer chips offer a savory toast to the spirit of freedom.",
     "event_name": "Liberation Day (Czech Republic)",
     "event_url": "https://en.wikipedia.org/wiki/May_8",
-    "image_url": "chip-of-the-day/images/2026-05-08.webp"
+    "image_url": "chip-of-the-day/images/2026-05-08.webp",
+    "item_name": "Beer"
   },
   {
-    "chip_name": "Dried Lemon",
     "date": "2026-05-09",
     "description": "Today's pick is Dried Lemon, drawn from the culinary traditions of Tunisia.",
     "event_name": "Culinary traditions (Tunisia)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-09.webp"
+    "image_url": "chip-of-the-day/images/2026-05-09.webp",
+    "item_name": "Dried Lemon"
   },
   {
-    "chip_name": "Carolina Bbq",
     "date": "2026-05-10",
     "description": "Honoring regional history on this day, we present Carolina Bbq. Taste the tangy-sweet tradition of the Carolinas in every bite.",
     "event_name": "Confederate Memorial Day (North Carolina and South Carolina)",
     "event_url": "https://en.wikipedia.org/wiki/May_10",
-    "image_url": "chip-of-the-day/images/2026-05-10.webp"
+    "image_url": "chip-of-the-day/images/2026-05-10.webp",
+    "item_name": "Carolina Bbq"
   },
   {
-    "chip_name": "Paprika",
     "date": "2026-05-11",
     "description": "Today's pick is Paprika, drawn from the culinary traditions of Albania.",
     "event_name": "Culinary traditions (Albania)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-11.webp"
+    "image_url": "chip-of-the-day/images/2026-05-11.webp",
+    "item_name": "Paprika"
   },
   {
-    "chip_name": "Dill Pickle",
     "date": "2026-05-12",
     "description": "Today's pick is Dill Pickle, drawn from the culinary traditions of Denmark.",
     "event_name": "Culinary traditions (Denmark)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-12.webp"
+    "image_url": "chip-of-the-day/images/2026-05-12.webp",
+    "item_name": "Dill Pickle"
   },
   {
-    "chip_name": "Tomato Olives Oregano",
     "date": "2026-05-13",
     "description": "Today's pick is Tomato Olives Oregano, drawn from the culinary traditions of Cyprus.",
     "event_name": "Culinary traditions (Cyprus)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-13.webp"
+    "image_url": "chip-of-the-day/images/2026-05-13.webp",
+    "item_name": "Tomato Olives Oregano"
   },
   {
-    "chip_name": "Bakery Millet",
     "date": "2026-05-14",
     "description": "Today's pick is Bakery Millet, drawn from the culinary traditions of Mali.",
     "event_name": "Culinary traditions (Mali)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-14.webp"
+    "image_url": "chip-of-the-day/images/2026-05-14.webp",
+    "item_name": "Bakery Millet"
   },
   {
-    "chip_name": "Bbq Chicken",
     "date": "2026-05-15",
     "description": "Today's pick is Bbq Chicken, drawn from the culinary traditions of Uruguay.",
     "event_name": "Culinary traditions (Uruguay)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQsaRgJFHMyXUPdpErjZV7fziCbw9eWCslZKCnZLWplqfjTMyNqXl2GAuCmcHcf2BmcxOEOe3al2F9X9WT1v6lipoyi6L7TOhvXcoXFAE8"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQsaRgJFHMyXUPdpErjZV7fziCbw9eWCslZKCnZLWplqfjTMyNqXl2GAuCmcHcf2BmcxOEOe3al2F9X9WT1v6lipoyi6L7TOhvXcoXFAE8",
+    "item_name": "Bbq Chicken"
   },
   {
-    "chip_name": "Tallow Stone",
     "date": "2026-05-16",
     "description": "Today's pick is Tallow Stone, drawn from the culinary traditions of Mexico.",
     "event_name": "Culinary traditions (Mexico)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2jXR3AvknnbPV13JPmu4g9B4JgdMyhqs20ZrKVcrCDzt4Kx3eUEYC8qxFWUpciRWcddGKB1BxPlQwYbLqLcI_IrbY1WnJIQKLGNMuM25Z1VSSgjUqZbQ1Cw"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ2jXR3AvknnbPV13JPmu4g9B4JgdMyhqs20ZrKVcrCDzt4Kx3eUEYC8qxFWUpciRWcddGKB1BxPlQwYbLqLcI_IrbY1WnJIQKLGNMuM25Z1VSSgjUqZbQ1Cw",
+    "item_name": "Tallow Stone"
   },
   {
-    "chip_name": "Banana Jaggery",
     "date": "2026-05-17",
     "description": "Today's pick is Banana Jaggery, drawn from the culinary traditions of Sri Lanka.",
     "event_name": "Culinary traditions (Sri Lanka)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-17.webp"
+    "image_url": "chip-of-the-day/images/2026-05-17.webp",
+    "item_name": "Banana Jaggery"
   },
   {
-    "chip_name": "Sriracha",
     "date": "2026-05-18",
     "description": "Today's pick is Sriracha, drawn from the culinary traditions of Taiwan.",
     "event_name": "Culinary traditions (Taiwan)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-18.webp"
+    "image_url": "chip-of-the-day/images/2026-05-18.webp",
+    "item_name": "Sriracha"
   },
   {
-    "chip_name": "Bakery Cardamom",
     "date": "2026-05-19",
     "description": "Reflecting on the spirit of remembrance today. These Bakery Cardamom chips deliver a warm, nostalgic spice that honors timeless tradition.",
     "event_name": "Remembrance Day (Sri Lanka)",
     "event_url": "https://en.wikipedia.org/wiki/May_19",
-    "image_url": "chip-of-the-day/images/2026-05-19.webp"
+    "image_url": "chip-of-the-day/images/2026-05-19.webp",
+    "item_name": "Bakery Cardamom"
   },
   {
-    "chip_name": "Lemon Spicy",
     "date": "2026-05-20",
     "description": "Honoring Cambodia's history on this day of remembrance. These Lemon Spicy chips offer a bold, bright zest to honor an enduring spirit.",
     "event_name": "Day of Remembrance (Cambodia)",
     "event_url": "https://en.wikipedia.org/wiki/May_20",
-    "image_url": "chip-of-the-day/images/2026-05-20.webp"
+    "image_url": "chip-of-the-day/images/2026-05-20.webp",
+    "item_name": "Lemon Spicy"
   },
   {
-    "chip_name": "Italian Hoagie",
     "date": "2026-05-21",
     "description": "Celebrating the vibrant spirit of Afro-Colombian Day, we bring bold, global flavors to your palate with our Italian Hoagie chips.",
     "event_name": "Afro-Colombian Day (Colombia)",
     "event_url": "https://en.wikipedia.org/wiki/May_21",
-    "image_url": "chip-of-the-day/images/2026-05-21.webp"
+    "image_url": "chip-of-the-day/images/2026-05-21.webp",
+    "item_name": "Italian Hoagie"
   },
   {
-    "chip_name": "Chile Limon",
     "date": "2026-05-22",
     "description": "Today's pick is Chile Limon, drawn from the culinary traditions of Cyprus.",
     "event_name": "Culinary traditions (Cyprus)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-22.webp"
+    "image_url": "chip-of-the-day/images/2026-05-22.webp",
+    "item_name": "Chile Limon"
   },
   {
-    "chip_name": "Bombay Spice",
     "date": "2026-05-23",
     "description": "Today's pick is Bombay Spice, drawn from the culinary traditions of Jamaica.",
     "event_name": "Culinary traditions (Jamaica)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-23.webp"
+    "image_url": "chip-of-the-day/images/2026-05-23.webp",
+    "item_name": "Bombay Spice"
   },
   {
-    "chip_name": "Horse Radish",
     "date": "2026-05-24",
     "description": "Today's pick is Horse Radish, drawn from the culinary traditions of Russia.",
     "event_name": "Culinary traditions (Russia)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-24.webp"
+    "image_url": "chip-of-the-day/images/2026-05-24.webp",
+    "item_name": "Horse Radish"
   },
   {
-    "chip_name": "Barbecue",
     "date": "2026-05-25",
     "description": "Today's pick is Barbecue, drawn from the culinary traditions of Madagascar.",
     "event_name": "Culinary traditions (Madagascar)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-25.webp"
+    "image_url": "chip-of-the-day/images/2026-05-25.webp",
+    "item_name": "Barbecue"
   },
   {
-    "chip_name": "Curd",
     "date": "2026-05-26",
     "description": "Today's pick is Curd, drawn from the culinary traditions of Serbia.",
     "event_name": "Culinary traditions (Serbia)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-26.webp"
+    "image_url": "chip-of-the-day/images/2026-05-26.webp",
+    "item_name": "Curd"
   },
   {
-    "chip_name": "Smoky Mesquite Bbq",
     "date": "2026-05-27",
     "description": "Today's pick is Smoky Mesquite Bbq, drawn from the culinary traditions of Latvia.",
     "event_name": "Culinary traditions (Latvia)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-27.webp"
+    "image_url": "chip-of-the-day/images/2026-05-27.webp",
+    "item_name": "Smoky Mesquite Bbq"
   },
   {
-    "chip_name": "Roasted Garlic Herbs",
     "date": "2026-05-28",
     "description": "Today's pick is Roasted Garlic Herbs, drawn from the culinary traditions of South Korea.",
     "event_name": "Culinary traditions (South Korea)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-28.webp"
+    "image_url": "chip-of-the-day/images/2026-05-28.webp",
+    "item_name": "Roasted Garlic Herbs"
   },
   {
-    "chip_name": "Sprouts Lime Rolled",
     "date": "2026-05-29",
     "description": "Today's pick is Sprouts Lime Rolled, drawn from the culinary traditions of Cuba.",
     "event_name": "Culinary traditions (Cuba)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-29.webp"
+    "image_url": "chip-of-the-day/images/2026-05-29.webp",
+    "item_name": "Sprouts Lime Rolled"
   },
   {
-    "chip_name": "Hot Cheddar Sour Cream",
     "date": "2026-05-30",
     "description": "Today's pick is Hot Cheddar Sour Cream, drawn from the culinary traditions of Slovenia.",
     "event_name": "Culinary traditions (Slovenia)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-30.webp"
+    "image_url": "chip-of-the-day/images/2026-05-30.webp",
+    "item_name": "Hot Cheddar Sour Cream"
   },
   {
-    "chip_name": "Sharp Cheddar",
     "date": "2026-05-31",
     "description": "Today's pick is Sharp Cheddar, drawn from the culinary traditions of Kosovo.",
     "event_name": "Culinary traditions (Kosovo)",
     "event_url": "",
-    "image_url": "chip-of-the-day/images/2026-05-31.webp"
+    "image_url": "chip-of-the-day/images/2026-05-31.webp",
+    "item_name": "Sharp Cheddar"
   }
 ]

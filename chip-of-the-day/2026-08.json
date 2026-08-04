@@ -1,42 +1,50 @@
 [
   {
-    "chip_name": "Greek Cheese Tomato Herb",
     "date": "2026-08-01",
     "description": "Today's pick is Greek Cheese Tomato Herb, drawn from the culinary traditions of Albania.",
     "event_name": "Culinary traditions (Albania)",
     "event_url": "USDA Cache",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-O9Tjnu22nmipRUw1O9K48MVX-YxEKhQON4N26J8HRh4rD8xpjfFrn6oJp8LTQigPgaaq0ZJt2k-0GaRSCDZDsTNDytNdOYnguhPO4S3rOWJrfjM8ASQp"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-O9Tjnu22nmipRUw1O9K48MVX-YxEKhQON4N26J8HRh4rD8xpjfFrn6oJp8LTQigPgaaq0ZJt2k-0GaRSCDZDsTNDytNdOYnguhPO4S3rOWJrfjM8ASQp",
+    "item_name": "Greek Cheese Tomato Herb"
   },
   {
-    "chip_name": "Cumin",
     "date": "2026-08-02",
     "description": "Today's pick is Cumin, drawn from the culinary traditions of Egypt.",
     "event_name": "Culinary traditions (Egypt)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTc3LM0JI98uLOiFlyrwsLfEaz2TadgbpQ_VVUC2ki1vUS_L4yef-mwR_6hz8TLLg-FjvexaNuZkApMdfoyKQzZz4ChrpT4y49rCsqkwSZfmztoKDeXRgiVgg"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTc3LM0JI98uLOiFlyrwsLfEaz2TadgbpQ_VVUC2ki1vUS_L4yef-mwR_6hz8TLLg-FjvexaNuZkApMdfoyKQzZz4ChrpT4y49rCsqkwSZfmztoKDeXRgiVgg",
+    "item_name": "Cumin"
   },
   {
-    "chip_name": "Hickory Smoked Almond",
     "date": "2026-08-03",
     "description": "Celebrating Venezuela's Flag Day! These Hickory Smoked Almond chips offer a bold, smoky salute to the nation's vibrant spirit.",
     "event_name": "Flag Day (Venezuela)",
     "event_url": "https://en.wikipedia.org/wiki/August_3",
-    "image_url": "https://www.kroger.com/product/images/large/front/0007114600888"
+    "image_url": "https://www.kroger.com/product/images/large/front/0007114600888",
+    "item_name": "Hickory Smoked Almond"
   },
   {
-    "chip_name": "Feta Cheese",
     "date": "2026-08-04",
     "description": "Celebrating the cultural legacy of Matica slovensk, these Feta Cheese chips provide a sharp, sophisticated crunch for today's festivities.",
     "event_name": "Matica slovenská Day (Slovakia)",
     "event_url": "https://en.wikipedia.org/wiki/August_4",
-    "image_url": "http://www.productsfromcyprus.com/cdn/shop/products/Lays-Potato-Chips-with-Greek-Feta-Cheese-Flavour-45-g-buy-online-from-cyprus.jpg?v=1631122643"
+    "image_url": "http://www.productsfromcyprus.com/cdn/shop/products/Lays-Potato-Chips-with-Greek-Feta-Cheese-Flavour-45-g-buy-online-from-cyprus.jpg?v=1631122643",
+    "item_name": "Feta Cheese"
   },
   {
-    "chip_name": "Mediterranean Sea Salt",
     "date": "2026-08-05",
     "description": "Honoring the courage of Croatia's defenders on this day. Our Mediterranean Sea Salt chips capture a pure, coastal essence to honor our homeland's spirit.",
     "event_name": "Victory and Homeland Thanksgiving Day and the Day of Croatian defenders (Croatia)",
     "event_url": "https://en.wikipedia.org/wiki/August_5",
-    "image_url": "https://lottsandco.ie/wp-content/uploads/2025/11/Torres-Crisps-Mediterranean-Sea-Salt-125g.jpg"
+    "image_url": "https://lottsandco.ie/wp-content/uploads/2025/11/Torres-Crisps-Mediterranean-Sea-Salt-125g.jpg",
+    "item_name": "Mediterranean Sea Salt"
+  },
+  {
+    "chip_name": "Jerk Chicken",
+    "date": "2026-08-06",
+    "description": "Celebrating Jamaica's independence today! These Jerk Chicken chips capture the bold, spicy spirit of the island.",
+    "event_name": "Independence Day (Jamaica), celebrates the independence of Jamaica from the United Kingdom in 1962.",
+    "event_url": "https://en.wikipedia.org/wiki/August_6",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT17ZXFq0QVzv3mGxiLIcGbW-HvXxIf6msq9jo3Z7G4LwYfmGNdmb6W3SdmxpySKLGJfbMrrO0zqLFOnj6WGftjhxohpUGcAQ"
   }
 ]
