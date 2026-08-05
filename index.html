@@ -763,7 +763,8 @@
                 
                 // Create Google search URL (use "chips" for search since that's the global term)
                 const searchTerm = isUKLocale ? 'crisps' : 'chips';
-                const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipData.chip_name + '" ' + searchTerm)}`;
+                const itemName = chipData.item_name || chipData.chip_name || '';
+                const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + itemName + '" ' + searchTerm)}`;
                 
                 // Format the actual chip's date (not today's date)
                 const chipDate = new Date(chipData.date + 'T00:00:00');
@@ -779,7 +780,7 @@
                 
                 // Chip image or fallback emoji
                 const chipImageHtml = chipData.image_url
-                    ? `<img src="${chipData.image_url}" alt="${chipData.chip_name}" class="w-32 h-32 object-contain rounded-2xl bg-white shadow-md" onerror="this.outerHTML='<div class=\\'w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md\\'><span class=\\'text-4xl\\'>🥔</span></div>'">`
+                    ? `<img src="${chipData.image_url}" alt="${itemName}" class="w-32 h-32 object-contain rounded-2xl bg-white shadow-md" onerror="this.outerHTML='<div class=\\'w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md\\'><span class=\\'text-4xl\\'>🥔</span></div>'">`
                     : `<div class="w-24 h-24 bg-gradient-to-br from-amber-200 to-orange-300 rounded-2xl flex items-center justify-center shadow-md">
                             <span class="text-4xl">🥔</span>
                        </div>`;
@@ -806,7 +807,7 @@
                         
                         <!-- Name -->
                         <h3 class="text-2xl font-display font-bold text-gray-800 mb-3 text-center">
-                            <a href="${searchUrl}" target="_blank" class="hover:text-orange-600 transition-colors">${chipData.chip_name}</a>
+                            <a href="${searchUrl}" target="_blank" class="hover:text-orange-600 transition-colors">${itemName}</a>
                         </h3>
                         
                         <!-- Description with event reference -->
@@ -887,15 +888,16 @@
                 
                 let html = '<div class="grid gap-3">';
                 history.forEach((chip, index) => {
+                    const chipName = chip.item_name || chip.chip_name || '';
                     const isEven = index % 2 === 0;
                     const bgColor = isEven ? 'bg-amber-100' : 'bg-orange-50';
                     const textColor = 'text-amber-900';
-                    const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chip.chip_name + '" chips')}`;
+                    const searchUrl = `https://www.google.com/search?q=${encodeURIComponent('"' + chipName + '" chips')}`;
                     const dateStr = new Date(chip.date + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
                     
                     // Image or emoji fallback
                     const imageHtml = chip.image_url
-                        ? `<img src="${chip.image_url}" alt="${chip.chip_name}" class="w-12 h-12 object-contain rounded-lg bg-white" onerror="this.outerHTML='<div class=\\'w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center\\'><span class=\\'text-lg\\'>🥔</span></div>'">`
+                        ? `<img src="${chip.image_url}" alt="${chipName}" class="w-12 h-12 object-contain rounded-lg bg-white" onerror="this.outerHTML='<div class=\\'w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center\\'><span class=\\'text-lg\\'>🥔</span></div>'">`
                         : `<div class="w-10 h-10 bg-white/50 rounded-lg flex items-center justify-center">
                                 <span class="text-lg">🥔</span>
                            </div>`;
@@ -911,7 +913,7 @@
                                         <span class="text-xs ${textColor} opacity-60">${dateStr}</span>
                                     </div>
                                     <h3 class="font-bold ${textColor}">
-                                        <a href="${searchUrl}" target="_blank" class="hover:underline">${chip.chip_name}</a>
+                                        <a href="${searchUrl}" target="_blank" class="hover:underline">${chipName}</a>
                                     </h3>
                                     <!--
                                     <p class="text-sm ${textColor} opacity-80 mt-1">${chip.description || ''}</p>
@@ -1030,7 +1032,7 @@
                             articles.push({
                                 id: `chip:${c.date}`,
                                 type: 'chip',
-                                title: c.chip_name || '',
+                                title: c.item_name || c.chip_name || '',
                                 body: c.description || '',
                                 date: c.date || '',
                                 url: c.event_url || '',
