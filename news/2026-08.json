@@ -1,5 +1,49 @@
 [
   {
+    "title": "The Best Potato Chips for Dip, According to 6 Chefs",
+    "url": "https://www.simplyrecipes.com/best-potato-chips-for-dip-chefs-12028880",
+    "snippet": "Chips and dip are a pairing that never goes out of style. Whether you're serving creamy ranch dip for game day or setting out a platter of...",
+    "published_at": "2026-08-04T22:00:08Z",
+    "source": "Simply Recipes",
+    "score": 10,
+    "reason": "The article is directly about potato chips (a product review/recommendation), which fits the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzEEKoxGoqYBCsCxdSSEuONWph-ovJbJ6AYiIxQw_1s6MWwbD3KBeLhR0&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "Breaking News-Styled TV Ads: Tyrrells Recently Launched Its Black-and-White…",
+    "url": "https://www.google.com/goto?url=CAESaQHuR6pNa3p05Yyr9v44f85ZYOdGCvmasaexa7qYij_1y8BwSQBPp-Q0imt0uiB2PVN3ukP0cbOmnO_VJUYWsa3z4CK8VK_MQ9wUp3zxUMNI6jJjECXYDYliz-vJO72zjTHPDvVGrb4v9Q==",
+    "snippet": "Potato crisps brand Tyrrells recently launched its 'Splendid' commercial. This is the company's very first time advertising on TV. The chip...",
+    "published_at": "2026-08-04T20:56:20Z",
+    "source": "Trend Hunter",
+    "score": 9,
+    "reason": "The article is direct brand news regarding Tyrrells, a potato chip company. According to the rubric, brand news for potato chips falls into the 9-10 range.",
+    "image_url": "https://cdn.trendhunterstatic.com/thumbs/477/tyrrells-chips.jpeg",
+    "category": "oddities"
+  },
+  {
+    "title": "Crisp and oven chip brands forced to change recipes as UK faces major disruption to sunflower oil imports",
+    "url": "https://www.google.com/goto?url=CAESxgEB7keqTQWnfVP8lS8BxKoQhlYn3w7Qt3trVlJQObyx3Bw9Vleh0VtbhmttTO1hmY5mNbzYu-7QLrSFaYVQNshyMMpT68xHCIRdZKrYEEjyPXT2xzp5ct7cpoLPQGoEBJXreTI2-MjXMn2ulL8JBwcC-y8PNZZxe-Pv5j8c0pGJ8AOGmZKevzvxZsdt5tD2zCdrJ8Qjj1KYo57u9H5MIf8ffIRx6VnSXsVCD2N4kjdNG4SEWsTC6aDnoM-AACIem74bXlRREqc=",
+    "snippet": "As a result of the shortage, manufacturers of products including crisps, chips and cereal bars have been forced to alter their recipes and...",
+    "published_at": "2026-08-04T20:56:20Z",
+    "source": "Sky News",
+    "score": 9,
+    "reason": "The article is directly about the production and recipe changes of crisp and chip brands, which is highly relevant to a specialized chip news website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEiDykQ6iXa4MB2bJoLj206lVUOadVORMti1Eu5XeeQs-VpHe9VNnSGek&usqp=CAI&s",
+    "category": "business"
+  },
+  {
+    "title": "They Said Alaska Potatoes Could Not Make A Chip. Alaska Chip Company Did It Anyway.",
+    "url": "https://thebusinessdownload.com/they-said-alaska-potatoes-could-not-make-a-chip-alaska-chip-company-did-it-anyway/",
+    "snippet": "Told an Alaska potato could not make a chip, Ralph and Darcy Carney built Alaska Chip Company anyway, earning local and national...",
+    "published_at": "2026-08-04T13:00:08Z",
+    "source": "The Business Download |",
+    "score": 10,
+    "reason": "The article is brand news directly about a potato chip company and the successful production of potato chips, fitting the highest relevance category.",
+    "image_url": "https://thebusinessdownload.com/wp-content/uploads/2026/08/494201123_1238727064925189_6255345297451018255_n-1-e1785849111311.jpg",
+    "category": "business"
+  },
+  {
     "title": "Inside the new $75M potato chip factory in northern Maine",
     "url": "https://www.bangordailynews.com/2026/08/04/aroostook/aroostook-business/taste-of-maine-potato-chip-factory-joam40zk0w/",
     "snippet": "On the factory floor of the newly operational Taste of Maine Potato Chip plant in Limestone, the kettle chips are humming along the line.",
@@ -8,6 +52,17 @@
     "score": 9,
     "reason": "The article is directly about the opening of a new potato chip factory, which falls under brand news and industry updates for the specific product.",
     "image_url": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/08/IMG_2824.jpg?fit=1200%2C800&ssl=1",
+    "category": "business"
+  },
+  {
+    "title": "Heatwaves trigger potato crisis",
+    "url": "https://www.google.com/goto?url=CAESmQEB7keqTSSVSYdL70yKr9uGOpJp1jqkt3YuHcATKBLvbUQcJ6lDKArVE2Jj_HV_atVyZfmJ10EQPPCI2d8fHOZr7x6CKljjdQ2OANHjhbbq9FpZGGXNOj3CWxtCg_R08k3gC5wyqNjxDtIUBeV4g9zQT-EmnY8UZE57xID88hmSDx14Yt_O2CAA4Usx4biN9rEOQtQLIjxRPOQ=",
+    "snippet": "Britain's potato crop is under threat from heatwaves, farmers have warned. Chips may soon be shorter and baked potatoes could be hard to...",
+    "published_at": "2026-08-03T20:55:46Z",
+    "source": "The Telegraph",
+    "score": 8,
+    "reason": "The snippet explicitly mentions 'chips' in a food context, triggering the 7+ rule. The article concerns the supply chain and production of chips due to crop issues, which falls under snack industry business.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6VPI1UGl-aMQzxGTSmjwBosQuza9Mdx_C6wN7wAPkA4afc2JiWwvWTXY&usqp=CAI&s",
     "category": "business"
   },
   {
@@ -77,6 +132,17 @@
     "category": "business"
   },
   {
+    "title": "Pickle Puffs, Cheesy Chicken Chips, and More New Snacks to Try This August - Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
+    "url": "https://www.bonappetit.com/story/snack-drop-august-2026",
+    "snippet": "",
+    "published_at": "2026-08-01T12:00:00Z",
+    "source": "Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
+    "score": 7,
+    "reason": "The title explicitly mentions 'Cheesy Chicken Chips', which triggers the rule to score 7+ for food-related chip mentions. It falls in the 7-8 range because it is a roundup of various snacks rather than being exclusively about potato chips.",
+    "image_url": "https://assets.bonappetit.com/photos/6a6cdabd9d98bc920adf06c3/16:9/w_1280,c_limit/snackdropaug.gif",
+    "category": "reviews"
+  },
+  {
     "title": "In praise of Stella & Milo’s Kettle-cooked Tallow Potato Chips",
     "url": "https://www.telegram.com/story/entertainment/dining/2026/07/31/table-hoppin-stella-milos-is-changing-the-potato-chip-game/91082014007/",
     "snippet": "The potato chip is without doubt one of America's favorite snacks. While most everyone has a go-to bag of chips, a fresh, new local company...",
@@ -86,6 +152,16 @@
     "reason": "The article is a review of a specific potato chip brand, making it directly relevant to the site's core topic.",
     "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/23/NTEG/91027507007-act-table-hop-1-0802.jpg?auto=webp&crop=4499,2531,x0,y291&format=pjpg&width=1200",
     "category": "business"
+  },
+  {
+    "title": "Chips Ahoy! mystery cookie challenge offers fans shot at $25K prize",
+    "url": "https://www.usatoday.com/story/grocery/2026/07/31/chips-ahoy-mystery-cookie-flavor-challenge/91127474007/",
+    "snippet": "Chips Ahoy! launched its first mystery cookie, asking fans to guess the hidden flavor for a chance to win $25,000. Here's how to participate.",
+    "published_at": "2026-07-31T15:09:00Z",
+    "score": 7,
+    "reason": "The article features a known snack brand name containing 'chips', but because the product is cookies rather than potato chips/crisps, it falls into the 7-8 range per the rules.",
+    "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/31/USAT/91128489007-getty-images-2217866742.jpg?auto=webp&crop=4031,2268,x0,y0&format=pjpg&width=1200",
+    "category": "new_flavors"
   },
   {
     "title": "Chips Ahoy Just Dropped A New Mystery Flavor (And Fans Have To Decode It)",
@@ -107,6 +183,89 @@
     "score": 8,
     "reason": "The article announces new flavors for Tostitos, which are tortilla chips. According to the rubric, tortilla chips fall into the 7-8 score range.",
     "image_url": "https://digitalassets.pepsico.com/transform/2172f30d-f23c-4107-9470-466a5420b000/Tostitos_Guacamole-Dip-Main",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Sun-dried apple chips: The healthier swap for potato chips",
+    "url": "https://www.newsbytesapp.com/news/lifestyle/swap-your-chips-with-sun-dried-apple-chips/story",
+    "snippet": "Sun-dried apple chips are packed with nutrients like fiber, vitamins A and C, and antioxidants. Unlike potato chips, which are low on nutrients due to the frying process, apple chips retain their ...",
+    "published_at": "2026-07-30T10:16:00Z",
+    "score": 7,
+    "reason": "The article is about apple chips (a related snack food) and uses potato chips as a comparison, which triggers the rule to score 7+.",
+    "image_url": "https://i.cdn.newsbytesapp.com/images/l95020260730171629.jpeg",
+    "category": "health"
+  },
+  {
+    "title": "The quirky CRISP festival in popular Irish bar with tastings, live music and ‘Hot Chip Challenge’ & tickets from just €5",
+    "url": "https://www.thesun.ie/fabulous/17365145/dublin-crisp-festival-competitions-music-challenge/",
+    "snippet": "A QUIRKY festival is coming to the capital next month – and it’s perfect for a fun day out. Eatyard’s Crisp Festival will return to The Bernard Shaw next month for a weekend of ...",
+    "published_at": "2026-07-28T02:34:00Z",
+    "score": 9,
+    "reason": "The article is directly about a festival centered on crisps/chips, making it highly relevant to the niche.",
+    "image_url": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/07/newspress-collage-400i5sit4-1785165839563.jpg?quality=90&strip=all&1785169453&w=1920&h=1080&crop=1",
+    "category": "oddities"
+  },
+  {
+    "title": "The Irresistible Chip Dip You Can Make From Trader Joe's Mini Peanut Butter Cups",
+    "url": "https://www.aol.com/articles/irresistible-chip-dip-trader-joes-185500000.html",
+    "snippet": "Trader Joe's Mini Peanut Butter Cups are already tasty as they are, but turning them into a chip dip is the ingenious idea you need in your life.",
+    "published_at": "2026-07-27T11:55:00Z",
+    "score": 7,
+    "reason": "The title mentions 'chip dip,' which triggers the mandatory 7+ score rule for mentioning chips in a food context. It is not a 9-10 because it is a recipe/trend rather than news about potato chips themselves.",
+    "image_url": "https://hermes.media.static.aol.com/media/2026/07/27/70ae773c-422f-3fe6-aa33-0da34542e32c/0a0b17d4-4cdd-4111-984d-6328e23d47e2.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "Pringles launches new flavor collab that lets you have saucy hot wings without the mess",
+    "url": "https://www.msn.com/en-us/sports/mlb/pringles-launches-new-flavor-collab-that-lets-you-have-saucy-hot-wings-without-the-mess/ar-AA28xzLf",
+    "snippet": "Fans may be loyal to their favorite teams but football season tends to bring out some collaborations we can all get behind. For example, you don’t have to choose between Pringles and Buffalo Wild ...",
+    "published_at": "2026-07-23T11:39:00Z",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch for Pringles, which falls under the highest relevance category (new flavors/brand news for potato chips).",
+    "category": "new_flavors"
+  },
+  {
+    "title": "'My love for side dishes inspired possible new crisp flavour'",
+    "url": "https://www.google.com/goto?url=CAESaAHuR6pN1QnmZbnxGY5F_nrVtcZkALKywJ2jF2tqTxaeH0O5yNIyNnrLKABciZx0f-du_K13Cktp7_Uj27In_IZC4Zk2LWOCGVk-cp24el3Lnnq27yY3YTf2ddQozw5LEVMPQVYrSCS1",
+    "snippet": "'It doesn't feel real'. Thousands of people entered ideas for the competition, run by Walkers Crisps. Judges whittled them down to a final six...",
+    "published_at": "2026-07-21T21:10:35Z",
+    "source": "BBC",
+    "score": 10,
+    "reason": "The article is directly about new flavor development for a major chip brand (Walkers Crisps).",
+    "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8253/live/c984b6b0-7f82-11f1-b1fb-a927e22d7e8b.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "KFC Japan creates spicy summer fried chicken chips together with Calbee",
+    "url": "https://soranews24.com/2026/07/04/kfc-japan-creates-spicy-summer-fried-chicken-chips-together-with-calbee/",
+    "snippet": "Red-hot KFC chicken chips are on the way, and green-hot ones too.",
+    "published_at": "2026-07-06T08:00:26Z",
+    "source": "SoraNews24",
+    "score": 9,
+    "reason": "The article is directly about a new flavored chip product collaboration between KFC and Calbee, fitting the 9-10 category for brand news and new flavors.",
+    "image_url": "https://soranews24.com/wp-content/uploads/sites/3/2026/07/kf-1.jpg?w=1000&h=525&crop=1",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Recalled chips now under high FDA risk. Were they sold in Illinois? - Peoria Journal Star",
+    "url": "https://www.pjstar.com/story/news/2026/07/02/potato-chip-recall-fda-highest-risk-level-zapps-illinois/90785311007/",
+    "snippet": "",
+    "published_at": "2026-07-02T07:00:00Z",
+    "source": "Peoria Journal Star",
+    "score": 9,
+    "reason": "The article is directly about a food recall involving chips, which falls into the highest relevance category.",
+    "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/02/NJOS/90786068007-919056312.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Home Bargains fans demand new crisp flavours become permanent after spotting them on shelves - Daily Star",
+    "url": "https://www.dailystar.co.uk/life-style/home-bargains-fans-demand-new-37287749",
+    "snippet": "",
+    "published_at": "2026-06-12T07:00:00Z",
+    "source": "Daily Star",
+    "score": 9,
+    "reason": "The article is directly about new flavors of crisps being released in stores, which falls into the highest relevance category for a chip-focused website.",
+    "image_url": "https://i2-prod.dailystar.co.uk/article37172692.ece/ALTERNATES/s1200d/1_A-logo-on-a-branch-of-a-Home-Bargains-store-in-London.jpg",
     "category": "new_flavors"
   }
 ]

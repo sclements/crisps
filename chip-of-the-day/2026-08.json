@@ -46,5 +46,29 @@
     "event_name": "Independence Day (Jamaica), celebrates the independence of Jamaica from the United Kingdom in 1962.",
     "event_url": "https://en.wikipedia.org/wiki/August_6",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT17ZXFq0QVzv3mGxiLIcGbW-HvXxIf6msq9jo3Z7G4LwYfmGNdmb6W3SdmxpySKLGJfbMrrO0zqLFOnj6WGftjhxohpUGcAQ"
+  },
+  {
+    "chip_name": "Mediterranean Falafel",
+    "date": "2026-08-07",
+    "description": "Commemorating Assyrian Martyrs Day, our Mediterranean Falafel chips honor a deep history through authentic and aromatic spices.",
+    "event_name": "Assyrian Martyrs Day (Assyrian community)",
+    "event_url": "https://en.wikipedia.org/wiki/August_7",
+    "image_url": "https://regenies.com/cdn/shop/products/RANS_Faux-7.5Fx11.5R-MED_copy.jpg?v=1668526128&width=1445"
+  },
+  {
+    "date": "2026-08-08",
+    "description": "Honoring Nane Nane Day, a celebration of the harvest. Pumpkin Maple Pie Coconut brings nature's sweet bounty to your snack bowl today!",
+    "event_name": "Nane Nane Day (Tanzania)",
+    "event_url": "https://en.wikipedia.org/wiki/August_8",
+    "image_url": "https://m.media-amazon.com/images/I/61B+CBTGbvL._SL1000_.jpg",
+    "item_name": "Pumpkin Maple Pie Coconut"
+  },
+  {
+    "date": "2026-08-10",
+    "description": "Celebrating the spirit of Ecuadorian independence. These Avocado Lime chips deliver a bright, victorious zest to honor this historic day.",
+    "event_name": "Declaration of Independence of Quito, proclaimed independence from Spain on August 10, 1809. Independence was finally attained on May 24, 1822, at the Battle of Pichincha. (Ecuador)",
+    "event_url": "https://en.wikipedia.org/wiki/August_10",
+    "image_url": "https://m.media-amazon.com/images/I/61Pv17HSBtL._AC_.jpg",
+    "item_name": "Avocado Lime"
   }
 ]

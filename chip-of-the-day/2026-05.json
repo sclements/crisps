@@ -1,7 +1,7 @@
 [
   {
     "date": "2026-05-01",
-    "description": "Today's pick is Spicy Peanut \u2014 a flavor inspired by the culinary traditions of Niger.",
+    "description": "Today's pick is Spicy Peanut — a flavor inspired by the culinary traditions of Niger.",
     "event_name": "Culinary traditions (Niger)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-01.webp",
@@ -17,7 +17,7 @@
   },
   {
     "date": "2026-05-03",
-    "description": "Today's pick is Peanut \u2014 a flavor inspired by the culinary traditions of Senegal.",
+    "description": "Today's pick is Peanut — a flavor inspired by the culinary traditions of Senegal.",
     "event_name": "Culinary traditions (Senegal)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-03.webp",
@@ -25,7 +25,7 @@
   },
   {
     "date": "2026-05-04",
-    "description": "Today's pick is Green Chile \u2014 a flavor inspired by the culinary traditions of Israel.",
+    "description": "Today's pick is Green Chile — a flavor inspired by the culinary traditions of Israel.",
     "event_name": "Culinary traditions (Israel)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-04.webp",
@@ -33,7 +33,7 @@
   },
   {
     "date": "2026-05-05",
-    "description": "Today's pick is Smoked Paprika \u2014 a flavor inspired by the culinary traditions of Serbia.",
+    "description": "Today's pick is Smoked Paprika — a flavor inspired by the culinary traditions of Serbia.",
     "event_name": "Culinary traditions (Serbia)",
     "event_url": "",
     "image_url": "chip-of-the-day/images/2026-05-05.webp",
@@ -41,11 +41,11 @@
   },
   {
     "date": "2026-05-06",
-    "description": "Honoring today's Martyrs' Day, Black Pomegranate Sweet Oat captures the bittersweet celebration of resilience through its rich, complex flavor profile that mirrors the deep cultural significance of re...",
-    "event_name": "Martyrs' Day (Lebanon and Syria)",
+    "description": "Celebrating National Azulejo Day, these Sea Salt Cauliflower chips capture the pure and bright aesthetic of Portugal's iconic ceramic tiles.",
+    "event_name": "National Azulejo Day (Portugal)",
     "event_url": "https://en.wikipedia.org/wiki/May_6",
-    "image_url": "chip-of-the-day/images/2026-05-06.webp",
-    "item_name": "Black Pomegranate Sweet Oat"
+    "image_url": "https://storage.googleapis.com/images-prs-prd-c7e7986.prs.prd.v8.commerce.mi9cloud.com/product-images/zoom/00810571031200_1",
+    "item_name": "Sea Salt Cauliflower"
   },
   {
     "date": "2026-05-07",
@@ -73,11 +73,11 @@
   },
   {
     "date": "2026-05-10",
-    "description": "Honoring regional history on this day, we present Carolina Bbq. Taste the tangy-sweet tradition of the Carolinas in every bite.",
-    "event_name": "Confederate Memorial Day (North Carolina and South Carolina)",
-    "event_url": "https://en.wikipedia.org/wiki/May_10",
-    "image_url": "chip-of-the-day/images/2026-05-10.webp",
-    "item_name": "Carolina Bbq"
+    "description": "Today's pick is Truffle Irish Butter, drawn from the culinary traditions of Ireland.",
+    "event_name": "Culinary traditions (Ireland)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvFAjaRTF8OmvGGtrBRjwsrQ7zlTLdykMLnw2nohRE5HCrwMJPUS8I_eBF5Uc2W1AIt1WQIQWlbIamOqubtdsKVcCsmLU3qwOpU72_k-nc4yF8ro_TNFvYSA",
+    "item_name": "Truffle Irish Butter"
   },
   {
     "date": "2026-05-11",
@@ -145,19 +145,19 @@
   },
   {
     "date": "2026-05-19",
-    "description": "Reflecting on the spirit of remembrance today. These Bakery Cardamom chips deliver a warm, nostalgic spice that honors timeless tradition.",
-    "event_name": "Remembrance Day (Sri Lanka)",
+    "description": "Honoring the legacy of youth and national pride on this day, our Turkey chips deliver a bold flavor to celebrate this historic occasion.",
+    "event_name": "Commemoration of Atatürk, Youth and Sports Day (Turkey, Northern Cyprus)",
     "event_url": "https://en.wikipedia.org/wiki/May_19",
-    "image_url": "chip-of-the-day/images/2026-05-19.webp",
-    "item_name": "Bakery Cardamom"
+    "image_url": "https://www.bestwaywholesale.co.uk/img/products/1000/3/5000328024523.jpg",
+    "item_name": "Turkey"
   },
   {
     "date": "2026-05-20",
-    "description": "Honoring Cambodia's history on this day of remembrance. These Lemon Spicy chips offer a bold, bright zest to honor an enduring spirit.",
-    "event_name": "Day of Remembrance (Cambodia)",
-    "event_url": "https://en.wikipedia.org/wiki/May_20",
-    "image_url": "chip-of-the-day/images/2026-05-20.webp",
-    "item_name": "Lemon Spicy"
+    "description": "Today's pick is Dill, drawn from the culinary traditions of Denmark.",
+    "event_name": "Culinary traditions (Denmark)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRMjc5njCTz-K889qs49KRy8-iQtFIUoC66zRQbV4HTgz9-oPKUUrrZ38UD5PvIfn-bkE8WV1zwl8K1AJXqMVzBo6Jt0AFmRrExhjTe34FggmwSWsB_JrXs",
+    "item_name": "Dill"
   },
   {
     "date": "2026-05-21",
