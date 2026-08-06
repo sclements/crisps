@@ -48,12 +48,12 @@
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT17ZXFq0QVzv3mGxiLIcGbW-HvXxIf6msq9jo3Z7G4LwYfmGNdmb6W3SdmxpySKLGJfbMrrO0zqLFOnj6WGftjhxohpUGcAQ"
   },
   {
-    "chip_name": "Mediterranean Falafel",
     "date": "2026-08-07",
-    "description": "Commemorating Assyrian Martyrs Day, our Mediterranean Falafel chips honor a deep history through authentic and aromatic spices.",
-    "event_name": "Assyrian Martyrs Day (Assyrian community)",
-    "event_url": "https://en.wikipedia.org/wiki/August_7",
-    "image_url": "https://regenies.com/cdn/shop/products/RANS_Faux-7.5Fx11.5R-MED_copy.jpg?v=1668526128&width=1445"
+    "description": "Today's pick is Beef Tallow, drawn from the culinary traditions of Argentina.",
+    "event_name": "Culinary traditions (Argentina)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSTpP-aZuizpio3b6eC8JLWnG37uxa1-N9VrYMOpJlMnKWrLwSDZqBIcCA60UEnrm9pANzo5gfBkiwDRN2R0TFTaCKm7tI9L9EPA2lw7QMWCjQhiJ77_nobaA",
+    "item_name": "Beef Tallow"
   },
   {
     "date": "2026-08-08",
@@ -65,10 +65,10 @@
   },
   {
     "date": "2026-08-10",
-    "description": "Celebrating the spirit of Ecuadorian independence. These Avocado Lime chips deliver a bright, victorious zest to honor this historic day.",
+    "description": "Honoring the historic struggle for Ecuadorian independence, these Avocado Ranch chips bring a bold, creamy zest to celebrate this day.",
     "event_name": "Declaration of Independence of Quito, proclaimed independence from Spain on August 10, 1809. Independence was finally attained on May 24, 1822, at the Battle of Pichincha. (Ecuador)",
     "event_url": "https://en.wikipedia.org/wiki/August_10",
-    "image_url": "https://m.media-amazon.com/images/I/61Pv17HSBtL._AC_.jpg",
-    "item_name": "Avocado Lime"
+    "image_url": "https://gowaybetter.com/wp-content/uploads/avocado-ranch-1000x1000.png",
+    "item_name": "Avocado Ranch"
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "title": "Trader Joe's easy meals and snacks, just in time for back-to-school",
+    "url": "https://www.lohud.com/story/grocery/2026/08/05/trader-joes-has-easy-meals-and-snacks-for-back-to-school/91183189007/",
+    "snippet": "From pre-made sandwiches to savory chips, here's what Trader Joe's is promoting for back-to-school season.",
+    "published_at": "2026-08-05T20:00:02Z",
+    "source": "Lohud",
+    "score": 7,
+    "reason": "The snippet explicitly mentions 'savory chips' in a food context, which triggers the rule to score 7 or higher. However, since it is part of a broader list of meals and snacks, it falls into the 7-8 range rather than being exclusively about chips.",
+    "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2025/10/27/PWES/86935170007-ts-102725-groceries-04.JPG?auto=webp&crop=7007,3943,x0,y364&format=pjpg&width=1200",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Rachel Allen gets into the business of crisps",
+    "url": "https://www.google.com/goto?url=CAESdAHuR6pNGHoY962n6KrbYpoxRgoZ4TXkmJ7KHixiR902RWmvi97VrhFUz92y-TwwxbST2EJh3qw-Gripu38QfCxrbm18IaM8M9VLj3L_xQHoGUIGGUm7PnU6EL887w9tQQF3ZvWzasTCCxMSphu7BMPvJECl",
+    "snippet": "",
+    "published_at": "2026-08-05T12:00:26Z",
+    "source": "EVOKE",
+    "score": 9,
+    "reason": "The title directly identifies a brand/business news story regarding the launch of a new line of crisps (potato chips).",
+    "image_url": "https://evoke.ie/wp-content/uploads/2026/08/ODonnellsGroupShot_KateODonnellRachelAllen-EdODonnell_0001.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Taste test review of Koikeya's potato chips 'Nogi nori salt' and 'Nozaki no kebab,' collaborations with the popular drama 'VIVANT.'",
+    "url": "https://gigazine.net/gsc_news/en/20260805-koikeya-vivant-potato-chips/",
+    "snippet": "TBS Sunday drama '. VIVANT ' and Koikeya have collaborated to create ' VIVANT Potato Chips Nogi Nori Salt / Nozaki Kebab,...",
+    "published_at": "2026-08-05T08:00:03Z",
+    "source": "GIGAZINE",
+    "score": 10,
+    "reason": "The article is a direct review of new potato chip flavors from the brand Koikeya, which falls into the highest relevance category.",
+    "image_url": "https://i.gzn.jp/img/2026/08/05/koikeya-vivant-potato-chips/00.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "The Best Potato Chips for Dip, According to 6 Chefs",
     "url": "https://www.simplyrecipes.com/best-potato-chips-for-dip-chefs-12028880",
     "snippet": "Chips and dip are a pairing that never goes out of style. Whether you're serving creamy ranch dip for game day or setting out a platter of...",
