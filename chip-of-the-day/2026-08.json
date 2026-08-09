@@ -78,5 +78,13 @@
     "event_url": "https://en.wikipedia.org/wiki/August_10",
     "image_url": "https://gowaybetter.com/wp-content/uploads/avocado-ranch-1000x1000.png",
     "item_name": "Avocado Ranch"
+  },
+  {
+    "date": "2026-08-11",
+    "description": "Today's pick is Spicy Salsa, drawn from the culinary traditions of Puerto Rico.",
+    "event_name": "Culinary traditions (Puerto Rico)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoPSlG9TueilG_fnq2RhhMOl9OG4Db9WyfAojQ4akP800QugdIpaUfzjbzCeHduNmoEzOornP19hag8zSGuuft278HEujircAL8qlmgo-QRAO3OGYxC2Rw",
+    "item_name": "Spicy Salsa"
   }
 ]
