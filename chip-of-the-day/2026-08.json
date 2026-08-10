@@ -86,5 +86,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoPSlG9TueilG_fnq2RhhMOl9OG4Db9WyfAojQ4akP800QugdIpaUfzjbzCeHduNmoEzOornP19hag8zSGuuft278HEujircAL8qlmgo-QRAO3OGYxC2Rw",
     "item_name": "Spicy Salsa"
+  },
+  {
+    "date": "2026-08-12",
+    "description": "Celebrating the strength of Russian Air Force Day, our Hot Mustard chips deliver a sharp, soaring heat that hits with precision.",
+    "event_name": "Russian Air Force Day (Russia)",
+    "event_url": "https://en.wikipedia.org/wiki/August_12",
+    "image_url": "https://i.ebayimg.com/images/g/LF8AAOSwlyNmX80B/s-l1600.jpg",
+    "item_name": "Hot Mustard"
   }
 ]
