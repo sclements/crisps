@@ -1,5 +1,23 @@
 [
   {
+    "title": "Looking for a new healthy snack? Try cowpea chips",
+    "url": "https://www.newsbytesapp.com/news/lifestyle/replace-crackers-with-cowpea-chips-here-s-why/story",
+    "snippet": "Unlike regular potato chips that are mostly empty calories, cowpea chips give you a nutrient boost with every bite. They are a great source of plant-based protein and can help you meet your daily ...",
+    "published_at": "2026-08-10T04:27:00Z",
+    "score": 8,
+    "reason": "The article focuses on cowpea chips, which falls under the category of veggie/protein chips (score 7-8). It also triggers the rule to score 7+ because 'chips' is used in a food context.",
+    "image_url": "https://i.cdn.newsbytesapp.com/images/l17320260810112638.jpeg"
+  },
+  {
+    "title": "The First Kettle Chip Brand Wasn't The Popular Cape Cod One",
+    "url": "https://www.aol.com/articles/first-kettle-chip-brand-wasnt-013500000.html",
+    "snippet": "Cape Cod might be one of the most popular kettle chip brands, but it wasn't the first. In fact, the creation of the kettle chip comes with a bit of controversy.",
+    "published_at": "2026-08-09T18:35:00Z",
+    "score": 9,
+    "reason": "The article is directly about the history and branding of potato chips (kettle chips), making it highly relevant to a chip-focused website.",
+    "image_url": "https://hermes.media.static.aol.com/media/2026/08/10/0e1418c1-2dce-37de-be19-2ad2ab7e6f5c/4d89d3e9-5461-459a-bc60-f708ef888f1f.jpg"
+  },
+  {
     "title": "Single-Ingredient Fruit Chips: Sour Fruit Crisps Have No Added Sugar, Preservatives…",
     "url": "https://www.trendhunter.com/trends/sour-fruit-crisps",
     "snippet": "The Sour Fruit crisps are a series of free-from snack products that are formulated to satiate demand for fruit-based taste experiences with...",

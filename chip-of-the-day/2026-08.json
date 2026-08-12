@@ -102,5 +102,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://museumofcrisps.com/wp-content/uploads/2020/08/chili-verde.jpg",
     "item_name": "Chile Verde"
+  },
+  {
+    "date": "2026-08-14",
+    "description": "Today's pick is Black Seed, drawn from the culinary traditions of United Arab Emirates.",
+    "event_name": "Culinary traditions (United Arab Emirates)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRStthIMVgOymYyF2usReWx-I8ShpKqmsLB6_8MfchvQ08UiayU1BoqBiiqqRsANqveq9W5t9VtIb-Do2p0vtOZTc_hGIoxoM5U_K6RUplxCB_SG0sTnKLK",
+    "item_name": "Black Seed"
   }
 ]
