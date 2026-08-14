@@ -118,5 +118,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://www.bananaindustries.co.uk/cdn/shop/files/86e88c349a441721aa7678bbf7164bc93b0c5f2cdd3153260539d848532b0b5c_676x700.png?v=1774795845",
     "item_name": "Black Garlic Sea Salt"
+  },
+  {
+    "date": "2026-08-16",
+    "description": "Today's pick is Lemon Spicy, drawn from the culinary traditions of Myanmar.",
+    "event_name": "Culinary traditions (Myanmar)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTs_GMBpN-dgc1xVvptCNAyhzZPDMq0OL4UfK1mOpAfWFKs2javRxvb3Q_icrXBblL9gTr7-yESyKiCfI9nQ3tc8SqqIOo0rtB-g65VUyVQBNOw_LEO-vG1",
+    "item_name": "Lemon Spicy"
   }
 ]
