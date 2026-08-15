@@ -126,5 +126,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTs_GMBpN-dgc1xVvptCNAyhzZPDMq0OL4UfK1mOpAfWFKs2javRxvb3Q_icrXBblL9gTr7-yESyKiCfI9nQ3tc8SqqIOo0rtB-g65VUyVQBNOw_LEO-vG1",
     "item_name": "Lemon Spicy"
+  },
+  {
+    "date": "2026-08-17",
+    "description": "Today's pick is Tapioca, drawn from the culinary traditions of Namibia.",
+    "event_name": "Culinary traditions (Namibia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRG_6MtUdA-ecQuc8vKIC93eAP6qVeik2m3x8pRfq-A9zqZpbwAKa1SWe4bT1E4hhEAer7wQuXuilcwWmi_j6IGrL7wN6NrtnCgkayv3f5HwbiKkmmYac7K",
+    "item_name": "Tapioca"
   }
 ]
