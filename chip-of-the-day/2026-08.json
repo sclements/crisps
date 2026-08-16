@@ -134,5 +134,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRG_6MtUdA-ecQuc8vKIC93eAP6qVeik2m3x8pRfq-A9zqZpbwAKa1SWe4bT1E4hhEAer7wQuXuilcwWmi_j6IGrL7wN6NrtnCgkayv3f5HwbiKkmmYac7K",
     "item_name": "Tapioca"
+  },
+  {
+    "date": "2026-08-18",
+    "description": "Saluting North Macedonia's Armed Forces Day. These Pit Bbq chips bring a bold, smoky flavor as powerful as the courage honored today.",
+    "event_name": "Armed Forces Day (North Macedonia)",
+    "event_url": "https://en.wikipedia.org/wiki/August_18",
+    "image_url": "https://m.media-amazon.com/images/I/91D1We+jGIL._SL1500_.jpg",
+    "item_name": "Pit Bbq"
   }
 ]
