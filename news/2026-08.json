@@ -1,5 +1,27 @@
 [
   {
+    "title": "'Super spicy' crisps land Japanese students in hospital",
+    "url": "https://www.bbc.com/news/articles/c9wv19gv119o",
+    "snippet": "The company's website is full of warnings - it \"forbids\" those under 18 from eating the fiery snacks.",
+    "published_at": "2026-08-17T08:05:09Z",
+    "source": "BBC",
+    "score": 9,
+    "reason": "The article is directly about an incident involving potato crisps, which falls under the highest relevance category for news regarding chip products.",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4365/live/25e85bf0-43f8-11ef-b67d-17eb750d2e82.png",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Meet Jessie Newlon. She helps keep Gold'N Krisp Potato Chips operating",
+    "url": "https://www.cantonrep.com/story/business/2026/08/16/meet-jessie-newlon-co-owner-of-goldn-krisp-potato-chips/90892844007/",
+    "snippet": "In our latest \"Five questions with\" feature, meet Jessie Newlon, co-owner of Massillon-based Gold'N Krisp Potato Chips.",
+    "published_at": "2026-08-16T10:04:32Z",
+    "source": "Canton Repository",
+    "score": 9,
+    "reason": "The article is brand news regarding the co-owner of a specific potato chip company, which falls directly into the top tier of relevance.",
+    "image_url": "https://www.cantonrep.com/gcdn/authoring/authoring-images/2026/08/05/NIND/91184458007-five-questions-with-jessie-newlon-main.jpg?crop=5057,2845,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+    "category": "oddities"
+  },
+  {
     "title": "The Protein-Packed Doritos Alternative That Customers Love - Tasting Table",
     "url": "https://www.tastingtable.com/2233732/protein-packed-doritos-alternative-customers-love/",
     "snippet": "",
@@ -8,28 +30,6 @@
     "score": 8,
     "reason": "The title mentions a major chip brand (Doritos) and discusses an alternative snack, which falls into the category of closely related snack foods or chip brand news.",
     "image_url": "https://www.tastingtable.com/img/gallery/protein-packed-doritos-alternative-customers-love/l-intro-1786406853.jpg",
-    "category": "reviews"
-  },
-  {
-    "title": "Every Wheat Thins Flavor, Ranked Worst To Best",
-    "url": "https://www.aol.com/articles/every-wheat-thins-flavor-ranked-092000000.html",
-    "snippet": "Did you know that Wheat Thins come in flavors? We tried all of the brand's offerings and ranked them from worst to best based on their...",
-    "published_at": "2026-08-15T09:36:07Z",
-    "source": "AOL.com",
-    "score": 7,
-    "reason": "Wheat Thins are a closely related snack food (crackers), which falls into the 7-8 score category according to the rubric.",
-    "image_url": "https://hermes.media.static.aol.com/media/2026/08/15/0dfc3a2c-d128-3c63-bcad-54e4e090803c/1cd6d7ea-f403-48c4-946f-e464ecedd141.jpg",
-    "category": "reviews"
-  },
-  {
-    "title": "Why You Should Avoid This Grocery Store Brand When Buying Cheddar Popcorn",
-    "url": "https://www.aol.com/articles/why-avoid-grocery-store-brand-174500000.html",
-    "snippet": "Popcorn makes for a tasty snack and a welcome addition to movie night. However, if you're looking for the cheesiest flavor, there's one store-brand to...",
-    "published_at": "2026-08-14T23:36:08Z",
-    "source": "AOL.com",
-    "score": 7,
-    "reason": "The article is about popcorn, which is explicitly categorized as a 'closely related snack food' in the 7-8 score range.",
-    "image_url": "https://hermes.media.static.aol.com/media/2026/08/14/8836b105-d97a-3999-a77d-df697de0707d/0f960fb9-1058-42a9-a975-bf6af7a7909d.jpg",
     "category": "reviews"
   },
   {
@@ -107,6 +107,17 @@
     "score": 7,
     "reason": "The article discusses a 'snack-inspired' non-snack product (ice cream), but per the key rules, mentioning 'chip' and a known brand in a food context requires a score of 7+.",
     "image_url": "https://www.dispatch.com/gcdn/authoring/authoring-images/2026/08/11/NCOD/91260561007-grippo-s-fun-food-crunch-ice-cream-05-credit-emily-lang-provided-by-united-dairy-farmers.jpg?crop=3769,2120,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Doritos launches F1 Head2Head two-flavor limited-edition chips",
+    "url": "https://qz.com/doritos-f1-head2head-two-flavor-chips-081126",
+    "snippet": "The bag combines a returning Late Night Loaded Taco chip with a new Chimichurri Lime flavor exclusive to the product.",
+    "published_at": "2026-08-12T08:04:42Z",
+    "source": "qz.com",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch from a major chip brand (Doritos), falling into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfkOgU-Pwkc5CBvrW-DWXFkC66pIDmtJof6uh5HdBOB2qVyG3PfJ6XU8&usqp=CAI&s",
     "category": "new_flavors"
   },
   {
