@@ -174,5 +174,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQisSYHxZZINSw3K61A0uRWSKKufV3wY4ZVcnAcsW8_JikEhs1JDErBqGuf44fYnv0aD0HxIXYhKrWM-cNmhU_4tBGeJmPRvZwBXrRkh7Hyl3AX8iK7AiC1",
     "item_name": "Sweet Smoky Mustard"
+  },
+  {
+    "date": "2026-08-23",
+    "description": "Today's pick is Chef, drawn from the culinary traditions of Cambodia.",
+    "event_name": "Culinary traditions (Cambodia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQT10dXIZhzjPqiRn7dUMVaEggIScsYEN4Rr-fjuxZOiOJxFcBtl5sQRx_msFi8rest9f2bvVAPgRp2njJwEEintGQP8clZ",
+    "item_name": "Chef"
   }
 ]
