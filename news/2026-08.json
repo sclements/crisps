@@ -1,5 +1,60 @@
 [
   {
+    "title": "Mariah ridiculed over TV ad for chips",
+    "url": "https://www.news.com.au/entertainment/tv/tv-shows/viewers-slam-mariah-carey-for-hating-chips-in-christmas-advert-despite-16-million-pay-cheque/news-story/641c1fc5a6a3462395f66dda1041809b",
+    "snippet": "Mariah Carey has been ridiculed for looking like she “hates” chips in a new UK Christmas commercial – despite being paid $16 million to...",
+    "published_at": "2026-08-22T08:22:59Z",
+    "source": "News.com.au",
+    "score": 7,
+    "reason": "The article discusses a chip brand's advertising campaign. According to the rules, since 'chips' is mentioned in a food context, it must score 7 or higher.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0LxAgEulE6j_cLywwd4V3LxBX2N217rZ6ks8_cU3c_rRN1tfL_vA08nM&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "Crisp Power’s protein pretzel portfolio sees new flavor",
+    "url": "https://commercialbaking.com/crisp-powers-protein-pretzel-portfolio-sees-new-flavor/",
+    "snippet": "CRISP POWER, known as a multi-format protein snack brand, is expanding its product lineup with the launch of Honey Mustard Protein Pretzels.",
+    "published_at": "2026-08-21T08:07:17Z",
+    "source": "Commercial Baking",
+    "score": 7,
+    "reason": "The title contains the word 'Crisp' within the brand name, which triggers the rule to score 7+ regardless of the product being a pretzel.",
+    "image_url": "https://commercialbaking.com/wp-content/uploads/2026/08/082026-Crisp-Power.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Meat snacks find new opportunities in chips and crackers",
+    "url": "https://www.meatpoultry.com/articles/33952-meat-snacks-find-new-opportunities-in-chips-and-crackers",
+    "snippet": "The market for meat snacks has long been dominated by traditional beef jerky, but consumers are broadening their definition of snacking and...",
+    "published_at": "2026-08-21T08:06:57Z",
+    "source": "meat+poultry",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the rule for a 7+ score. It describes a snack industry trend involving meat snacks expanding into chip formats.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaDTHQTz8QQkWJFv6GpRi0ZtN3e_eq6PePDZQuthqSCpA99R3dEaoLIAw&usqp=CAI&s",
+    "category": "business"
+  },
+  {
+    "title": "The Limousine-Driving Playboy Uncle who created “Big T!ts Potato Chips”",
+    "url": "https://www.ncrabbithole.com/p/the-limousine-driving-playboy-uncle-who-created-big-t-ts-potato-chips",
+    "snippet": "Every so often, a picture of an old bag of potato chips rockets around the internet. But how do we know it's real? How did it get the name?",
+    "published_at": "2026-08-21T08:06:56Z",
+    "source": "North Carolina Rabbit Hole",
+    "score": 9,
+    "reason": "The article is directly about the history and origin of a specific potato chip brand, making it highly relevant to a dedicated chips website.",
+    "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/c0920d45-15af-49fc-aee4-ff065c60c9d8/chips.jpg?t=1787287726",
+    "category": "oddities"
+  },
+  {
+    "title": "Well, Now Your Vodka Can Taste Like Dill Potato Chips",
+    "url": "https://www.newser.com/story/394978/well-now-your-vodka-can-taste-like-dill-potato-chips.html",
+    "snippet": "Your chips can now come in a shot glass. Sugarlands Distilling has rolled out Pringles Dill Pickle Potato Vodka, a 60-proof spirit meant to...",
+    "published_at": "2026-08-21T08:06:56Z",
+    "source": "Newser",
+    "score": 7,
+    "reason": "While the product is vodka, the title and snippet explicitly mention 'potato chips' and the brand 'Pringles', which triggers the rule to score 7+.",
+    "image_url": "https://cdn.newser.com/image/1706410-12-20260820100104.jpeg",
+    "category": "oddities"
+  },
+  {
     "title": "Four-Ingredient Tortilla Chips: Tozi Superfoods' Blue Corn Totopos are Free from Seed Oils",
     "url": "https://www.trendhunter.com/trends/blue-corn-totopos",
     "snippet": "For years, Mexican households have made totopos with a handful of ingredients and when the creators of Tozi Superfoods failed to find...",
@@ -80,6 +135,17 @@
     "reason": "The title mentions a major chip brand (Doritos) and discusses an alternative snack, which falls into the category of closely related snack foods or chip brand news.",
     "image_url": "https://www.tastingtable.com/img/gallery/protein-packed-doritos-alternative-customers-love/l-intro-1786406853.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "Cheetos Is Releasing a First-Of-Its-Kind New Flavor",
+    "url": "https://www.google.com/goto?url=CAESgAEB6zswFaNPVFMk4auKoY4Ivr6tAVXAxEZAtt7xM6wmn2t2WKzNQZPiJcqjoj3kDNhoskpc1bFOMNWTU_pgB_XrsuGF5lUgHofCNzAC-gbm24Qk-GMgZ-XGRClpvtywdR1pLWNlKpAXr7GjsY1-ovyKbWle9kGePZfsVtzzR1eevw",
+    "snippet": "Cheetos is releasing new Sweet Phantom Heat Puffs, a spicy snack inspired by Sichuan peppers with a spicy, numbing flavor.",
+    "published_at": "2026-08-15T08:07:07Z",
+    "source": "Allrecipes",
+    "score": 8,
+    "reason": "The article is about a new flavor from Cheetos, a major snack brand. While corn puffs are not potato chips, they fall under the 'closely related snack foods' category in the rubric and satisfy the rule regarding known snack brands.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVVHcnVvcLnHFbuTOBzYr0ikpW_A7b-7CV0lVPM_pj5ZvLzXrqx0wEDWg&usqp=CAI&s",
+    "category": "new_flavors"
   },
   {
     "title": "Get Free Potato Chips At Stop & Shop: Here's How",
@@ -585,6 +651,17 @@
     "score": 10,
     "reason": "The article is directly about a new flavor launch for Pringles, which falls under the highest relevance category (new flavors/brand news for potato chips).",
     "category": "new_flavors"
+  },
+  {
+    "title": "After Selling My Breakout Candy Brand, I’m Reinventing the Potato Chip",
+    "url": "https://www.google.com/goto?url=CAEScAHrOzAVUUC3FhY_vZmN66o5iWTx2_x52tbT_2QWi-gp1581J-NqUG8Q9VBS9R_UY2rzi1yM1v_ZOHgrDrdA1zfuD9BcGOWiuXBMDxB9Yn8ggkDOnnvgUH_Nu8ILLbdhxkstSz2TeHKnfuKesWClOZk",
+    "snippet": "Tara Bosch made Canadian history with SmartSweets, scaling it from her basement into the fastest-growing CPG brand ever founded by a solo female...",
+    "published_at": "2026-07-23T08:07:01Z",
+    "source": "Canadian Business",
+    "score": 9,
+    "reason": "The article is directly about a brand launch in the potato chip category, which falls under 'brand news' as defined in the 9-10 rubric.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPx_nZ5xobTN9388daPrY58hlSQyiaA-aST4XnAL8HNAnSy_HQ8x31Rkk&usqp=CAI&s",
+    "category": "business"
   },
   {
     "title": "'My love for side dishes inspired possible new crisp flavour'",

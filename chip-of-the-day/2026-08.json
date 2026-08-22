@@ -182,5 +182,16 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQT10dXIZhzjPqiRn7dUMVaEggIScsYEN4Rr-fjuxZOiOJxFcBtl5sQRx_msFi8rest9f2bvVAPgRp2njJwEEintGQP8clZ",
     "item_name": "Chef"
+  },
+  {
+    "audience_countries": [
+      "Liberia"
+    ],
+    "date": "2026-08-24",
+    "description": "Celebrating Liberia's Flag Day! These Powdered Sugar chips offer a sweet tribute to the bright white stripes of the national flag.",
+    "event_name": "Flag Day (Liberia)",
+    "event_url": "https://en.wikipedia.org/wiki/August_24",
+    "image_url": "http://goldencannoli.com/cdn/shop/products/PS506_Bag_1024x1024.jpg?v=1569349313",
+    "item_name": "Powdered Sugar"
   }
 ]
