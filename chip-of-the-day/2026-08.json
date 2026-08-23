@@ -193,5 +193,13 @@
     "event_url": "https://en.wikipedia.org/wiki/August_24",
     "image_url": "http://goldencannoli.com/cdn/shop/products/PS506_Bag_1024x1024.jpg?v=1569349313",
     "item_name": "Powdered Sugar"
+  },
+  {
+    "date": "2026-08-25",
+    "description": "Today's pick is Okra, drawn from the culinary traditions of Chad.",
+    "event_name": "Culinary traditions (Chad)",
+    "event_url": "USDA Cache",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTE8oa5N6-K0AAxjndzShl5svP-nuPpgRBXVp5-ST0_vSZknLAYqKJ3_6umSmsE8-UDzJ6-wTmoC81HJpu11fYGhZbD4Tyekj1LLnj30Owlk4GyApam8he9",
+    "item_name": "Okra"
   }
 ]
