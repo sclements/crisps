@@ -201,5 +201,16 @@
     "event_url": "USDA Cache",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTE8oa5N6-K0AAxjndzShl5svP-nuPpgRBXVp5-ST0_vSZknLAYqKJ3_6umSmsE8-UDzJ6-wTmoC81HJpu11fYGhZbD4Tyekj1LLnj30Owlk4GyApam8he9",
     "item_name": "Okra"
+  },
+  {
+    "audience_countries": [
+      "Namibia"
+    ],
+    "date": "2026-08-26",
+    "description": "Honoring the bravery of Namibia's legends on this Heroes' Day. These earthy Malanga chips celebrate the strong, grounded spirit of those who fought for freedom.",
+    "event_name": "Heroes' Day (Namibia)",
+    "event_url": "https://en.wikipedia.org/wiki/August_26",
+    "image_url": "http://puertorico-market.com/cdn/shop/files/IMG-1375.png?v=1760387698",
+    "item_name": "Malanga"
   }
 ]
