@@ -121,6 +121,17 @@
     "category": "reviews"
   },
   {
+    "title": "Lays India’s Insight into Occasion-Based Snacking - MarkHub24",
+    "url": "https://www.markhub24.com/post/lays-india-s-insight-into-occasion-based-snacking",
+    "snippet": "",
+    "published_at": "2026-08-25T04:38:03Z",
+    "source": "MarkHub24",
+    "score": 8,
+    "reason": "The title mentions Lays, a major potato chip brand, and focuses on snack industry business strategy, which falls into the 7-8 range.",
+    "image_url": "https://static.wixstatic.com/media/8a841b_9934bceece974d7d888486f887f5648d~mv2.jpg/v1/fill/w_1000,h_558,al_c,q_85,usm_0.66_1.00_0.01/8a841b_9934bceece974d7d888486f887f5648d~mv2.jpg",
+    "category": "business"
+  },
+  {
     "title": "Kurkure’s Insight into Regional Flavor Preferences",
     "url": "https://www.markhub24.com/post/kurkure-s-insight-into-regional-flavor-preferences",
     "snippet": "India's branded savoury snacks market is one of the most structurally complex consumer goods arenas in the world.",
@@ -355,6 +366,17 @@
     "reason": "The article is about a new flavor from Cheetos, a major snack brand. While corn puffs are not potato chips, they fall under the 'closely related snack foods' category in the rubric and satisfy the rule regarding known snack brands.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVVHcnVvcLnHFbuTOBzYr0ikpW_A7b-7CV0lVPM_pj5ZvLzXrqx0wEDWg&usqp=CAI&s",
     "category": "new_flavors"
+  },
+  {
+    "title": "Give Stale Chips Their Satisfying Crunch Back Using Your Microwave - Yahoo",
+    "url": "https://www.yahoo.com/lifestyle/articles/stale-chips-satisfying-crunch-back-185500674.html",
+    "snippet": "",
+    "published_at": "2026-08-15T07:00:00Z",
+    "source": "Yahoo",
+    "score": 9,
+    "reason": "The article is directly about potato chips (addressing staleness), which falls under the 9-10 category for content directly about potato chips.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/33cc35333b90a1a2b8712306d2daab3528273005e7d313eef20afe24bed3bf9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchowhound_739%2Fb44cda5049bf206b04b853be4cf9bb4a.jpg",
+    "category": "oddities"
   },
   {
     "title": "Get Free Potato Chips At Stop & Shop: Here's How",
@@ -895,6 +917,16 @@
     "category": "business"
   },
   {
+    "title": "Ultra-Comforting Potato Chips: Couch Potato Makes Flavors Like Mustard Hot Dog and Mac… - Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/couch-potato-chips",
+    "snippet": "",
+    "published_at": "2026-07-23T07:00:00Z",
+    "source": "Trend Hunter",
+    "score": 10,
+    "reason": "The article is directly about new potato chip flavors, which falls under the highest relevance category.",
+    "category": "oddities"
+  },
+  {
     "title": "'My love for side dishes inspired possible new crisp flavour'",
     "url": "https://www.google.com/goto?url=CAESaAHuR6pN1QnmZbnxGY5F_nrVtcZkALKywJ2jF2tqTxaeH0O5yNIyNnrLKABciZx0f-du_K13Cktp7_Uj27In_IZC4Zk2LWOCGVk-cp24el3Lnnq27yY3YTf2ddQozw5LEVMPQVYrSCS1",
     "snippet": "'It doesn't feel real'. Thousands of people entered ideas for the competition, run by Walkers Crisps. Judges whittled them down to a final six...",
@@ -949,6 +981,16 @@
     "category": "recalls_safety"
   },
   {
+    "title": "Don't invite food poisoning to your BBQ. 2 potato chip brands recalled - azcentral.com and The Arizona Republic",
+    "url": "https://www.azcentral.com/story/grocery/shopping/2026/07/02/zapps-chips-dirty-brand-chips-recalled/90784558007/",
+    "snippet": "",
+    "published_at": "2026-07-02T07:00:00Z",
+    "source": "azcentral.com and The Arizona Republic",
+    "score": 9,
+    "reason": "The article is directly about a recall of potato chip brands, which falls under the top tier of relevance.",
+    "category": "recalls_safety"
+  },
+  {
     "title": "I ate Walkers World Cup crisps flavours - three words sum them up - Wales Online",
     "url": "https://www.walesonline.co.uk/whats-on/food-drink-news/ate-walkers-world-cup-crisps-34166147",
     "snippet": "",
@@ -967,6 +1009,16 @@
     "score": 9,
     "reason": "The article is directly about new flavors of crisps being released in stores, which falls into the highest relevance category for a chip-focused website.",
     "image_url": "https://i2-prod.dailystar.co.uk/article37172692.ece/ALTERNATES/s1200d/1_A-logo-on-a-branch-of-a-Home-Bargains-store-in-London.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "PepsiCo continues That’s Nuts expansion with two bold additions - Grocery Trader",
+    "url": "https://grocerytrader.co.uk/pepsico-continues-thats-nuts-expansion-with-two-bold-additions/",
+    "snippet": "",
+    "published_at": "2026-06-02T07:00:00Z",
+    "source": "Grocery Trader",
+    "score": 7,
+    "reason": "The article is snack industry business news involving PepsiCo, a major chip manufacturer. While the product (nuts) is not a chip, business news regarding the expansion of brands owned by major chip makers falls into the 7-8 category.",
     "category": "new_flavors"
   },
   {
