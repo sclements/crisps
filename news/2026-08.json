@@ -66,6 +66,17 @@
     "category": "recalls_safety"
   },
   {
+    "title": "Pringles made dill pickle vodka — Reddit thought it was ridiculous until someone found the perfect use",
+    "url": "https://creators.yahoo.com/lifestyle/story/pringles-made-dill-pickle-vodka--reddit-thought-it-was-ridiculous-until-someone-found-the-perfect-use-194045116.html",
+    "snippet": "Pringles dill pickle vodka had Reddit asking who would drink it, until commenters pointed out the savory cocktails where the unusual flavor...",
+    "published_at": "2026-08-25T20:00:09Z",
+    "source": "Yahoo Creators",
+    "score": 8,
+    "reason": "The article is brand news involving a major chip manufacturer (Pringles), which falls into the 7-8 category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/c5de63e2b68b78a2d6aae838127c7c5ccb5693264fab1e7a7040c48253e9297c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-08-25-at-31542-pm_3830.png",
+    "category": "oddities"
+  },
+  {
     "title": "My Mom Found These Dangerously Good European Potato Chips at a Hidden Gem in Tiverton",
     "url": "https://fun107.com/tiverton-rhode-island-goat-cheese-chips/",
     "snippet": "Groundswell Guild in Tiverton, RI carries Bret's French goat cheese potato chips, a gluten-free European treat reminiscent of Portuguese...",
@@ -75,6 +86,17 @@
     "reason": "The article is directly about a specific brand and flavor of potato chips, making it highly relevant to a chip-focused news site.",
     "image_url": "https://townsquare.media/site/519/files/2026/08/attachment-brets-french-potato-chips-found-in-tiverton-rhode-island-3.jpg?w=1200&format=natural",
     "category": "reviews"
+  },
+  {
+    "title": "Que Pasa adds 4 new tortilla chip flavors",
+    "url": "https://www.google.com/goto?url=CAESfwHrOzAVVmVnxqZrEEK5oXZgttbceFb-nz6vq4qMRm9ZdplJ9JvOTWfLfctxVXWUOCzPT9OVk66mvAahz_IZe9aW3dXpwcSmvOIVHTytym--FEzzXluH7xOCIV8JdiLaoXL60Uz6rV54vwABzucvGj9m82rVVnwqTgVeV6G-Rr0",
+    "snippet": "RICHMOND, BC — Que Pasa, the organic tortilla chip brand under Nature's Path Organic Foods' portfolio, introduced four new flavors: Hot Honey, Chipotle BBQ,...",
+    "published_at": "2026-08-25T08:00:22Z",
+    "source": "Commercial Baking",
+    "score": 8,
+    "reason": "The article is about new flavors for a tortilla chip brand. According to the rubric, while potato chips fall into the 9-10 range, tortilla chips are categorized in the 7-8 range.",
+    "image_url": "https://commercialbaking.com/wp-content/uploads/2026/08/082426-Que-Pasa.jpg",
+    "category": "new_flavors"
   },
   {
     "title": "Boulder Canyon Thin & Crispy Cheddar Sour Cream Potato Chips, 6 oz Bag | Thin-cut, crispy texture with bold cheddar and sour cream flavor",
@@ -218,6 +240,17 @@
     "reason": "While the product is vodka, the title and snippet explicitly mention 'potato chips' and the brand 'Pringles', which triggers the rule to score 7+.",
     "image_url": "https://cdn.newser.com/image/1706410-12-20260820100104.jpeg",
     "category": "oddities"
+  },
+  {
+    "title": "Drought to lead to smaller chips, crisps and baking potatoes",
+    "url": "https://www.google.com/goto?url=CAESowEB6zswFf-DbjtmpxQdRW8aJjs9z5VOp5eDV7KyAItMBxO7tERLSxWu1VfsCkIhDNZgh0SlU39rxWdRV1DJ1vT6lvT5DO9-yzsks3Qn3fuRU0CTQf2y-DVmEYNNA2oZ2PK2jHIUwezJnSxGSh17DLQeNt1dfwh62Z186U3pj5l596PvOgTgekUzvLM6WJgmL6z-9VQmnBwUHGVdnogqLjub_IAy",
+    "snippet": "Leading supplier Albert Bartlett said the prolonged dry weather was having a serious impact on the size of crops, as well as making...",
+    "published_at": "2026-08-20T08:00:38Z",
+    "source": "The Grocer",
+    "score": 8,
+    "reason": "The article directly mentions 'chips' and 'crisps' in the context of crop supply, which triggers the rule for a 7+ score. It concerns industry-specific news regarding the raw materials used to make chips.",
+    "image_url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/4/5/6/403456_potatoesinafieldgetty_398718.jpg",
+    "category": "business"
   },
   {
     "title": "Even potato-chip tasters are temporary in the economy of 2026 — there's nearly 57 million of these 'disposable workers'",
