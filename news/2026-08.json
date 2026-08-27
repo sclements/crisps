@@ -1,5 +1,48 @@
 [
   {
+    "title": "Lay's Baked Vs Sunchips: Which Is The Healthier Choice - Tasting Table",
+    "url": "https://www.tastingtable.com/2241647/lays-baked-vs-sunchips-healthier/",
+    "snippet": "",
+    "published_at": "2026-08-26T23:00:00Z",
+    "source": "Tasting Table",
+    "score": 9,
+    "reason": "The article is a direct comparison and review of specific chip brands (Lay's and Sunchips), which falls directly into the highest relevance category.",
+    "image_url": "https://www.tastingtable.com/img/gallery/lays-baked-vs-sunchips-healthier/l-intro-1787406422.jpg",
+    "category": "health"
+  },
+  {
+    "title": "Pringles Just Dropped 'Extra Thick' Chips Made For Dipping—Here's How They Hold Up",
+    "url": "https://www.google.com/goto?url=CAEShgEB6zswFZEUGBMJDORMdEKLYxAJ53yVgumiSEqF0i3bw-TUM8zKNyRqGllc-7JGkmwxTStfXFvWg2CeNJaY5k0jwg4qJ9Q4-6f3H5_UhYmpJrUEwcssCncbTlRKshIQAMG-BrwEUdAxpHDKKHdTOvW0UZW-Ln99kjNOvCutzfi079DtsulDHg",
+    "snippet": "Pringles Dippers are thicker, wavier chips made for dipping. We tried Original, French Onion, and Bacon Cheddar to see how they taste and...",
+    "published_at": "2026-08-26T13:00:05Z",
+    "source": "Delish",
+    "score": 10,
+    "reason": "The article is directly about a new chip product launch and review from a major brand (Pringles), making it highly relevant.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/9f596d24-71cb-48dc-81ae-01259667ebdc.jpg?crop=0.749xw:0.749xh;0.145xw,0.17xh&resize=1200:*",
+    "category": "reviews"
+  },
+  {
+    "title": "Pringles Has 3 New, First-Of-Their-Kind Chips—and We Tried Them First - Allrecipes",
+    "url": "https://www.allrecipes.com/new-pringles-dippers-12067210",
+    "snippet": "",
+    "published_at": "2026-08-26T13:00:00Z",
+    "source": "Allrecipes",
+    "score": 10,
+    "reason": "The article is directly about new flavors and reviews for Pringles, a major potato chip brand.",
+    "category": "reviews"
+  },
+  {
+    "title": "Pringles Just Fixed An Age-Old Problem With This New Chip - The Takeout",
+    "url": "https://www.thetakeout.com/2244072/pringles-fix-problem-new-wavy-thick-chip-dipper/",
+    "snippet": "",
+    "published_at": "2026-08-26T13:00:00Z",
+    "source": "The Takeout",
+    "score": 10,
+    "reason": "The article is directly about Pringles, a major chip brand, discussing a new product innovation in the potato chip category.",
+    "image_url": "https://www.thetakeout.com/img/gallery/pringles-just-fixed-an-age-old-problem-with-this-new-chip/l-intro-1787686956.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "EXCLUSIVE: Proper Chips to launch new Hot Sauce flavour in early 2026",
     "url": "https://www.google.com/goto?url=CAESkQEB6zswFXylh995y3tgBT10ZX3_PCYKHIFx31lKpOJJgQElAbbzuhwAew4-KTAUN3E1_XIuHMSTKxgbJN6tWy6BJ2-RbIgI5ONNZxR1zM3e5nbtyumiwr24qWnyhqiMKEOEA1ibtbcu6pSfcY45FGos_NLIAd0KyDL-osExSmf-Q227MI4HjvaatbJk1bgXFAro",
     "snippet": "The new lines include Proper Chips BBQ and Proper Chips Prawn Cocktail available in 30g grab bags at an RRP of 75p.",
@@ -174,6 +217,16 @@
     "reason": "The article is directly about a specific flavor of potato chips, which falls into the highest relevance category.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD3KR6dn4ZoNvUMfbXbOeTBv_TCMYaI06aSHMLJ0FFyw3o_DnRKeK1RLA&usqp=CAI&s",
     "category": "new_flavors"
+  },
+  {
+    "title": "What is a ‘chip-bag sandwich’? Viral deli item explained - YourCentralValley.com",
+    "url": "https://www.yourcentralvalley.com/news/what-is-a-chip-bag-sandwich-viral-deli-item-explained/",
+    "snippet": "",
+    "published_at": "2026-08-23T02:02:00Z",
+    "source": "YourCentralValley.com",
+    "score": 7,
+    "reason": "The article discusses a viral food trend centered around the use of potato chips, which triggers the mandatory 7+ score for mentioning 'chip' in a food context.",
+    "category": "oddities"
   },
   {
     "title": "Mariah ridiculed over TV ad for chips",

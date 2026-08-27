@@ -231,5 +231,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://daesanguk.com/storage/products/cover_65c4b84e7d485.jpg",
     "item_name": "Seaweed"
+  },
+  {
+    "date": "2026-08-29",
+    "description": "Today's pick is Ginger Snap Sprouted, drawn from the culinary traditions of Nepal.",
+    "event_name": "Culinary traditions (Nepal)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStgeIkPvAsC-DphcBpDW8AVahNtJl5DJCect5C56tB8H76Kr3TMfMP4y_4yYD5Lt2MSrSIhsazhnoB-jhZLwO3Vldp2JsgL_07okBNXsO4aovuXmFKzeUqHA",
+    "item_name": "Ginger Snap Sprouted"
   }
 ]
