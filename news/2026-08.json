@@ -1,5 +1,68 @@
 [
   {
+    "title": "Rev Up: Teddy’s Tallow Chips take the national stage - BizTimes - Milwaukee Business News",
+    "url": "https://biztimes.com/rev-up-teddys-tallow-chips-take-the-national-stage/",
+    "snippet": "",
+    "published_at": "2026-08-27T21:00:28Z",
+    "source": "BizTimes - Milwaukee Business News",
+    "score": 8,
+    "reason": "The title specifically mentions a chip brand ('Teddy's Tallow Chips'), which falls into the 7+ category according to the scoring rules.",
+    "category": "business"
+  },
+  {
+    "title": "Once easily breakable, iconic chips brand is launching a thicker version for dipping - AL.com",
+    "url": "https://www.al.com/life/2026/08/once-easily-breakable-iconic-chips-brand-is-launching-a-thicker-version-for-dipping.html",
+    "snippet": "",
+    "published_at": "2026-08-27T15:23:00Z",
+    "source": "AL.com",
+    "score": 9,
+    "reason": "The article is directly about a chip brand launching a new product, which falls into the highest relevance category.",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Pringles introduces its thickest crisp yet - FOX 8 News",
+    "url": "https://fox8.com/news/pringles-introduces-its-thickest-crisp-yet/",
+    "snippet": "",
+    "published_at": "2026-08-27T14:57:06Z",
+    "source": "FOX 8 News",
+    "score": 10,
+    "reason": "The article is directly about a new product release from Pringles, a major chip brand, which falls into the highest relevance category.",
+    "category": "new_flavors"
+  },
+  {
+    "title": "'Nothing beats ready salted': Your views on crisp flavours in Spain - The Local Spain",
+    "url": "https://www.thelocal.es/20260827/nothing-beats-ready-salted-your-views-on-crisp-flavours-in-spain",
+    "snippet": "",
+    "published_at": "2026-08-27T13:42:58Z",
+    "source": "The Local Spain",
+    "score": 9,
+    "reason": "The article is directly about flavors of crisps (potato chips), which falls into the highest relevance category.",
+    "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/08/watermarks-logo-pexels-doraklimova-8130809.jpg@webp",
+    "category": "oddities"
+  },
+  {
+    "title": "How Pringles has engineered the physics of the perfect dip - BakeryAndSnacks.com",
+    "url": "https://www.bakeryandsnacks.com/Article/2026/08/27/pringles-dippers-and-the-science-of-dips-and-toppings/",
+    "snippet": "",
+    "published_at": "2026-08-27T10:31:49Z",
+    "source": "BakeryAndSnacks.com",
+    "score": 9,
+    "reason": "The article is brand news specifically about Pringles, a major chip brand, regarding its product engineering.",
+    "image_url": "https://www.bakeryandsnacks.com/resizer/v2/EMKLA3GI3JCULEI2HDJPBWKQIE.jpg?auth=3030afbf78c84e16b83acf5ab1ecda1767c92a3c9a0ad7d0401e2c3a23409b0a&width=1200&height=630&smart=true",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Walkers brings back TWO fan-favourite crisp flavours in new ‘Wavy Cut’ range - The Sun",
+    "url": "https://www.thesun.co.uk/money/40186496/walkers-brings-back-new-wavy-cut/",
+    "snippet": "",
+    "published_at": "2026-08-27T09:42:00Z",
+    "source": "The Sun",
+    "score": 10,
+    "reason": "The article is directly about new flavors and product releases for Walkers, a major potato chip brand.",
+    "image_url": "https://www.thesun.co.uk/wp-content/uploads/2026/03/multiple-bags-walkers-crisps-display-753955677.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+    "category": "new_flavors"
+  },
+  {
     "title": "Lay's Baked Vs Sunchips: Which Is The Healthier Choice - Tasting Table",
     "url": "https://www.tastingtable.com/2241647/lays-baked-vs-sunchips-healthier/",
     "snippet": "",
@@ -1011,6 +1074,17 @@
     "reason": "The article is directly about potato chips and how to improve their flavor, making it highly relevant to a chip-focused audience.",
     "image_url": "https://www.tastingtable.com/img/gallery/flavorful-potato-chips-seasoning-hack-trader-joes/l-intro-1782850359.jpg",
     "category": "oddities"
+  },
+  {
+    "title": "8 ON YOUR SIDE CONSUMER ALERT: Potato chip recall upgraded to highest warning level - WAKA 8",
+    "url": "https://www.waka.com/2026/07/03/8-on-your-side-consumer-alert-potato-chip-recall-upgraded-to-highest-warning-level/",
+    "snippet": "",
+    "published_at": "2026-07-03T07:00:00Z",
+    "source": "WAKA 8",
+    "score": 10,
+    "reason": "The article is directly about a potato chip recall, which falls into the highest relevance category (9-10).",
+    "image_url": "https://www.waka.com/content/uploads/2026/07/l/z/23potatochiprecall070326.jpg",
+    "category": "recalls_safety"
   },
   {
     "title": "Recalled chips now under high FDA risk. Were they sold in Illinois? - Peoria Journal Star",
