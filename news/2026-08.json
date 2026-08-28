@@ -1,5 +1,15 @@
 [
   {
+    "title": "Malmesbury woman’s Walkers crisps to go on sale across UK",
+    "url": "https://www.cotswoldjournal.co.uk/news/26498157.malmesbury-womans-walkers-crisps-go-sale-across-uk/",
+    "snippet": "A TEACHING assistant from Malmesbury has reached the final of a national crisp flavour competition. Lydia Houghton, who works at Malmesbury Primary School, entered Walkers’ Do Us A Flavour with her ...",
+    "published_at": "2026-08-27T22:29:00Z",
+    "score": 10,
+    "reason": "The article is directly about the release of a new flavor for Walkers crisps, falling under both 'new flavors' and 'brand news'.",
+    "image_url": "https://www.cotswoldjournal.co.uk/resources/images/21367658.jpg?type=og-image",
+    "category": "oddities"
+  },
+  {
     "title": "Rev Up: Teddy’s Tallow Chips take the national stage - BizTimes - Milwaukee Business News",
     "url": "https://biztimes.com/rev-up-teddys-tallow-chips-take-the-national-stage/",
     "snippet": "",
@@ -72,6 +82,15 @@
     "reason": "The article is a direct comparison and review of specific chip brands (Lay's and Sunchips), which falls directly into the highest relevance category.",
     "image_url": "https://www.tastingtable.com/img/gallery/lays-baked-vs-sunchips-healthier/l-intro-1787406422.jpg",
     "category": "health"
+  },
+  {
+    "title": "BBQ potato chips hack that actually worked",
+    "url": "https://www.msn.com/en-gb/food-and-drink/general/bbq-potato-chips-hack-that-actually-worked/vi-AA2aZKxW",
+    "snippet": "A simple kitchen hack turns fingerling potatoes and barbecue sauce into BBQ chips with a grinder. A surprising snack idea that really works.",
+    "published_at": "2026-08-26T15:00:00Z",
+    "score": 9,
+    "reason": "The article is directly about creating potato chips, which falls under the primary topic of a chip-focused website. Per the key rules, mentioning 'chips' in a food context requires a score of 7 or higher.",
+    "category": "oddities"
   },
   {
     "title": "Pringles Just Dropped 'Extra Thick' Chips Made For Dipping—Here's How They Hold Up",
@@ -391,6 +410,26 @@
     "category": "business"
   },
   {
+    "title": "Lay's Has A Wildly Divisive International Flavor That Some Customers Love (And Plenty Seem To Hate) - Tasting Table",
+    "url": "https://www.tastingtable.com/2236716/lays-divisive-flavor-cucumber-customers-love-hate/",
+    "snippet": "",
+    "published_at": "2026-08-20T07:00:00Z",
+    "source": "Tasting Table",
+    "score": 10,
+    "reason": "The article is directly about a specific potato chip brand (Lay's) and its flavors, which falls into the highest relevance category.",
+    "image_url": "https://www.tastingtable.com/img/gallery/lays-has-a-wildly-divisive-international-flavor-that-some-customers-love-and-plenty-seem-to-hate/l-intro-1786657543.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Costco has 2 new Pringles flavors we’re adding to our carts immediately",
+    "url": "https://www.msn.com/en-us/food-and-drink/general/costco-has-2-new-pringles-flavors-we-re-adding-to-our-carts-immediately/ar-AA2aypdm",
+    "snippet": "It’s a good day to be a warehouse member.",
+    "published_at": "2026-08-20T06:00:00Z",
+    "score": 10,
+    "reason": "The article is directly about new flavors of Pringles, a major potato chip brand.",
+    "category": "new_flavors"
+  },
+  {
     "title": "Four-Ingredient Tortilla Chips: Tozi Superfoods' Blue Corn Totopos are Free from Seed Oils",
     "url": "https://www.trendhunter.com/trends/blue-corn-totopos",
     "snippet": "For years, Mexican households have made totopos with a handful of ingredients and when the creators of Tozi Superfoods failed to find...",
@@ -471,6 +510,16 @@
     "reason": "The title mentions a major chip brand (Doritos) and discusses an alternative snack, which falls into the category of closely related snack foods or chip brand news.",
     "image_url": "https://www.tastingtable.com/img/gallery/protein-packed-doritos-alternative-customers-love/l-intro-1786406853.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "Kikifoodies’ Guide to Making the Best Crispy & Delicious Nigerian Plantain Chips",
+    "url": "https://www.bellanaija.com/2026/08/kikifoodies-crispy-nigerian-plantain-chips-recipe/",
+    "snippet": "Kikifoodies details how to make crispy Nigerian plantain chips at home using green or semi-ripe plantains, a mandoline slicer, and a simple frying technique for the ultimate crunch.",
+    "published_at": "2026-08-15T10:20:00Z",
+    "score": 8,
+    "reason": "The article is a recipe for plantain chips, which falls under the category of closely related snack foods like veggie chips.",
+    "image_url": "https://www.bellanaija.com/wp-content/uploads/2026/08/ET5B2169-3-1-1536x2048-1-e1786817639795-1000x600.jpg",
+    "category": "oddities"
   },
   {
     "title": "Cheetos Is Releasing a First-Of-Its-Kind New Flavor",
