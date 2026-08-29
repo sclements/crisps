@@ -1,5 +1,25 @@
 [
   {
+    "title": "4 brands offering potato chips that are kosher for Passover",
+    "url": "https://www.msn.com/en-us/food-and-drink/recipes/4-brands-offering-potato-chips-that-are-kosher-for-passover/ar-AA2b8QAw",
+    "snippet": "Snacking during Passover can get pretty limiting when you're keeping Kosher — but these four major potato chip brands will have you covered this year.",
+    "published_at": "2026-08-28T14:30:00Z",
+    "score": 9,
+    "reason": "The article is directly about potato chip brands and product availability, fitting the criteria for top-tier relevance.",
+    "category": "reviews"
+  },
+  {
+    "title": "A snack lover’s guide to German crisps",
+    "url": "https://www.thelocal.de/20260828/a-snack-lovers-guide-to-german-crisps",
+    "snippet": "Hard to resist. Are you a convert to paprika flavoured crisps or do you yearn from the flavours of your childhood?",
+    "published_at": "2026-08-28T14:14:00Z",
+    "source": "The Local Germany",
+    "score": 9,
+    "reason": "The article is a guide specifically about potato crisps, making it directly relevant to the website's niche.",
+    "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/08/watermarks-logo-408470563.jpg@webp",
+    "category": "reviews"
+  },
+  {
     "title": "Malmesbury woman’s Walkers crisps to go on sale across UK",
     "url": "https://www.cotswoldjournal.co.uk/news/26498157.malmesbury-womans-walkers-crisps-go-sale-across-uk/",
     "snippet": "A TEACHING assistant from Malmesbury has reached the final of a national crisp flavour competition. Lydia Houghton, who works at Malmesbury Primary School, entered Walkers’ Do Us A Flavour with her ...",
@@ -257,6 +277,16 @@
     "category": "business"
   },
   {
+    "title": "Do you prefer chips?",
+    "url": "https://www.yahoo.com/news/videos/prefer-chips-125541273.html",
+    "snippet": "During the Morning Stumper, Leeann, Sharon and Christian dug into the history of potato chips, giving their takes on an age-old debate: fries or chips with a burger?",
+    "published_at": "2026-08-24T05:55:00Z",
+    "score": 7,
+    "reason": "The article discusses the history and preference regarding potato chips. Per the key rules, since 'chips' is mentioned in a food context, it must score 7 or higher.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/5c4b471bdf2e00f48e0aa63e6c23c852c2ed49890d59f94626537e6ecd6b02b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwcsh_tegna_videos_102%2F23d69467b9f63436e72cc2419a01b1dd.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Kurkure’s Insight into Regional Flavor Preferences",
     "url": "https://www.markhub24.com/post/kurkure-s-insight-into-regional-flavor-preferences",
     "snippet": "India's branded savoury snacks market is one of the most structurally complex consumer goods arenas in the world.",
@@ -386,6 +416,15 @@
     "reason": "While the product is vodka, the title and snippet explicitly mention 'potato chips' and the brand 'Pringles', which triggers the rule to score 7+.",
     "image_url": "https://cdn.newser.com/image/1706410-12-20260820100104.jpeg",
     "category": "oddities"
+  },
+  {
+    "title": "Every Stacy's Pita Chips flavor, ranked worst to best",
+    "url": "https://www.msn.com/en-us/food-and-drink/recipes/every-stacy-s-pita-chips-flavor-ranked-worst-to-best/ar-AA2aBbW2",
+    "snippet": "While Stacy's does make quality pita chips, they aren't all made the same. Or, at least, we think some are plainly better than others. Check this ranking.",
+    "published_at": "2026-08-20T15:20:00Z",
+    "score": 8,
+    "reason": "The article is a flavor ranking of Stacy's Pita Chips. While not potato chips, pita chips fall under the 'closely related snack foods that are themselves a kind of chip/crisp' category.",
+    "category": "reviews"
   },
   {
     "title": "Drought to lead to smaller chips, crisps and baking potatoes",
@@ -714,6 +753,15 @@
     "reason": "The article is about a new snack product line (fruit chips/crisps), which falls under closely related snack foods and meets the rule for scoring 7+ due to the explicit mention of 'chips' and 'crisps'.",
     "image_url": "https://cdn.trendhunterstatic.com/phpthumbnails/625/625800/625800_1_1200.jpeg",
     "category": "health"
+  },
+  {
+    "title": "Walkers launches new range of crisps without packets — and shoppers aren’t happy",
+    "url": "https://www.msn.com/en-us/foodanddrink/foodnews/walkers-launches-new-range-of-crisps-without-packets-and-shoppers-aren-t-happy/ar-AA29AJpT",
+    "snippet": "The new packaging has caused a bit of a stir.",
+    "published_at": "2026-08-07T03:39:27Z",
+    "score": 10,
+    "reason": "The article is directly about brand news for Walkers (a major chip brand) regarding a new range of crisps, fitting the highest relevance category.",
+    "category": "business"
   },
   {
     "title": "What’s in the New PopCorners Protein Crisps, and Should You Try Them?",
@@ -1186,6 +1234,17 @@
     "reason": "The article is directly about new flavors of crisps being released in stores, which falls into the highest relevance category for a chip-focused website.",
     "image_url": "https://i2-prod.dailystar.co.uk/article37172692.ece/ALTERNATES/s1200d/1_A-logo-on-a-branch-of-a-Home-Bargains-store-in-London.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "National Potato Chip Day 2027 - Awareness Days Calendar",
+    "url": "https://www.awarenessdays.com/awareness-days-calendar/national-potato-chip-day/",
+    "snippet": "",
+    "published_at": "2026-06-07T07:00:00Z",
+    "source": "Awareness Days Calendar",
+    "score": 9,
+    "reason": "The title is directly about National Potato Chip Day, which falls under the category of being directly about potato chips/crisps.",
+    "image_url": "https://www.awarenessdays.com/wp-content/uploads/2024/11/Potato-Chip-Day-4-1-1.jpg",
+    "category": "oddities"
   },
   {
     "title": "PepsiCo continues That’s Nuts expansion with two bold additions - Grocery Trader",
