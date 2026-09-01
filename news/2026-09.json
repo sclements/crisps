@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Dua Lipa's Favorite Italian Potato Chips Are So Good, the Bag Was Gone in 10 Minutes",
+    "url": "https://ca.style.yahoo.com/dua-lipas-favorite-italian-potato-013000080.html",
+    "snippet": "Kitchn and Yahoo may earn commission from links in this article. Pricing and availability are subject to change. Bowl of pesto potato chips.",
+    "published_at": "2026-09-01T01:12:56Z",
+    "source": "Yahoo Lifestyle Canada",
+    "score": 9,
+    "reason": "The article is directly about potato chips (specifically a recommendation/review of an Italian brand), which fits the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/2e6ab6a4a8625537f7a40c29a4380af548a96fbc8a11ccd3b4a6a66c918ecb76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_kitchn_ca_826%2Fb58573b4861a14bbafa895377b5107ab.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Chipotle’s Brand New Chips Are Even Better than the Original—Here’s When You Can Get Them",
+    "url": "https://www.tasteofhome.com/article/chipotle-chili-lime-chips/",
+    "snippet": "Chipotle is dropping a flavorful new chip, plus it's bringing back pollo asado with a refreshed recipe.",
+    "published_at": "2026-08-31T23:13:07Z",
+    "source": "Taste of Home",
+    "score": 9,
+    "reason": "The article is directly about the launch of a new chip product, making it highly relevant news for a chip-focused website.",
+    "image_url": "https://www.tasteofhome.com/wp-content/uploads/2026/08/Chipotle-Just-Added-A-New-Flavor_ChiliLimeChips_Courtesy-Chipotle_Dkedit_FT.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Protein chips among competitors for Most Innovative Product award at CHFA",
+    "url": "https://ccentral.ca/protein-chips-among-competitors-most-innovative-product-award-chfa",
+    "snippet": "The Canadian Health Food Association's competition features eight Canadian products at the trade show dedicated to the natural,...",
+    "published_at": "2026-08-31T14:13:02Z",
+    "source": "CCentral",
+    "score": 8,
+    "reason": "The article is specifically about 'protein chips,' which falls into the 7-8 category for closely related snack foods. The rule also mandates a score of 7+ when 'chips' is mentioned in a food context.",
+    "image_url": "https://assets1.ccentral.ca/images/v/16_x_9_640/2026-08/hero_snackish_canada_family.jpg",
+    "category": "business"
+  }
+]
