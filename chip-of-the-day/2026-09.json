@@ -29,5 +29,17 @@
     "event_url": "https://en.wikipedia.org/wiki/September_3",
     "image_url": "https://snipssnacks.com/sites/default/files/2024-04/products/img-BP-Black-Truffle.jpg",
     "item_name": "Truffle Parmesan"
+  },
+  {
+    "audience_countries": [
+      "South Georgia",
+      "the South Sandwich Islands"
+    ],
+    "date": "2026-09-04",
+    "description": "Honoring Toothfish Day, we celebrate the treasures of the deep sea. These Bulls Bay Sea Salt chips capture a pure oceanic essence for today.",
+    "event_name": "Toothfish Day (South Georgia and the South Sandwich Islands)",
+    "event_url": "https://en.wikipedia.org/wiki/September_4",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/574dba0ef850827654a46dc6/1605801915191-W31CNFSM1O4X0O4SKNC8/Low+Country+Bulls+Bay+-+Buy+Way+of+Charleston.jpg",
+    "item_name": "Bulls Bay Sea Salt"
   }
 ]

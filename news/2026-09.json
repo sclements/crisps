@@ -1,5 +1,16 @@
 [
   {
+    "title": "The Popular Chip Brand That's Owned By PepsiCo",
+    "url": "https://www.mashed.com/2245880/who-owns-miss-vickies-pepsico/",
+    "snippet": "Miss Vickie's kettle cooked potato chips started small in the kitchen of a Canadian potato farm. Less than a decade later it became a...",
+    "published_at": "2026-09-01T12:00:05Z",
+    "source": "Mashed",
+    "score": 9,
+    "reason": "The article is directly about a specific potato chip brand (Miss Vickie's), which falls under 'brand news' in the 9-10 scoring category.",
+    "image_url": "https://www.mashed.com/img/gallery/the-popular-chip-brand-thats-owned-by-pepsico/l-intro-1787864038.jpg",
+    "category": "business"
+  },
+  {
     "title": "Dua Lipa's Favorite Italian Potato Chips Are So Good, the Bag Was Gone in 10 Minutes",
     "url": "https://ca.style.yahoo.com/dua-lipas-favorite-italian-potato-013000080.html",
     "snippet": "Kitchn and Yahoo may earn commission from links in this article. Pricing and availability are subject to change. Bowl of pesto potato chips.",
@@ -22,6 +33,16 @@
     "category": "reviews"
   },
   {
+    "title": "Pringles launches thicker Dipper crisps alongside Mingles expansion - Drug Store News",
+    "url": "https://drugstorenews.com/pringles-launches-thicker-dipper-crisps-alongside-mingles-expansion",
+    "snippet": "",
+    "published_at": "2026-08-31T14:15:32Z",
+    "source": "Drug Store News",
+    "score": 10,
+    "reason": "The article is directly about new product launches from Pringles, a major chip brand.",
+    "category": "new_flavors"
+  },
+  {
     "title": "Protein chips among competitors for Most Innovative Product award at CHFA",
     "url": "https://ccentral.ca/protein-chips-among-competitors-most-innovative-product-award-chfa",
     "snippet": "The Canadian Health Food Association's competition features eight Canadian products at the trade show dedicated to the natural,...",
@@ -31,5 +52,37 @@
     "reason": "The article is specifically about 'protein chips,' which falls into the 7-8 category for closely related snack foods. The rule also mandates a score of 7+ when 'chips' is mentioned in a food context.",
     "image_url": "https://assets1.ccentral.ca/images/v/16_x_9_640/2026-08/hero_snackish_canada_family.jpg",
     "category": "business"
+  },
+  {
+    "title": "CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPS - PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/chipotle-marks-a-brand-first-with-all-new-pollo-asado-and-the-debut-of-chili-lime-chips-302863254.html",
+    "snippet": "",
+    "published_at": "2026-08-31T11:53:00Z",
+    "source": "PR Newswire",
+    "score": 7,
+    "reason": "The title explicitly mentions the debut of chili lime chips. While Chipotle is a restaurant, the product launch falls under the category of closely related snack foods (likely tortilla chips).",
+    "image_url": "https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=facebook",
+    "category": "new_flavors"
+  },
+  {
+    "title": "From Chips and Noodles to Ice Cream and Drinks: Pickle Flavor ... - jordannews.jo",
+    "url": "https://www.jordannews.jo/Section-120/All/From-Chips-and-Noodles-to-Ice-Cream-and-Drinks-Pickle-Flavor-Is-Invading-Unexpected-Products-with-Gen-Z-and-Social-Media-Driving-the-Trend-54995",
+    "snippet": "",
+    "published_at": "2026-08-31T07:47:30Z",
+    "source": "jordannews.jo",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the mandatory 7+ score per the provided rules. The article discusses a flavor trend involving chips and other food items.",
+    "image_url": "https://imgy.pro/jordannews/993x560/8202631105119145631374.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "Check your pantry. Potato chips from Publix, Target, Walmart recalled - The Palm Beach Post",
+    "url": "https://www.palmbeachpost.com/story/grocery/shopping/2026/07/02/potato-chips-from-publix-target-walmart-recalled-heres-why/90780648007/",
+    "snippet": "",
+    "published_at": "2026-07-02T07:00:00Z",
+    "source": "The Palm Beach Post",
+    "score": 10,
+    "reason": "The article is directly about a product recall of potato chips, which falls squarely into the highest relevance category.",
+    "category": "recalls_safety"
   }
 ]
