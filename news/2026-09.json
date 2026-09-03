@@ -1,5 +1,26 @@
 [
   {
+    "title": "Lay’s Turns a ₹20 Pack Into a Ticket to Meet Ranbir Kapoor - IMPACT Magazine",
+    "url": "https://www.impactonnet.com/more-from-impact/lays-turns-a-20-pack-into-a-ticket-to-meet-ranbir-kapoor-16410.html",
+    "snippet": "",
+    "published_at": "2026-09-03T07:45:53Z",
+    "source": "IMPACT Magazine",
+    "score": 9,
+    "reason": "The article is directly about brand news for Lay's, a major potato chip brand.",
+    "category": "oddities"
+  },
+  {
+    "title": "The Good Crisp Company Announces its Crinkle Cut Chips are Now Seed Oil Free Certified®",
+    "url": "https://www.streetinsider.com/Press+Releases/The+Good+Crisp+Company+Announces+its+Crinkle+Cut+Chips+are+Now+Seed+Oil+Free+Certified%C2%AE/27018105.html",
+    "snippet": "The new certification reflects the better-for-you snack brand's continued commitment to ingredient integrity, quality and transparency.",
+    "published_at": "2026-09-02T18:00:16Z",
+    "source": "StreetInsider",
+    "score": 10,
+    "reason": "The article is direct brand news regarding the certification of a specific potato chip product.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwD5jsnOAq2TXf63YDaYZDEJGsLwhUHdF5WW_IW4lAWIRjW1hap7jCRIE&usqp=CAI&s",
+    "category": "health"
+  },
+  {
     "title": "The Popular Chip Brand That's Owned By PepsiCo",
     "url": "https://www.mashed.com/2245880/who-owns-miss-vickies-pepsico/",
     "snippet": "Miss Vickie's kettle cooked potato chips started small in the kitchen of a Canadian potato farm. Less than a decade later it became a...",
@@ -76,6 +97,39 @@
     "category": "oddities"
   },
   {
+    "title": "I don’t wait in line. Periodt. Except at Badiali. Here’s why this pizzeria inspired a potato chip.",
+    "url": "https://viewthevibe.com/badiali-toronto-best-pizza-miss-vickies-potato-chip-review/",
+    "snippet": "Chef Ryan Baddeley holding a pizza at Toronto's Pizzeria Badiali, whose signature Vodka Sauce Pizza Chef Ryan Baddeley of Pizzeria Badiali...",
+    "published_at": "2026-08-04T08:00:14Z",
+    "source": "View the VIBE",
+    "score": 9,
+    "reason": "The title explicitly mentions that a pizzeria inspired a potato chip, which falls under news about new chip flavors or products.",
+    "image_url": "https://viewthevibe.com/wp-content/uploads/2026/07/250909_MSVICKIES_HERO_099-copy.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Classic Snack Chips Recalled in 7 States - The Healthy @Reader's Digest",
+    "url": "https://www.thehealthy.com/news/snack-chip-recall-may-july-2026/",
+    "snippet": "",
+    "published_at": "2026-07-10T07:00:00Z",
+    "source": "The Healthy @Reader's Digest",
+    "score": 9,
+    "reason": "The article is directly about a chip recall, which is explicitly listed in the 9-10 score range.",
+    "image_url": "https://www.thehealthy.com/wp-content/uploads/2026/07/GettyImages-528790086-scaled.jpg",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Oswestry woman says it's 'surreal' as her Walkers crisp idea hits the shelves - Border Counties Advertizer",
+    "url": "https://www.bordercountiesadvertizer.co.uk/news/26253458.oswestry-womans-idea-walkers-chips-hit-shelves/",
+    "snippet": "",
+    "published_at": "2026-07-05T07:00:00Z",
+    "source": "Border Counties Advertizer",
+    "score": 9,
+    "reason": "The article is directly about a new product/flavor launch from Walkers, a major crisp brand, which falls under brand news and new flavors.",
+    "image_url": "https://www.bordercountiesadvertizer.co.uk/resources/images/21139712.jpg?type=og-image",
+    "category": "new_flavors"
+  },
+  {
     "title": "Check your pantry. Potato chips from Publix, Target, Walmart recalled - The Palm Beach Post",
     "url": "https://www.palmbeachpost.com/story/grocery/shopping/2026/07/02/potato-chips-from-publix-target-walmart-recalled-heres-why/90780648007/",
     "snippet": "",
@@ -84,5 +138,16 @@
     "score": 10,
     "reason": "The article is directly about a product recall of potato chips, which falls squarely into the highest relevance category.",
     "category": "recalls_safety"
+  },
+  {
+    "title": "Spider-Man’s Teaming Up With This Chip Brand for a Fuego Collab - Sporked",
+    "url": "https://sporked.com/article/spider-mans-teaming-up-with-this-chip-brand-for-a-fuego-collab/",
+    "snippet": "",
+    "published_at": "2026-06-30T07:00:00Z",
+    "source": "Sporked",
+    "score": 9,
+    "reason": "The article is directly about a partnership involving a chip brand to release new flavors, which falls under brand news and new flavors.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/05/NEWS_TAKIS-2026_HEADER.jpg",
+    "category": "new_flavors"
   }
 ]
