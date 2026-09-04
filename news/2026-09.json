@@ -1,5 +1,49 @@
 [
   {
+    "title": "PepsiCo Launches Kurkure Aloo Chips and Lay's Potato Crackers in India and Bangladesh",
+    "url": "https://www.potatopro.com/news/2026/pepsico-launches-kurkure-aloo-chips-and-lays-potato-crackers-india-and-bangladesh",
+    "snippet": "PepsiCo has announced new snack launches across India and Bangladesh, including Kurkure Aloo Chips, Kurkure Ribbon Pakoda, Lay's Potato Crackers and Quaker...",
+    "published_at": "2026-09-04T03:13:22Z",
+    "source": "PotatoPro",
+    "score": 10,
+    "reason": "The article is directly about the launch of new potato chip and cracker products from major brands (Lay's/PepsiCo), falling into the highest relevance category.",
+    "image_url": "https://media.potatopro.com/pepsico-new-announcement-of-new-products-1200.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Korea food brands expand Choco Pie, potato chips to drive growth - CHOSUNBIZ",
+    "url": "https://biz.chosun.com/en/en-retail/2026/09/04/5LR4LRPYBBCYVDNIA7FA6LX7CY/",
+    "snippet": "Korea food brands expand Choco Pie, potato chips to drive growth Legacy snacks get fresh twists at home and abroad as companies bet on...",
+    "published_at": "2026-09-03T21:13:22Z",
+    "source": "Chosunbiz",
+    "score": 9,
+    "reason": "The article is directly about food brands expanding their potato chip product lines for growth, which falls under brand news and product expansion.",
+    "image_url": "https://biz.chosun.com/resizer/v2/GC2STZRKOBHLVN6HC4ATEI7L6I.png?auth=5be2489c23f066c1106d6f7d84e6ee3db71dc3377856899d36c59c125eb11c1f&width=1200&height=630&smart=true",
+    "category": "business"
+  },
+  {
+    "title": "I Tried a Walking Caesar Salad, and Now Croutons Have Competition",
+    "url": "https://www.yahoo.com/lifestyle/articles/tried-walking-caesar-salad-now-192509954.html",
+    "snippet": "Inspired by the viral chip bag sandwich, this walking Caesar salad turns a bag of kettle chips into both the croutons and the bowl.",
+    "published_at": "2026-09-03T19:13:22Z",
+    "source": "Yahoo",
+    "score": 7,
+    "reason": "The article is a food trend/recipe that uses chips as the primary ingredient. Per the key rules, since 'chips' is mentioned in a food context, it triggers a score of 7+.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/cd48b9070fb2261956d363bec26234351befd32d8cfb2fb115f6ff267df37911/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftaste_of_home_110%2F37e13fa2adb95dd50675eeb750aaf304.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "We Need These Three New Japanese Pringles Flavors ASAP",
+    "url": "https://sporked.com/article/we-need-these-three-new-japanese-pringles-flavors-asap/",
+    "snippet": "This is the truth: I heard someone use the phrase “Pizza-blasted Pringles” on a show the other day, and the next day I “wound up” in the...",
+    "published_at": "2026-09-03T17:13:22Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is directly about new flavors of Pringles, which are a major potato chip brand.",
+    "image_url": "https://sporked.com/wp-content/uploads/2025/08/NEWS_NEW-PRINGLES-FLAVORS-AUG-2025_HEADER.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "Lay’s Turns a ₹20 Pack Into a Ticket to Meet Ranbir Kapoor - IMPACT Magazine",
     "url": "https://www.impactonnet.com/more-from-impact/lays-turns-a-20-pack-into-a-ticket-to-meet-ranbir-kapoor-16410.html",
     "snippet": "",

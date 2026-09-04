@@ -49,5 +49,16 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThbCgYU9CtnQYY62Fq9Xe357kAXG3p09GlnjxwW8J3vY4HMiAc6XVBl5P3VnNQc5jeVz10Do5JuoPKYUz5aQwsQEjpo4tb",
     "item_name": "Bacon Grilled Cheese"
+  },
+  {
+    "audience_countries": [
+      "Bulgaria"
+    ],
+    "date": "2026-09-06",
+    "description": "Honoring Bulgaria's Unification Day. These Haddock Fillets bring a perfect union of savory maritime flavors to your snack bowl.",
+    "event_name": "Unification Day (Bulgaria)",
+    "event_url": "https://en.wikipedia.org/wiki/September_6",
+    "image_url": "https://www.thepantry.co.th/wp-content/uploads/2024/08/Youngs-Chip-Shop-Haddock-Fillets-100g-x-4.jpg",
+    "item_name": "Haddock Fillets"
   }
 ]
