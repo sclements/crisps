@@ -60,5 +60,16 @@
     "event_url": "https://en.wikipedia.org/wiki/September_6",
     "image_url": "https://www.thepantry.co.th/wp-content/uploads/2024/08/Youngs-Chip-Shop-Haddock-Fillets-100g-x-4.jpg",
     "item_name": "Haddock Fillets"
+  },
+  {
+    "audience_countries": [
+      "Brazil"
+    ],
+    "date": "2026-09-07",
+    "description": "Celebrating Brazil's independence today! These Avocado Lime chips bring a vibrant, zesty freshness to honor this historic day of freedom.",
+    "event_name": "Independence Day (Brazil), celebrates the independence of Brazil from Portugal in 1822.",
+    "event_url": "https://en.wikipedia.org/wiki/September_7",
+    "image_url": "https://m.media-amazon.com/images/I/61Pv17HSBtL._AC_.jpg",
+    "item_name": "Avocado Lime"
   }
 ]

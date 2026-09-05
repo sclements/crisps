@@ -1,5 +1,37 @@
 [
   {
+    "title": "Agrain: from bowl to aisle with healthy chips under Grab Signatures x Jaya Grocer",
+    "url": "https://www.minimeinsights.com/2026/09/05/agrain-from-bowl-to-aisle-with-healthy-chips-under-grab-signatures-x-jaya-grocer/",
+    "snippet": "Agrain Holdings Sdn Bhd, known for its chain of healthy food restaurants in Kuala Lumpur and Petaling Jaya, has expanded beyond foodservice...",
+    "published_at": "2026-09-05T01:15:48Z",
+    "source": "Mini Me Insights",
+    "score": 9,
+    "reason": "The article is about a food brand expanding its product line to include 'healthy chips,' which falls under direct brand news for the chip industry.",
+    "image_url": "https://www.minimeinsights.com/wp-content/uploads/2026/09/agrain-11.jpg",
+    "category": "business"
+  },
+  {
+    "title": "University of Hawai’i unveils new chips for football season - KHON2",
+    "url": "https://www.khon2.com/living-808/hawaiian-chip-company-uh-partnership/",
+    "snippet": "",
+    "published_at": "2026-09-04T20:45:16Z",
+    "source": "KHON2",
+    "score": 9,
+    "reason": "The title directly mentions the unveiling of new chips, which falls under 'new flavors' or 'brand news' for chip products.",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Lay’s is launching new flavors from our favorite fast-food chains",
+    "url": "https://favorflav.com/en/new/lays-is-launching-new-flavors-from-our-favorite-fast-food-chains/",
+    "snippet": "Maccie isn't included, but the following three chains are: Subway, KFC and Pizza Hut. More specifically: a teriyaki sub, a chicken burger or Pizza...",
+    "published_at": "2026-09-04T08:15:54Z",
+    "source": "FavorFlav.com",
+    "score": 10,
+    "reason": "The article is directly about new flavor launches from Lay's, a major potato chip brand.",
+    "image_url": "https://favorflav.com/images/Lays-chips.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "PepsiCo Launches Kurkure Aloo Chips and Lay's Potato Crackers in India and Bangladesh",
     "url": "https://www.potatopro.com/news/2026/pepsico-launches-kurkure-aloo-chips-and-lays-potato-crackers-india-and-bangladesh",
     "snippet": "PepsiCo has announced new snack launches across India and Bangladesh, including Kurkure Aloo Chips, Kurkure Ribbon Pakoda, Lay's Potato Crackers and Quaker...",
@@ -19,6 +51,17 @@
     "score": 9,
     "reason": "The article is directly about food brands expanding their potato chip product lines for growth, which falls under brand news and product expansion.",
     "image_url": "https://biz.chosun.com/resizer/v2/GC2STZRKOBHLVN6HC4ATEI7L6I.png?auth=5be2489c23f066c1106d6f7d84e6ee3db71dc3377856899d36c59c125eb11c1f&width=1200&height=630&smart=true",
+    "category": "business"
+  },
+  {
+    "title": "Medici reveals Rowdy as its third brand and it's all about chips - Stack3d",
+    "url": "https://www.stack3d.com/2026/09/medici-brands-sets-sights-on-chips-with-rowdy/",
+    "snippet": "",
+    "published_at": "2026-09-03T20:04:00Z",
+    "source": "Stack3d",
+    "score": 9,
+    "reason": "The article is direct brand news regarding the launch of a new chip brand, falling into the 9-10 category.",
+    "image_url": "https://www.stack3d.com/wp-content/uploads/2026/09/medici-brands-sets-sights-on-chips-with-rowdy.jpg",
     "category": "business"
   },
   {
@@ -150,6 +193,17 @@
     "reason": "The title explicitly mentions that a pizzeria inspired a potato chip, which falls under news about new chip flavors or products.",
     "image_url": "https://viewthevibe.com/wp-content/uploads/2026/07/250909_MSVICKIES_HERO_099-copy.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "Chips Ahoy! Has a New Secret Flavor—and I Think I Cracked the Case - Taste of Home",
+    "url": "https://www.tasteofhome.com/article/chips-ahoy-secret-flavor/",
+    "snippet": "",
+    "published_at": "2026-07-30T07:00:00Z",
+    "source": "Taste of Home",
+    "score": 7,
+    "reason": "The title mentions the brand 'Chips Ahoy!', which contains the word 'chips' in a food context, triggering the key rule to score 7+.",
+    "image_url": "https://www.tasteofhome.com/wp-content/uploads/2026/07/Chips-Ahoy-Has-a-New-Secret-Flavor_Chips-Ahoy-Mystery-1_Lindsay-P-for-TOH_FTJPG.jpg",
+    "category": "reviews"
   },
   {
     "title": "Classic Snack Chips Recalled in 7 States - The Healthy @Reader's Digest",
