@@ -1,5 +1,16 @@
 [
   {
+    "title": "A tough Raya, a livestream and a fresh start with banana chips - Free Malaysia Today",
+    "url": "https://www.freemalaysiatoday.com/category/leisure/2026/09/06/a-tough-raya-a-livestream-and-a-fresh-start-with-banana-chips",
+    "snippet": "",
+    "published_at": "2026-09-06T00:15:00Z",
+    "source": "Free Malaysia Today",
+    "score": 7,
+    "reason": "The title mentions 'banana chips', which falls into the category of closely related snack foods that are a kind of chip/crisp.",
+    "image_url": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/09/4594be29-4f57-4d2a-8825-4aaf21547029-Nekyahh-Kerepek-the-banana-chip-Bernama-pic-5926.webp",
+    "category": "business"
+  },
+  {
     "title": "Agrain: from bowl to aisle with healthy chips under Grab Signatures x Jaya Grocer",
     "url": "https://www.minimeinsights.com/2026/09/05/agrain-from-bowl-to-aisle-with-healthy-chips-under-grab-signatures-x-jaya-grocer/",
     "snippet": "Agrain Holdings Sdn Bhd, known for its chain of healthy food restaurants in Kuala Lumpur and Petaling Jaya, has expanded beyond foodservice...",
@@ -19,6 +30,15 @@
     "score": 9,
     "reason": "The title directly mentions the unveiling of new chips, which falls under 'new flavors' or 'brand news' for chip products.",
     "category": "new_flavors"
+  },
+  {
+    "title": "Taste-Off: Discerning which of 10 pickle-flavored chips you won’t sour on",
+    "url": "https://www.eastbaytimes.com/2026/09/04/taste-off-pickle-flavored-chips/",
+    "snippet": "Great pickle chips are shockingly tangy, salty and savory, while the worst are are oily, gritty crisps that are difficult to swallow.",
+    "published_at": "2026-09-04T09:00:00Z",
+    "score": 10,
+    "reason": "The article is a review/tasting of different potato chip flavors, which falls directly into the highest relevance category.",
+    "category": "reviews"
   },
   {
     "title": "Lay’s is launching new flavors from our favorite fast-food chains",
@@ -97,6 +117,15 @@
     "category": "oddities"
   },
   {
+    "title": "EXCLUSIVE: PepsiCo’s new Walkers flavours now available to indies",
+    "url": "https://www.betterretailing.com/br/product-news/exclusive-pepsicos-new-walkers-flavours-to-be-available-to-indies/",
+    "snippet": "According to listings seen by Better Retailing in a wholesaler’s catalogue, the new flavours Salt & Pepper Chicken and Grilled Cheese & Chilli Jam come in cases of 18 and 32. The launches are ...",
+    "published_at": "2026-09-03T03:00:00Z",
+    "score": 10,
+    "reason": "The article is directly about new flavor launches for Walkers, a major potato chip/crisp brand.",
+    "category": "new_flavors"
+  },
+  {
     "title": "The Good Crisp Company Announces its Crinkle Cut Chips are Now Seed Oil Free Certified®",
     "url": "https://www.streetinsider.com/Press+Releases/The+Good+Crisp+Company+Announces+its+Crinkle+Cut+Chips+are+Now+Seed+Oil+Free+Certified%C2%AE/27018105.html",
     "snippet": "The new certification reflects the better-for-you snack brand's continued commitment to ingredient integrity, quality and transparency.",
@@ -106,6 +135,16 @@
     "reason": "The article is direct brand news regarding the certification of a specific potato chip product.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwD5jsnOAq2TXf63YDaYZDEJGsLwhUHdF5WW_IW4lAWIRjW1hap7jCRIE&usqp=CAI&s",
     "category": "health"
+  },
+  {
+    "title": "Glaswegians who love crisps can now create their own Golden Wonder flavour with new pop up",
+    "url": "https://uk.news.yahoo.com/glaswegians-love-crisps-now-create-132619862.html",
+    "snippet": "Crisp lovers are invited to create their own unique flavour of Golden Wonder crisps at the World of Wonder pop up.",
+    "published_at": "2026-09-01T23:26:00Z",
+    "score": 10,
+    "reason": "The article is directly about a potato chip brand (Golden Wonder) and news regarding new flavors, which falls into the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/f2d4d8fd48e115c3f2f894ae821b868ef884328e4546770be359992ac13a1f49/lightyear_networkapi/resizefill_w810_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglasgow_live_848%2F25fd0ce294ca8d024d53a7bdd01ced27.jpg",
+    "category": "oddities"
   },
   {
     "title": "The Popular Chip Brand That's Owned By PepsiCo",
@@ -182,6 +221,16 @@
     "reason": "The title mentions 'chips' in a food context, which triggers the mandatory 7+ score per the provided rules. The article discusses a flavor trend involving chips and other food items.",
     "image_url": "https://imgy.pro/jordannews/993x560/8202631105119145631374.jpg",
     "category": "oddities"
+  },
+  {
+    "title": "You Can Get Canada’s Famous Lay’s Potato Chip Flavor Shipped to Your Door in the U.S. - Yahoo Life UK",
+    "url": "https://uk.style.yahoo.com/not-secret-way-canada-famous-213000865.html",
+    "snippet": "",
+    "published_at": "2026-08-05T07:00:00Z",
+    "source": "Yahoo Life UK",
+    "score": 10,
+    "reason": "The article is directly about a specific Lay's potato chip flavor and brand-related news, fitting the top tier of the rubric.",
+    "category": "new_flavors"
   },
   {
     "title": "I don’t wait in line. Periodt. Except at Badiali. Here’s why this pizzeria inspired a potato chip.",

@@ -71,5 +71,16 @@
     "event_url": "https://en.wikipedia.org/wiki/September_7",
     "image_url": "https://m.media-amazon.com/images/I/61Pv17HSBtL._AC_.jpg",
     "item_name": "Avocado Lime"
+  },
+  {
+    "audience_countries": [
+      "Malta"
+    ],
+    "date": "2026-09-08",
+    "description": "Celebrating the feast of Our Lady of Victories, these Chicken Artichoke Flatbread chips deliver a triumphant Mediterranean flavor for today's celebration.",
+    "event_name": "Victory Day, also the feast of Our Lady of Victories or il-Vittorja (Malta)",
+    "event_url": "https://en.wikipedia.org/wiki/September_8",
+    "image_url": "https://farm9.staticflickr.com/8738/16987473361_7182f2c98b_z.jpg",
+    "item_name": "Chicken Artichoke Flatbread"
   }
 ]
