@@ -82,5 +82,13 @@
     "event_url": "https://en.wikipedia.org/wiki/September_8",
     "image_url": "https://farm9.staticflickr.com/8738/16987473361_7182f2c98b_z.jpg",
     "item_name": "Chicken Artichoke Flatbread"
+  },
+  {
+    "date": "2026-09-09",
+    "description": "Today's pick is Thyme, drawn from the culinary traditions of Israel.",
+    "event_name": "Culinary traditions (Israel)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUHzLzMQNQjpxeU9Il2U0e1pFWgu0DuFXeHQJxnWKgFSujyjcpTvBv8M47b7-aAGXNDmgqSh3LFiN8KyoMfnzTK_lgHnuS_QgCtEMlye-58LW2VQ1gtFzi",
+    "item_name": "Thyme"
   }
 ]

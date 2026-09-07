@@ -1,5 +1,47 @@
 [
   {
+    "title": "KFC Malaysia and Mister Potato Launch Spicy, Crunchy Limited-Edition Collaboration",
+    "url": "https://www.potatopro.com/news/2026/kfc-malaysia-and-mister-potato-launch-spicy-crunchy-limited-edition-collaboration",
+    "snippet": "KFC Malaysia and Mister Potato launch a limited-time collaboration featuring spicy crispy chicken, a crunchy Zinger burger and Cheezy...",
+    "published_at": "2026-09-07T07:00:03Z",
+    "source": "PotatoPro",
+    "score": 8,
+    "reason": "The article involves brand news for a known chip brand (Mister Potato). While the products mentioned are chicken and burgers, the collaboration is a piece of snack industry business news.",
+    "image_url": "https://media.potatopro.com/kfc-mister-potato-cheezy-wedges-flavour-1200.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Nacho average Statue of Liberty: Texas artist builds her out of Doritos for chance to win $250k - cbs8.com",
+    "url": "https://www.cbs8.com/article/news/nation-world/texas-artist-builds-statue-of-liberty-out-of-doritos/507-ba5f2db4-6c58-43d0-9c33-6d5782a7d608",
+    "snippet": "",
+    "published_at": "2026-09-07T03:38:00Z",
+    "source": "cbs8.com",
+    "score": 7,
+    "reason": "The title mentions a well-known chip brand (Doritos), which triggers the rule to score 7+. It is an oddity/art story rather than direct industry news or flavor announcements.",
+    "category": "oddities"
+  },
+  {
+    "title": "10 Ruffles Chips Flavors, Ranked Worst To Best",
+    "url": "https://www.thetakeout.com/2247361/ruffles-chips-flavor-ranked-worst-best/",
+    "snippet": "Potato chips are a classic American snack. They go great with a sandwich, aside a tasty dip at a party, or just munched right out of the bag...",
+    "published_at": "2026-09-06T14:00:03Z",
+    "source": "The Takeout",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of potato chip flavors from a major brand (Ruffles), making it highly relevant.",
+    "image_url": "https://www.thetakeout.com/img/gallery/10-ruffles-chips-flavors-ranked-worst-to-best/l-intro-1788181173.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "It started with chips sold from a Honda hatchback. Now Taco Works is a SLO icon - San Luis Obispo Tribune",
+    "url": "https://www.sanluisobispo.com/entertainment/restaurants/article316637045.html",
+    "snippet": "",
+    "published_at": "2026-09-06T12:00:00Z",
+    "source": "San Luis Obispo Tribune",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context (related to the brand Taco Works), which triggers the rule for a score of 7 or higher.",
+    "category": "business"
+  },
+  {
     "title": "A tough Raya, a livestream and a fresh start with banana chips - Free Malaysia Today",
     "url": "https://www.freemalaysiatoday.com/category/leisure/2026/09/06/a-tough-raya-a-livestream-and-a-fresh-start-with-banana-chips",
     "snippet": "",
