@@ -90,5 +90,16 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUHzLzMQNQjpxeU9Il2U0e1pFWgu0DuFXeHQJxnWKgFSujyjcpTvBv8M47b7-aAGXNDmgqSh3LFiN8KyoMfnzTK_lgHnuS_QgCtEMlye-58LW2VQ1gtFzi",
     "item_name": "Thyme"
+  },
+  {
+    "audience_countries": [
+      "China"
+    ],
+    "date": "2026-09-10",
+    "description": "Celebrating Teachers' Day, our Chinese Szechuan Chicken chips offer a masterclass in bold spice to honor the wisdom of educators today.",
+    "event_name": "Teachers' Day (China)",
+    "event_url": "https://en.wikipedia.org/wiki/September_10",
+    "image_url": "https://farm9.staticflickr.com/8657/28614637051_e428e9922b_z.jpg",
+    "item_name": "Chinese Szechuan Chicken"
   }
 ]
