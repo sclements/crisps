@@ -1,5 +1,48 @@
 [
   {
+    "title": "Snack maker Koikeya launches chips to support Kumamoto quake recovery - Japan Wire by Kyodo News",
+    "url": "https://english.kyodonews.net/articles/-/84506",
+    "snippet": "",
+    "published_at": "2026-09-09T08:16:00Z",
+    "source": "Japan Wire by Kyodo News",
+    "score": 9,
+    "reason": "The article is directly about a known chip brand (Koikeya) launching new chips, which falls under direct brand news and product launches.",
+    "image_url": "https://english-kyodo.ismcdn.jp/mwimgs/3/e/1200x/img_3eb9457d6e788073150d7abe5410055a877695.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Kurkure: The Snack Born From a Room Full of Indians Saying \"Kurkura\" - MarkHub24",
+    "url": "https://www.markhub24.com/post/kurkure-the-snack-born-from-a-room-full-of-indians-saying-kurkura",
+    "snippet": "",
+    "published_at": "2026-09-09T04:30:02Z",
+    "source": "MarkHub24",
+    "score": 7,
+    "reason": "The article is about a known snack brand (Kurkure). While not specifically potato chips, it falls under the category of snack industry brand news.",
+    "image_url": "https://static.wixstatic.com/media/8c1f0e_080376de5c1744b7aab7e56073db04b4~mv2.jpg/v1/fill/w_536,h_536,al_c,lg_1,q_80/8c1f0e_080376de5c1744b7aab7e56073db04b4~mv2.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Give Out Chips Instead of Candy and Support Local with Mrs. Fisher’s! - MyStateline",
+    "url": "https://www.mystateline.com/gooddaystateline/give-out-chips-instead-of-candy-and-support-local-with-mrs-fishers/",
+    "snippet": "",
+    "published_at": "2026-09-08T22:35:00Z",
+    "source": "MyStateline",
+    "score": 8,
+    "reason": "The title explicitly mentions 'chips' in a food context and features a specific snack brand, meeting the criteria for a 7+ score.",
+    "category": "oddities"
+  },
+  {
+    "title": "The Discontinued Planters Snack From The '90s That Deserves A Revival",
+    "url": "https://www.foodrepublic.com/2251027/discontinued-90s-planters-snack-pb-crisps/",
+    "snippet": "Serious snack heads are still nostalgic for Planters PB Crisps, a discontinued '90s classic that is impossible to find today.",
+    "published_at": "2026-09-08T15:05:28Z",
+    "source": "www.foodrepublic.com",
+    "score": 8,
+    "reason": "The article discusses 'Planters PB Crisps'. Per the rules, mentions of 'crisps' in a food context require a score of 7 or higher.",
+    "image_url": "https://www.foodrepublic.com/img/gallery/discontinued-90s-planters-snack-pb-crisps/l-intro-1788531431.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Calbee Potato Harvest Ceremony 2026 Highlights Stronger Hokkaido Potato Quality and Yield",
     "url": "https://www.potatopro.com/news/2026/calbee-potato-harvest-ceremony-2026-highlights-stronger-hokkaido-potato-quality-and-yield",
     "snippet": "Calbee Potato expects Hokkaido's 2026 processing potato crop to reach 240000–250000 tons, with better quality and yields than 2025.",
@@ -105,6 +148,17 @@
     "score": 9,
     "reason": "The title directly mentions the unveiling of new chips, which falls under 'new flavors' or 'brand news' for chip products.",
     "category": "new_flavors"
+  },
+  {
+    "title": "Lays Target ‘Bandwagon Fans’ in Will Ferrell FIFA World Cup 2026 Marketing Push - Food & Beverage Outlook",
+    "url": "https://www.foodbeverage-outlook.com/events-conferences/lays-target-bandwagon-fans-in-will-ferrell-fifa-world-cup-2026-marketing-push",
+    "snippet": "",
+    "published_at": "2026-09-04T14:35:21Z",
+    "source": "Food & Beverage Outlook",
+    "score": 8,
+    "reason": "The article discusses marketing strategy for Lays, a major potato chip brand. According to the rules, mentioning a known chip brand warrants a score of 7+.",
+    "image_url": "https://www.foodbeverage-outlook.com/media/Lays_Will_Ferrell_Bandwagon_2.webp",
+    "category": "business"
   },
   {
     "title": "Taste-Off: Discerning which of 10 pickle-flavored chips you won’t sour on",
@@ -327,6 +381,16 @@
     "score": 7,
     "reason": "The title mentions the brand 'Chips Ahoy!', which contains the word 'chips' in a food context, triggering the key rule to score 7+.",
     "image_url": "https://www.tasteofhome.com/wp-content/uploads/2026/07/Chips-Ahoy-Has-a-New-Secret-Flavor_Chips-Ahoy-Mystery-1_Lindsay-P-for-TOH_FTJPG.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "This Kettle-Cooked Honey Barbecue Chip Beat Every Other Brand We Tried - Serious Eats",
+    "url": "https://www.seriouseats.com/honey-bbq-chip-taste-test-12023394",
+    "snippet": "",
+    "published_at": "2026-07-21T07:00:00Z",
+    "source": "Serious Eats",
+    "score": 10,
+    "reason": "The article is a direct review and comparison of specific potato chip brands/flavors, which falls into the highest relevance category.",
     "category": "reviews"
   },
   {

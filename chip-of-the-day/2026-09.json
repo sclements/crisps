@@ -101,5 +101,16 @@
     "event_url": "https://en.wikipedia.org/wiki/September_10",
     "image_url": "https://farm9.staticflickr.com/8657/28614637051_e428e9922b_z.jpg",
     "item_name": "Chinese Szechuan Chicken"
+  },
+  {
+    "audience_countries": [
+      "Russia"
+    ],
+    "date": "2026-09-11",
+    "description": "Commemorating the Battle of Tendra, we bring a spirited crunch to this day. Our Margarita chips offer a sharp, zesty salute to history's boldest moments.",
+    "event_name": "Battle of Tendra Day (Russia)",
+    "event_url": "https://en.wikipedia.org/wiki/September_11",
+    "image_url": "https://www.cheekyfoods.com.au/cdn/shop/products/Margarita-Lime-Potato-Chips-105g_340c7c97-09db-4a2a-80f6-312d21f18b6f.jpg?v=1692843344&width=1946",
+    "item_name": "Margarita"
   }
 ]
