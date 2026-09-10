@@ -112,5 +112,13 @@
     "event_url": "https://en.wikipedia.org/wiki/September_11",
     "image_url": "https://www.cheekyfoods.com.au/cdn/shop/products/Margarita-Lime-Potato-Chips-105g_340c7c97-09db-4a2a-80f6-312d21f18b6f.jpg?v=1692843344&width=1946",
     "item_name": "Margarita"
+  },
+  {
+    "date": "2026-09-12",
+    "description": "Today's pick is Pepper, drawn from the culinary traditions of Malta.",
+    "event_name": "Culinary traditions (Malta)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-7VIk7zWmrFNqwhz31-wbBR693RrlSBklK9b0uuXntj4KPDvCLhqbKCR_lj5tvCMwKhkutc5BxaOw4534LJK2hRV8UKs3aDRbp8xIG4M0erBf22ti5JRJsw",
+    "item_name": "Pepper"
   }
 ]

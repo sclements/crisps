@@ -1,5 +1,38 @@
 [
   {
+    "title": "Pringles launches new mystery flavour in stores - can YOU guess what it is? - The Sun",
+    "url": "https://www.thesun.co.uk/money/40324443/pringles-launches-mystery-flavour-can-you-guess/",
+    "snippet": "",
+    "published_at": "2026-09-09T16:03:00Z",
+    "source": "The Sun",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch from Pringles, a major potato chip brand.",
+    "image_url": "https://www.thesun.co.uk/wp-content/uploads/2026/09/newspress-collage-eu343ig2t-1788969708511.jpg?quality=90&strip=all&1788973322&w=1920&h=1080&crop=1",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Sour cream & onion chips put to the test on Which One's Which",
+    "url": "https://kfdm.com/news/the-morning-show/sour-cream-onion-chips-put-to-the-test-on-which-ones-which",
+    "snippet": "Every week, we put food and drink items to the test. We see if we can figure out which one's the name brand item, and which one's the...",
+    "published_at": "2026-09-09T15:00:08Z",
+    "source": "KFDM",
+    "score": 10,
+    "reason": "The article is a review specifically focused on sour cream & onion chips, which falls directly into the highest relevance category.",
+    "image_url": "https://kfdm.com/resources/media2/16x9/1920/1320/center/90/fc194b3d-b2ed-40a9-9a09-e0349a5326d8-84e478db4cb04533bccc5b5d14e6be28.png",
+    "category": "reviews"
+  },
+  {
+    "title": "We Tried Costco’s New Utz Crab Chips",
+    "url": "https://sporked.com/article/we-tried-costcos-new-utz-crab-chips/",
+    "snippet": "Everyone has their own perception of what a \"cult classic\" is. But honestly, any flavor that is so defined that it defines an entire region...",
+    "published_at": "2026-09-09T13:00:07Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct product review of a new chip flavor from a known brand (Utz), which falls into the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/04/HEADER-COSTCO-SEAFOOD-BOIL-NEWS.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "Snack maker Koikeya launches chips to support Kumamoto quake recovery - Japan Wire by Kyodo News",
     "url": "https://english.kyodonews.net/articles/-/84506",
     "snippet": "",
@@ -350,6 +383,17 @@
     "reason": "The title mentions 'chips' in a food context, which triggers the mandatory 7+ score per the provided rules. The article discusses a flavor trend involving chips and other food items.",
     "image_url": "https://imgy.pro/jordannews/993x560/8202631105119145631374.jpg",
     "category": "oddities"
+  },
+  {
+    "title": "Rachel Allen partners with O'Donnells to create new sea salt & truffle and Sunday roast crisps - retailnews.ie",
+    "url": "https://www.retailnews.ie/news-and-views/rachel-allen-partners-with-o-donnells-to-create-new-sea-salt---truffle-and-sunday-roast-crisps/",
+    "snippet": "",
+    "published_at": "2026-08-11T07:00:00Z",
+    "source": "retailnews.ie",
+    "score": 10,
+    "reason": "The article is directly about new flavors of crisps (potato chips) being launched by a specific brand, which falls into the highest relevance category.",
+    "image_url": "https://www.retailnews.ie/contentFiles/components/gdNews/22/small/Untitleddesign-2026-08-11T151700.374.png",
+    "category": "new_flavors"
   },
   {
     "title": "You Can Get Canada’s Famous Lay’s Potato Chip Flavor Shipped to Your Door in the U.S. - Yahoo Life UK",
