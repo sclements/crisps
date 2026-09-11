@@ -1,5 +1,49 @@
 [
   {
+    "title": "De Todito Chips Recalled Again Because Their Pork Cracklings Came From Colombia, Which Is Barred From Exporting Meat",
+    "url": "https://www.medicaldaily.com/de-todito-pork-cracklings-recall-colombia-new-jersey-utah-478517",
+    "snippet": "El Eden recalled 264 pounds of De Todito chips with pork cracklings from Colombia sold in NJ and Utah. It follows two earlier FSIS actions.",
+    "published_at": "2026-09-10T23:16:19Z",
+    "source": "Medical Daily",
+    "score": 9,
+    "reason": "The article is about a product recall for a brand specifically named 'De Todito Chips', which falls directly into the category of chip brand news and recalls.",
+    "image_url": "https://d.medicaldaily.com/en/full/485809/riccardo-milani-hans-lucas-afp-via-getty-images.jpg",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Potato chips pulled for containing unauthorized Colombian pork",
+    "url": "https://www.usatoday.com/story/money/food/2026/09/10/potato-chip-recall-colombian-pork/91696363007/",
+    "snippet": "",
+    "published_at": "2026-09-10T22:16:18Z",
+    "source": "USA Today",
+    "score": 10,
+    "reason": "The article is directly about a recall of potato chips, which falls under the highest relevance category.",
+    "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/10/USAT/91697817007-20250424-t-145605-z-834871008-mt-1-usatoday-26001806-rtrmadp-3-potatochipsexitthefryeratcorellspotatochipsin.JPG?crop=2999,1687,x0,y102&width=2999&height=1687&format=pjpg&auto=webp",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Potato chips exit the fryer at Corell's Potato Chips in Beach City on Saturday April 19.",
+    "url": "https://lufkindailynews.com/news_reuters/national/potato-chips-exit-the-fryer-at-corells-potato-chips-in-beach-city-on-saturday-april/image_dadb62b2-20ec-5f6a-b48c-6779f9f2516f.html",
+    "snippet": "Potato chips exit the fryer at Corell's Potato Chips in Beach City on Saturday April 19. Tim Botos/ Canton Repository / USA TODAY Network.",
+    "published_at": "2026-09-10T22:16:18Z",
+    "source": "The Lufkin Daily News",
+    "score": 9,
+    "reason": "The article is directly about the production of potato chips at a specific brand, making it highly relevant to a potato chip news website.",
+    "image_url": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/d/ad/dadb62b2-20ec-5f6a-b48c-6779f9f2516f/6aa3340214bc9.image.jpg?crop=800%2C420%2C0%2C62",
+    "category": "business"
+  },
+  {
+    "title": "Yes, Chick-Fil-A Makes Chips Now",
+    "url": "https://sporked.com/article/yes-chick-fil-a-makes-chips-now/",
+    "snippet": "It's always a good time when we get to see some of our all-time favorite restaurant or fast food items be integrated into more of our...",
+    "published_at": "2026-09-10T21:16:18Z",
+    "source": "Sporked",
+    "score": 9,
+    "reason": "The article is direct news about a brand launching its own line of potato chips, which falls into the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/02/LISTICLE_CHICK-FIL-A-WAFFLE-FRY-DUPE_HEADER.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "Pringles launches new mystery flavour in stores - can YOU guess what it is? - The Sun",
     "url": "https://www.thesun.co.uk/money/40324443/pringles-launches-mystery-flavour-can-you-guess/",
     "snippet": "",

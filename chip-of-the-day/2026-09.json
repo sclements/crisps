@@ -120,5 +120,18 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT-7VIk7zWmrFNqwhz31-wbBR693RrlSBklK9b0uuXntj4KPDvCLhqbKCR_lj5tvCMwKhkutc5BxaOw4534LJK2hRV8UKs3aDRbp8xIG4M0erBf22ti5JRJsw",
     "item_name": "Pepper"
+  },
+  {
+    "audience_countries": [
+      "Africa",
+      "United Kingdom",
+      "Latin America"
+    ],
+    "date": "2026-09-13",
+    "description": "Celebrating the whimsical spirit of Roald Dahl today. These savory Cod chips bring a legendary British flavor to your snack time.",
+    "event_name": "Roald Dahl Day (Africa, United Kingdom, Latin America)",
+    "event_url": "https://en.wikipedia.org/wiki/September_13",
+    "image_url": "https://images-cdn.ubuy.co.in/635f34efc8365825f85c7894-ohs-cod-crisps-pack-of-8-fish-snack.jpg",
+    "item_name": "Cod"
   }
 ]
