@@ -1,5 +1,38 @@
 [
   {
+    "title": "TV tonight: inside a famous crisp factory – and its divisive new flavours",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/feb/20/tv-tonight-walkers-crisp-factory-graham-norton",
+    "snippet": "How did Walkers decide on making hot honey crisps? Plus, Jennifer Garner and Charli xcx chat to Graham Norton. Here's what to watch this...",
+    "published_at": "2026-09-12T08:00:43Z",
+    "source": "The Guardian",
+    "score": 10,
+    "reason": "The article is directly about a major chip brand (Walkers) and the development of new flavors, fitting the highest relevance category.",
+    "image_url": "https://i.guim.co.uk/img/media/131f0a7ea2d18365ad8113528d64da856b30850d/191_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd602255904a47ced12a73c8347ee42c",
+    "category": "oddities"
+  },
+  {
+    "title": "Crunch! UH Mānoa gets its own locally made chip mix",
+    "url": "https://www.hawaii.edu/news/2026/09/11/uh-manoa-chip-mix/",
+    "snippet": "Hawaiian Chip Company launched Mānoa Mix, a locally made, officially licensed UH snack featuring a blend of chips.",
+    "published_at": "2026-09-12T02:00:03Z",
+    "source": "University of Hawaii System",
+    "score": 10,
+    "reason": "The article is directly about a new chip product launch from a specific brand, falling into the highest relevance category.",
+    "image_url": "https://www.hawaii.edu/news/wp-content/uploads/2026/09/manoa-hawaiianchip-company.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "We Tried Both Flavors Of The Chick-fil-A Waffle Potato Chips (And We Found A Dupe)",
+    "url": "https://sporked.com/article/we-tried-both-flavors-of-the-chick-fil-a-waffle-potato-chips-and-we-found-a-dupe/",
+    "snippet": "It's hard to find someone, especially in the south, that doesn't like the Chick-fil-A waffle fries. I mean, they even came out the other...",
+    "published_at": "2026-09-11T13:00:03Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review of a new potato chip product, falling squarely into the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/08/chick-fil-a.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "De Todito Chips Recalled Again Because Their Pork Cracklings Came From Colombia, Which Is Barred From Exporting Meat",
     "url": "https://www.medicaldaily.com/de-todito-pork-cracklings-recall-colombia-new-jersey-utah-478517",
     "snippet": "El Eden recalled 264 pounds of De Todito chips with pork cracklings from Colombia sold in NJ and Utah. It follows two earlier FSIS actions.",
@@ -118,6 +151,17 @@
     "reason": "The article discusses 'Planters PB Crisps'. Per the rules, mentions of 'crisps' in a food context require a score of 7 or higher.",
     "image_url": "https://www.foodrepublic.com/img/gallery/discontinued-90s-planters-snack-pb-crisps/l-intro-1788531431.jpg",
     "category": "oddities"
+  },
+  {
+    "title": "Crisp-mas comeback: Co-op revives fan favourite Roast Potato Crisps",
+    "url": "https://www.co-operative.coop/media/news-releases/crisp-mas-comeback-co-op-revives-fan-favourite-roast-potato-crisps",
+    "snippet": "07 September 2026. Christmas wishes do come true as Co-op's Roast Potato Crisps are back by popular shopper demand; In stores now with a brand-new crinkle...",
+    "published_at": "2026-09-08T08:00:43Z",
+    "source": "Co-operative Group",
+    "score": 10,
+    "reason": "The article is directly about the relaunch of a specific potato chip product (Roast Potato Crisps).",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjOLKnUpCx2vrmDUi6EOLRXa4eVqj_C9MWmJFWOE&usqp=CAI&s",
+    "category": "new_flavors"
   },
   {
     "title": "Calbee Potato Harvest Ceremony 2026 Highlights Stronger Hokkaido Potato Quality and Yield",
