@@ -1,5 +1,16 @@
 [
   {
+    "title": "Forget Basic French Fries: These German-Style Aldi Finds Are Even Better",
+    "url": "https://www.yahoo.com/lifestyle/articles/forget-basic-french-fries-german-113000105.html",
+    "snippet": "We love potatoes around here. They're versatile, delicious, and are featured in some of our favorite snacks (looking at you, potato chips).",
+    "published_at": "2026-09-12T11:00:07Z",
+    "source": "Yahoo",
+    "score": 7,
+    "reason": "While the article is primarily about German-style potato products/fries, the snippet explicitly mentions 'potato chips,' which triggers the key rule to score 7+.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/130358915d8988fc18d229353c665b1751a8a795b332a85a842aebe9257060e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftasting_table_543%2Fab5b44f970c59db48b11dd68c7c78314.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "TV tonight: inside a famous crisp factory – and its divisive new flavours",
     "url": "https://www.theguardian.com/tv-and-radio/2026/feb/20/tv-tonight-walkers-crisp-factory-graham-norton",
     "snippet": "How did Walkers decide on making hot honey crisps? Plus, Jennifer Garner and Charli xcx chat to Graham Norton. Here's what to watch this...",
@@ -75,6 +86,26 @@
     "reason": "The article is direct news about a brand launching its own line of potato chips, which falls into the highest relevance category.",
     "image_url": "https://sporked.com/wp-content/uploads/2026/02/LISTICLE_CHICK-FIL-A-WAFFLE-FRY-DUPE_HEADER.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "Doritos brings high-protein range to UK shoppers - The Grocer",
+    "url": "https://www.thegrocer.co.uk/news/doritos-brings-high-protein-range-to-uk-shoppers/723452.article",
+    "snippet": "",
+    "published_at": "2026-09-10T10:17:01Z",
+    "source": "The Grocer",
+    "score": 8,
+    "reason": "The article is about a new product range from Doritos, which are tortilla chips. According to the rubric, tortilla chip news falls into the 7-8 range.",
+    "image_url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/3/6/2/405362_doritosprotein_994724.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Class I recall issued for potato chips with banned ingredient",
+    "url": "https://www.msn.com/en-us/news/other/class-i-recall-issued-for-potato-chips-with-banned-ingredient/ar-AA2bXNnP",
+    "snippet": "Consumers should not eat them and can return them for a refund.",
+    "published_at": "2026-09-10T08:58:00Z",
+    "score": 10,
+    "reason": "The article is directly about a recall of potato chips, which fits the top tier of relevance.",
+    "category": "recalls_safety"
   },
   {
     "title": "Pringles launches new mystery flavour in stores - can YOU guess what it is? - The Sun",
@@ -218,6 +249,15 @@
     "category": "oddities"
   },
   {
+    "title": "12 Of The Most Unique Lay's Flavors We Could Find, Ranked",
+    "url": "https://www.msn.com/en-us/news/other/12-of-the-most-unique-lays-flavors-we-could-find-ranked/ar-AA2bJArB",
+    "snippet": "These unique Lay's flavors aren't very common in the U.S., but might be some of brand's very best creations. So we set out to try as many as we could.",
+    "published_at": "2026-09-06T16:15:00Z",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of Lay's potato chip flavors, making it perfectly relevant to the website.",
+    "category": "reviews"
+  },
+  {
     "title": "10 Ruffles Chips Flavors, Ranked Worst To Best",
     "url": "https://www.thetakeout.com/2247361/ruffles-chips-flavor-ranked-worst-best/",
     "snippet": "Potato chips are a classic American snack. They go great with a sandwich, aside a tasty dip at a party, or just munched right out of the bag...",
@@ -237,6 +277,16 @@
     "score": 7,
     "reason": "The title mentions 'chips' in a food context (related to the brand Taco Works), which triggers the rule for a score of 7 or higher.",
     "category": "business"
+  },
+  {
+    "title": "Out of Graham Crackers? Use Potato Chips For S’mores Instead",
+    "url": "https://sporked.com/article/out-of-graham-crackers-use-potato-chips-for-smores-instead/",
+    "snippet": "Graham crackers might be a must-have if you’re thinking about making a batch of s’mores over a campfire or even your stove’s burners. But there might be a ...",
+    "published_at": "2026-09-06T08:25:00Z",
+    "score": 7,
+    "reason": "The title explicitly mentions 'Potato Chips', which triggers the rule to score 7+ regardless of whether it is a recipe or brand news.",
+    "image_url": "https://sporked.com/wp-content/uploads/2022/09/ELITE-SMORES-COMBOS_GWYNEDD-STUART_SPORKED_HEADER.jpg",
+    "category": "oddities"
   },
   {
     "title": "A tough Raya, a livestream and a fresh start with banana chips - Free Malaysia Today",
