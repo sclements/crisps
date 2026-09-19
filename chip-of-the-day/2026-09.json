@@ -149,5 +149,62 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRHrLBe1W8LwqBNK4ddq0noTZce4amNQ_tlF4NdELNsFzkaYCBqwB6_D98bX1-GsKmE3fOObzokimrFIUMS41cUuPuADY7r",
     "item_name": "Hand Smoked Rib Ancho Chilli"
+  },
+  {
+    "date": "2026-09-16",
+    "description": "Today's pick is Sour Fish, drawn from the culinary traditions of Thailand.",
+    "event_name": "Culinary traditions (Thailand)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTXS2wV3fUae2IOvffT8uesMDGCT_Z4qKMEEDmDvJeRcmIWQ4taCrhAF2rSGvx5LWxy5bJjN4N-5FnGBYBmUwDAE2CnnqZgEV4p7LbK8ocN6NcLUbNgBEX7Kw",
+    "item_name": "Sour Fish"
+  },
+  {
+    "date": "2026-09-17",
+    "description": "Today's pick is Tempura Fish, drawn from the culinary traditions of Thailand.",
+    "event_name": "Culinary traditions (Thailand)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBq0Qpz41dLrkz-2RLIslGkYy4NxU9Der6_H6p9IUt_x7PISJAQYq96Sysvmr0DvazSyzMLJwITvVDLuDed06fwXwpvgFwigW-9mTqzrF_3kpWtLhg1IZB",
+    "item_name": "Tempura Fish"
+  },
+  {
+    "audience_countries": [
+      "Chile"
+    ],
+    "date": "2026-09-18",
+    "description": "Celebrating Chile's festive Dieciocho today! These Cinnamon Churros chips bring the sweet, spiced joy of a traditional holiday treat to your snack bowl.",
+    "event_name": "National Day or Dieciocho (Chile)",
+    "event_url": "https://en.wikipedia.org/wiki/September_18",
+    "image_url": "https://www.eatthis.com/wp-content/uploads/sites/4/2024/04/Clancys-Cinnamon-Churros.jpg?quality=82&strip=all&w=640",
+    "item_name": "Cinnamon Churros"
+  },
+  {
+    "date": "2026-09-19",
+    "description": "Today's pick is Pumpkin, drawn from the culinary traditions of Slovenia.",
+    "event_name": "Culinary traditions (Slovenia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGrE75c1Uy1b6B__X7ZQo-Uej38uE4HW_v04ywKb6w3vFLgGo0LN7_3Mx2-IPEmJxL71YlubkzFRDKbQuyS-AZhf977LHfgwtzIMVDUOO_dzas4CYKFJylmg",
+    "item_name": "Pumpkin"
+  },
+  {
+    "audience_countries": [
+      "Thailand"
+    ],
+    "date": "2026-09-20",
+    "description": "Celebrating National Youth Day! These Thai Curry chips capture the bold, vibrant energy of Thailand's bright future in every bite.",
+    "event_name": "National Youth Day (Thailand)",
+    "event_url": "https://en.wikipedia.org/wiki/September_20",
+    "image_url": "https://cdn.webshopapp.com/shops/70983/files/408923990/croky-chips-thai-curry-40g-x-20st.jpg",
+    "item_name": "Thai Curry"
+  },
+  {
+    "audience_countries": [
+      "Brazil"
+    ],
+    "date": "2026-09-21",
+    "description": "Celebrating Arbor Day and the beauty of nature, these Tequila chips honor the agave plant. A spirited, botanical crunch for today!",
+    "event_name": "Arbor Day (Brazil)",
+    "event_url": "https://en.wikipedia.org/wiki/September_21",
+    "image_url": "https://www.ontariobeerkegs.com/assets/images/bb-tequila-barrel-chips-4oz-2.jpg",
+    "item_name": "Tequila"
   }
 ]

@@ -1,5 +1,70 @@
 [
   {
+    "title": "Iconic crisps are axed after 50 years as FOUR flavours vanish forever",
+    "url": "https://www.thesun.co.uk/money/39528777/iconic-crisps-axed-after-50-years/",
+    "snippet": "A BELOVED range of four iconic crisp flavours have been axed for good. Fans of the salty snacks have called the move an \"end of an era\"....",
+    "published_at": "2026-09-19T22:47:33Z",
+    "source": "The Sun",
+    "score": 10,
+    "reason": "The article is directly about the discontinuation of specific potato chip/crisp flavors, which falls under brand news and product updates.",
+    "image_url": "https://www.thesun.co.uk/wp-content/uploads/2026/02/e5c836eb-b792-44a1-b8f9-94f804fa9e92.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+    "category": "business"
+  },
+  {
+    "title": "J. HIGGS Loaded Bacon and Cheddar Potato Chips Recalled",
+    "url": "https://foodpoisoningbulletin.com/2026/j-higgs-loaded-bacon-and-cheddar-potato-chips-recalled/",
+    "snippet": "J. HIGGS Loaded Bacon and Cheddar Potato Chips are being recalled because they may contain soy. No illnesses reported.",
+    "published_at": "2026-09-19T01:46:49Z",
+    "source": "Food Poisoning Bulletin",
+    "score": 10,
+    "reason": "The article is directly about a recall of potato chips, which falls under the highest relevance category for a chip-focused news site.",
+    "image_url": "https://foodpoisoningbulletin.com/wp-content/uploads/J.-HIGGS-Loaded-Bacon-and-Cheddar-Potato-Chips-Recalled.jpg",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "POLL: Would you try stuffing-flavored potato chips?",
+    "url": "https://news4sanantonio.com/news/local/poll-would-you-try-stuffing-flavored-potato-chips",
+    "snippet": "H-E-B puts Thanksgiving stuffing in a potato chip bag and Texas is ready to crunchSAN ANTONIO — Texans may still be reaching for the car's...",
+    "published_at": "2026-09-16T22:46:49Z",
+    "source": "WOAI",
+    "score": 10,
+    "reason": "The article is directly about a new flavor of potato chips, which falls under the highest relevance category.",
+    "image_url": "https://news4sanantonio.com/resources/media2/16x9/1556/1320/0x1/90/be09f071-aa4b-4134-a7a2-8dc202646959-ChatGPTImageSep16202610_00_32AM.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "NBC 5 goes inside Plano's Frito-Lay test kitchen where they test new chips, flavors",
+    "url": "https://www.nbcdfw.com/news/local/nbc5-goes-inside-planos-frito-lay-test-kitchen-where-they-test-new-chips-flavors/4076468/",
+    "snippet": "Watch NBC 5 go inside PepsiCo's Frito-Lay test kitchen to see how new chips and gameday flavors are developed for snack season.",
+    "published_at": "2026-09-14T00:04:47Z",
+    "source": "NBC 5 Dallas-Fort Worth",
+    "score": 10,
+    "reason": "The article is directly about the development of new chip flavors and brand news for Frito-Lay, fitting the highest relevance category.",
+    "image_url": "https://media.nbcdfw.com/2026/09/poster-frame-1789328982999.png?resize=1200%2C675&quality=85&strip=all",
+    "category": "oddities"
+  },
+  {
+    "title": "What Pringles Looked Like In The '60s Vs 2026",
+    "url": "https://www.foodrepublic.com/2254931/what-pringles-looked-like-60s-vs-2026/",
+    "snippet": "Peruse classic chip offerings, and it can be hard to imagine a time before their availability. One such brand is Pringles: The saddle-shaped...",
+    "published_at": "2026-09-13T20:04:37Z",
+    "source": "www.foodrepublic.com",
+    "score": 9,
+    "reason": "The article is directly about a major chip brand (Pringles) and its history/evolution, which falls under 'brand news' and 'chip brands'.",
+    "image_url": "https://www.foodrepublic.com/img/gallery/what-pringles-looked-like-in-the-60s-vs-2026/l-intro-1789056544.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "A Trip To This Potato Chip Factory In Virginia Will Make You Feel Like A Kid Again",
+    "url": "https://familydestinationsguide.com/unique-destination-virginia-factory/",
+    "snippet": "There’s a place in Mt. Jackson, Virginia where the air itself smells like something wonderful is happening, and that something is Route 11 Potato Chips. Pull up to the factory, and you’ll immediately ...",
+    "published_at": "2026-09-13T17:00:00Z",
+    "score": 10,
+    "reason": "The article is directly about a specific potato chip brand (Route 11) and its factory, making it highly relevant to a dedicated chips/crisps website.",
+    "image_url": "https://images.familydestinationsguide.com/wp-content/uploads/2026/08/unique-destination-virginia-factory-FTR.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Forget Basic French Fries: These German-Style Aldi Finds Are Even Better",
     "url": "https://www.yahoo.com/lifestyle/articles/forget-basic-french-fries-german-113000105.html",
     "snippet": "We love potatoes around here. They're versatile, delicious, and are featured in some of our favorite snacks (looking at you, potato chips).",
@@ -20,6 +85,15 @@
     "reason": "The article is directly about a major chip brand (Walkers) and the development of new flavors, fitting the highest relevance category.",
     "image_url": "https://i.guim.co.uk/img/media/131f0a7ea2d18365ad8113528d64da856b30850d/191_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd602255904a47ced12a73c8347ee42c",
     "category": "oddities"
+  },
+  {
+    "title": "A $15 bag of chips? Experts warn inflation could make snacks feel like a luxury",
+    "url": "https://www.msn.com/en-us/news/other/a-15-bag-of-chips-experts-warn-inflation-could-make-snacks-feel-like-a-luxury/ar-AA2c5zZA",
+    "snippet": "A $15 Bag of Chips? Experts Warn Inflation Could Make Snacks Feel Like a Luxury ...",
+    "published_at": "2026-09-12T07:00:59Z",
+    "score": 7,
+    "reason": "The article discusses economic trends specifically regarding the price of chips. According to the rules, mentions of 'chips' in a food context ensure a score of 7 or higher.",
+    "category": "business"
   },
   {
     "title": "Crunch! UH Mānoa gets its own locally made chip mix",
@@ -161,6 +235,15 @@
     "reason": "The article is about a known snack brand (Kurkure). While not specifically potato chips, it falls under the category of snack industry brand news.",
     "image_url": "https://static.wixstatic.com/media/8c1f0e_080376de5c1744b7aab7e56073db04b4~mv2.jpg/v1/fill/w_536,h_536,al_c,lg_1,q_80/8c1f0e_080376de5c1744b7aab7e56073db04b4~mv2.jpg",
     "category": "business"
+  },
+  {
+    "title": "Home Bargains is selling nostalgic crisps that will take you back to the 1970s",
+    "url": "https://www.msn.com/en-gb/news/newsliverpool/home-bargains-is-selling-nostalgic-crisps-that-will-take-you-back-to-the-1970s/ar-AA2bRZJT",
+    "snippet": "Crisps fans are rushing to their nearest Home Bargains stores to get their hands on these snacks that will transport you back to your childhood. So here's what you need to know ...",
+    "published_at": "2026-09-09T03:12:05Z",
+    "score": 10,
+    "reason": "The article is directly about the sale of specific crisp products, making it highly relevant to a potato chip/crisp news website.",
+    "category": "new_flavors"
   },
   {
     "title": "Give Out Chips Instead of Candy and Support Local with Mrs. Fisher’s! - MyStateline",
