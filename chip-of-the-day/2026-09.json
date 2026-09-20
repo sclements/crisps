@@ -206,5 +206,13 @@
     "event_url": "https://en.wikipedia.org/wiki/September_21",
     "image_url": "https://www.ontariobeerkegs.com/assets/images/bb-tequila-barrel-chips-4oz-2.jpg",
     "item_name": "Tequila"
+  },
+  {
+    "date": "2026-09-22",
+    "description": "Today's pick is Masa Hatch Chile, drawn from the culinary traditions of New Mexico.",
+    "event_name": "Culinary traditions (New Mexico)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRGINvtDcwkyzDKCMx8pFzLl4FwQolGQXKeVRiXNInkNdU_f9JpSSXVwpCwEn8hSobsRyIDhO6H3DZQ4jSva8KCgyCHnE3cz9lr_pCXdyVfG33aZ6j9Aaj_4Q",
+    "item_name": "Masa Hatch Chile"
   }
 ]

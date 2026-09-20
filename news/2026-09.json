@@ -22,6 +22,28 @@
     "category": "recalls_safety"
   },
   {
+    "title": "I Perfected the Cottage Cheese Chips Recipe—Here’s How to Make Them - Good Housekeeping",
+    "url": "https://www.goodhousekeeping.com/food-recipes/a73790311/cottage-cheese-chips-recipe-perfected/",
+    "snippet": "",
+    "published_at": "2026-09-18T17:07:03Z",
+    "source": "Good Housekeeping",
+    "score": 8,
+    "reason": "The article is a recipe for cottage cheese chips, which falls under the category of protein or alternative chips mentioned in the 7-8 score range.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/d3292830-15d1-4249-88c7-c47126e3729b.jpg?crop=1xw:0.667xh;0xw,0.144xh&resize=1200:*",
+    "category": "oddities"
+  },
+  {
+    "title": "Russian export duo: Bruto Chips and Akva-Kristall Water set a new standard for \"Clean\" Snacking - Khaleej Times",
+    "url": "https://www.khaleejtimes.com/business/russian-export-duo-bruto-chips-and-akva-kristall-water-set-a-new-standard-for-clean-snacking",
+    "snippet": "",
+    "published_at": "2026-09-17T05:00:00Z",
+    "source": "Khaleej Times",
+    "score": 9,
+    "reason": "The article is brand news regarding a company named 'Bruto Chips', which falls under the 9-10 category for chip brand news.",
+    "image_url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-09-10/qt4s93e7/Lead.jpg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=fill&fill=blur",
+    "category": "business"
+  },
+  {
     "title": "POLL: Would you try stuffing-flavored potato chips?",
     "url": "https://news4sanantonio.com/news/local/poll-would-you-try-stuffing-flavored-potato-chips",
     "snippet": "H-E-B puts Thanksgiving stuffing in a potato chip bag and Texas is ready to crunchSAN ANTONIO — Texans may still be reaching for the car's...",
@@ -180,6 +202,17 @@
     "score": 10,
     "reason": "The article is directly about a recall of potato chips, which fits the top tier of relevance.",
     "category": "recalls_safety"
+  },
+  {
+    "title": "The Discontinued Lay's Chips Literally No One Wants To See Again - The Takeout",
+    "url": "https://www.thetakeout.com/1878554/discontinued-lays-chips-wow/",
+    "snippet": "",
+    "published_at": "2026-09-10T07:00:00Z",
+    "source": "The Takeout",
+    "score": 9,
+    "reason": "The article is directly about Lay's potato chips and their discontinued flavors, making it highly relevant to a chip-focused website.",
+    "image_url": "https://www.thetakeout.com/img/gallery/discontinued-lays-chips-wow/l-intro-1789065130.jpg",
+    "category": "business"
   },
   {
     "title": "Pringles launches new mystery flavour in stores - can YOU guess what it is? - The Sun",
@@ -606,6 +639,16 @@
     "category": "oddities"
   },
   {
+    "title": "Lay’s Just Turned This Barbecue Favorite Into a Bold New Chip Flavor - parade.com",
+    "url": "https://parade.com/food/lays-barbecue-brisket-chips",
+    "snippet": "",
+    "published_at": "2026-08-17T07:00:00Z",
+    "source": "parade.com",
+    "score": 10,
+    "reason": "The article is directly about a new product flavor launch from Lay's, a major potato chip brand.",
+    "category": "new_flavors"
+  },
+  {
     "title": "Rachel Allen partners with O'Donnells to create new sea salt & truffle and Sunday roast crisps - retailnews.ie",
     "url": "https://www.retailnews.ie/news-and-views/rachel-allen-partners-with-o-donnells-to-create-new-sea-salt---truffle-and-sunday-roast-crisps/",
     "snippet": "",
@@ -657,6 +700,17 @@
     "score": 10,
     "reason": "The article is a direct review and comparison of specific potato chip brands/flavors, which falls into the highest relevance category.",
     "category": "reviews"
+  },
+  {
+    "title": "Walkers confirms 'best crisps ever made' are returning after 5 years - Metro.co.uk",
+    "url": "https://metro.co.uk/2026/07/15/walkers-confirms-flavour-crack-cocaine-crisp-form-officially-returning-29145858/",
+    "snippet": "",
+    "published_at": "2026-07-15T07:00:00Z",
+    "source": "Metro.co.uk",
+    "score": 10,
+    "reason": "The article is directly about a major potato chip brand (Walkers) announcing the return of specific products, which falls under new flavors and brand news.",
+    "image_url": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_305312562-28f2_1784197099.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "category": "new_flavors"
   },
   {
     "title": "Classic Snack Chips Recalled in 7 States - The Healthy @Reader's Digest",
