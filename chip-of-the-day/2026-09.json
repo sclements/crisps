@@ -225,5 +225,13 @@
     "event_url": "https://en.wikipedia.org/wiki/September_23",
     "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_264b840d-7fd7-4624-8527-5ad654261c05.png",
     "item_name": "Cauliflower Whole Grain"
+  },
+  {
+    "date": "2026-09-24",
+    "description": "Today's pick is Shrimp, drawn from the culinary traditions of Peru.",
+    "event_name": "Culinary traditions (Peru)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDnlD10h0cD50HtGykpV8hFSA1_N69f_pPYlvE9bTxHwxbEg0YwU0rTQUF6WIl7gIe3eVA78pXiUESOuxPGTwPGA1mmcO_FMHFFbF6joRVTEZ4KD2d7gdMyQ",
+    "item_name": "Shrimp"
   }
 ]

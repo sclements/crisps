@@ -1,5 +1,27 @@
 [
   {
+    "title": "Tri-State shoppers urged to check bags of these chips; they've been recalled",
+    "url": "https://local12.com/news/nation-world/recall-recalled-j-higgs-loaded-bacon-cheddar-potato-chips-undeclared-soy-ohio-kentucky-indiana-cincinnati-recalling",
+    "snippet": "",
+    "published_at": "2026-09-22T00:00:03Z",
+    "source": "WKRC",
+    "score": 10,
+    "reason": "The article is directly about a chip recall, which falls under the 9-10 category for news regarding potato chips/crisps.",
+    "image_url": "https://local12.com/resources/media2/16x9/1020/1320/4x0/90/b70338b2-7d7e-4659-9410-504b0c43a671-chips.png",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Grill’d launches limited-edition Twisties shaker chips",
+    "url": "https://crumbwire.com/news/grilld-launches-limited-edition-twisties-shaker-chips/",
+    "snippet": "Grill'd has teamed up with Twisties for a limited-edition collab that turns its Famous Chips into a cheesy shaker snack.",
+    "published_at": "2026-09-21T08:00:13Z",
+    "source": "Crumb Wire",
+    "score": 10,
+    "reason": "The article is directly about a new chip product launch involving a known snack brand, fitting the top tier of relevance.",
+    "image_url": "https://crumbwire.com/wp-content/uploads/2026/09/twisties-fries.png",
+    "category": "new_flavors"
+  },
+  {
     "title": "Iconic crisps are axed after 50 years as FOUR flavours vanish forever",
     "url": "https://www.thesun.co.uk/money/39528777/iconic-crisps-axed-after-50-years/",
     "snippet": "A BELOVED range of four iconic crisp flavours have been axed for good. Fans of the salty snacks have called the move an \"end of an era\"....",
@@ -115,6 +137,17 @@
     "published_at": "2026-09-12T07:00:59Z",
     "score": 7,
     "reason": "The article discusses economic trends specifically regarding the price of chips. According to the rules, mentions of 'chips' in a food context ensure a score of 7 or higher.",
+    "category": "business"
+  },
+  {
+    "title": "The Lay's Potato Chips Your Grandparents Ate Looks Very Different Now - yahoo.com",
+    "url": "https://www.yahoo.com/lifestyle/articles/lays-potato-chips-grandparents-ate-194000909.html",
+    "snippet": "",
+    "published_at": "2026-09-12T07:00:00Z",
+    "source": "yahoo.com",
+    "score": 10,
+    "reason": "The article is directly about Lay's potato chips, a major brand, focusing on the history and evolution of their specific product.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/6668ff49f9132b1c9815a491b9a60d2196b05200b5cfb498c9c0e2576f140298/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftasting_table_543%2Fc99bbd62084efc26d58ef1f4f5a21790.jpg",
     "category": "business"
   },
   {
@@ -553,6 +586,17 @@
     "category": "health"
   },
   {
+    "title": "The Weirdest Chip Flavors from Around the World - favorflav.com",
+    "url": "https://favorflav.com/en/new/the-weirdest-chip-flavors-from-around-the-world/",
+    "snippet": "",
+    "published_at": "2026-09-01T23:35:57Z",
+    "source": "favorflav.com",
+    "score": 10,
+    "reason": "The title directly addresses unique chip flavors, which falls into the 9-10 category for new flavors and reviews.",
+    "image_url": "https://favorflav.com/images/Schermafbeelding-2020-09-18-om-15.05.03.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Glaswegians who love crisps can now create their own Golden Wonder flavour with new pop up",
     "url": "https://uk.news.yahoo.com/glaswegians-love-crisps-now-create-132619862.html",
     "snippet": "Crisp lovers are invited to create their own unique flavour of Golden Wonder crisps at the World of Wonder pop up.",
@@ -639,6 +683,17 @@
     "category": "oddities"
   },
   {
+    "title": "Lay’s Is Bringing The Smoke With Its New Flavor - Sporked",
+    "url": "https://sporked.com/article/lays-barbecue-brisket-flavor/",
+    "snippet": "",
+    "published_at": "2026-08-19T07:00:00Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is directly about a new flavor from Lay's, a major potato chip brand.",
+    "image_url": "https://sporked.com/wp-content/uploads/2024/01/EXPLAINER_WHO-INVENTED-POTATO-CHIPS_HEADER.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "Lay’s Just Turned This Barbecue Favorite Into a Bold New Chip Flavor - parade.com",
     "url": "https://parade.com/food/lays-barbecue-brisket-chips",
     "snippet": "",
@@ -700,6 +755,17 @@
     "score": 10,
     "reason": "The article is a direct review and comparison of specific potato chip brands/flavors, which falls into the highest relevance category.",
     "category": "reviews"
+  },
+  {
+    "title": "New Walkers Sensations flavour finally hits shelves at ALL major UK supermarkets for just £2.50 - The Sun",
+    "url": "https://www.thesun.co.uk/money/39775605/walkers-sensations-flavor-hits-uk-supermarkets/",
+    "snippet": "",
+    "published_at": "2026-07-16T07:00:00Z",
+    "source": "The Sun",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release for Walkers Sensations, which is a prominent potato chip/crisp brand.",
+    "image_url": "https://www.thesun.co.uk/wp-content/uploads/2026/07/newspress-collage-5xmejnl8h-1784194426183.jpg?quality=90&strip=all&1784198051&w=1920&h=1080&crop=1",
+    "category": "new_flavors"
   },
   {
     "title": "Walkers confirms 'best crisps ever made' are returning after 5 years - Metro.co.uk",
