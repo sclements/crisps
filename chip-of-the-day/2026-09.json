@@ -233,5 +233,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDnlD10h0cD50HtGykpV8hFSA1_N69f_pPYlvE9bTxHwxbEg0YwU0rTQUF6WIl7gIe3eVA78pXiUESOuxPGTwPGA1mmcO_FMHFFbF6joRVTEZ4KD2d7gdMyQ",
     "item_name": "Shrimp"
+  },
+  {
+    "date": "2026-09-25",
+    "description": "Today's pick is Oil Spicy Green, drawn from the culinary traditions of Bangladesh.",
+    "event_name": "Culinary traditions (Bangladesh)",
+    "event_url": "USDA",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSWVPlpQJYNHouxfVsjfwevEswKJsnyCPykKEU0r1dAs1vKgHtjkI6dVsy4SdpXXQC_LvD3UiDwpPNQ4dGL4ymlZ_rM6mDkjCWLhw_qTFa1hUnU4wYnKq6sUQ",
+    "item_name": "Oil Spicy Green"
   }
 ]

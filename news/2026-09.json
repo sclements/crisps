@@ -1,5 +1,38 @@
 [
   {
+    "title": "Tip: deze nieuwe tortillachips is extra knapperig",
+    "url": "https://favorflav.com/en/new/youll-want-these-new-rewind-chips-at-your-next-barbecue-and-theyre-now-in-the-bonus-at-ah/",
+    "snippet": "Rewind's chips are extra thin, extra crunchy and made from corn; tortilla chippies, in other words. They come in four different flavors and cheerful,...",
+    "published_at": "2026-09-23T01:00:23Z",
+    "source": "FavorFlav.com",
+    "score": 8,
+    "reason": "The article introduces a new brand of tortilla chips. According to the rubric, closely related chip products like tortilla chips fall into the 7-8 score range.",
+    "image_url": "https://favorflav.com/images/tortillachips.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Jumbo verrast met nieuwe chips",
+    "url": "https://favorflav.com/en/new/are-these-new-chips-the-tastiest-in-the-supermarket/",
+    "snippet": "Jumbo heeft nieuwe chips. Van Sea Salt & Vinegar tot de special edition Sour Cream & Onion. Hier lees je meer over de nieuwe Jumbo's Chips.",
+    "published_at": "2026-09-22T17:00:23Z",
+    "source": "FavorFlav.com",
+    "score": 10,
+    "reason": "The article is directly about the launch of new potato chip flavors from the Jumbo brand, which falls under the highest relevance category.",
+    "image_url": "https://favorflav.com/images/Jumbos-Chips.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Utz Turns Up the Flavor With Three New Snack Innovations",
+    "url": "https://www.businesswire.com/news/home/20260922301155/en/Utz-Turns-Up-the-Flavor-With-Three-New-Snack-Innovations",
+    "snippet": "New Chicken Dipping Sauce Potato Chips, Cheddar Bacon Ranch Cheese Balls and Spicy Pickle Bites bring bold new tastes to the snack aisle.",
+    "published_at": "2026-09-22T15:00:05Z",
+    "source": "Business Wire",
+    "score": 10,
+    "reason": "The article is directly about new product launches from a major chip brand (Utz), specifically including potato chips.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmvajj_whQzKCeKV_N3SESkS8hP4Ilp8txaoZDDzSVUa0z4otG2qU0DI&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
     "title": "Tri-State shoppers urged to check bags of these chips; they've been recalled",
     "url": "https://local12.com/news/nation-world/recall-recalled-j-higgs-loaded-bacon-cheddar-potato-chips-undeclared-soy-ohio-kentucky-indiana-cincinnati-recalling",
     "snippet": "",
@@ -20,6 +53,17 @@
     "reason": "The article is directly about a new chip product launch involving a known snack brand, fitting the top tier of relevance.",
     "image_url": "https://crumbwire.com/wp-content/uploads/2026/09/twisties-fries.png",
     "category": "new_flavors"
+  },
+  {
+    "title": "I Tried The Fancy Potato Chips Dua Lipa Had on a Girls' Trip in Portofino — And They're a 15/10",
+    "url": "https://www.aol.com/articles/tried-fancy-potato-chips-dua-160000000.html",
+    "snippet": "I saw Dua Lipa perform at Austin City Limits in 2024, and my life hasn't been the same since. I loved it all: her dancing, her outfits,...",
+    "published_at": "2026-09-20T08:00:05Z",
+    "source": "AOL.com",
+    "score": 9,
+    "reason": "The article is a review of potato chips, which falls directly into the 9-10 category according to the rubric.",
+    "image_url": "https://hermes.media.transform.aol.com/d40b9cb5f4da2a6c5eef02fe11924dbd35d5f854/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/09/19/642a34c0-bfa8-32e3-a8cd-c94907a32d39/88d8a3bc-d033-4209-8a16-ce4623f32825.jpg",
+    "category": "reviews"
   },
   {
     "title": "Iconic crisps are axed after 50 years as FOUR flavours vanish forever",
