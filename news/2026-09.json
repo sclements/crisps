@@ -1,5 +1,36 @@
 [
   {
+    "title": "PepsiCo's Ethiopian Expansion and GLP-1 Headwinds Collide on a Stock Seeking Its Footing - AD HOC NEWS",
+    "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/pepsico-s-ethiopian-expansion-and-glp-1-headwinds-collide-on-a-stock/70167481",
+    "snippet": "",
+    "published_at": "2026-09-23T13:20:40Z",
+    "source": "AD HOC NEWS",
+    "score": 7,
+    "reason": "PepsiCo is the parent company of major chip brands like Lay's and Doritos; news regarding their business operations and market headwinds is highly relevant to the snack industry.",
+    "image_url": "https://mdb.ad-hoc-news.de/bild/bild-2672007_1920_1080.webp",
+    "category": "business"
+  },
+  {
+    "title": "‘They smell of urinal cakes!’: 100 unusual crisp flavours, ranked – from truly awful to totally scoffable - The Guardian",
+    "url": "https://www.theguardian.com/food/2026/sep/23/100-unusual-crisp-flavours-ranked-truly-awful-totally-scoffable",
+    "snippet": "",
+    "published_at": "2026-09-23T09:00:00Z",
+    "source": "The Guardian",
+    "score": 9,
+    "reason": "The article is a ranking and review of unusual crisp flavors, which falls directly into the category of content specifically about potato chips/crisps.",
+    "image_url": "https://i.guim.co.uk/img/media/39309b3947cb554740b1dc03dc7d357756a43bba/0_2494_8561_6849/master/8561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca076ce2fb093692af05e1d98cce8d53",
+    "category": "reviews"
+  },
+  {
+    "title": "Review: Moshi Chips Have The Crunch You’ve Been Looking For",
+    "url": "https://www.nosh.com/news/2026/review-moshi-chips-have-the-crunch-youve-been-looking-for",
+    "snippet": "SKU range that includes Roasted Garlic Miso, Sriracha Seaweed, Yakiniku BBQ, and Spicy Yuzu Kosho flavors, Moshi's kettle-cooked potato chips deliver impressive flavor development and an especially ...",
+    "published_at": "2026-09-23T02:00:00Z",
+    "score": 10,
+    "reason": "The article is a direct review of a specific brand of potato chips, which falls into the highest relevance category.",
+    "category": "reviews"
+  },
+  {
     "title": "Tip: deze nieuwe tortillachips is extra knapperig",
     "url": "https://favorflav.com/en/new/youll-want-these-new-rewind-chips-at-your-next-barbecue-and-theyre-now-in-the-bonus-at-ah/",
     "snippet": "Rewind's chips are extra thin, extra crunchy and made from corn; tortilla chippies, in other words. They come in four different flavors and cheerful,...",
@@ -119,6 +150,15 @@
     "reason": "The article is directly about a new flavor of potato chips, which falls under the highest relevance category.",
     "image_url": "https://news4sanantonio.com/resources/media2/16x9/1556/1320/0x1/90/be09f071-aa4b-4134-a7a2-8dc202646959-ChatGPTImageSep16202610_00_32AM.png",
     "category": "new_flavors"
+  },
+  {
+    "title": "5 Bagel Chip Brands, Ranked Worst To Best",
+    "url": "https://www.msn.com/en-us/general/general/5-bagel-chip-brands-ranked-worst-to-best/ar-AA2ck90E",
+    "snippet": "Bagel chips should be crunchy and tasty. Flavor intrigue is most important in our ranking of different brands, followed by versatility, texture, and chip size.",
+    "published_at": "2026-09-15T17:20:00Z",
+    "score": 8,
+    "reason": "The article is about bagel chips, which fall under the category of closely related snack foods that are a kind of chip/crisp.",
+    "category": "reviews"
   },
   {
     "title": "NBC 5 goes inside Plano's Frito-Lay test kitchen where they test new chips, flavors",

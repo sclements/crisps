@@ -241,5 +241,16 @@
     "event_url": "USDA",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSWVPlpQJYNHouxfVsjfwevEswKJsnyCPykKEU0r1dAs1vKgHtjkI6dVsy4SdpXXQC_LvD3UiDwpPNQ4dGL4ymlZ_rM6mDkjCWLhw_qTFa1hUnU4wYnKq6sUQ",
     "item_name": "Oil Spicy Green"
+  },
+  {
+    "audience_countries": [
+      "New Zealand"
+    ],
+    "date": "2026-09-26",
+    "description": "Honoring the history of New Zealand's Dominion Day. These Apricot chips offer a bright, sun-kissed sweetness to celebrate this special day.",
+    "event_name": "Dominion Day (New Zealand)",
+    "event_url": "https://en.wikipedia.org/wiki/September_26",
+    "image_url": "http://naturesturn.com/cdn/shop/files/15g-APRICOT_SOUR_2000.png?v=1724172836",
+    "item_name": "Apricot"
   }
 ]
