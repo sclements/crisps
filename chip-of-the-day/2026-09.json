@@ -252,5 +252,16 @@
     "event_url": "https://en.wikipedia.org/wiki/September_26",
     "image_url": "http://naturesturn.com/cdn/shop/files/15g-APRICOT_SOUR_2000.png?v=1724172836",
     "item_name": "Apricot"
+  },
+  {
+    "audience_countries": [
+      "French community of Belgium"
+    ],
+    "date": "2026-09-27",
+    "description": "Celebrating the culinary heritage of Belgium's French community. These Asparagus chips capture the refined, seasonal spring flavors prized in traditional French cuisine.",
+    "event_name": "French Community Holiday (French community of Belgium)",
+    "event_url": "https://en.wikipedia.org/wiki/September_27",
+    "image_url": "https://www.petakids.com/wp-content/uploads/2019/10/vegan-robs-asparagus-chips-e1572463021192.jpg",
+    "item_name": "Asparagus"
   }
 ]

@@ -1,5 +1,38 @@
 [
   {
+    "title": "PepsiCo to raise some chip prices as input costs bite - The Lufkin Daily News",
+    "url": "https://lufkindailynews.com/news_reuters/business/pepsico-to-raise-some-chip-prices-as-input-costs-bite/article_f254d3a3-b3e8-5c04-a6d3-5fa6a96f6c22.html",
+    "snippet": "",
+    "published_at": "2026-09-24T17:35:38Z",
+    "source": "The Lufkin Daily News",
+    "score": 8,
+    "reason": "The article is about business news regarding chip price increases from PepsiCo, a major manufacturer of chips (Frito-Lay).",
+    "image_url": "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/8/1a/81a87863-e2c4-5735-9e58-3b1e27296a40/6ab53f5028ff4.image.jpg?crop=800%2C420%2C0%2C56",
+    "category": "business"
+  },
+  {
+    "title": "Aberdeen mum’s pride as daughter could win £500,000 for coming up with new crisp flavour",
+    "url": "https://www.pressandjournal.co.uk/fp/news/7114499/aberdeen-mum-crisp-competition-plea/",
+    "snippet": "An Aberdeen mum has urged north-east shoppers to back a new crisp flavour devised by her own daughter for a competition.",
+    "published_at": "2026-09-24T12:00:25Z",
+    "source": "Press and Journal",
+    "score": 9,
+    "reason": "The article is directly about the development of a new crisp (potato chip) flavor, which falls under the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CaXwoiMh-5Xa_XfjyWOgeseZb_iTImgLdMc_Vj8_pyRbwT5AH9W9C1s&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "Snack flavor fusion",
+    "url": "https://www.foodbusinessnews.net/articles/31065-snack-flavor-fusion",
+    "snippet": "\"Snack brands are fusing complementary flavor profiles from different cultures or providing a popular global flavor in an unusual application typically associated with another global cuisine,\" said Sydney Byrne, marketing manager, Sensient Flavors & Extracts. \"Think crab Rangoon empanada bites or churro chips.",
+    "published_at": "2026-09-23T15:42:00Z",
+    "source": "Food Business News",
+    "score": 8,
+    "reason": "The snippet mentions 'churro chips' and discusses snack industry flavor trends, which triggers the rule for a 7+ score.",
+    "image_url": "https://www.foodbusinessnews.net/ext/resources/2026/09/01/1pringles-dippers.jpg?height=635&t=1788271373&width=1200",
+    "category": "new_flavors"
+  },
+  {
     "title": "PepsiCo's Ethiopian Expansion and GLP-1 Headwinds Collide on a Stock Seeking Its Footing - AD HOC NEWS",
     "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/pepsico-s-ethiopian-expansion-and-glp-1-headwinds-collide-on-a-stock/70167481",
     "snippet": "",
@@ -128,6 +161,17 @@
     "reason": "The article is a recipe for cottage cheese chips, which falls under the category of protein or alternative chips mentioned in the 7-8 score range.",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/d3292830-15d1-4249-88c7-c47126e3729b.jpg?crop=1xw:0.667xh;0xw,0.144xh&resize=1200:*",
     "category": "oddities"
+  },
+  {
+    "title": "Carroll County farm cultivates the crunch in potato chips",
+    "url": "https://www.shawlocal.com/sauk-valley/2026/09/18/carroll-county-farm-cultivates-the-crunch-in-potato-chips/",
+    "snippet": "Like many farms in Illinois, Neumiller Farms grows the state's top crops, corn and soybeans, along with green beans and other produce. But the potato reigns supreme for this family farm.",
+    "published_at": "2026-09-18T11:00:00Z",
+    "source": "Shaw Local",
+    "score": 8,
+    "reason": "The article is about the agricultural production of potatoes specifically for chip making. While it's an industry/supply chain story, the title and content directly involve the core ingredient of potato chips, meeting the criteria for a score of 7 or higher.",
+    "image_url": "https://www.shawlocal.com/resizer/v2/PBPFHA6ZYNGFTJD7YOVX2G7F5A.jpg?auth=c5de80ad1da69ce1aa0da96d352c27aa69a8821c89c787f1281dedcc1037d6cb&width=1200&height=630&focal=491%2C322",
+    "category": "business"
   },
   {
     "title": "Russian export duo: Bruto Chips and Akva-Kristall Water set a new standard for \"Clean\" Snacking - Khaleej Times",
