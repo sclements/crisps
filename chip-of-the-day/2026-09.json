@@ -263,5 +263,13 @@
     "event_url": "https://en.wikipedia.org/wiki/September_27",
     "image_url": "https://www.petakids.com/wp-content/uploads/2019/10/vegan-robs-asparagus-chips-e1572463021192.jpg",
     "item_name": "Asparagus"
+  },
+  {
+    "date": "2026-09-28",
+    "description": "Today's pick is Emmental, drawn from the culinary traditions of Brunei.",
+    "event_name": "Culinary traditions (Brunei)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8nBkq31toxMs22zE_d4LKzn0I6-fKcFCTU1joi8gM-kWRDxx4x4zvJK5cO5AZCB__Dyn1WDfMuVVXvRx_3Wy-yxVj16TcdYDaIb0-lKsq2tE84dkBSVXeRQ",
+    "item_name": "Emmental"
   }
 ]

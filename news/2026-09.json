@@ -1,5 +1,27 @@
 [
   {
+    "title": "Nestlé Éxtreme Pop x Lay’s brings crunch to ice cream in Thailand - Mini Me Insights",
+    "url": "https://www.minimeinsights.com/2026/09/25/nestle-extreme-pop-x-lays-brings-crunch-to-ice-cream-in-thailand/",
+    "snippet": "",
+    "published_at": "2026-09-25T14:02:56Z",
+    "source": "Mini Me Insights",
+    "score": 8,
+    "reason": "The article features a major chip brand (Lay's) and news about a product innovation involving their products.",
+    "image_url": "https://www.minimeinsights.com/wp-content/uploads/2026/09/nestle-ice-cream-lays-1.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "I decided to find out what Koikeya's stick-shaped snacks, 'Kin no Potato Yamitsuki Shio' (Addictive Salt) and 'Kin no Potato Oudou Nori Shio' (Classic Seaweed Salt), actually taste like. - GIGAZINE",
+    "url": "https://gigazine.net/gsc_news/en/20260925-kin-no-potato-koikeya/",
+    "snippet": "",
+    "published_at": "2026-09-25T08:00:00Z",
+    "source": "GIGAZINE",
+    "score": 9,
+    "reason": "The article is a direct review of specific potato-based snack products from the brand Koikeya, which falls under the 9-10 category for chip/snack reviews.",
+    "image_url": "https://i.gzn.jp/img/2026/09/25/kin-no-potato-koikeya/00.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "PepsiCo to raise some chip prices as input costs bite - The Lufkin Daily News",
     "url": "https://lufkindailynews.com/news_reuters/business/pepsico-to-raise-some-chip-prices-as-input-costs-bite/article_f254d3a3-b3e8-5c04-a6d3-5fa6a96f6c22.html",
     "snippet": "",
@@ -20,6 +42,17 @@
     "reason": "The article is directly about the development of a new crisp (potato chip) flavor, which falls under the highest relevance category.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CaXwoiMh-5Xa_XfjyWOgeseZb_iTImgLdMc_Vj8_pyRbwT5AH9W9C1s&usqp=CAI&s",
     "category": "oddities"
+  },
+  {
+    "title": "4 Store-Bought Chips You Really Want to Try (and 1 to Leave on the Shelf)",
+    "url": "https://favorflav.com/en/new/4-store-bought-chips-you-really-want-to-try-and-1-to-leave-on-the-shelf/",
+    "snippet": "A slightly strange name, perhaps, because when you think of Swiss cuisine, raclette probably comes to mind first. But for many Hong Kongers, this name makes...",
+    "published_at": "2026-09-24T08:00:14Z",
+    "source": "FavorFlav.com",
+    "score": 9,
+    "reason": "The title explicitly states the article is a review of store-bought chips, which falls directly into the top tier of relevance for a chip news website.",
+    "image_url": "https://favorflav.com/images/Wasabi-Nori-chips-1.jpg",
+    "category": "reviews"
   },
   {
     "title": "Snack flavor fusion",
@@ -843,6 +876,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "County Kettle Chips Stock State Shelves - WAGM",
+    "url": "https://www.wagmtv.com/2026/08/07/county-kettle-chips-stock-state-shelves/",
+    "snippet": "",
+    "published_at": "2026-08-07T07:00:00Z",
+    "source": "WAGM",
+    "score": 10,
+    "reason": "The title directly mentions 'Kettle Chips', which is a specific brand/type of potato chip, falling under direct brand news.",
+    "image_url": "https://gray-wagm-prod.gtv-cdn.com/resizer/v2/L3LPLSU6EZEXJMCKOO352TAIRY.png?auth=418da2fe71a635543dc77a77f4de60eb54758d7a9a32f5985539b4daec0b5feb&width=1200&height=600&smart=true",
+    "category": "business"
+  },
+  {
     "title": "You Can Get Canada’s Famous Lay’s Potato Chip Flavor Shipped to Your Door in the U.S. - Yahoo Life UK",
     "url": "https://uk.style.yahoo.com/not-secret-way-canada-famous-213000865.html",
     "snippet": "",
@@ -894,6 +938,16 @@
     "reason": "The article is directly about a new flavor release for Walkers Sensations, which is a prominent potato chip/crisp brand.",
     "image_url": "https://www.thesun.co.uk/wp-content/uploads/2026/07/newspress-collage-5xmejnl8h-1784194426183.jpg?quality=90&strip=all&1784198051&w=1920&h=1080&crop=1",
     "category": "new_flavors"
+  },
+  {
+    "title": "We Taste-Tested 12 Barbecue Chips—Our Winner Was a Nostalgic Favorite - Serious Eats",
+    "url": "https://www.seriouseats.com/bbq-chip-taste-test-12020997",
+    "snippet": "",
+    "published_at": "2026-07-16T07:00:00Z",
+    "source": "Serious Eats",
+    "score": 10,
+    "reason": "The article is a direct review/taste-test of potato chips, which falls into the highest relevance category.",
+    "category": "reviews"
   },
   {
     "title": "Walkers confirms 'best crisps ever made' are returning after 5 years - Metro.co.uk",
