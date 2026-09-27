@@ -1,5 +1,16 @@
 [
   {
+    "title": "Licensable picture: Tri-Sum potato chips on sale at Main Street Gift & Cafe in Leominster.",
+    "url": "https://www.reutersconnect.com/item/tri-sum-potato-chips-on-sale-at-main-street-gift-amp-cafe-in-leominster/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk5MTIxOTg",
+    "snippet": "This asset – including all text, audio and imagery – is provided by USA TODAY Network. Reuters Connect has not verified or endorsed the...",
+    "published_at": "2026-09-26T08:00:06Z",
+    "source": "Reuters Connect",
+    "score": 9,
+    "reason": "The title explicitly mentions a specific brand of potato chips (Tri-Sum), making it directly relevant to the topic.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamFYU8n13fH39bACFpHzr5mv6aL3LkOTX2ArGoJmX1eD4NJfLaYyi_VU&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
     "title": "Nestlé Éxtreme Pop x Lay’s brings crunch to ice cream in Thailand - Mini Me Insights",
     "url": "https://www.minimeinsights.com/2026/09/25/nestle-extreme-pop-x-lays-brings-crunch-to-ice-cream-in-thailand/",
     "snippet": "",
@@ -9,6 +20,17 @@
     "reason": "The article features a major chip brand (Lay's) and news about a product innovation involving their products.",
     "image_url": "https://www.minimeinsights.com/wp-content/uploads/2026/09/nestle-ice-cream-lays-1.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "TNA Solutions Powers Muscat Chips’ Entry into Oman with New 300kg-per-Hour Potato Chip Production Line",
+    "url": "https://www.potatopro.com/news/2026/tna-solutions-powers-muscat-chips%E2%80%99-entry-oman-new-300kg-hour-potato-chip-production-line",
+    "snippet": "TNA Solutions has partnered with Mohammed Riaz & Partner LLC to launch Muscat Chips in Oman with a 300kg/hour potato chip line.",
+    "published_at": "2026-09-25T08:00:08Z",
+    "source": "PotatoPro",
+    "score": 9,
+    "reason": "The article is about the launch of a new potato chip brand (Muscat Chips) and its production line, which falls directly under brand news.",
+    "image_url": "https://media.potatopro.com/muscat-chips-entry-1200.jpg",
+    "category": "business"
   },
   {
     "title": "I decided to find out what Koikeya's stick-shaped snacks, 'Kin no Potato Yamitsuki Shio' (Addictive Salt) and 'Kin no Potato Oudou Nori Shio' (Classic Seaweed Salt), actually taste like. - GIGAZINE",
@@ -86,6 +108,17 @@
     "reason": "The article is a ranking and review of unusual crisp flavors, which falls directly into the category of content specifically about potato chips/crisps.",
     "image_url": "https://i.guim.co.uk/img/media/39309b3947cb554740b1dc03dc7d357756a43bba/0_2494_8561_6849/master/8561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca076ce2fb093692af05e1d98cce8d53",
     "category": "reviews"
+  },
+  {
+    "title": "You Have a Woman to Thank for Your Fresh Bags of Crunchy Potato Chips",
+    "url": "https://www.jezebel.com/you-have-a-woman-to-thank-for-your-fresh-bags-of-crunchy-potato-chips",
+    "snippet": "A moment that wouldn't be possible without Laura Scudder, the nurse, lawyer, scientist, and woman responsible for every fresh bag of potato...",
+    "published_at": "2026-09-23T08:00:06Z",
+    "source": "Jezebel",
+    "score": 9,
+    "reason": "The article is a historical piece directly about the innovation and production of potato chips, fitting the 'Directly about' category.",
+    "image_url": "https://img.pastemagazine.com/wp-content/juploads/2026/02/Untitled-design-26.jpg",
+    "category": "oddities"
   },
   {
     "title": "Review: Moshi Chips Have The Crunch You’ve Been Looking For",
