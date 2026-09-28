@@ -279,5 +279,16 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTa_JrOcI01Q_BMJm2U_0oi3WO43d1lGjYTMLZpfsB-0lecwLybNodu7ChEGwKSnuZS52VnNbgh04c9ui0j01HMC5l-P62stA8YWa7VcmAHA3oObg31Rbvl",
     "item_name": "Smoky Buffalo"
+  },
+  {
+    "audience_countries": [
+      "Nationalization"
+    ],
+    "date": "2026-09-30",
+    "description": "Celebrating So Tom and Prncipe's Agricultural Reform Day, these Crackling Cocoa chips honor the nation's rich history of cocoa cultivation.",
+    "event_name": "Agricultural Reform (Nationalization) Day (São Tomé and Príncipe)",
+    "event_url": "https://en.wikipedia.org/wiki/September_30",
+    "image_url": "https://pdbimg.choice.com.au/woolworths-crackling-cocoa-puffs_1_medium.jpg",
+    "item_name": "Crackling Cocoa"
   }
 ]
