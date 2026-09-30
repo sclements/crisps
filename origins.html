@@ -111,6 +111,17 @@
             </div>
         </section>
 
+        <!-- Chip Base Highlight Layer -->
+        <section class="container mx-auto px-4 mb-4">
+            <div class="max-w-3xl mx-auto bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-100 rounded-2xl p-4">
+                <div class="text-center text-sm font-medium text-gray-600 mb-2">🕵️ Trace a chip back to its roots — pick a base:</div>
+                <div id="base-filter-buttons" class="flex flex-wrap justify-center gap-2">
+                    <!-- Populated from chip_bases.json -->
+                </div>
+                <div id="base-caption" class="hidden mt-3 bg-white rounded-xl shadow-sm overflow-hidden text-sm text-gray-700"></div>
+            </div>
+        </section>
+
         <!-- Interactive World Map Section -->
         <section class="container mx-auto px-4 mb-8">
             <div class="map-container rounded-3xl overflow-hidden shadow-lg relative bg-sky-50" style="min-height: 400px;">
@@ -135,15 +146,27 @@
                 <!-- Legend -->
                 <div class="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm rounded-xl shadow-lg p-3 text-xs z-20">
                     <div class="font-bold text-gray-700 mb-2">Legend</div>
-                    <div class="flex items-center gap-2 mb-1">
-                        <span class="w-3 h-3 rounded" style="background: #f97316;"></span>
-                        <span>Associated with a Chip of the Day</span>
+                    <div id="legend-default">
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="w-3 h-3 rounded" style="background: #f97316;"></span>
+                            <span>Associated with a Chip of the Day</span>
+                        </div>
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="w-3 h-3 rounded" style="background: #e5e7eb;"></span>
+                            <span>No Chip Data Yet</span>
+                        </div>
+                        <div class="text-gray-400 mt-1">Click a colored country for details</div>
                     </div>
-                    <div class="flex items-center gap-2 mb-1">
-                        <span class="w-3 h-3 rounded" style="background: #e5e7eb;"></span>
-                        <span>No Chip Data Yet</span>
+                    <div id="legend-base" class="hidden">
+                        <div class="flex items-center gap-2 mb-1">
+                            <span id="legend-base-swatch" class="w-3 h-3 rounded"></span>
+                            <span id="legend-base-label">Origin heartland</span>
+                        </div>
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="w-3 h-3 rounded" style="background: #cbd5e1;"></span>
+                            <span>Elsewhere in the world</span>
+                        </div>
                     </div>
-                    <div class="text-gray-400 mt-1">Click a colored country for details</div>
                 </div>
             </div>
         </section>
@@ -154,6 +177,7 @@
             .map-country.has-chips { fill: #f97316; cursor: pointer; }
             .map-country.has-chips:hover { fill: #ea580c; opacity: 0.9; }
             .map-country.active { fill: #c2410c; }
+            #map-wrapper { transition: transform 0.9s cubic-bezier(0.4, 0, 0.2, 1); }
         </style>
 
         <!-- Info Cards Section -->
@@ -276,6 +300,9 @@
         // Global data store
         let chipData = null;
         let svgDoc = null; // The SVG document inside the <object>
+        let chipBases = null; // Loaded from chip_bases.json
+        let activeChipBase = null; // Currently highlighted base key, or null
+        let activeRegionFilter = 'all';
 
         // Override Wikipedia URLs for ingredients where the auto-generated
         // link doesn't lead to the best article about the ingredient's origins.
@@ -392,7 +419,7 @@
                         if (!chipsByCode[code]) chipsByCode[code] = [];
                         chipsByCode[code].push({
                             date: chip.date,
-                            name: chip.chip_name,
+                            name: chip.item_name || chip.chip_name || '',
                             description: chip.description
                         });
                     }
@@ -595,13 +622,194 @@
                 btn.addEventListener('click', () => {
                     buttons.forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
-                    
+
                     const filter = btn.dataset.filter;
+                    activeRegionFilter = filter;
+                    clearChipBaseHighlight(); // continent filter and base highlight are mutually exclusive
                     applyFilter(filter);
                 });
             });
         }
-        
+
+        // Load chip_bases.json and render one button per base
+        async function loadChipBases() {
+            try {
+                const resp = await fetch('chip_bases.json');
+                chipBases = await resp.json();
+
+                const container = document.getElementById('base-filter-buttons');
+                Object.entries(chipBases).forEach(([key, base]) => {
+                    const btn = document.createElement('button');
+                    btn.className = 'base-filter-btn px-4 py-2 rounded-full bg-white border border-gray-200 text-gray-700 font-medium text-sm cursor-pointer transition-all duration-200 hover:scale-105 hover:shadow-md';
+                    btn.dataset.base = key;
+                    btn.textContent = `${base.emoji} ${base.label}`;
+                    btn.addEventListener('click', () => toggleChipBaseHighlight(key));
+                    container.appendChild(btn);
+                });
+            } catch (err) {
+                console.error('Failed to load chip bases:', err);
+            }
+        }
+
+        function toggleChipBaseHighlight(key) {
+            if (activeChipBase === key) {
+                clearChipBaseHighlight();
+                applyFilter(activeRegionFilter);
+                return;
+            }
+            activeChipBase = key;
+
+            // Base highlight overrides the continent filter — reset it visually
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector('.filter-btn[data-filter="all"]').classList.add('active');
+            activeRegionFilter = 'all';
+
+            const base = chipBases[key];
+
+            // Style buttons: the active one takes on the base's own color so
+            // the button and its highlighted countries visually match — a
+            // fixed "selected" color would mismatch every base but one.
+            document.querySelectorAll('.base-filter-btn').forEach(b => {
+                const isActive = b.dataset.base === key;
+                b.classList.toggle('active', isActive);
+                if (isActive) {
+                    b.style.backgroundColor = base.color;
+                    b.style.color = base.textColor;
+                    b.style.borderColor = base.color;
+                } else {
+                    b.style.backgroundColor = '';
+                    b.style.color = '';
+                    b.style.borderColor = '';
+                }
+            });
+
+            if (svgDoc) {
+                svgDoc.querySelectorAll('.map-country').forEach(path => {
+                    // Dim to a muted slate rather than near-invisible opacity
+                    // so the rest of the world still reads as a map, not a
+                    // washed-out void, while the spotlight countries pop.
+                    path.style.opacity = '1';
+                    path.style.fill = '#cbd5e1';
+                    path.style.filter = '';
+                });
+                let unionBox = null;
+                base.countries.forEach(code => {
+                    const path = svgDoc.getElementById(code);
+                    if (!path) return;
+                    path.style.opacity = '1';
+                    path.style.fill = base.color;
+                    path.style.filter = `drop-shadow(0 0 6px ${base.color})`;
+
+                    const bb = path.getBBox();
+                    if (!unionBox) {
+                        unionBox = { x: bb.x, y: bb.y, x2: bb.x + bb.width, y2: bb.y + bb.height };
+                    } else {
+                        unionBox.x = Math.min(unionBox.x, bb.x);
+                        unionBox.y = Math.min(unionBox.y, bb.y);
+                        unionBox.x2 = Math.max(unionBox.x2, bb.x + bb.width);
+                        unionBox.y2 = Math.max(unionBox.y2, bb.y + bb.height);
+                    }
+                });
+                zoomToBox(unionBox);
+            }
+
+            const caption = document.getElementById('base-caption');
+            caption.innerHTML = `
+                <div class="p-4" style="background: ${base.tint};">
+                    <div class="flex items-center gap-3">
+                        <span class="text-4xl">${base.emoji}</span>
+                        <div>
+                            <div class="font-display font-bold text-gray-800">${base.label}</div>
+                            <div class="text-xs text-gray-600">${base.origin}</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-4 text-gray-700">${base.fact}</div>
+            `;
+            caption.classList.remove('hidden');
+
+            updateLegend(base);
+        }
+
+        function clearChipBaseHighlight() {
+            if (!activeChipBase) return;
+            activeChipBase = null;
+            document.querySelectorAll('.base-filter-btn').forEach(b => {
+                b.classList.remove('active');
+                b.style.backgroundColor = '';
+                b.style.color = '';
+                b.style.borderColor = '';
+            });
+            document.getElementById('base-caption').classList.add('hidden');
+            if (svgDoc) {
+                svgDoc.querySelectorAll('.map-country').forEach(path => {
+                    path.style.fill = '';
+                    path.style.filter = '';
+                });
+            }
+            updateLegend(null);
+            resetZoom();
+        }
+
+        // Zoom the map wrapper so the given SVG-space bounding box (union of
+        // the highlighted countries) fills most of the frame. Pure CSS
+        // transform on #map-wrapper -- no viewBox rewriting needed, since the
+        // <object> already stretches 1:1 to the wrapper's own box, so a
+        // fraction of the 2000x1001 viewBox is also the same fraction of the
+        // wrapper's own width/height.
+        //
+        // Bases whose real origin spans two continents (cassava, plantain)
+        // produce a union bbox covering half the globe -- zooming to that
+        // barely moves the needle and reads as broken rather than exciting,
+        // so below MIN_ZOOM_SCALE we skip the zoom entirely and stay at
+        // world view (see chip_bases.json countries lists for why: cassava/
+        // plantain/yam list both an Amazon-or-Asia origin AND the West
+        // African countries that later adopted the crop).
+        const VIEWBOX_W = 2000, VIEWBOX_H = 1001;
+        const ZOOM_PADDING = 1.8; // margin multiplier around the highlighted area
+        const MAX_ZOOM = 4.5;
+        const MIN_ZOOM_SCALE = 1.8;
+
+        function zoomToBox(box) {
+            if (!box) { resetZoom(); return; }
+
+            const cx = (box.x + box.x2) / 2 / VIEWBOX_W;
+            const cy = (box.y + box.y2) / 2 / VIEWBOX_H;
+            const fw = ((box.x2 - box.x) / VIEWBOX_W) * ZOOM_PADDING;
+            const fh = ((box.y2 - box.y) / VIEWBOX_H) * ZOOM_PADDING;
+            const rawScale = 1 / Math.max(fw, fh, 0.001);
+
+            if (rawScale < MIN_ZOOM_SCALE) { resetZoom(); return; }
+
+            const scale = Math.min(rawScale, MAX_ZOOM);
+            const wrapper = document.getElementById('map-wrapper');
+            wrapper.style.transformOrigin = `${cx * 100}% ${cy * 100}%`;
+            wrapper.style.transform = `scale(${scale})`;
+        }
+
+        function resetZoom() {
+            const wrapper = document.getElementById('map-wrapper');
+            wrapper.style.transform = '';
+            wrapper.style.transformOrigin = '50% 50%';
+        }
+
+        // Swap the map legend between the default chip-of-the-day key and a
+        // base-specific one, since the colors on screen mean something
+        // different once a base highlight is active.
+        function updateLegend(base) {
+            const defaultLegend = document.getElementById('legend-default');
+            const baseLegend = document.getElementById('legend-base');
+            if (base) {
+                defaultLegend.classList.add('hidden');
+                baseLegend.classList.remove('hidden');
+                document.getElementById('legend-base-swatch').style.background = base.color;
+                document.getElementById('legend-base-label').textContent = `${base.emoji} ${base.label} origin`;
+            } else {
+                defaultLegend.classList.remove('hidden');
+                baseLegend.classList.add('hidden');
+            }
+        }
+
         function applyFilter(filter) {
             if (!chipData) return;
 
@@ -650,6 +858,7 @@
         // Initialize
         document.addEventListener('DOMContentLoaded', () => {
             loadChipData();
+            loadChipBases();
             setupFilters();
 
             // Hook into SVG <object> load event

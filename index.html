@@ -226,6 +226,7 @@
                 <div class="text-right text-sm text-gray-500">
                     <p>© 2026 cris.ps. All rights reserved.</p>
                     <p class="text-xs">Spreading joy, one crunch at a time.</p>
+                    <p class="text-xs">IP address data by <a href="https://ipinfo.io" target="_blank" class="hover:underline">IPinfo.io</a></p>
                 </div>
             </div>
         </div>
@@ -334,6 +335,34 @@
             CHIP: isUKLocale ? 'CRISP' : 'CHIP',
             CHIPS: isUKLocale ? 'CRISPS' : 'CHIPS',
         };
+
+        // --- COUNTRY-TARGETED CONTENT (best-effort, silent, non-blocking) ---
+        // Some picks are tagged with the specific countries they're most
+        // relevant to (`audience_countries` in the JSON -- e.g. a national
+        // holiday's chip, already vetted server-side as fine to show
+        // everyone; this only adds a small "made for you" touch for a
+        // matching visitor, it never hides content from anyone else).
+        // Uses IPinfo's free Lite tier (unlimited requests, country-level
+        // only -- see manager/ideas/COCKTAIL_PRECOMPUTED_ASSOCIATIONS_PLAN.md
+        // for why: CORS-confirmed, country name format already matches
+        // what the pipeline produces). The token below is meant to be
+        // public in client-side code -- there's no way to keep a secret in
+        // a static site with no backend, and IPinfo's own license permits
+        // this (attribution given in the footer). Any failure (blocked by
+        // an ad blocker, network error, rate limit) resolves to `null`
+        // silently -- never a console error a visitor would notice, never
+        // a delay to the main content render.
+        const IPINFO_TOKEN = '46a62a9c5e91c1';
+        let visitorCountryPromise = null;
+        function getVisitorCountry() {
+            if (!visitorCountryPromise) {
+                visitorCountryPromise = fetch(`https://api.ipinfo.io/lite/me?token=${IPINFO_TOKEN}`)
+                    .then(r => r.ok ? r.json() : null)
+                    .then(data => (data && data.country) ? data.country : null)
+                    .catch(() => null);
+            }
+            return visitorCountryPromise;
+        }
 
         // --- UI ELEMENTS ---
         const statusDiv = document.getElementById('status');
@@ -809,7 +838,10 @@
                         <h3 class="text-2xl font-display font-bold text-gray-800 mb-3 text-center">
                             <a href="${searchUrl}" target="_blank" class="hover:text-orange-600 transition-colors">${itemName}</a>
                         </h3>
-                        
+
+                        <!-- Country-targeted badge: empty until (if) a matching visitor is detected -->
+                        <div id="chip-audience-badge" class="mb-3"></div>
+
                         <!-- Description with event reference -->
                         <!--
                         <p class="text-gray-600 text-sm leading-relaxed text-center mb-5">${chipData.description} ${eventLinkHtml}</p>
@@ -820,13 +852,30 @@
                         </a>
                     </div>
                 `;
-                
+
                 // Attach history link click handler
                 document.getElementById('chip-history-link').addEventListener('click', (e) => {
                     e.preventDefault();
                     loadChipHistory();
                 });
-                
+
+                // Country-targeted badge: best-effort, async, never blocks
+                // or alters the render above. If `audience_countries` is
+                // empty, or the geo lookup fails/doesn't match, the
+                // placeholder just stays empty -- nothing to clean up.
+                if (Array.isArray(chipData.audience_countries) && chipData.audience_countries.length > 0) {
+                    getVisitorCountry().then(country => {
+                        if (!country || !chipData.audience_countries.includes(country)) return;
+                        const badge = document.getElementById('chip-audience-badge');
+                        if (!badge) return; // user may have navigated away already
+                        badge.innerHTML = `
+                            <span class="inline-flex items-center gap-1.5 bg-amber-100 text-amber-800 text-xs font-semibold px-3 py-1 rounded-full">
+                                <span>🎉</span> Made for ${country} today
+                            </span>
+                        `;
+                    });
+                }
+
             } catch (err) {
                 chipDiv.innerHTML = `
                     <div class="text-center py-4">

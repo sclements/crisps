@@ -1,0 +1,120 @@
+{
+  "potato": {
+    "label": "Potato",
+    "emoji": "\ud83e\udd54",
+    "color": "#d97706",
+    "origin": "Andes Mountains, Peru \u2014 domesticated c. 8000 BC",
+    "fact": "The potato was first domesticated by Andean peoples in the highlands of Peru and Bolivia, where over 3,000 varieties still grow today. It remains the single most common chip base worldwide.",
+    "countries": [
+      "PE",
+      "BO",
+      "EC",
+      "CO"
+    ],
+    "textColor": "#ffffff",
+    "tint": "#fef3c7"
+  },
+  "corn": {
+    "label": "Corn / Maize",
+    "emoji": "\ud83c\udf3d",
+    "color": "#eab308",
+    "origin": "Mesoamerica \u2014 domesticated c. 7000 BC",
+    "fact": "Maize was domesticated from wild teosinte grass in what is now southern Mexico, becoming the base for tortilla chips and corn-based snacks across the Americas.",
+    "countries": [
+      "MX",
+      "GT",
+      "HN",
+      "SV"
+    ],
+    "textColor": "#1f2937",
+    "tint": "#fef9c3"
+  },
+  "cassava": {
+    "label": "Cassava / Yuca",
+    "emoji": "\ud83e\udeda",
+    "color": "#65a30d",
+    "origin": "Amazon Basin, Brazil \u2014 domesticated c. 8000-6000 BC; later adopted as a staple crop across West/Central Africa",
+    "fact": "Cassava originated in the Amazon Basin and was carried to Africa by Portuguese traders in the 16th century, where it became a staple starch and chip base in its own right.",
+    "countries": [
+      "BR",
+      "PY",
+      "NG",
+      "GH",
+      "TZ"
+    ],
+    "textColor": "#ffffff",
+    "tint": "#ecfccb"
+  },
+  "plantain": {
+    "label": "Plantain",
+    "emoji": "\ud83c\udf4c",
+    "color": "#16a34a",
+    "origin": "Southeast Asia \u2014 domesticated from wild bananas; spread to Africa and the Caribbean via ancient trade routes",
+    "fact": "Plantains were first domesticated in Southeast Asia and reached West Africa and the Caribbean over a thousand years ago, where they're now fried into some of the most popular chips in the region.",
+    "countries": [
+      "PH",
+      "ID",
+      "MY",
+      "NG",
+      "GH"
+    ],
+    "textColor": "#ffffff",
+    "tint": "#dcfce7"
+  },
+  "taro": {
+    "label": "Taro",
+    "emoji": "\ud83d\udfe3",
+    "color": "#7c3aed",
+    "origin": "Southeast Asia / Pacific Islands \u2014 one of the oldest cultivated crops, c. 25,000 years ago",
+    "fact": "Taro is among humanity's oldest cultivated crops, grown across the Pacific Islands and Southeast Asia long before rice agriculture \u2014 its starchy corm is sliced and fried into chips throughout the Pacific.",
+    "countries": [
+      "PG",
+      "VU",
+      "PH"
+    ],
+    "textColor": "#ffffff",
+    "tint": "#ede9fe"
+  },
+  "yam": {
+    "label": "True Yam",
+    "emoji": "\ud83c\udf60",
+    "color": "#9333ea",
+    "origin": "West Africa \u2014 domesticated c. 8000-5000 BC, unrelated to the American sweet potato",
+    "fact": "True yams were domesticated independently in West Africa and can grow up to 5 feet long. They're botanically unrelated to sweet potatoes, despite the names often being used interchangeably.",
+    "countries": [
+      "NG",
+      "GH",
+      "CI"
+    ],
+    "textColor": "#ffffff",
+    "tint": "#f3e8ff"
+  },
+  "lentil": {
+    "label": "Lentil",
+    "emoji": "\ud83c\udf3e",
+    "color": "#b45309",
+    "origin": "Fertile Crescent \u2014 domesticated c. 8000 BC; India is the modern top producer",
+    "fact": "Lentils were among the first crops domesticated in the Fertile Crescent nearly 10,000 years ago, and today India grows more lentils than any other country, using them as a base for crunchy fried snacks.",
+    "countries": [
+      "TR",
+      "IQ",
+      "SY",
+      "IN"
+    ],
+    "textColor": "#ffffff",
+    "tint": "#ffedd5"
+  },
+  "quinoa": {
+    "label": "Quinoa",
+    "emoji": "\ud83c\udf3e",
+    "color": "#dc2626",
+    "origin": "Andes Mountains, Peru and Bolivia \u2014 cultivated for over 5,000 years",
+    "fact": "Quinoa was a sacred crop of the Inca, cultivated in the high Andes for thousands of years, and is now toasted or puffed as a base for high-protein chips.",
+    "countries": [
+      "PE",
+      "BO"
+    ],
+    "textColor": "#ffffff",
+    "tint": "#fee2e2"
+  }
+}
