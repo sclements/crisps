@@ -14,5 +14,16 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJdVu5AYBOqvJCqoOUNLfpv4pAU7sfbnfOLhEqxGLJC6HMTN_stj3kgHlLYsLY0lsXPT0fbiimfgYuPm93RL7jjm3wiIzIh14UpqoWrzLzmFzlx_XTipKW2w",
     "item_name": "Sour Cream Chive"
+  },
+  {
+    "audience_countries": [
+      "Germany"
+    ],
+    "date": "2026-10-03",
+    "description": "Celebrating German Unity Day, our Whole Wheat chips honor the strength and wholeness found in being one.",
+    "event_name": "German Unity Day (Germany)",
+    "event_url": "https://en.wikipedia.org/wiki/October_3",
+    "image_url": "https://img.ananinja.com/media/ninja-catalog-42/kw_creations/8859078000953.jpg?w=3840&q=75",
+    "item_name": "Whole Wheat"
   }
 ]
