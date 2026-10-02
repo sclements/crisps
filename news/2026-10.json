@@ -1,5 +1,26 @@
 [
   {
+    "title": "Princess Kate spotted munching on crisps - and finally confirms favourite flavour",
+    "url": "https://www.hellomagazine.com/royalty/926513/kate-middleton-spotted-munching-crisps-breaks-strict-diet/",
+    "snippet": "Kate Middleton, Prince William's wife, revealed her eating habits as she enjoyed lunch with an elderly group at a village hall in Pulborough, West Sussex",
+    "published_at": "2026-10-01T15:10:00Z",
+    "source": "HELLO!",
+    "score": 9,
+    "reason": "The article is directly about a celebrity's favorite flavor of crisps, which falls under the 9-10 category for content focused on chip flavors and consumption.",
+    "image_url": "https://images.hellomagazine.com/horizon/landscape/1200/59f3731a0f75-gettyimages-2297316739.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "New Doritos Gingerbread flavour is so ‘revolting’ that shoppers are ‘trying it out of morbid curiosity’",
+    "url": "https://www.thesun.co.uk/money/40547836/doritos-gingerbread-flavour-revolting-shoppers-morbid-curiosity/",
+    "snippet": "DORITOS has re-launched its festive Gingerbread crisps – but the flavour has left some shoppers “revolted” and others reaching for more. The controversial chip has now launched ...",
+    "published_at": "2026-10-01T03:55:00Z",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch from Doritos, which falls under the highest relevance category for chip-related news.",
+    "image_url": "https://www.thesun.co.uk/wp-content/uploads/2026/10/crop-28244921.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+    "category": "new_flavors"
+  },
+  {
     "title": "The New Standard for Crunch: Why Seaweed Bugak Crisps Are Showing Up on Healthy Snack Lists",
     "url": "https://yonkerstimes.com/the-new-standard-for-crunch-why-seaweed-bugak-crisps-are-showing-up-on-healthy-snack-lists/",
     "snippet": "Choosing a healthy snack these days is about more than asking whether it feels \"lighter.\" People still don't want to give up the familiar crunch of a chip, but more and more shoppers are looking for snacks made with a wider range of ingredients and simpler ingredient lists.",
@@ -31,6 +52,17 @@
     "reason": "The article is about news regarding PepsiCo Foods (the owner of Lay's), which falls under snack industry business specifically about chip brands/makers.",
     "image_url": "https://s.yimg.com/lo/mysterio/api/b5cb08ecf901172f85b449e5ffef395100aca05b808dba0768f4f2b06fa6c85f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fall_recipes_969%2F26fd5c12970e3ef97bf73c7a6982627f.jpg",
     "category": "business"
+  },
+  {
+    "title": "New fall snacks lineup: Apple Spice Pretzel Crisps and Cranberry Orange Chessmen",
+    "url": "https://www.thecampbellscompany.com/newsroom/news/new-fall-snacks-lineup-apple-spice-pretzel-crisps-and-cranberry-orange-chessmen/",
+    "snippet": "New snack launches include Snack Factory® Apple Spice White Crème Pretzel Crisps and Chessmen® Spiced Orange Cranberry.",
+    "published_at": "2026-09-28T16:34:00Z",
+    "source": "thecampbellscompany.com",
+    "score": 7,
+    "reason": "The title mentions 'Pretzel Crisps', which triggers the rule to score 7+ for mentioning 'crisps' in a food context.",
+    "image_url": "https://www.thecampbellscompany.com/wp-content/uploads/2026/09/fall-blog-post-header_resized_v2-scaled.png",
+    "category": "new_flavors"
   },
   {
     "title": "Do Stacy's Pita Chips Contain Harmful Ingredients and Acrylamide?",
