@@ -8,23 +8,23 @@
     "item_name": "Roasted Miso Garlic"
   },
   {
+    "audience_countries": [
+      "Indonesia"
+    ],
     "date": "2026-10-02",
-    "description": "Today's pick is Sour Cream Chive, drawn from the culinary traditions of Peru.",
-    "event_name": "Culinary traditions (Peru)",
-    "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJdVu5AYBOqvJCqoOUNLfpv4pAU7sfbnfOLhEqxGLJC6HMTN_stj3kgHlLYsLY0lsXPT0fbiimfgYuPm93RL7jjm3wiIzIh14UpqoWrzLzmFzlx_XTipKW2w",
-    "item_name": "Sour Cream Chive"
+    "description": "Celebrating Batik Day! Much like the intricate patterns of Indonesia's fabric, our Sea Salt Bean chips bring an artisanal blend of earthy and salty flavors today.",
+    "event_name": "Batik Day (Indonesia)",
+    "event_url": "https://en.wikipedia.org/wiki/October_2",
+    "image_url": "https://www.kroger.com/product/images/large/front/0081289102147",
+    "item_name": "Sea Salt Bean"
   },
   {
-    "audience_countries": [
-      "Germany"
-    ],
     "date": "2026-10-03",
-    "description": "Celebrating German Unity Day, our Whole Wheat chips honor the strength and wholeness found in being one.",
-    "event_name": "German Unity Day (Germany)",
-    "event_url": "https://en.wikipedia.org/wiki/October_3",
-    "image_url": "https://img.ananinja.com/media/ninja-catalog-42/kw_creations/8859078000953.jpg?w=3840&q=75",
-    "item_name": "Whole Wheat"
+    "description": "Today's pick is Masa Lime, drawn from the culinary traditions of Iraq.",
+    "event_name": "Culinary traditions (Iraq)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRm5fAVyv1QKyHnN-ukr53dxcTJZ1fY0GWNXGlO02sAv7lw_HpIAutW_au_q-2gSx4vjENxq6DH1gdMEWhc-JPvpvrsPp4Ubp2Tzm2tpdNxBCQMKx0OoQFazA",
+    "item_name": "Masa Lime"
   },
   {
     "date": "2026-10-04",
@@ -69,11 +69,11 @@
   },
   {
     "date": "2026-10-08",
-    "description": "Today's pick is Mixed Roots, drawn from the culinary traditions of Pakistan.",
-    "event_name": "Culinary traditions (Pakistan)",
+    "description": "Today's pick is Honey, drawn from the culinary traditions of Germany.",
+    "event_name": "Culinary traditions (Germany)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSA7spqOW5ibxL_g0Ht4Hr5h1OUUW6GWSrafFc8W6Y7TboZBhZduS9CRBi8Jismy-LATHA9nWeQxUaU1XJRW4ve2X9wZjZnGbbLQazZpYW4gDoO_n1_2NatYA",
-    "item_name": "Mixed Roots"
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTrmGiCHMnPvnaJxpVAZ9gjAXSIQ8-v20aXdqMRljzr5KinB7IagBrVOHpK3IIpnzhsJ5fFmKzb-QmGIw0JEL8Hra-Ik44QnmYCS1lANbDmk1ZTa8URlbxV",
+    "item_name": "Honey"
   },
   {
     "audience_countries": [
@@ -96,33 +96,30 @@
     "item_name": "Sprouted Grains Wild"
   },
   {
-    "audience_countries": [
-      "North Macedonia"
-    ],
     "date": "2026-10-11",
-    "description": "Celebrating North Macedonia's Revolution Day! These Bagel chips bring a hearty, rising flavor to honor the spirit of this historic day.",
-    "event_name": "Revolution Day (North Macedonia)",
-    "event_url": "https://en.wikipedia.org/wiki/October_11",
-    "image_url": "https://images.heb.com/is/image/HEBGrocery/010928511-1?jpegSize=150&hei=1400&fit=constrain&qlt=75&v=1",
-    "item_name": "Bagel"
+    "description": "Today's pick is Flatbread Grilled, drawn from the culinary traditions of Sweden.",
+    "event_name": "Culinary traditions (Sweden)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToqFyLnmRDV4pgymYIERIAft4UP6JfzvvYoyaUnb87dH50PlvG42zu6IyOJwmhCng4Bh965VU3bt5CCekGJehDh1TFGMU7wetDibo8urb13z1hHJSTEJn-pw",
+    "item_name": "Flatbread Grilled"
   },
   {
     "audience_countries": [
       "The Bahamas"
     ],
     "date": "2026-10-12",
-    "description": "Celebrating Discovery Day in the Bahamas! These Crab Spice chips bring a savory, coastal zest to honor this historic day.",
+    "description": "Celebrating Discovery Day in the Bahamas, these Barramundi chips bring a taste of oceanic adventure to your palate today.",
     "event_name": "Discovery Day (The Bahamas)",
     "event_url": "https://en.wikipedia.org/wiki/October_12",
-    "image_url": "https://images.albertsons-media.com/is/image/ABS/960318209-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available",
-    "item_name": "Crab Spice"
+    "image_url": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_3fb95236-d7e3-4f68-a530-46a88bc520bd.png",
+    "item_name": "Barramundi"
   },
   {
     "date": "2026-10-13",
-    "description": "Today's pick is Tandoori, drawn from the culinary traditions of Burma.",
-    "event_name": "Culinary traditions (Burma)",
+    "description": "Today's pick is Walnut, drawn from the culinary traditions of Georgia.",
+    "event_name": "Culinary traditions (Georgia)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuOTj1CngCFfrWXzZgT_ARrYlDbiuKBkWgEBK0tStnriOvhC6plrhgqklMM1TmhFlMjbdzD84KGZJyVEAB9KMf_uADau8KxHpir73AeeCpEf4rIYIutBJ6",
-    "item_name": "Tandoori"
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRU1gWqW3BwZmA0-O3HuWwp_DNjFtS5UBQx3RCjxpL7NB4c2C7ryPOmlXxFlXCr96p2Z9anUxyC90zjcvMIIs1NYbV2ntPof0unHMYtUUj89hfWis9NnVZe",
+    "item_name": "Walnut"
   }
 ]
