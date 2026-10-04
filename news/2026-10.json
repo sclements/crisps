@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Company Behind Costco Kirkland Signature Krinkle Cut Potato Chips",
+    "url": "https://www.yahoo.com/lifestyle/articles/company-behind-costco-kirkland-signature-221700259.html",
+    "snippet": "Costco's KIrkland Signature brand makes plenty of popular snacks, including its Krinkle Cut Potato Chips, but what brand actually manufactures them?",
+    "published_at": "2026-10-03T15:17:00Z",
+    "score": 9,
+    "reason": "The article is directly about a specific brand of potato chips and provides brand-related news regarding its manufacturer, fitting the top tier of the rubric.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/8e0c0d0fbb01596d307858336c55c4a2cc7c3db8fa61faf4e78cf028a0fb3834/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffood_republic_969%2Ff3de3c4dc658f0127f58e292f04179b1.jpg",
+    "category": "business"
+  },
+  {
     "title": "Cheez-It Announces Brand-New Protein Original Flavor",
     "url": "https://bleedingcool.com/pop-culture/cheez-it-announces-brand-new-protein-original-flavor/",
     "snippet": "Cheez-It Protein Original launches this month, adding a new savory cracker option to the brand's snack lineup. Made with 100% real cheese, Cheez-It Protein Orig",
@@ -96,5 +106,15 @@
     "reason": "The article is directly about the availability and promotion of a specific brand of potato chips, which fits the highest relevance category.",
     "image_url": "https://www.moneydigest.sg/wp-content/uploads/2026/09/Unknown-345.png",
     "category": "new_flavors"
+  },
+  {
+    "title": "We ranked some of the most popular potato chips - The Washington Post",
+    "url": "https://www.washingtonpost.com/video/lifestyle/food/we-ranked-some-of-the-most-popular-potato-chips/2026/09/01/7a084af5-ce4b-4edd-bfb3-5544db3bfdec_video.html",
+    "snippet": "",
+    "published_at": "2026-09-01T07:00:00Z",
+    "source": "The Washington Post",
+    "score": 10,
+    "reason": "The article is a ranking and review of potato chips, which is directly related to the core subject matter.",
+    "category": "reviews"
   }
 ]
