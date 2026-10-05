@@ -1,5 +1,26 @@
 [
   {
+    "title": "The supermarket tortilla chips taste test: ‘These set the benchmark — they’re good enough to eat on their own’ - Irish Independent",
+    "url": "https://www.independent.ie/lifestyle/food-drink/the-supermarket-tortilla-chips-taste-test-these-set-the-benchmark-theyre-good-enough-to-eat-on-their-own/a/161885996.html",
+    "snippet": "",
+    "published_at": "2026-10-05T05:30:00Z",
+    "source": "Irish Independent",
+    "score": 8,
+    "reason": "The article is a taste test focusing on tortilla chips, which falls under the 7-8 category for closely related snack foods (tortilla chips).",
+    "category": "reviews"
+  },
+  {
+    "title": "We Tried Costco’s Michigan Cherry BBQ Chips",
+    "url": "https://sporked.com/article/we-tried-costcos-michigan-cherry-bbq-chips/",
+    "snippet": "Now, we've already posted about the exciting arrival of some new things to Costco. And you know us, we just have to get in there and try...",
+    "published_at": "2026-10-04T15:00:08Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review of a new chip flavor, falling into the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/09/costco-michigan-cherry-bbq-chips.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "The Company Behind Costco Kirkland Signature Krinkle Cut Potato Chips",
     "url": "https://www.yahoo.com/lifestyle/articles/company-behind-costco-kirkland-signature-221700259.html",
     "snippet": "Costco's KIrkland Signature brand makes plenty of popular snacks, including its Krinkle Cut Potato Chips, but what brand actually manufactures them?",
@@ -106,6 +127,28 @@
     "reason": "The article is directly about the availability and promotion of a specific brand of potato chips, which fits the highest relevance category.",
     "image_url": "https://www.moneydigest.sg/wp-content/uploads/2026/09/Unknown-345.png",
     "category": "new_flavors"
+  },
+  {
+    "title": "Review | What’s the best bag of potato chips you can buy? We tried 12 top-sellers.",
+    "url": "https://www.washingtonpost.com/food/2026/09/03/we-tried-dozen-different-potato-chips-heres-best-worst/",
+    "snippet": "What's the best bag of potato chips you can buy? We tried 12 top-sellers. · 12. Pringles Original · 11. Boulder Canyon Thin & Crispy Classic Sea...",
+    "published_at": "2026-09-05T08:00:10Z",
+    "source": "The Washington Post",
+    "score": 10,
+    "reason": "The article is a direct review of potato chip brands, which falls squarely into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkNFB9qYbyEWi3bnkGlZaX9LQVcXSnZQ_JKT0mYa3YESk7MZAB89Pzc9k&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "Pringles has two new flavors and this is what we think of them - FavorFlav.com",
+    "url": "https://favorflav.com/en/new/pringles-has-two-new-flavors-and-this-is-what-we-think-of-them/",
+    "snippet": "",
+    "published_at": "2026-09-03T00:02:43Z",
+    "source": "FavorFlav.com",
+    "score": 10,
+    "reason": "The article is directly about new flavors and reviews for Pringles, a major chip brand.",
+    "image_url": "https://favorflav.com/images/Pringles-chips.jpg",
+    "category": "reviews"
   },
   {
     "title": "We ranked some of the most popular potato chips - The Washington Post",

@@ -33,23 +33,26 @@
   },
   {
     "date": "2026-01-05",
-    "description": "Today, we honor National Whipped Cream Day by indulging in our 'Cream Cheese' chip.",
-    "event_name": "National Whipped Cream Day",
-    "event_url": "https://en.wikipedia.org/wiki/List_of_food_days",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRM70d7Ob3h0zabBcPisvXBJR08o7ST5bAjoFZrgLiGrA8boDRvltK6-eZkOadehYDl0r5EVWTNz0NC1MmJxf-MaOrWol7XTlvhw6r397hH6fbhHlRtrJa4EQ",
-    "item_name": "Cream Cheese"
+    "description": "Today's pick is Honey Barbeque, drawn from the culinary traditions of Slovenia.",
+    "event_name": "Culinary traditions (Slovenia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtPVeY6mXZjn0iiEXxKpf7SoeF7Eflwf6GIP4XCXWYchtXBQLn55Xt5NsukvN7rV6emiNZqJU0kaQlG16mw86FjjPJdokP5ewGaLAU5HcSBi_VfPZ_Hy3CPA",
+    "item_name": "Honey Barbeque"
   },
   {
     "date": "2026-01-06",
-    "description": "Brace yourselves for today, April Fool's Day! Celebrate the spirit of mischief and pranks with these Wasabi Nori. The zesty wasabi offers a tongue-tingling kick reminiscent of Aprils playful surprises.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/January_6",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDCO3cx_I2kolNUjXyeTetIZNWk0YDs9JVnPBVrHS4EQSctGUWRFIsD14ue6Me_qgDyq0qA7PsT8A2o-aUgmC-6vFQr6ck3m6v9yTGhq9VrZz_9tej-RoViQ",
-    "item_name": "Wasabi Nori"
+    "description": "Today's pick is Spicy Kimchi, drawn from the culinary traditions of South Korea.",
+    "event_name": "Culinary traditions (South Korea)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjFG3GDBpRG3PXzHk3qbW-EeTDPDkkFjex1lZF4eeEe4_px_dtPoLR7HqzLpQIkBqFMFrE6sqGKIHV3-QxsvKhvwqeKbUCrD98Pzz-agLOEUuy-93TIcLr",
+    "item_name": "Spicy Kimchi"
   },
   {
+    "audience_countries": [
+      "Italy"
+    ],
     "date": "2026-01-07",
-    "description": "Celebrating the spirit of Italy's Tricolore today! These savory Romano chips capture a bold, timeless taste of Italian tradition.",
+    "description": "Honoring Italy's Tricolour Day, these savory Romano chips capture the bold spirit of Italian tradition in every bite.",
     "event_name": "Tricolour Day or Festa del Tricolore (Italy)",
     "event_url": "https://en.wikipedia.org/wiki/January_7",
     "image_url": "https://i5.walmartimages.com/seo/Specially-Selected-Melting-Romano-Cheese-Crisps-4-5-oz-2-Pack_1637b51c-f029-40e1-a79a-67b963e0c70d.4eab04b2042579fb5303a38da0f2d613.jpeg",
@@ -57,35 +60,35 @@
   },
   {
     "date": "2026-01-08",
-    "description": "Lemon Basil Chip celebrates today's Children's Day spirit from Thailand. A vibrant mix of citrus freshness and aromatic basil, perfect for this joyful celebration.",
-    "event_name": "Earliest day on which Children's Day can fall, while January 14 is the latest; celebrated on the second Saturday in January. (Thailand)",
-    "event_url": "https://en.wikipedia.org/wiki/January_8",
-    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjjAj37cUBuvMuqR_f8t4WXWydfTgkvfihgpAPsHDoQY4zOofTe7h8xLzUrPNZCSQ5GWFitdOM-WYHcq8gSHF1ecF4ddZs",
-    "item_name": "Lemon Basil"
+    "description": "Today's pick is Masala Groundnuts, drawn from the culinary traditions of Malawi.",
+    "event_name": "Culinary traditions (Malawi)",
+    "event_url": "USDA Cache",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRoKyELVkEb0aDSHeHqNIkKE4_NAt-dfmvUT5mAqg5mgUTL-r-3kbpdSfHmf88H3iuy3RZS1ds9qleaOK4Y9SruehnNeElU_JPc362mqTGUKYoj49hIhNDA",
+    "item_name": "Masala Groundnuts"
   },
   {
     "date": "2026-01-09",
-    "description": "Unleashing the rich heritage of Spanish cuisine during National Hispanic Heritage Month, our Rubio Spanish Chorizo adds a bold flavor journey to every bite.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/January_9",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKhIDB4X1aARyg6HEn1DrcT1rKNKeWeF0Wi_TN6p2pgAdAKqh_eLHKCneh1kx4LHYXNWsT9pA",
-    "item_name": "Spanish Chorizo"
+    "description": "Celebrating Non-Resident Indian Day, our Cumin Kebab chips bring the warm, aromatic spices of home to your snack bowl.",
+    "event_name": "Non-Resident Indian Day (India)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQx1ztT3dSE3XERrs2cJOnsauf86ObQSG9-GPXVjvaMI8wjCV0-XBSnGR2gLnR7BeVbPU5f6W0iXx_Y1g4z0ZHp3Lpu2et9-eb09iGWwI2wU4sOFSIZn4oG4Q",
+    "item_name": "Cumin Kebab"
   },
   {
     "date": "2026-01-10",
-    "description": "In honor of Mexico's spirited celebration of independence on September 16th, our Lundberg Family Farms Organic Grounded Ancho Chile chips serve as a tribute to the rich cultural heritage.",
-    "event_name": "4 Holidays and observances",
-    "event_url": "https://en.wikipedia.org/wiki/January_10",
-    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQsirnKujZAof7VaupiiExFDwZ6PanGBESydG0njH8JogMsEc",
-    "item_name": "Ancho Chile"
+    "description": "Today's pick is Chilli Lime Grills, drawn from the culinary traditions of Laos.",
+    "event_name": "Culinary traditions (Laos)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQWb8ezi8PhzJVgQyGe20OMJQEOsphy7Mbb1eyZhDeajKKlM50882w8CfVvhdj3E_-lqFZyN3CP1pLyGURW68sbFy0ZoPxJ_Gl-4vEt-EpHvKt-lnhUbMA_",
+    "item_name": "Chilli Lime Grills"
   },
   {
     "date": "2026-01-11",
-    "description": "Today, we honor Eugenio Mara de Hostos by savoring Chorizo Chipotle chipsspicy and smoky flavors that encapsulate his legacy of cultural integration.",
-    "event_name": "Eugenio María de Hostos Day (Puerto Rico)",
-    "event_url": "https://en.wikipedia.org/wiki/January_11",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTV5iY2oxAEa7D-Zv8VYG9vn0cS5wXhSgV-MG3n5rYtqe8BcPjIr1l_V72KKJyK7ImKan9fv_Bz2S-KmMcm1hx3aaXtdncI6nSuwj16jgk",
-    "item_name": "Chorizo Chipotle"
+    "description": "Honoring Morocco's spirit of resistance on this day. Our Spicy Harissa chips capture the nation's strength with a bold, fiery kick.",
+    "event_name": "Independence Resistance Day (Morocco)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8wwLXibuZovJ8mW5tgi1vdpkGLciMZRrNRowbUwUgq31mp6ra-xLuBTP-Uo147IZAbt3VdGcaqSHBIffduxidLC6bAx5GsyeFHolL8eeTUCfmFqb5QYwNWA",
+    "item_name": "Spicy Harissa"
   },
   {
     "date": "2026-01-12",
