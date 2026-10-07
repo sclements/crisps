@@ -1,5 +1,25 @@
 [
   {
+    "title": "Utz brings full snack portfolio to NACS Show - Mass Market Retailers",
+    "url": "https://massmarketretailers.com/utz-brings-full-snack-portfolio-to-nacs-show/",
+    "snippet": "",
+    "published_at": "2026-10-06T16:27:35Z",
+    "source": "Mass Market Retailers",
+    "score": 8,
+    "reason": "The article mentions Utz, a well-known snack/chip brand, which triggers the rule for scoring 7+.",
+    "image_url": "https://storage.ghost.io/c/d5/56/d5565e70-3c67-4547-9c79-7758ce6fc700/content/images/size/w1200/2026/10/NACS_Press_Release_Image_2026-Large.jpeg",
+    "category": "business"
+  },
+  {
+    "title": "Snack time? Try these crispy plantain chips",
+    "url": "https://www.newsbytesapp.com/news/lifestyle/crispy-plantain-chips-your-perfect-monsoon-snack/story",
+    "snippet": "Crispy plantain chips make for an ideal snack during the monsoon season. These chips are not only crunchy but also satiate your cravings for something salty. Made from unripe plantains, they are fried ...",
+    "published_at": "2026-10-06T09:32:00Z",
+    "score": 8,
+    "reason": "The article is specifically about plantain chips, which falls under the category of closely related chip-style snack foods (veggie/fruit chips).",
+    "category": "oddities"
+  },
+  {
     "title": "Covered Bridge Potato Chips Expands in Japan With 12-Container Costco Japan Order",
     "url": "https://www.potatopro.com/news/2026/covered-bridge-potato-chips-expands-japan-12-container-costco-japan-order",
     "snippet": "Covered Bridge is expanding in Japan after Costco Japan ordered 12 containers of its potato chips, with eight shipped by late September 2026, following an...",
@@ -41,6 +61,17 @@
     "reason": "The article is a direct review of a new chip flavor, falling into the highest relevance category.",
     "image_url": "https://sporked.com/wp-content/uploads/2026/09/costco-michigan-cherry-bbq-chips.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "Bingo!: How a Cigarette Company Captured 16% of India's Chip Market in Just Nine Months - MarkHub24",
+    "url": "https://www.markhub24.com/post/bingo-how-a-cigarette-company-captured-16-of-india-s-chip-market-in-just-nine-months",
+    "snippet": "",
+    "published_at": "2026-10-04T06:29:32Z",
+    "source": "MarkHub24",
+    "score": 9,
+    "reason": "The article is directly about a major chip brand (Bingo!) and its performance in the chip market, which constitutes significant brand news.",
+    "image_url": "https://static.wixstatic.com/media/8c1f0e_9858d81a8fb74faf8b612ea9b0119753~mv2.webp/v1/fill/w_494,h_494,al_c,lg_1,q_80/8c1f0e_9858d81a8fb74faf8b612ea9b0119753~mv2.webp",
+    "category": "business"
   },
   {
     "title": "The Company Behind Costco Kirkland Signature Krinkle Cut Potato Chips",
