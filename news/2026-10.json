@@ -1,5 +1,38 @@
 [
   {
+    "title": "SN Products to Watch: Cheetos Bag of Bones Chips - Supermarket News",
+    "url": "https://www.supermarketnews.com/new-cpg-products/sn-products-to-watch-cheetos-bag-of-bones-chips",
+    "snippet": "",
+    "published_at": "2026-10-08T19:16:33Z",
+    "source": "Supermarket News",
+    "score": 9,
+    "reason": "The title refers to a specific product news item from a major snack brand (Cheetos) and explicitly uses the word 'chips', making it directly relevant to a chip/crisp news website.",
+    "image_url": "https://eu-images.contentstack.com/v3/assets/blt58a1f8f560a1ab0e/bltd0cda840b0e31c7b/6ac7ebab7f984a46a18b6d0f/A_bag_of_Cheetos_Bag_of_Bones_Chips.png?disable=upscale&width=1200&height=630&fit=crop",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Better Made teases the return of chocolate-covered potato chips",
+    "url": "https://www.detroitnews.com/story/life/food/2026/10/08/better-made-teases-the-return-of-chocolate-covered-potato-chips/92151638007/",
+    "snippet": "For years, Better Made Snack Foods has produced commemorative tins filled with chocolate-covered potato chips. They are especially popular...",
+    "published_at": "2026-10-08T15:00:03Z",
+    "source": "The Detroit News",
+    "score": 10,
+    "reason": "The article is directly about a chip brand and the announcement of a specific potato chip product, falling into the highest relevance category.",
+    "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2025/12/16/PDTN/87799584007-milk-chocolate.jpg?auto=webp&crop=999,562,x0,y217&format=pjpg&width=1200",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Er ligt een nieuwe chipssmaak in de schappen en die hebben wij gelijk voor je getest",
+    "url": "https://favorflav.com/en/new/theres-a-new-croky-flavor-in-the-supermarket-and-this-is-what-we-think-of-it/",
+    "snippet": "Of course, I did a taste test right away because I went to the supermarket hungry and came home even hungrier… So I tore open the bag immediately.",
+    "published_at": "2026-10-08T10:34:11Z",
+    "source": "FavorFlav.com",
+    "score": 10,
+    "reason": "The title and snippet directly describe a taste test of a new chip flavor, which falls under the highest relevance category for reviews and new flavors.",
+    "image_url": "https://favorflav.com/images/croky-mexican-taco-taste-test.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "Utz brings full snack portfolio to NACS Show - Mass Market Retailers",
     "url": "https://massmarketretailers.com/utz-brings-full-snack-portfolio-to-nacs-show/",
     "snippet": "",
