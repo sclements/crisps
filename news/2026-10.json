@@ -1,5 +1,47 @@
 [
   {
+    "title": "How curved potato chips have changed over the years",
+    "url": "https://www.msn.com/en-ca/food-and-drink/general/how-curved-potato-chips-have-changed-over-the-years/ar-AA2dWx8m",
+    "snippet": "The tube, label and illustrated mascot have changed over the decades, but the familiar curved stack still connects today's potato crisps with their early packaging.",
+    "published_at": "2026-10-10T09:14:51Z",
+    "source": "Our Happy Mess",
+    "score": 9,
+    "reason": "The article is directly about the history and evolution of a specific type of potato chip, which is core content for a dedicated chip news website.",
+    "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dWOsR.img?w=1280&h=720&m=4&q=91",
+    "category": "oddities"
+  },
+  {
+    "title": "The famous 54-year-old chips brand went bankrupt.",
+    "url": "https://en.haberler.com/the-famous-54-year-old-chips-brand-went-bankrupt-2310833/",
+    "snippet": "Glens of Antrim Potatoes Ltd, a 54-year-old food producer supplying products to the UK's leading supermarket chains, filed for bankruptcy due to rising costs and the financial crisis it experienced. About 100 people were left unemployed after the company,",
+    "published_at": "2026-10-09T14:30:00Z",
+    "source": "en.haberler",
+    "score": 9,
+    "reason": "The article is direct brand news regarding a potato chip manufacturer, which falls into the highest relevance category.",
+    "image_url": "https://foto.haberler.com/haber/2026/10/09/54-yillik-unlu-cips-markasi-iflas-etti-20313458_7435_k.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Costco's New Beef Tallow Potato Sticks Bring Back Childhood Memories for Just $7.79",
+    "url": "https://www.msn.com/en-us/food-and-drink/general/costco-s-new-beef-tallow-potato-sticks-bring-back-childhood-memories-for-just-7-79/ar-AA2dTPn9",
+    "snippet": "A crispy little throwback with a delicious twist.",
+    "published_at": "2026-10-09T11:35:00Z",
+    "source": "Parade",
+    "score": 9,
+    "reason": "The article is directly about a new potato-based snack (potato sticks), which falls under the primary category of potato chips/crisps.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/97548a45ca1cc1e238ba4038889627dbc22f7b0dd7e2998b6a428d21ec93a8b6/lightyear_networkapi/resizefill_w640%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_video_307%2Fe52f0a55cc504b6029e80509d1730c0b.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Walkers brings back fan-favourite Christmas flavours",
+    "url": "https://www.msn.com/en-ph/food-and-drink/beverages/walkers-brings-back-fan-favourite-christmas-flavours/ar-AA2dUcdA",
+    "snippet": "'Whatever next?' ...",
+    "published_at": "2026-10-09T06:17:00Z",
+    "score": 10,
+    "reason": "The article is directly about new seasonal flavors being released by Walkers, a major potato chip/crisp brand.",
+    "category": "new_flavors"
+  },
+  {
     "title": "SN Products to Watch: Cheetos Bag of Bones Chips - Supermarket News",
     "url": "https://www.supermarketnews.com/new-cpg-products/sn-products-to-watch-cheetos-bag-of-bones-chips",
     "snippet": "",
@@ -22,6 +64,16 @@
     "category": "new_flavors"
   },
   {
+    "title": "East LA's La Reina Snack Brand Returns With Elote and Lime Tortilla Chips",
+    "url": "https://hoodline.com/2026/10/east-la-s-la-reina-snack-brand-returns-with-elote-and-lime-tortilla-chips/",
+    "snippet": "According to The Eastsider LA, the factory kept running tortillas for private-label customers even after the La Reina brand faded from public view, and the new rolled chips mark the first products to ...",
+    "published_at": "2026-10-08T12:44:00Z",
+    "score": 8,
+    "reason": "The article is about a snack brand launching new flavors of tortilla chips, which falls into the category of closely related chip products.",
+    "image_url": "https://img.hoodline.com/2026/10/east-la-s-la-reina-snack-brand-returns-with-elote-and-lime-tortilla-chips.webp",
+    "category": "new_flavors"
+  },
+  {
     "title": "Er ligt een nieuwe chipssmaak in de schappen en die hebben wij gelijk voor je getest",
     "url": "https://favorflav.com/en/new/theres-a-new-croky-flavor-in-the-supermarket-and-this-is-what-we-think-of-it/",
     "snippet": "Of course, I did a taste test right away because I went to the supermarket hungry and came home even hungrier… So I tore open the bag immediately.",
@@ -31,6 +83,17 @@
     "reason": "The title and snippet directly describe a taste test of a new chip flavor, which falls under the highest relevance category for reviews and new flavors.",
     "image_url": "https://favorflav.com/images/croky-mexican-taco-taste-test.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "The Giant Potato Chip Problem",
+    "url": "https://note.com/yamaryo_/n/n1bb9fbffe17a?hl=en",
+    "snippet": "The other day, I found a potato chip in a Calbee bag that was as big as a smartphone.It was about 1.5 times larger in person than it looked in the picture.Is this supposed to be a good thing?It is certainly big.",
+    "published_at": "2026-10-08T00:42:00Z",
+    "source": "note",
+    "score": 9,
+    "reason": "The article is directly about a specific potato chip brand (Calbee) and an observation regarding the product itself, which falls under reviews and brand news.",
+    "image_url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/3bf7189a950aea26b9a49b99cc369f458ba69c36.png",
+    "category": "oddities"
   },
   {
     "title": "Utz brings full snack portfolio to NACS Show - Mass Market Retailers",
