@@ -1,5 +1,16 @@
 [
   {
+    "title": "Orion transforms popular street snacks into potato chip innovations",
+    "url": "https://www.minimeinsights.com/2026/10/11/orion-transforms-popular-street-snacks-into-potato-chip-innovations/",
+    "snippet": "Vietnam's Orion has expanded its snack portfolio with the launch of Swing Shredded Beef Flavour and O'Star Chili Salt Mango Flavour.",
+    "published_at": "2026-10-10T23:10:30Z",
+    "source": "Mini Me Insights",
+    "score": 10,
+    "reason": "The article is directly about new potato chip flavor innovations from a snack brand, fitting the highest relevance category.",
+    "image_url": "https://www.minimeinsights.com/wp-content/uploads/2026/10/ostar-swing-1.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "How curved potato chips have changed over the years",
     "url": "https://www.msn.com/en-ca/food-and-drink/general/how-curved-potato-chips-have-changed-over-the-years/ar-AA2dWx8m",
     "snippet": "The tube, label and illustrated mascot have changed over the decades, but the familiar curved stack still connects today's potato crisps with their early packaging.",
@@ -289,6 +300,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "From Italian to Indian, Chili Crisp Is Inspiring a New Wave of Global Flavors",
+    "url": "https://www.inc.com/jennifer-conrad/from-italian-to-indian-chili-crisp-is-inspiring-a-new-wave-of-global-flavors/91403036",
+    "snippet": "Carbone's Italian-inspired launch reflects a broader trend as brands reimagine the condiment through different culinary traditions.",
+    "published_at": "2026-09-11T08:28:46Z",
+    "source": "Inc.com",
+    "score": 7,
+    "reason": "The title mentions 'Chili Crisp', which contains the word 'crisp' in a food context, triggering the rule to score 7+.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aecrV91xVCjSGQPH6bM590Mkqz5P4gfbBm4Uk0vA-y3RLyNVPob88Bo&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
     "title": "Review | What’s the best bag of potato chips you can buy? We tried 12 top-sellers.",
     "url": "https://www.washingtonpost.com/food/2026/09/03/we-tried-dozen-different-potato-chips-heres-best-worst/",
     "snippet": "What's the best bag of potato chips you can buy? We tried 12 top-sellers. · 12. Pringles Original · 11. Boulder Canyon Thin & Crispy Classic Sea...",
@@ -319,5 +341,14 @@
     "score": 10,
     "reason": "The article is a ranking and review of potato chips, which is directly related to the core subject matter.",
     "category": "reviews"
+  },
+  {
+    "title": "How thin potato slices become incredibly crispy layered chips",
+    "url": "https://www.msn.com/en-in/food-and-drink/recipes/how-thin-potato-slices-become-incredibly-crispy-layered-chips/vi-AA2atd4J",
+    "snippet": "Paper-thin potato slices are layered with duck fat and smoked salt before being slowly baked until tender. The compressed potato block is chilled overnight, cut into thick pieces and fried until ...",
+    "published_at": "2026-08-19T05:03:37Z",
+    "score": 9,
+    "reason": "The article is directly about the production process of potato chips. Per the key rule, mentioning 'chips' in a food context ensures a score of 7+, and since this is specifically about how chips are made, it falls into the 9-10 range.",
+    "category": "oddities"
   }
 ]
