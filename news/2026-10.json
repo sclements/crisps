@@ -1,5 +1,16 @@
 [
   {
+    "title": "Jordan Bans Chips in Schools: Healthier Habits Start Now - lovin.co",
+    "url": "https://lovin.co/amman/en/news/jordans-ministry-of-health-bans-all-types-of-chips-from-schools/",
+    "snippet": "",
+    "published_at": "2026-10-11T14:51:08Z",
+    "source": "lovin.co",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which according to the key rules triggers an automatic score of 7+. It is news regarding snack regulations rather than specific brand or flavor updates.",
+    "image_url": "https://cdn.lovin.co/wp-content/uploads/sites/21/2026/10/img_14806-2.jpg",
+    "category": "health"
+  },
+  {
     "title": "Orion transforms popular street snacks into potato chip innovations",
     "url": "https://www.minimeinsights.com/2026/10/11/orion-transforms-popular-street-snacks-into-potato-chip-innovations/",
     "snippet": "Vietnam's Orion has expanded its snack portfolio with the launch of Swing Shredded Beef Flavour and O'Star Chili Salt Mango Flavour.",
@@ -9,6 +20,17 @@
     "reason": "The article is directly about new potato chip flavor innovations from a snack brand, fitting the highest relevance category.",
     "image_url": "https://www.minimeinsights.com/wp-content/uploads/2026/10/ostar-swing-1.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "I Tried These 4 Hippeas Flavors & Now Have A New Fave",
+    "url": "https://sporked.com/article/i-tried-these-4-hippeas-flavors-now-have-a-new-fave/",
+    "snippet": "When you think of hippies, you probably picture a group of people without shoes, maybe some of them have dreadlocks, and they're all singing songs about",
+    "published_at": "2026-10-10T16:48:00Z",
+    "source": "sporked",
+    "score": 8,
+    "reason": "The article is a flavor review of Hippeas, a known snack brand that produces chickpea-based chips (veggie/protein chips), placing it in the 7-8 category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/09/hippeas.jpg",
+    "category": "reviews"
   },
   {
     "title": "How curved potato chips have changed over the years",
@@ -94,6 +116,17 @@
     "reason": "The title and snippet directly describe a taste test of a new chip flavor, which falls under the highest relevance category for reviews and new flavors.",
     "image_url": "https://favorflav.com/images/croky-mexican-taco-taste-test.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "PepsiCo & Grimme: How VR Can Cut Potato Waste by 87%",
+    "url": "https://sustainabilitymag.com/news/pepsico-grimme-how-vr-can-cut-potato-waste-by-87",
+    "snippet": "A virtual reality training platform from PepsiCo and Grimme uses digital twins to teach harvester operators to reduce bruising in potato crops by up to 87%",
+    "published_at": "2026-10-08T09:53:00Z",
+    "source": "Sustainability Magazine",
+    "score": 8,
+    "reason": "The article involves a major chip brand (PepsiCo) and industry business regarding the supply chain of their primary ingredient.",
+    "image_url": "https://assets.bizclikmedia.net/1200/ec0d6da4b25def650a8a55c13d0c23f3:6a0df6ada2a08357248bb11c1b5de8da/63-agro-u-2026-day4-00727.jpg.jpg",
+    "category": "business"
   },
   {
     "title": "The Giant Potato Chip Problem",
