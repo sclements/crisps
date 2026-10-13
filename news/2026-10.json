@@ -1,5 +1,36 @@
 [
   {
+    "title": "Herr's opens nominations for its next Flavored by Philly contest. Here's what won and lost in the past - PhillyVoice",
+    "url": "https://www.phillyvoice.com/herrs-flavored-by-philly-chips-2027-nominations-winners/",
+    "snippet": "",
+    "published_at": "2026-10-13T09:01:00Z",
+    "source": "PhillyVoice",
+    "score": 9,
+    "reason": "Herr's is a well-known snack/chip brand. The article discusses a flavor contest, which falls directly under 'new flavors' and 'brand news' for the chip industry.",
+    "image_url": "https://media.phillyvoice.com/media/images/101226_Herrs_Main_Contest.2e16d0ba.fill-1200x630-c0.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "What are Japan's 'wet' potato chips and how are they different?",
+    "url": "https://www.msn.com/en-us/news/other/what-are-japans-wet-potato-chips-and-how-are-they-different/ar-AA2e7Jvk",
+    "snippet": "From crispy thin to kettle cooked, potato chips are a fan-favorite. A Japanese company that sells 'wet' potato chips differ from what we know and love.",
+    "published_at": "2026-10-13T02:35:00Z",
+    "score": 10,
+    "reason": "The article is directly about potato chips, discussing a unique product type within the category.",
+    "category": "oddities"
+  },
+  {
+    "title": "Popular UK crisp maker behind Salt and Vinegar out of business",
+    "url": "https://www.yorkpress.co.uk/news/26631505.popular-crisp-maker-created-britains-favourite-flavour/",
+    "snippet": "It was first to produce Salt & Vinegar flavour before the national launch in 1967. Had Tudor's salt & vinegar failed it's likely one of the 'big three' (the others being Ready Sal",
+    "published_at": "2026-10-12T21:25:00Z",
+    "source": "The York Press",
+    "score": 9,
+    "reason": "The article is direct brand news concerning a potato chip/crisp manufacturer, which falls into the highest relevance category.",
+    "image_url": "https://www.yorkpress.co.uk/resources/images/21569364.jpg?type=og-image",
+    "category": "business"
+  },
+  {
     "title": "Jordan Bans Chips in Schools: Healthier Habits Start Now - lovin.co",
     "url": "https://lovin.co/amman/en/news/jordans-ministry-of-health-bans-all-types-of-chips-from-schools/",
     "snippet": "",
