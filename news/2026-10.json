@@ -1,5 +1,38 @@
 [
   {
+    "title": "Potato pancake potato chips made of fresh potatoes produced by farms in Gangwon-do are sold through - 매일경제",
+    "url": "https://www.mk.co.kr/en/society/12175840",
+    "snippet": "",
+    "published_at": "2026-10-14T08:07:54Z",
+    "source": "매일경제",
+    "score": 9,
+    "reason": "The title directly mentions 'potato chips', which falls into the highest category of relevance for a chip-focused website.",
+    "image_url": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.edf54ffa14514484b2fea4fc57c66d08_R.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "One ‘die-hard’ Pringles fan will win a can-shaped urn and 200-year supply of chips",
+    "url": "https://www.wspa.com/news/one-die-hard-pringles-fan-will-win-a-can-shaped-urn-and-200-year-supply-of-chips/",
+    "snippet": "This Halloween, Pringles is offering one fan a 200-year supply of chips and a very unique final resting place.",
+    "published_at": "2026-10-13T21:08:34Z",
+    "source": "WSPA 7News",
+    "score": 9,
+    "reason": "This is direct brand news regarding Pringles, involving a promotion for a supply of chips.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiV-T1F5bt9KSqDj7b7ErKdjowjUwWdLpwO8njPMvIUarzpbGllVwglQ&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "The Pringles Can Inventor Was Buried In One—Now You Could Be, Too - Delish",
+    "url": "https://www.delish.com/food-news/a74067538/pringles-can-halloween-sweepstakes/",
+    "snippet": "",
+    "published_at": "2026-10-13T13:15:00Z",
+    "source": "Delish",
+    "score": 7,
+    "reason": "The title mentions a well-known chip brand (Pringles), which triggers the rule to score 7 or higher. It is a human-interest story regarding the brand's history rather than direct product news.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/00122193-526c-49fb-9bb5-89a8119ac083.png?crop=1xw:0.888888888889xh;center,top&resize=1200:*",
+    "category": "oddities"
+  },
+  {
     "title": "Herr's opens nominations for its next Flavored by Philly contest. Here's what won and lost in the past - PhillyVoice",
     "url": "https://www.phillyvoice.com/herrs-flavored-by-philly-chips-2027-nominations-winners/",
     "snippet": "",
@@ -8,6 +41,17 @@
     "score": 9,
     "reason": "Herr's is a well-known snack/chip brand. The article discusses a flavor contest, which falls directly under 'new flavors' and 'brand news' for the chip industry.",
     "image_url": "https://media.phillyvoice.com/media/images/101226_Herrs_Main_Contest.2e16d0ba.fill-1200x630-c0.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Fans are no longer just tasting flavors. They are helping create them.",
+    "url": "https://www.pepsico.com/newsroom/stories/2026/fans-are-no-longer-just-tasting-flavors-they-are-helping-create-them",
+    "snippet": "From crowdsourced flavors to chips made for cultural moments, PepsiCo is putting consumers at the center of culinary innovation one...",
+    "published_at": "2026-10-13T08:08:48Z",
+    "source": "PepsiCo",
+    "score": 9,
+    "reason": "The article is directly about flavor innovation and brand news for PepsiCo, specifically mentioning 'chips' in the context of consumer-driven product development.",
+    "image_url": "https://digitalassets.pepsico.com/transform/c54c71da-61d1-4062-a84b-067d8f19cbfc/lays-doritos-ruffles-flavor-swap-bags",
     "category": "new_flavors"
   },
   {
