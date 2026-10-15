@@ -1,5 +1,27 @@
 [
   {
+    "title": "Lotte Mart Launches \"Haitai Saengsaeng Potato Chips, Gamja-jeon Flavor\"",
+    "url": "https://www.asiae.co.kr/en/article/2026101421325000635",
+    "snippet": "Lotte Mart and Lotte Super announced on October 15 that they will launch “Haitai Saengsaeng Potato Chips, Gamja-jeon Flavor,” developed in...",
+    "published_at": "2026-10-14T21:06:49Z",
+    "source": "아시아경제",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new potato chip flavor, which falls into the highest relevance category.",
+    "image_url": "https://cphoto.asiae.co.kr/listimglink/1/2026101421315961071_1791981119.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "The under-$35 snack that belongs on your game-day spread",
+    "url": "https://10best.usatoday.com/food-drink/popchips-game-day-snack-spread-idea/",
+    "snippet": "Pair your favorite Popchips with three easy dips for a crunchy, creamy, and spicy game-day snack lineup – Photo courtesy of Popchips.",
+    "published_at": "2026-10-14T10:06:33Z",
+    "source": "USA TODAY 10BEST",
+    "score": 9,
+    "reason": "The article directly features the brand Popchips and is centered around using them as a snack, meeting the criteria for high relevance.",
+    "image_url": "https://img1.10bestmedia.com/Images/Photos/436853/Screenshot-2026-10-13-at-1.47.24---PM_54_990x660.png",
+    "category": "oddities"
+  },
+  {
     "title": "Potato pancake potato chips made of fresh potatoes produced by farms in Gangwon-do are sold through - 매일경제",
     "url": "https://www.mk.co.kr/en/society/12175840",
     "snippet": "",
@@ -8,6 +30,17 @@
     "score": 9,
     "reason": "The title directly mentions 'potato chips', which falls into the highest category of relevance for a chip-focused website.",
     "image_url": "https://pimg.mk.co.kr/news/cms/202610/14/news-p.v1.20261014.edf54ffa14514484b2fea4fc57c66d08_R.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Daily Crunch Launches ‘Ditch the Chip’ Line with Everyday Flavors",
+    "url": "https://www.nosh.com/news/2026/daily-crunch-launches-ditch-the-chip-line-with-everyday-flavors",
+    "snippet": "Sprouted snack brand Daily Crunch is taking direct aim at potato chips via its latest line launch, which urges consumers to “Ditch the Chip”...",
+    "published_at": "2026-10-14T08:06:33Z",
+    "source": "Nosh.com",
+    "score": 8,
+    "reason": "The article discusses a brand launch that explicitly targets the potato chip market. Since it mentions 'chip' in a food context, it qualifies for a 7+ score per the rules.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6r9-qNv6HHHGofVkfIeq3tbhvxrvm6V_UOWiJmnYwaU3KQnsu6uYrxk&usqp=CAI&s",
     "category": "new_flavors"
   },
   {
