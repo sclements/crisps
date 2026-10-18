@@ -1,5 +1,70 @@
 [
   {
+    "title": "CU's \"Truffle Jamon Stick\" Tops Snack Sales, Surpassing Potato Chips - 아시아경제",
+    "url": "https://www.asiae.co.kr/en/article/distribution/2026101817432198310",
+    "snippet": "",
+    "published_at": "2026-10-18T08:43:22Z",
+    "source": "아시아경제",
+    "score": 7,
+    "reason": "The title explicitly mentions potato chips and discusses snack industry sales trends, which triggers the rule to score 7+.",
+    "image_url": "https://cphoto.asiae.co.kr/listimglink/1/2026101817424364719_1792312962.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Doritos Is Releasing a First-of-Its-Kind Lemon Pepper Flavor in 2027 - https://docksiderestaurant.com.au/",
+    "url": "https://docksiderestaurant.com.au/doritos-lemon-pepper-chips-2027/",
+    "snippet": "",
+    "published_at": "2026-10-17T15:37:18Z",
+    "source": "https://docksiderestaurant.com.au/",
+    "score": 9,
+    "reason": "The article announces a new flavor release for Doritos, which is direct brand news and highly relevant to a chip-focused website.",
+    "image_url": "https://docksiderestaurant.com.au/wp-content/uploads/2026/10/Doritos-Is-Releasing-a-First-of-Its-Kind-Lemon-Pepper-Flavor-in-2027.webp",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Who Is The King Of Hot chips??? Ep 9",
+    "url": "https://youtu.be/miVhJhp2zaQ?is=OWpbvlh2INhzgOh6",
+    "snippet": "WHO IS THE KING OF HOT CHIPS?! | THE HOT CHIP SAGA — KING OF FOODS EP. 9 🌶️ Welcome back to King of Foods! We're back for Episode 9...",
+    "published_at": "2026-10-17T08:02:23Z",
+    "source": "YouTube",
+    "score": 9,
+    "reason": "The title and snippet indicate a review/ranking of 'hot chips', which is directly about chip flavors and brands, fitting the highest relevance category.",
+    "image_url": "https://i.ytimg.com/vi/miVhJhp2zaQ/maxresdefault.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Who Makes Aldi-Brand Potato Chips?",
+    "url": "https://www.mashed.com/2283771/who-makes-aldi-brand-potato-chips/",
+    "snippet": "While Aldi doesn't disclose who makes Clancy's potato chips, we can confirm Olde York Potato Chips is one manufacturer that supplies the...",
+    "published_at": "2026-10-17T08:02:17Z",
+    "source": "Mashed",
+    "score": 10,
+    "reason": "The article is directly about potato chip brands and manufacturing, which falls into the highest relevance category for a dedicated potato chip news site.",
+    "image_url": "https://www.mashed.com/img/gallery/who-makes-aldi-brand-potato-chips/l-intro-1791815871.jpg",
+    "category": "business"
+  },
+  {
+    "title": "This Beloved Chip Brand Was Born at Disneyland in the 1960s—But Few Know What Its Name Actually Means - Parade Magazine",
+    "url": "https://parade.com/food/doritos-beloved-chip-brand-was-born-at-disneyland-in-the-1960s-name-meaning-gold",
+    "snippet": "",
+    "published_at": "2026-10-17T00:33:00Z",
+    "source": "Parade Magazine",
+    "score": 9,
+    "reason": "The article is directly about the history and identity of a chip brand, which falls under 'brand news' for a chip-focused website.",
+    "category": "oddities"
+  },
+  {
+    "title": "Cap City’s fan-favorite blue cheese potato chips earns Ohio spotlight in new cookbook",
+    "url": "https://myfox28columbus.com/good-day-columbus/cap-citys-fan-favorite-blue-cheese-potato-chips-earns-ohio-spotlight-in-new-cookbook",
+    "snippet": "Cap City is excited to have its original Blue Cheese Potato Chips featured as Ohio's dish in Alex P. Taylor's Totally Nachrageous cookbook!",
+    "published_at": "2026-10-15T16:07:40Z",
+    "source": "Fox 28",
+    "score": 10,
+    "reason": "The article is directly about a specific potato chip brand and its product being featured in media, which falls under the 'brand news' category for a chip-specific website.",
+    "image_url": "https://myfox28columbus.com/resources/media2/16x9/1536/1320/196x26/90/04b32e8b-c21a-4a2a-ac28-010b0ee52929-aae78356ae7c4ff8b3a2c56a95ebb1b0.png",
+    "category": "oddities"
+  },
+  {
     "title": "Lotte Mart Launches \"Haitai Saengsaeng Potato Chips, Gamja-jeon Flavor\"",
     "url": "https://www.asiae.co.kr/en/article/2026101421325000635",
     "snippet": "Lotte Mart and Lotte Super announced on October 15 that they will launch “Haitai Saengsaeng Potato Chips, Gamja-jeon Flavor,” developed in...",
@@ -44,6 +109,15 @@
     "category": "new_flavors"
   },
   {
+    "title": "Lay’s new holiday chips, cheddar scalloped style potatoes and roasted holiday turkey, are coming soon",
+    "url": "https://www.msn.com/en-us/food-and-drink/recipes/lay-s-new-holiday-chips-cheddar-scalloped-style-potatoes-and-roasted-holiday-turkey-are-coming-soon/ar-AA2eeyfd",
+    "snippet": "Lay’s has two new limited-edition holiday chips, Cheddar Scalloped Style Potatoes and Roasted Holiday Turkey.",
+    "published_at": "2026-10-14T07:25:57Z",
+    "score": 10,
+    "reason": "The article is directly about new flavors of potato chips from a major brand (Lay's), which falls into the highest relevance category.",
+    "category": "new_flavors"
+  },
+  {
     "title": "One ‘die-hard’ Pringles fan will win a can-shaped urn and 200-year supply of chips",
     "url": "https://www.wspa.com/news/one-die-hard-pringles-fan-will-win-a-can-shaped-urn-and-200-year-supply-of-chips/",
     "snippet": "This Halloween, Pringles is offering one fan a 200-year supply of chips and a very unique final resting place.",
@@ -53,6 +127,27 @@
     "reason": "This is direct brand news regarding Pringles, involving a promotion for a supply of chips.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiV-T1F5bt9KSqDj7b7ErKdjowjUwWdLpwO8njPMvIUarzpbGllVwglQ&usqp=CAI&s",
     "category": "oddities"
+  },
+  {
+    "title": "Rumored Limited Edition Potato Chips / Evil Weight Gain Plan",
+    "url": "https://note.com/ryou_gethu93/n/na72a4d9c7ad2?hl=en",
+    "snippet": "I ordered the rumored Koikeya Imakane Danshaku Potato Chips, the once-a-year, highest-quality potato chips. They say they turned the legendary Danshaku potatoes grown in Imakane, Hokkaido, into potato ...",
+    "published_at": "2026-10-13T18:15:00Z",
+    "score": 10,
+    "reason": "The article is directly about a specific brand and type of potato chip (Koikeya), falling into the highest relevance category.",
+    "image_url": "https://assets.st-note.com/production/uploads/images/323503221/rectangle_large_type_2_7d4ebe08544dbff23762f33ef2e001aa.jpeg?fit=bounds&quality=85&width=1280",
+    "category": "reviews"
+  },
+  {
+    "title": "Why There Have Been Less Humpty Chips on Store Shelves in Maine - 94.3 WCYY",
+    "url": "https://wcyy.com/humpty-dumpty-chips-shortage-maine-stores/",
+    "snippet": "",
+    "published_at": "2026-10-13T15:28:32Z",
+    "source": "94.3 WCYY",
+    "score": 9,
+    "reason": "The article is direct brand news concerning a specific chip brand (Humpty Chips).",
+    "image_url": "https://townsquare.media/site/698/files/2026/10/attachment-humpty-dumpty-chips-maine.jpg?w=1200&q=75&format=natural",
+    "category": "business"
   },
   {
     "title": "The Pringles Can Inventor Was Buried In One—Now You Could Be, Too - Delish",
@@ -106,6 +201,15 @@
     "reason": "The article is direct brand news concerning a potato chip/crisp manufacturer, which falls into the highest relevance category.",
     "image_url": "https://www.yorkpress.co.uk/resources/images/21569364.jpg?type=og-image",
     "category": "business"
+  },
+  {
+    "title": "Lay’s just brought back a fan-favorite international flavor—but only for a limited time",
+    "url": "https://www.msn.com/en-us/news/other/lay-s-just-brought-back-a-fan-favorite-international-flavor-but-only-for-a-limited-time/ar-AA2e4RKy",
+    "snippet": "“If you like spicy you’re going to like these.” ...",
+    "published_at": "2026-10-12T08:00:00Z",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release from Lay's, a major potato chip brand, making it highly relevant to a chip-focused website.",
+    "category": "new_flavors"
   },
   {
     "title": "Jordan Bans Chips in Schools: Healthier Habits Start Now - lovin.co",
@@ -461,6 +565,16 @@
     "reason": "The article is a direct review of potato chip brands, which falls squarely into the highest relevance category.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkNFB9qYbyEWi3bnkGlZaX9LQVcXSnZQ_JKT0mYa3YESk7MZAB89Pzc9k&usqp=CAI&s",
     "category": "reviews"
+  },
+  {
+    "title": "Orion debuts Poca Chip yellow cheese flavor in South Korea",
+    "url": "https://biz.chosun.com/en/en-retail/2026/09/03/XEYMM3T3NBCTTIEZ6OJSVSGSE4/",
+    "snippet": "Orion(271560) said on the 3rd that it released a new product, \"Poca Chip yellow cheese flavor.\" Orion Poca Chip Yellow Cheese flavor product image. /Courtesy of Orion \"Poca Chip yellow cheese flavor\" ...",
+    "published_at": "2026-09-03T02:27:00Z",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release for a potato chip brand (Poca Chip).",
+    "image_url": "https://biz.chosun.com/resizer/v2/G5QWIMRTMZQTIZTFMNRWIZLCMQ.jpg?auth=9a493d72020594e6119cc1a4a4a1e11ed20d87634f6c6bc8c2ec49d9edb6335e&width=1200&height=630&smart=true",
+    "category": "new_flavors"
   },
   {
     "title": "Pringles has two new flavors and this is what we think of them - FavorFlav.com",

@@ -147,5 +147,29 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTaEa8WuFghEGrmlrHhXDX4n6KKGWBFLLuk-2BC4XT5In-AuN4NHgeiEjfwc20lQ61AySbYqMhKQMM6QECT6-wVzs5K1ZwjGYu-i_y7yFne68gYHga81g",
     "item_name": "Cumin Lemon"
+  },
+  {
+    "date": "2026-10-18",
+    "description": "Today's pick is Cilantro Taco, drawn from the culinary traditions of Colombia.",
+    "event_name": "Culinary traditions (Colombia)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSG6no10EL2gaaKfDgucbss3ywNl8OXrJQAmdV7GcdgvHNXOz8w6DLDEoFqHbVmdAroSjSzqgwjbsJ_f2xfj4lOP-WYSIxg7POiw9S_zH8CbA8J80cgat4A8w",
+    "item_name": "Cilantro Taco"
+  },
+  {
+    "date": "2026-10-19",
+    "description": "Today's pick is Green Curry, drawn from the culinary traditions of Sri Lanka.",
+    "event_name": "Culinary traditions (Sri Lanka)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnPd7WK6ptUuk4vvslTOKW41ykqOzeywt6kgDXRDxEzTgDBPrjbnPcYjjmhMCulbbhYbg7uPrNZCtUNapNIwiWjb8vyiXJZZiwMtCmm1oYP-h8HKSpDx9s",
+    "item_name": "Green Curry"
+  },
+  {
+    "date": "2026-10-20",
+    "description": "Celebrating Arbor Day and the flourishing forests. These Honey chips capture the sweet essence of nature's nectar today.",
+    "event_name": "Arbor Day (Czech Republic)",
+    "event_url": "Google Shopping",
+    "image_url": "https://m.media-amazon.com/images/I/81OzNsirDjL.jpg",
+    "item_name": "Honey"
   }
 ]
