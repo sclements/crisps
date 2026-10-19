@@ -171,5 +171,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://m.media-amazon.com/images/I/81OzNsirDjL.jpg",
     "item_name": "Honey"
+  },
+  {
+    "date": "2026-10-21",
+    "description": "Today's pick is Mesquite, drawn from the culinary traditions of United States.",
+    "event_name": "Culinary traditions (United States)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRO4h3vujdYwS9YCcxl9QveaC78kFtDQ3OBvzDjwK-HLB0ZQsfgbVo8Z6zW2NUNDNOUMmI0O2Ex1Fro2rnjm3In4zXQ19aKnAh33F_UPC0vNoteav3cT810",
+    "item_name": "Mesquite"
   }
 ]

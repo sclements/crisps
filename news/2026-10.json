@@ -1,5 +1,38 @@
 [
   {
+    "title": "Making your Corn Chips Better with Machine Learning",
+    "url": "https://www.farms.com/ag-industry-news/making-your-corn-chips-better-with-machine-learning-302.aspx",
+    "snippet": "The University of Minnesota's Department of Agronomy and Plant Genetics is using machine-learning technology to improve the quality and...",
+    "published_at": "2026-10-19T05:01:32Z",
+    "source": "Farms.com",
+    "score": 7,
+    "reason": "The article is about corn chips, which falls under closely related snack foods in the rubric. It also triggers the rule to score 7+ because it mentions 'chips' in a food context.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQh7Y021zOkS_zDMDfmpKddZKTaEozIxX489WRg7wxmeEfAf8Yr5P4kHeZxOCR60IyNtpOQ5QPqkt33DIE0y8W1hx_BEgg8ltcHLLuKGN0QMjk&s",
+    "category": "oddities"
+  },
+  {
+    "title": "Which Siete Snacks Are Actually the Healthiest? - Yahoo",
+    "url": "https://www.yahoo.com/lifestyle/articles/siete-snacks-actually-healthiest-043925963.html",
+    "snippet": "",
+    "published_at": "2026-10-19T04:39:00Z",
+    "source": "Yahoo",
+    "score": 7,
+    "reason": "Siete is a well-known brand primarily recognized for its tortilla chips, and per the rules, naming a known chip/snack brand warrants a 7+ score.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/05fdcda1eed4f3f4250a69e113fbebc673dedc71ed1d4a0068a45ab131050a48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcleanplates_536%2Fb106570cd9de17f7c0ef3ae8c480ce8d.png",
+    "category": "reviews"
+  },
+  {
+    "title": "Piattos thinks outside the chip with new hexarings in Indonesia - Mini Me Insights",
+    "url": "https://www.minimeinsights.com/2026/10/18/piattos-thinks-outside-the-chip-with-new-hexarings-in-indonesia/",
+    "snippet": "",
+    "published_at": "2026-10-18T10:24:25Z",
+    "source": "Mini Me Insights",
+    "score": 10,
+    "reason": "The article is directly about a new product launch from Piattos, a well-known potato chip brand.",
+    "image_url": "https://www.minimeinsights.com/wp-content/uploads/2026/10/piattos-hexarings-1.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "CU's \"Truffle Jamon Stick\" Tops Snack Sales, Surpassing Potato Chips - 아시아경제",
     "url": "https://www.asiae.co.kr/en/article/distribution/2026101817432198310",
     "snippet": "",
