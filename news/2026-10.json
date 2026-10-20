@@ -1,5 +1,47 @@
 [
   {
+    "title": "Herr’s Wants Your Favorite Philadelphia Dish as Its Next Chip Flavor - BUCKSCO.Today",
+    "url": "https://bucksco.today/2026/10/herrs-flavored-by-philly-returns-nominations/",
+    "snippet": "",
+    "published_at": "2026-10-20T09:15:00Z",
+    "source": "BUCKSCO.Today",
+    "score": 10,
+    "reason": "The article is directly about a new chip flavor from the well-known brand Herr's, which falls under new flavors and brand news.",
+    "category": "new_flavors"
+  },
+  {
+    "title": "What new Pepsi and Lay’s flavors are coming to the U.S. this holiday season? - MARCA",
+    "url": "https://www.marca.com/en/lifestyle/us-news/2026/10/20/what-new-pepsi-and-lay-s-flavors-are-coming-to-the-u-s-this-holiday-season.html",
+    "snippet": "",
+    "published_at": "2026-10-19T23:01:21Z",
+    "source": "MARCA",
+    "score": 10,
+    "reason": "The article is directly about new flavors for Lay's, a major potato chip brand, falling under the top tier of relevance.",
+    "image_url": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/10/20/6ad6a129cd9d0.jpeg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "What Do Lay’s Holiday Flavors Taste Like?",
+    "url": "https://www.foodnetwork.com/fn-dish/news/lays-limited-edition-holiday-flavors-2026",
+    "snippet": "",
+    "published_at": "2026-10-19T19:10:14Z",
+    "source": "Food Network",
+    "score": 10,
+    "reason": "The article is directly about new flavors of Lay's potato chips, which falls under the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwIHkjb81FLTTr-OIcwxj2ldAhkPHo2Qj_LQxtktgRamgfX05z-kLrcQ&usqp=CAI&s",
+    "category": "reviews"
+  },
+  {
+    "title": "Pringles Offering 200 Years of Free Chips in Wildly Morbid Sweepstakes - Wide Open Country",
+    "url": "https://www.wideopencountry.com/pringles-offering-200-years-of-free-chips-in-wildly-morbid-sweepstakes/",
+    "snippet": "",
+    "published_at": "2026-10-19T17:27:44Z",
+    "source": "Wide Open Country",
+    "score": 10,
+    "reason": "The article is directly about a major chip brand (Pringles) and news regarding its products, which falls under the highest relevance category.",
+    "category": "oddities"
+  },
+  {
     "title": "Making your Corn Chips Better with Machine Learning",
     "url": "https://www.farms.com/ag-industry-news/making-your-corn-chips-better-with-machine-learning-302.aspx",
     "snippet": "The University of Minnesota's Department of Agronomy and Plant Genetics is using machine-learning technology to improve the quality and...",
@@ -575,6 +617,26 @@
     "score": 10,
     "reason": "The title is directly about a major chip brand (Lays) announcing new flavors, which is core content for a potato chip news website.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIlnmRpCNlBi29DzkwZod5-86ySFKS-GEZLGZLojPkJMxizT9AnbndHvY&usqp=CAI&s",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Popular potato chips recalled in Ohio - FOX 8 News",
+    "url": "https://fox8.com/news/popular-potato-chips-recalled-in-ohio/",
+    "snippet": "",
+    "published_at": "2026-09-22T07:00:00Z",
+    "source": "FOX 8 News",
+    "score": 10,
+    "reason": "The article is directly about a potato chip recall, which falls into the highest relevance category for a dedicated chip news site.",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Kettle Chips launches brand-new Christmas flavour and it's in stores next week - The Sun",
+    "url": "https://www.thesun.co.uk/money/40408061/kettle-chips-launches-cosy-christmas-flavour/",
+    "snippet": "",
+    "published_at": "2026-09-17T07:00:00Z",
+    "source": "The Sun",
+    "score": 10,
+    "reason": "The article is directly about a new flavor launch from a major potato chip brand (Kettle Chips), which falls into the highest relevance category.",
     "category": "new_flavors"
   },
   {

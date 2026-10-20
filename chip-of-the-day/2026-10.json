@@ -179,5 +179,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRO4h3vujdYwS9YCcxl9QveaC78kFtDQ3OBvzDjwK-HLB0ZQsfgbVo8Z6zW2NUNDNOUMmI0O2Ex1Fro2rnjm3In4zXQ19aKnAh33F_UPC0vNoteav3cT810",
     "item_name": "Mesquite"
+  },
+  {
+    "date": "2026-10-22",
+    "description": "Today's pick is Coffee, drawn from the culinary traditions of Costa Rica.",
+    "event_name": "Culinary traditions (Costa Rica)",
+    "event_url": "Google Shopping",
+    "image_url": "https://thefrozenbean.com/cdn/shop/files/FS_java_chip_0917_25-01-CC_e80aacaa-cb58-4bae-b2e7-4f79b79108e8.webp?v=1760620526&width=1780",
+    "item_name": "Coffee"
   }
 ]
