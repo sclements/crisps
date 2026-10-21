@@ -187,5 +187,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://thefrozenbean.com/cdn/shop/files/FS_java_chip_0917_25-01-CC_e80aacaa-cb58-4bae-b2e7-4f79b79108e8.webp?v=1760620526&width=1780",
     "item_name": "Coffee"
+  },
+  {
+    "date": "2026-10-23",
+    "description": "Today's pick is Seaweed Topping, drawn from the culinary traditions of Japan.",
+    "event_name": "Culinary traditions (Japan)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4x1APHa_tsnvmdQEJUEZZroBAHP_DIBDOTbNq343jKZIaufWirFfDyveRcSOY4H0FdmfqZzhYAAv1w0T2xBv1fLcl2srJTA",
+    "item_name": "Seaweed Topping"
   }
 ]

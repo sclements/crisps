@@ -1,5 +1,71 @@
 [
   {
+    "title": "Bavaria bans dangerously spicy crisps",
+    "url": "https://www.iamexpat.de/lifestyle/lifestyle-news/bavaria-bans-dangerously-spicy-crisps",
+    "snippet": "The Bavarian Ministry for Health and Food Safety has banned an extremely spicy crisp which is being sold online as part of the so-called hot...",
+    "published_at": "2026-10-21T08:43:58Z",
+    "source": "IamExpat in Germany",
+    "score": 10,
+    "reason": "The article is directly about the ban of a specific type of crisp/chip, which falls under product news and recalls.",
+    "image_url": "https://directus.iamexpat.com/assets/17b16b67-8642-4912-8ac4-433f61444d24?width=1200&height=630&fit=cover&format=jpg&q=85&v=1792158204",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "Can Special K crack the crisps market with new pop chips?",
+    "url": "https://www.thegrocer.co.uk/news/can-special-k-crack-the-crisps-market-with-new-pop-chips/232651.article",
+    "snippet": "Special K Cracker Crisps are rolling out now in sea salt & balsamic vinegar, sweet chilli, and sour cream & chive, and are made from potato,...",
+    "published_at": "2026-10-21T08:43:58Z",
+    "source": "The Grocer",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new potato-based chip brand/product, which falls into the highest relevance category.",
+    "image_url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/web/y/m/t/kelloggs-special-k-cracker-.gif",
+    "category": "business"
+  },
+  {
+    "title": "'Why my pub sells 70 different flavours of crisps'",
+    "url": "https://www.bbc.co.uk/news/articles/cd0z9lelyn9o",
+    "snippet": "The man behind the idea says it started as a \"silly idea\" and just grew from there.",
+    "published_at": "2026-10-21T08:43:58Z",
+    "source": "BBC",
+    "score": 8,
+    "reason": "The title explicitly mentions 'crisps' in a food context, which triggers the rule to score 7+; it is highly relevant as it focuses on a business model centered around variety in chip flavors.",
+    "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f85/live/49ba30d0-8d4a-11ef-a15b-5b56e4c6c883.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "‘I was fed up with the air in crisp bags – so I measured it’",
+    "url": "https://www.bbc.com/future/article/20151105-im-fed-up-with-all-the-air-in-my-crisps-and-this-is-why",
+    "snippet": "Ever opened a seemingly full bag of crisps to find it mostly empty space? One artist was so frustrated with the problem that he decided to...",
+    "published_at": "2026-10-21T08:43:57Z",
+    "source": "BBC",
+    "score": 7,
+    "reason": "The title and snippet mention 'crisps', which triggers the mandatory 7+ score. However, since it is a human interest story about packaging rather than brand news or new flavors, it sits at the lower end of that range.",
+    "image_url": "https://ychef.files.bbci.co.uk/624x351/p037673r.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "Happy Holi-Lays! Thanksgiving-flavored potato chips to hit store shelves",
+    "url": "https://www.wishtv.com/news/business/happy-holi-lays-thanksgiving-flavored-potato-chips-to-hit-store-shelves-oct-25/",
+    "snippet": "INDIANAPOLIS — Here is a look at Tuesday's business headlines with Jane King, who has the latest on toy costs, “retirement drift,” and a new...",
+    "published_at": "2026-10-20T14:05:00Z",
+    "source": "WISH-TV",
+    "score": 10,
+    "reason": "The article is directly about a new flavor of potato chips (Lays), which falls into the highest relevance category.",
+    "image_url": "https://www.wishtv.com/wp-content/uploads/2026/10/20/HOLI-LAYS.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Chocolate Lay’s potato chips: Yes, they’re real!",
+    "url": "https://fox8.com/news/chocolate-lays-potato-chips-yes-theyre-real/",
+    "snippet": "",
+    "published_at": "2026-10-20T10:04:58Z",
+    "source": "FOX 8 News",
+    "score": 10,
+    "reason": "The article is directly about a new flavor of potato chips from a major brand, which falls into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63j5BWFAGTeQKExmNro4YFkmXjj_6idTZMKZa_8cuz8Fn2yJiBiqt8EY&usqp=CAI&s",
+    "category": "oddities"
+  },
+  {
     "title": "Herr’s Wants Your Favorite Philadelphia Dish as Its Next Chip Flavor - BUCKSCO.Today",
     "url": "https://bucksco.today/2026/10/herrs-flavored-by-philly-returns-nominations/",
     "snippet": "",
