@@ -1,5 +1,60 @@
 [
   {
+    "title": "Teton Valley Brands",
+    "url": "https://boisedev.com/company/teton-valley-brands/",
+    "snippet": "Teton Valley Brands isn't trying to beat Lay's at its own game. Instead, the Nampa-based snack company is carving out a niche by betting on unconventional...",
+    "published_at": "2026-10-21T21:06:51Z",
+    "source": "Boise Dev",
+    "score": 9,
+    "reason": "The article is about brand news for a snack company and specifically mentions competing with Lay's, making it directly relevant to the potato chip/snack industry.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7n2_Ak75pSQ1pdvTxNobbVHbuFdpT0ascPLGBqNBesn6Vjq1F33L42t31XLxLNwNnmYpElqI9lbQ5BwCXSbSNDWF6INFTUsze1Z18Lnh0-Fw&s",
+    "category": "business"
+  },
+  {
+    "title": "The snack aisle has gone wild. These 6 chips deliver.",
+    "url": "https://www.expressnews.com/food/restaurants/article/best-seasonal-potato-chip-flavors-22486090.php",
+    "snippet": "Pumpkin-spice everything used to be the harbinger of the season in grocery stores. Today's palates, especially in the potato chip aisle,...",
+    "published_at": "2026-10-21T15:06:51Z",
+    "source": "San Antonio Express-News",
+    "score": 10,
+    "reason": "The article is a direct review/recommendation of specific potato chip products, which falls into the highest relevance category.",
+    "image_url": "https://s.hdnux.com/photos/01/67/54/10/31375901/3/rawImage.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Potatoe Chips Fried In Water?Why Food Innovation Is Now A Leadership Test",
+    "url": "https://www.forbes.com/sites/philkafarakis/2026/10/21/potatoe-chips-fried-in-waterwhy-food-innovation-is-now-a-leadership-test/",
+    "snippet": "Potato chips fried in water? SIAL Paris reveals food innovation's real leadership test: challenging assumptions behind how we make and...",
+    "published_at": "2026-10-21T14:06:53Z",
+    "source": "Forbes",
+    "score": 9,
+    "reason": "The article is directly about a novel production method for potato chips, placing it in the highest relevance category for a chip-focused news site.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYo59vRbKmVvP4hjP32YwdqGn_kg9tSK_icuK6i2-9J46ECN4L2njTk3igp3jibJnJgEtfm9ZmYlrzon09FgpyFp2anVH-i8X6TMtvUlvj5sw&s",
+    "category": "business"
+  },
+  {
+    "title": "These Fan-Favorite ALDI Chips Are Finally Back—and There’s a Brand-New Flavor",
+    "url": "https://www.realsimple.com/fan-favorite-aldi-chips-are-finally-back-with-new-flavor-12173787",
+    "snippet": "ALDI's Cheesy Garlic Bread potato chips are back for fall with a new Italian Seasoning flavor, plus tips for other ways to enjoy them.",
+    "published_at": "2026-10-21T13:06:51Z",
+    "source": "Real Simple",
+    "score": 10,
+    "reason": "The article is directly about the return and new flavor of potato chips, fitting the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlb5_ThieALyq6fwyREqcZQE-PMGb8G1MPi2E0lzo8E1GBz4dsQmasHAYyMyG-ixgMloDO7c4rRttZ3omiDYsV0DvX0YDlUkkS9Yjo47uHxZGO&s",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Lay’s Is Releasing a First-Of-Its-Kind Chip for a Limited Time",
+    "url": "https://www.simplyrecipes.com/lays-chocolate-covered-new-product-12179836",
+    "snippet": "",
+    "published_at": "2026-10-21T10:06:51Z",
+    "source": "Simply Recipes",
+    "score": 10,
+    "reason": "The article is directly about a new product release from Lay's, which falls under the highest relevance category for a potato chip news website.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwmf7RBLtL-WjlFZomyXj5KuyrbVnLDCRgf694k7whbgPKkfu8bz_ZgZAhriqpDySl_MZYyf2i-QVUC-sFD9RT46i1M_fbgJJ-lwRh2fGNlzI&s",
+    "category": "new_flavors"
+  },
+  {
     "title": "Bavaria bans dangerously spicy crisps",
     "url": "https://www.iamexpat.de/lifestyle/lifestyle-news/bavaria-bans-dangerously-spicy-crisps",
     "snippet": "The Bavarian Ministry for Health and Food Safety has banned an extremely spicy crisp which is being sold online as part of the so-called hot...",

@@ -195,5 +195,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4x1APHa_tsnvmdQEJUEZZroBAHP_DIBDOTbNq343jKZIaufWirFfDyveRcSOY4H0FdmfqZzhYAAv1w0T2xBv1fLcl2srJTA",
     "item_name": "Seaweed Topping"
+  },
+  {
+    "date": "2026-10-24",
+    "description": "Today's pick is Pork Liver, drawn from the culinary traditions of Denmark.",
+    "event_name": "Culinary traditions (Denmark)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbqDYQxyS36CHpcnJurMR8Fej_3MMcqkqoaD1S3vb7urENRhB-L3K9e-VgCeT8BA8HGHBXWRodnBpXix9DbtLh59Eo6MsywHS4QwJp43N1yOGS2mhZrElDuA",
+    "item_name": "Pork Liver"
   }
 ]
