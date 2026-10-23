@@ -1,5 +1,26 @@
 [
   {
+    "title": "Lay's to release new Thanksgiving-inspired chip flavors - Sioux City Journal",
+    "url": "https://siouxcityjournal.com/life-entertainment/nation-world/food-drink/article_05638716-178c-5dd0-a776-46d59b293890.html",
+    "snippet": "",
+    "published_at": "2026-10-22T14:40:54Z",
+    "source": "Sioux City Journal",
+    "score": 10,
+    "reason": "The article is directly about new flavors being released by a major chip brand (Lay's), which falls into the highest relevance category.",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Chips Ahoy! Is Hitting Us With Two New Sweet Mini Treats - Sporked",
+    "url": "https://sporked.com/article/chips-ahoy-drizzled-minis/",
+    "snippet": "",
+    "published_at": "2026-10-22T11:00:00Z",
+    "source": "Sporked",
+    "score": 7,
+    "reason": "While the product (cookies) is not a potato chip or crisp, the title contains the word 'chips' as part of a known brand name, which triggers the instruction to score 7+.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/07/chocolate-chip-cookie.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "Teton Valley Brands",
     "url": "https://boisedev.com/company/teton-valley-brands/",
     "snippet": "Teton Valley Brands isn't trying to beat Lay's at its own game. Instead, the Nampa-based snack company is carving out a niche by betting on unconventional...",
@@ -142,6 +163,17 @@
     "category": "new_flavors"
   },
   {
+    "title": "Lay's Introduces New Holiday-Inspired Chip Flavors | 102.5 WDVE | The 'DVE Archives - 102.5 WDVE - Home of the Pittsburgh Steelers",
+    "url": "https://dve.iheart.com/featured/dve-archive/content/2026-10-19-lays-introduces-new-holiday-inspired-chip-flavors/",
+    "snippet": "",
+    "published_at": "2026-10-19T22:53:00Z",
+    "source": "102.5 WDVE - Home of the Pittsburgh Steelers",
+    "score": 10,
+    "reason": "The article is directly about new chip flavors from Lay's, a major potato chip brand.",
+    "image_url": "https://i.iheart.com/v3/re/assets.getty/6ad6a077817d9bc345b68724?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+    "category": "new_flavors"
+  },
+  {
     "title": "What Do Lay’s Holiday Flavors Taste Like?",
     "url": "https://www.foodnetwork.com/fn-dish/news/lays-limited-edition-holiday-flavors-2026",
     "snippet": "",
@@ -161,6 +193,16 @@
     "score": 10,
     "reason": "The article is directly about a major chip brand (Pringles) and news regarding its products, which falls under the highest relevance category.",
     "category": "oddities"
+  },
+  {
+    "title": "Beloved snack brand’s new flavor lineup brings 3-course holiday dinner to snack time - MLive.com",
+    "url": "https://www.mlive.com/business/2026/10/beloved-snack-brands-new-flavor-lineup-brings-3-course-holiday-dinner-to-snack-time.html",
+    "snippet": "",
+    "published_at": "2026-10-19T16:53:00Z",
+    "source": "MLive.com",
+    "score": 9,
+    "reason": "The article is about a snack brand's new flavor lineup, which constitutes direct brand news and product news—the primary subject matter for a chip/snack website.",
+    "category": "new_flavors"
   },
   {
     "title": "Making your Corn Chips Better with Machine Learning",
@@ -751,6 +793,17 @@
     "category": "recalls_safety"
   },
   {
+    "title": "Step Away from the Snacks—The Latest Recall Involves Potato Chips with a Potentially Deadly Allergen - Reader's Digest",
+    "url": "https://www.rd.com/article/saratoga-potato-chip-recall/",
+    "snippet": "",
+    "published_at": "2026-09-21T07:00:00Z",
+    "source": "Reader's Digest",
+    "score": 10,
+    "reason": "The article is directly about a potato chip recall, which is explicitly listed as a top-tier relevance category.",
+    "image_url": "https://www.rd.com/wp-content/uploads/2026/09/GettyImages-586123920-scaled.jpg",
+    "category": "recalls_safety"
+  },
+  {
     "title": "Kettle Chips launches brand-new Christmas flavour and it's in stores next week - The Sun",
     "url": "https://www.thesun.co.uk/money/40408061/kettle-chips-launches-cosy-christmas-flavour/",
     "snippet": "",
@@ -770,6 +823,16 @@
     "reason": "The title mentions 'Chili Crisp', which contains the word 'crisp' in a food context, triggering the rule to score 7+.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aecrV91xVCjSGQPH6bM590Mkqz5P4gfbBm4Uk0vA-y3RLyNVPob88Bo&usqp=CAI&s",
     "category": "new_flavors"
+  },
+  {
+    "title": "Potato chips recalled in NJ: Things to know - PIX11",
+    "url": "https://pix11.com/news/local-news/new-jersey/potato-chips-recalled-in-nj-things-to-know/",
+    "snippet": "",
+    "published_at": "2026-09-10T07:00:00Z",
+    "source": "PIX11",
+    "score": 10,
+    "reason": "The article is directly about a potato chip recall, which falls into the highest relevance category.",
+    "category": "recalls_safety"
   },
   {
     "title": "Review | What’s the best bag of potato chips you can buy? We tried 12 top-sellers.",

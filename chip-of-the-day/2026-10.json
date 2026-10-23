@@ -203,5 +203,16 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbqDYQxyS36CHpcnJurMR8Fej_3MMcqkqoaD1S3vb7urENRhB-L3K9e-VgCeT8BA8HGHBXWRodnBpXix9DbtLh59Eo6MsywHS4QwJp43N1yOGS2mhZrElDuA",
     "item_name": "Pork Liver"
+  },
+  {
+    "audience_countries": [
+      "Grenada"
+    ],
+    "date": "2026-10-25",
+    "description": "Celebrating the festive spirit of Grenadian Thanksgiving, Coco Maize captures a sweet tropical harvest in every crunchy bite.",
+    "event_name": "Thanksgiving Day (Grenada)",
+    "event_url": "https://en.wikipedia.org/wiki/October_25",
+    "image_url": "https://cdn.yamibuy.net/item/31a4e23f67232a1bd5b165128a99f66f_750x750.webp",
+    "item_name": "Coco Maize"
   }
 ]
