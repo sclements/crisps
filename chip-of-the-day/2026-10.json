@@ -214,5 +214,16 @@
     "event_url": "https://en.wikipedia.org/wiki/October_25",
     "image_url": "https://cdn.yamibuy.net/item/31a4e23f67232a1bd5b165128a99f66f_750x750.webp",
     "item_name": "Coco Maize"
+  },
+  {
+    "audience_countries": [
+      "Austria"
+    ],
+    "date": "2026-10-26",
+    "description": "Celebrating Austria's historic declaration of neutrality today. These earthy Celery Root chips offer a perfectly balanced flavor to honor this day of peace.",
+    "event_name": "National Day, celebrates the anniversary of the Declaration of Neutrality in 1955. (Austria)",
+    "event_url": "https://en.wikipedia.org/wiki/October_26",
+    "image_url": "https://www.instacart.com/image-server/600x/www.instacart.com/assets/domains/product-image/file/large_072c2c68-900c-458f-80ad-58bae2563f83.png",
+    "item_name": "Celery Root"
   }
 ]
