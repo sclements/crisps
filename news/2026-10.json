@@ -33,6 +33,27 @@
     "category": "new_flavors"
   },
   {
+    "title": "EU’s ‘veggie bacon’ ban spells trouble for meat-flavored chips - POLITICO.eu",
+    "url": "https://www.politico.eu/article/eu-veggie-bacon-ban-spells-trouble-for-meat-flavored-chips/",
+    "snippet": "",
+    "published_at": "2026-10-23T12:32:00Z",
+    "source": "POLITICO.eu",
+    "score": 9,
+    "reason": "The title directly addresses how a regulatory ban on 'veggie bacon' impacts meat-flavored chips, which falls under news regarding chip flavors and industry developments.",
+    "image_url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/23/GettyImages-2256854770-scaled.jpg",
+    "category": "business"
+  },
+  {
+    "title": "The 12 Best Potato Chips Alternatives That Are Just As Satisfying",
+    "url": "https://www.yahoo.com/lifestyle/articles/12-best-potato-chips-alternatives-132000024.html",
+    "snippet": "These 12 tasty alternatives to potato chips bring satisfying crunch and crave-worthy flavors that make them just as appealing as the classic snack.",
+    "published_at": "2026-10-23T06:20:00Z",
+    "score": 8,
+    "reason": "The title explicitly mentions 'potato chips' in a food context, which triggers the rule for a 7+ score. It is highly relevant to snack enthusiasts.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/b75f8135ff8139757cb0489917867d69377b20b633716a58e886c1c491ed972d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftasting_table_543%2F968caf3d009f8393473c828257db82cc.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "Lay's to release new Thanksgiving-inspired chip flavors - Sioux City Journal",
     "url": "https://siouxcityjournal.com/life-entertainment/nation-world/food-drink/article_05638716-178c-5dd0-a776-46d59b293890.html",
     "snippet": "",
@@ -52,6 +73,16 @@
     "reason": "While the product (cookies) is not a potato chip or crisp, the title contains the word 'chips' as part of a known brand name, which triggers the instruction to score 7+.",
     "image_url": "https://sporked.com/wp-content/uploads/2026/07/chocolate-chip-cookie.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "Swap potato chips for these crispy cassava bites",
+    "url": "https://www.newsbytesapp.com/news/lifestyle/crispy-cassava-chips-a-snack-you-can-t-resist/story",
+    "snippet": "Cassava chips are loaded with dietary fiber, which helps in digestion and keeps cholesterol levels in check. Unlike regular potato chips, they do not have any gluten or wheat, making them ideal for ...",
+    "published_at": "2026-10-22T03:51:00Z",
+    "score": 8,
+    "reason": "The article discusses cassava chips as an alternative to potato chips. Since it focuses on veggie/alternative chips, it falls into the 7-8 range, and meets the mandatory rule for articles mentioning 'chips' in a food context.",
+    "image_url": "https://i.cdn.newsbytesapp.com/images/l98320261022105058.jpeg",
+    "category": "health"
   },
   {
     "title": "Teton Valley Brands",
@@ -95,6 +126,16 @@
     "score": 10,
     "reason": "The article is directly about the return and new flavor of potato chips, fitting the highest relevance category.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlb5_ThieALyq6fwyREqcZQE-PMGb8G1MPi2E0lzo8E1GBz4dsQmasHAYyMyG-ixgMloDO7c4rRttZ3omiDYsV0DvX0YDlUkkS9Yjo47uHxZGO&s",
+    "category": "new_flavors"
+  },
+  {
+    "title": "What to know about Lay's Thanksgiving potato chips",
+    "url": "https://www.yahoo.com/lifestyle/articles/know-lays-thanksgiving-potato-chips-183023142.html",
+    "snippet": "La DoubleJ founder is releasing a new coffee-table book celebrating the art of Italian hospitality and showcasing her colorful tablescapes. Sage is the ultimate autumn herb and bursts with complexity, ...",
+    "published_at": "2026-10-21T11:30:00Z",
+    "score": 10,
+    "reason": "The title is directly about Lay's potato chips (new seasonal flavors/brand news), which falls into the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/3834d1673855ec770bbc4eca73655949801b883972fbd2522bf151709b81c478/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftimes-telegram%2F9c233f40ae5516eeb5793b6d839df106.jpg",
     "category": "new_flavors"
   },
   {
@@ -334,6 +375,16 @@
     "reason": "The article is directly about a specific potato chip brand and its product being featured in media, which falls under the 'brand news' category for a chip-specific website.",
     "image_url": "https://myfox28columbus.com/resources/media2/16x9/1536/1320/196x26/90/04b32e8b-c21a-4a2a-ac28-010b0ee52929-aae78356ae7c4ff8b3a2c56a95ebb1b0.png",
     "category": "oddities"
+  },
+  {
+    "title": "If you love Doritos you have to try this new flavor coming soon",
+    "url": "https://www.newsobserver.com/news/business/article317634340.html",
+    "snippet": "Doritos has something for you to look forward to in 2027. Yep, a new flavor of the crunchy triangular chips is expected to hit especially hard in Atlanta.",
+    "published_at": "2026-10-15T02:27:00Z",
+    "score": 10,
+    "reason": "The article is directly about a new flavor announcement for Doritos, which falls under brand news and new flavors for chips.",
+    "image_url": "https://www.mcclatchy-wires.com/public/incoming/4bmjv5/picture317634236/alternates/LANDSCAPE_1200/e7641e26-1fd8-4028-86dd-bb9d9913724a",
+    "category": "new_flavors"
   },
   {
     "title": "Lotte Mart Launches \"Haitai Saengsaeng Potato Chips, Gamja-jeon Flavor\"",
@@ -802,6 +853,17 @@
     "score": 10,
     "reason": "The article is directly about the availability and promotion of a specific brand of potato chips, which fits the highest relevance category.",
     "image_url": "https://www.moneydigest.sg/wp-content/uploads/2026/09/Unknown-345.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Your Favorite Dipping Sauce Is Now A Chip Flavor - Sporked",
+    "url": "https://sporked.com/article/utz-new-fall-snacks/",
+    "snippet": "",
+    "published_at": "2026-09-23T07:00:00Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The title directly announces a new flavor for chips, which is a primary topic of interest for a potato chip/crisp news website.",
+    "image_url": "https://sporked.com/wp-content/uploads/2022/08/ALDI-CHICKEN-SAUCES-KIT-NEWS_JESSICA-BLOCK_SPORKED_HEADER.jpg",
     "category": "new_flavors"
   },
   {

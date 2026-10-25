@@ -225,5 +225,13 @@
     "event_url": "https://en.wikipedia.org/wiki/October_26",
     "image_url": "https://www.instacart.com/image-server/600x/www.instacart.com/assets/domains/product-image/file/large_072c2c68-900c-458f-80ad-58bae2563f83.png",
     "item_name": "Celery Root"
+  },
+  {
+    "date": "2026-10-27",
+    "description": "Today's pick is Sesame Oil, drawn from the culinary traditions of Taiwan.",
+    "event_name": "Culinary traditions (Taiwan)",
+    "event_url": "USDA",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR1gCIuaGlf7F88g2wSzL1pQvl2_26nKGZqTtyrv1QxQlV8U7GgraXAqTzAVe_UyoXMOT1GWenPcDauzWobZtrFPIAtABVjUKY7fXOA283sfhQjpHMfjvP9dA",
+    "item_name": "Sesame Oil"
   }
 ]
