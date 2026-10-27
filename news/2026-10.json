@@ -1,5 +1,27 @@
 [
   {
+    "title": "This Is The Hands-Down Best Bag Of Fritos Sitting On Shelves Right Now - The Takeout",
+    "url": "https://www.thetakeout.com/2294909/best-flavor-fritos-on-shelves/",
+    "snippet": "",
+    "published_at": "2026-10-27T02:00:00Z",
+    "source": "The Takeout",
+    "score": 8,
+    "reason": "The article is a product review for Fritos. Since Fritos are corn chips, they fall into the 7-8 category of closely related snack foods that are a kind of chip.",
+    "image_url": "https://www.thetakeout.com/img/gallery/this-is-the-hands-down-best-bag-of-fritos-sitting-on-shelves-right-now/l-intro-1792705682.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Consumer Council tests 77 crispy snacks - Only 7 products came out safe",
+    "url": "https://www.thestandard.com.hk/wellness/article/346437/Consumer-Council-tests-77-crispy-snacks-Only-7-products-came-out-safe",
+    "snippet": "Crispy, delicious potato chips and fries are deeply loved by everyone, but they carry hidden health concerns.",
+    "published_at": "2026-10-26T05:00:08Z",
+    "source": "The Standard (HK)",
+    "score": 9,
+    "reason": "The snippet explicitly mentions potato chips as the subject of the safety testing, making it directly relevant to a chip-focused website. The content falls under 'reviews' or safety news for the category.",
+    "image_url": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/a47ae1d80b06c17e875e21e2b1352f11/2026-10/mustafa-bashari-S4PC4SeKwKg-unsplash.jpg",
+    "category": "recalls_safety"
+  },
+  {
     "title": "Lay’s Wants Us to Eat Thanksgiving Dinner by the Handful, so I Tried the New Chips",
     "url": "https://www.today.com/food/snacks/lays-thanksgiving-potato-chips-holiday-flavors-review-taste-test-rcna605272",
     "snippet": "",
@@ -20,6 +42,16 @@
     "reason": "The article is a direct review and feature of specific flavors from Popchips, a well-known chip brand, making it highly relevant to a potato chip/crisp news site.",
     "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/nypcompsite9.jpg?quality=75&strip=all&w=1200",
     "category": "reviews"
+  },
+  {
+    "title": "The 'Inconvenient Uneconomics' of Potato Chips and Chocolate: Why 'Light Snacks' Rapidly Lose Their Satisfaction",
+    "url": "https://note.com/lithe_borage6027/n/nbae98724c408?hl=en",
+    "snippet": "Not Filling'When feeling a bit hungry, many people reach for potato chips or chocolate as a quick fix. However, what follows immediately after or a short while later is not 'satisfaction,' but rather ...",
+    "published_at": "2026-10-23T15:08:00Z",
+    "score": 7,
+    "reason": "The article directly discusses the economics and consumer satisfaction of potato chips. According to the rules, mentioning 'chips' in a food context requires a score of 7 or higher.",
+    "image_url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/ec3766cd42c12ade36bb48819766ea708e576ba8.png",
+    "category": "health"
   },
   {
     "title": "Leftovers: Lays gives thanks with holiday flavors | Dogfish Head brews ‘ancient’ beer - Food Dive",
@@ -52,6 +84,16 @@
     "reason": "The title explicitly mentions 'potato chips' in a food context, which triggers the rule for a 7+ score. It is highly relevant to snack enthusiasts.",
     "image_url": "https://s.yimg.com/lo/mysterio/api/b75f8135ff8139757cb0489917867d69377b20b633716a58e886c1c491ed972d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftasting_table_543%2F968caf3d009f8393473c828257db82cc.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "Exclusive: Machine Gun Kelly-backed protein chip maker Wilde raises $40M - Axios",
+    "url": "https://www.axios.com/pro/retail-deals/2026/10/22/machine-gun-kelly-wilde-protein-chips-40-million",
+    "snippet": "",
+    "published_at": "2026-10-22T14:41:56Z",
+    "source": "Axios",
+    "score": 8,
+    "reason": "The article is about a company that produces protein chips, which falls under the category of closely related snack foods and chip brand business news.",
+    "category": "business"
   },
   {
     "title": "Lay's to release new Thanksgiving-inspired chip flavors - Sioux City Journal",
@@ -202,6 +244,17 @@
     "score": 10,
     "reason": "The article is directly about a new flavor of potato chips (Lays), which falls into the highest relevance category.",
     "image_url": "https://www.wishtv.com/wp-content/uploads/2026/10/20/HOLI-LAYS.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Lays brings ‘Holi-LAY’S’ to the table - KIRO 7 News Seattle",
+    "url": "https://www.kiro7.com/news/trending/lays-brings-holi-lays-table/K22HKBZ3VFDFXM36JA6H6NEWAQ/",
+    "snippet": "",
+    "published_at": "2026-10-20T13:43:31Z",
+    "source": "KIRO 7 News Seattle",
+    "score": 10,
+    "reason": "The article is about a new flavor launch from Lays, a major potato chip brand, which falls directly under brand news and new flavors.",
+    "image_url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FVRGVZEP5LZFBNM3DQD2ELZU3P4.jpg?auth=11d8062eb1feafcfe2a54c77968d30d22e1971490fc3c4ce53764fc11cc02f25&width=1200&height=630&smart=true",
     "category": "new_flavors"
   },
   {
@@ -897,6 +950,17 @@
     "reason": "The article is directly about a potato chip recall, which is explicitly listed as a top-tier relevance category.",
     "image_url": "https://www.rd.com/wp-content/uploads/2026/09/GettyImages-586123920-scaled.jpg",
     "category": "recalls_safety"
+  },
+  {
+    "title": "6 of the tastiest Lay’s chips to bring home from France - FavorFlav.com",
+    "url": "https://favorflav.com/en/new/6-of-the-tastiest-lays-chips-to-bring-home-from-france/",
+    "snippet": "",
+    "published_at": "2026-09-17T23:56:20Z",
+    "source": "FavorFlav.com",
+    "score": 10,
+    "reason": "The article is a direct review/recommendation of specific Lay's potato chip flavors, which falls under the highest relevance category.",
+    "image_url": "https://favorflav.com/images/Lays-chips.jpg",
+    "category": "reviews"
   },
   {
     "title": "Kettle Chips launches brand-new Christmas flavour and it's in stores next week - The Sun",
