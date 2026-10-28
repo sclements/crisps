@@ -1,5 +1,27 @@
 [
   {
+    "title": "Australian supermarket potato chips taste test: the winner is ‘good enough to replace human company’",
+    "url": "https://www.theguardian.com/food/2024/jan/18/australian-supermarket-potato-chips-taste-test-the-winner-is-good-enough-to-replace-human-company",
+    "snippet": "After sampling 35 packets of crisps, Nicholas Jordan has been through the thick and the thinly sliced.",
+    "published_at": "2026-10-28T09:01:09Z",
+    "source": "The Guardian",
+    "score": 10,
+    "reason": "The article is a direct review/taste test of potato chips, which fits the highest relevance category.",
+    "image_url": "https://i.guim.co.uk/img/media/6da1142600cb3e827706020b425192e63e4bebc0/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=78f6b4f63f7cf15924c9c1ef24073ad7",
+    "category": "reviews"
+  },
+  {
+    "title": "Former Wachusett Potato Chip factory in Fitchburg is closing, cutting 62 jobs",
+    "url": "https://www.boston.com/news/business/2026/10/27/former-wachusett-potato-chip-factory-in-fitchburg-is-closing-cutting-62-jobs/",
+    "snippet": "A Fitchburg factory, once home to Wachusett Potato Chip Co., will close permanently, putting 62 employees out of work by mid-December.",
+    "published_at": "2026-10-27T20:00:11Z",
+    "source": "Boston.com",
+    "score": 9,
+    "reason": "The article is directly about brand news involving a potato chip manufacturer.",
+    "image_url": "https://bdc2020.o0bc.com/wp-content/uploads/2026/10/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2014_07_17_BostonGlobe.com_Regional_Advance_Images_Georges05-19558-6ae0f74dd6684-768x432.jpg",
+    "category": "business"
+  },
+  {
     "title": "This Is The Hands-Down Best Bag Of Fritos Sitting On Shelves Right Now - The Takeout",
     "url": "https://www.thetakeout.com/2294909/best-flavor-fritos-on-shelves/",
     "snippet": "",
@@ -9,6 +31,17 @@
     "reason": "The article is a product review for Fritos. Since Fritos are corn chips, they fall into the 7-8 category of closely related snack foods that are a kind of chip.",
     "image_url": "https://www.thetakeout.com/img/gallery/this-is-the-hands-down-best-bag-of-fritos-sitting-on-shelves-right-now/l-intro-1792705682.jpg",
     "category": "reviews"
+  },
+  {
+    "title": "How curiosity drove a line operator to change PepsiCo’s potato chip production",
+    "url": "https://www.pepsico.com/newsroom/stories/2026/a-unique-flavor-how-curiosity-drove-a-line-operator-to-change-pepsicos-potato-chip-production",
+    "snippet": "With a unique flavor of curiosity, persistence and belief in better, Felix Stan turned everyday observations on the factory floor into...",
+    "published_at": "2026-10-26T09:00:10Z",
+    "source": "PepsiCo",
+    "score": 9,
+    "reason": "The article is directly about the manufacturing and production of potato chips for a major brand (PepsiCo).",
+    "image_url": "https://digitalassets.pepsico.com/transform/f206af6c-b4af-4caa-a111-6662bc86f913/felix-stan-pepsico-1",
+    "category": "oddities"
   },
   {
     "title": "Consumer Council tests 77 crispy snacks - Only 7 products came out safe",
