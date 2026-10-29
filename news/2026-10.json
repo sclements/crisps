@@ -1,5 +1,26 @@
 [
   {
+    "title": "What's the healthiest packet of crisps? Why Walker's can keep you trim - Daily Mail",
+    "url": "https://www.dailymail.com/health/article-16241891/which-crisp-healthiest-walkers-kettle-chips-popped.html",
+    "snippet": "",
+    "published_at": "2026-10-28T10:30:46Z",
+    "source": "Daily Mail",
+    "score": 10,
+    "reason": "The article is directly about potato chips (crisps) and discusses a specific well-known brand (Walker's), making it highly relevant to a chip-focused website.",
+    "category": "reviews"
+  },
+  {
+    "title": "Are Lay’s, Royce and Calbee onto something with chocolate-dipped crisps?",
+    "url": "https://www.bakeryandsnacks.com/Article/2026/10/28/lays-royce-and-calbee-explore-chocolate-crisps-potential/",
+    "snippet": "Chocolate crisps keep returning. Explore how Lay's, Royce and Calbee combine seasonal demand, premium positioning and texture to stretch the...",
+    "published_at": "2026-10-28T09:15:03Z",
+    "source": "BakeryAndSnacks.com",
+    "score": 9,
+    "reason": "The article is directly about flavor innovation and brand news involving major chip manufacturers (Lay's, Calbee), which falls under the top tier of relevance.",
+    "image_url": "https://www.bakeryandsnacks.com/resizer/v2/TLPQSVFZPBCJFH24G3XJGB2MJA.jpg?auth=e278752c5b86596f5f6155d0c825749b94cbceb798385b97dfbf86a3993f7cf2&width=1200&height=630&smart=true",
+    "category": "new_flavors"
+  },
+  {
     "title": "Australian supermarket potato chips taste test: the winner is ‘good enough to replace human company’",
     "url": "https://www.theguardian.com/food/2024/jan/18/australian-supermarket-potato-chips-taste-test-the-winner-is-good-enough-to-replace-human-company",
     "snippet": "After sampling 35 packets of crisps, Nicholas Jordan has been through the thick and the thinly sliced.",
@@ -461,6 +482,17 @@
     "reason": "The article is directly about a specific potato chip brand and its product being featured in media, which falls under the 'brand news' category for a chip-specific website.",
     "image_url": "https://myfox28columbus.com/resources/media2/16x9/1536/1320/196x26/90/04b32e8b-c21a-4a2a-ac28-010b0ee52929-aae78356ae7c4ff8b3a2c56a95ebb1b0.png",
     "category": "oddities"
+  },
+  {
+    "title": "If you love Doritos you have to try this new flavor coming soon - azcentral.com and The Arizona Republic",
+    "url": "http://www.azcentral.com/story/money/food/2026/10/15/doritos-new-flavor-lemon-pepper-chips-2027/92238666007/",
+    "snippet": "",
+    "published_at": "2026-10-15T12:01:00Z",
+    "source": "azcentral.com and The Arizona Republic",
+    "score": 8,
+    "reason": "The article is about a new flavor of Doritos. Since Doritos are tortilla chips, it falls into the 7-8 category for closely related snack foods.",
+    "image_url": "https://www.azcentral.com/gcdn/authoring/authoring-images/2026/10/15/USAT/92261171007-20241108-t-175850-z-1364242949-rc-251-ba-9-w-5-vm-rtrmadp-3-pepsicoresults.JPG?crop=3499,1968,x0,y182&width=3200&height=1800&format=pjpg&auto=webp",
+    "category": "new_flavors"
   },
   {
     "title": "If you love Doritos you have to try this new flavor coming soon",

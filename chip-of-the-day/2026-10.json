@@ -257,5 +257,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToNO3RkFlsruxtJHPAjoP2TTIJlxAFvxLCtjmfA1R9_DOf8bIqb2UaLGpmBuLVpkZSZQ092lMrDPUKaJmb5OMUE2qXn7gPOv1mnrSejPda",
     "item_name": "Honey Dijon"
+  },
+  {
+    "date": "2026-10-31",
+    "description": "Today's pick is Salt Carolina, drawn from the culinary traditions of Italy.",
+    "event_name": "Culinary traditions (Italy)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8PHeEueuNlV36INHlmBL-snk-KqUhjaec8wzKUQqQGrOd4DY9gKBFyyJoZ5nP00UF5A2PWXZZcCY8RNgTDbv7XaPIN8oOnmdt2KZeS1AjepXCcd32gWwlxA",
+    "item_name": "Salt Carolina"
   }
 ]
