@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Why Are American Chips So Boring?",
+    "url": "https://www.eater.com/23053238/potato-chip-flavors-america-international",
+    "snippet": "International chips come in flavors like hot pot and poulet roti. But in America, we have basic flavors like sour cream and onion and...",
+    "published_at": "2026-11-01T09:14:02Z",
+    "source": "Eater",
+    "score": 9,
+    "reason": "The article is directly about the variety and flavor profiles of potato chips, which falls under the highest relevance category for a chip-focused website.",
+    "image_url": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23432536/chips.jpeg?quality=90&strip=all&crop=0%2C6.369982547993%2C100%2C87.260034904014&w=1200",
+    "category": "business"
+  },
+  {
+    "title": "Trader Joe's Sea Salt & Vinegar Potato Chips Vs Kettle Chips: Which Is Better?",
+    "url": "https://www.thetakeout.com/2302725/trader-joes-sea-salt-vinegar-chips-vs-kettle-review/",
+    "snippet": "Kettle Chips are one of the most popular chips around, but can Trader Joe's produce a better sea salt and vinegar chip?",
+    "published_at": "2026-10-31T13:13:38Z",
+    "source": "The Takeout",
+    "score": 10,
+    "reason": "The article is a direct comparison and review of specific potato chip products, falling directly into the highest relevance category.",
+    "image_url": "https://www.thetakeout.com/img/gallery/trader-joes-sea-salt-vinegar-potato-chips-vs-kettle-chips-which-is-better/l-intro-1793384504.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Pringles set to make 'first-ever' change ahead of Christmas with new feature",
+    "url": "https://uk.news.yahoo.com/pringles-set-first-ever-change-154000861.html",
+    "snippet": "Shoppers will be able to look for personalised Pringles tubes in shops ahead of Christmas this year, with various popular names available ...",
+    "published_at": "2026-10-30T08:40:00Z",
+    "score": 10,
+    "reason": "The article is direct brand news concerning Pringles, a major potato chip brand, regarding a new product feature.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/d1038f9d5cdbed97fcf404e6f0f908086c55a5a70ed0c16ae3e149ebdac4413d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fworcester_news_431%2Fbcf07744453f29c74ca130af970a7b8c.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "I made chips flavored with 5-year-old culatello",
+    "url": "https://www.msn.com/en-us/news/other/i-made-chips-flavored-with-5-year-old-culatello/vi-AA2gn3fO",
+    "snippet": "The video shows making a culatello seasoning from a 5‑year‑old culatello, then using that seasoning to create culatello‑flavored homemade potato chips. Crispy Homemade Potato Chips: - Peel and wash ...",
+    "published_at": "2026-10-29T14:00:00Z",
+    "score": 9,
+    "reason": "The article is directly about the creation of potato chips (specifically a unique flavor/recipe), which falls under 'new flavors' and content directly about potato chips.",
+    "category": "oddities"
+  },
+  {
+    "title": "What does the Calbee potato chips I bought in Mexico taste like...",
+    "url": "https://note.com/shiisoh614/n/n561cd95a9fca?hl=en",
+    "snippet": "Even here in Mexico, you can buy Japanese products at the supermarket.At regular supermarkets, I often see Koala's March, Almond Chocolate, and Choco Pie. (Wait, are those all Morinaga?)Since they are ...",
+    "published_at": "2026-10-28T11:40:00Z",
+    "score": 10,
+    "reason": "The article is a direct review/tasting of Calbee potato chips, which falls into the highest category for relevance.",
+    "image_url": "https://assets.st-note.com/production/uploads/images/329632175/rectangle_large_type_2_413ac5f8b01b9b4c004f20ff63c203ca.png?fit=bounds&quality=85&width=1280",
+    "category": "reviews"
+  }
+]
