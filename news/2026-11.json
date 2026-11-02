@@ -1,5 +1,38 @@
 [
   {
+    "title": "How melted nylon additive keeps plantain chips crunchy - Vanguard News",
+    "url": "https://www.vanguardngr.com/2026/11/how-melted-nylon-additive-keeps-plantain-chips-crunchy/",
+    "snippet": "",
+    "published_at": "2026-11-02T05:02:59Z",
+    "source": "Vanguard News",
+    "score": 7,
+    "reason": "The article is about plantain chips, which are closely related snack foods that fall under the 'chips/crisps' category.",
+    "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Plantain-chips.jpg",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "I Tried Trader Joe’s Thanksgiving Stuffing-Flavored Popcorn and Kettle Chips—Here’s My Verdict - Yahoo",
+    "url": "https://www.yahoo.com/lifestyle/articles/tried-trader-joe-thanksgiving-stuffing-200000931.html",
+    "snippet": "",
+    "published_at": "2026-11-01T20:00:00Z",
+    "source": "Yahoo",
+    "score": 9,
+    "reason": "The article is a direct review of kettle chips, which falls under the highest relevance category for a potato chip website.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/fb663f0cfc80ebad81b705967e2f3072663fa878eb4ae63b2791ed9181dbf422/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmartha_stewart_living_393%2Fcce1c5cf192bc55386c573d63da2d620.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "In 1980, Steve Bernard began frying potato chips in a small Cape Cod shop; 19 years later, he sold the company to Lance Inc. for an estimated $30 million",
+    "url": "https://parade.com/food/in-1980-steve-bernard-began-frying-potato-chips-in-a-small-cape-cod-shop-19-years-later-he-sold-the-company-to-lance-inc-for-an-estimated-30-million",
+    "snippet": "Steve Bernard founded Cape Cod Potato Chips in 1980, turning a small Massachusetts shop into a national brand before selling it to Lance in...",
+    "published_at": "2026-11-01T18:00:32Z",
+    "source": "Parade Magazine",
+    "score": 9,
+    "reason": "The article is brand news regarding a specific potato chip company (Cape Cod Potato Chips), which falls directly into the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJjtv6ErAutyhRUztrCtOpRLQfLZm01_SSzxpBgvH7wf09nd9yTDkXx2_IVPax85wJGGcWrZlxpXBd1Uvqjm89WIjv6VJh7jcUmGrGmxjafDM&s",
+    "category": "business"
+  },
+  {
     "title": "Why Are American Chips So Boring?",
     "url": "https://www.eater.com/23053238/potato-chip-flavors-america-international",
     "snippet": "International chips come in flavors like hot pot and poulet roti. But in America, we have basic flavors like sour cream and onion and...",
@@ -30,6 +63,17 @@
     "reason": "The article is direct brand news concerning Pringles, a major potato chip brand, regarding a new product feature.",
     "image_url": "https://s.yimg.com/lo/mysterio/api/d1038f9d5cdbed97fcf404e6f0f908086c55a5a70ed0c16ae3e149ebdac4413d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fworcester_news_431%2Fbcf07744453f29c74ca130af970a7b8c.jpg",
     "category": "new_flavors"
+  },
+  {
+    "title": "Sabak Bernam couple’s chips bring new hope - The Star",
+    "url": "https://www.thestar.com.my/metro/metro-news/2026/10/30/sabak-bernam-couples-chips-bring-new-hope",
+    "snippet": "",
+    "published_at": "2026-10-30T00:00:46Z",
+    "source": "The Star",
+    "score": 9,
+    "reason": "The title directly mentions 'chips' in a food context, indicating the article is about a specific chip brand/product being launched or highlighted.",
+    "image_url": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4187109.JPG",
+    "category": "business"
   },
   {
     "title": "I made chips flavored with 5-year-old culatello",

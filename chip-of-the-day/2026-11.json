@@ -25,5 +25,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTvD6_S9pruWw646hrcLjj9w-t-rpRtDeOkImSaN0JkW8qVFwxGJYKC3jqLRvf4ZJ9pdnTTWEDHjxRA-u9ykpf7THWdlzWKGd-vf73Sm8OZ3gSz69mGfBYYWQ",
     "item_name": "Spicy Za'atar"
+  },
+  {
+    "date": "2026-11-04",
+    "description": "Today's pick is Onion Sumac, drawn from the culinary traditions of Jordan.",
+    "event_name": "Culinary traditions (Jordan)",
+    "event_url": "USDA",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTP7oaTI9LAn1k5YgS9PjUwmIa4dhX-lxHngRhg-uUJwIMx2LmmJtFJNW7fXVU35BXs-yBIbGW7jT-g1DSlY6030A4Eoiolyq8UF_CVMuDiTW7FcaoW3ndG",
+    "item_name": "Onion Sumac"
   }
 ]
