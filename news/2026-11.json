@@ -1,5 +1,16 @@
 [
   {
+    "title": "Babe, wake up! New potato just dropped . It tastes like roast chicken.",
+    "url": "https://kottke.org/26/11/0049919-new-potato-just-dropped",
+    "snippet": "Row 7 has been an OG for a long time. Long live their purple roma tomatoes, which I grow every year. Their snow peas and lettuce blends are...",
+    "published_at": "2026-11-02T16:03:44Z",
+    "source": "Kottke.org",
+    "score": 9,
+    "reason": "The title uses slang ('just dropped') and flavor descriptions ('tastes like roast chicken') typical of new snack/chip product announcements, making it directly relevant to a potato chip news site.",
+    "image_url": "https://kottke.org/26/11/0049919-new-potato-just-dropped/",
+    "category": "reviews"
+  },
+  {
     "title": "How melted nylon additive keeps plantain chips crunchy - Vanguard News",
     "url": "https://www.vanguardngr.com/2026/11/how-melted-nylon-additive-keeps-plantain-chips-crunchy/",
     "snippet": "",
@@ -9,6 +20,15 @@
     "reason": "The article is about plantain chips, which are closely related snack foods that fall under the 'chips/crisps' category.",
     "image_url": "https://cdn.vanguardngr.com/wp-content/uploads/2026/11/Plantain-chips.jpg",
     "category": "recalls_safety"
+  },
+  {
+    "title": "How many of these 6 discontinued potato chip flavors do you remember?",
+    "url": "https://www.msn.com/en-us/news/other/how-many-of-these-6-discontinued-potato-chip-flavors-do-you-remember/ar-AA2gArb8",
+    "snippet": "Potato chips have been around for a long time. The first written recipe appeared in 1817. Since then, brands have tried thousands of seasonings, and plenty of them quietly disappeared. Some flavors ...",
+    "published_at": "2026-11-02T03:15:26Z",
+    "score": 10,
+    "reason": "The article is directly about potato chip flavors, which falls under the highest relevance category for a dedicated potato chip website.",
+    "category": "oddities"
   },
   {
     "title": "I Tried Trader Joe’s Thanksgiving Stuffing-Flavored Popcorn and Kettle Chips—Here’s My Verdict - Yahoo",
@@ -92,6 +112,15 @@
     "score": 10,
     "reason": "The article is a direct review/tasting of Calbee potato chips, which falls into the highest category for relevance.",
     "image_url": "https://assets.st-note.com/production/uploads/images/329632175/rectangle_large_type_2_413ac5f8b01b9b4c004f20ff63c203ca.png?fit=bounds&quality=85&width=1280",
+    "category": "reviews"
+  },
+  {
+    "title": "The great potato chip bracket: Classic vs. kettle cooked",
+    "url": "https://www.msn.com/en-us/news/other/the-great-potato-chip-bracket-classic-vs-kettle-cooked/ar-AA2fAJaO",
+    "snippet": "Settling the score comes down to evaluating top national brands across three crucial sensory metrics: crunch decibels, grease residue, and salt balance. Here is how the battle unfolds.",
+    "published_at": "2026-10-19T08:48:07Z",
+    "score": 10,
+    "reason": "The article is a direct review and comparison of potato chip varieties, which falls squarely into the highest relevance category for a dedicated chip website.",
     "category": "reviews"
   }
 ]
