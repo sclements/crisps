@@ -1,5 +1,27 @@
 [
   {
+    "title": "Taste Testing The New Lays Chips Thanksgiving Flavors – KOLR",
+    "url": "https://www.ozarksfirst.com/video/taste-testing-the-new-lays-chips-thanksgiving-flavors/12332071/",
+    "snippet": "The latest videos from KOLR - OzarksFirst.com.",
+    "published_at": "2026-11-03T13:26:46Z",
+    "source": "OzarksFirst.com",
+    "score": 10,
+    "reason": "The article is a direct review/taste test of new potato chip flavors from a major brand (Lay's).",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP3j9Gl-ewH2YrFtrvQmKvPOcxhgmdhq9V6xneRtFHiWDHeDXnC04LHWEDfZMLDU8scklhyNCr0hoV7iiGSdkgicUgQPIm6eVCDQ7hoVAUaQu3&s",
+    "category": "reviews"
+  },
+  {
+    "title": "6 Popular Snacks Consumer Reports Flagged for Lead and Cadmium",
+    "url": "https://www.eatthis.com/snacks-heavy-metals-consumer-reports/",
+    "snippet": "Snacks with heavy metals: Consumer Reports flagged lead in cassava chips and crackers, plus cadmium in one seaweed snack.",
+    "published_at": "2026-11-03T11:11:16Z",
+    "source": "Eat This Not That",
+    "score": 8,
+    "reason": "The article mentions 'cassava chips,' which fall under the category of veggie chips. According to the rules, mentioning 'chips' in a food context requires a score of 7 or higher.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_0QzNISuDNpuCiFpXbiF02e_7BpqVPXZEkvbpXsf9e154kB8LJPk08tPbFXxhK30NDfTSjVctpoKcwDdpZNyH-kSELJfmgBDrJbiQvHiUSU&s",
+    "category": "recalls_safety"
+  },
+  {
     "title": "Babe, wake up! New potato just dropped . It tastes like roast chicken.",
     "url": "https://kottke.org/26/11/0049919-new-potato-just-dropped",
     "snippet": "Row 7 has been an OG for a long time. Long live their purple roma tomatoes, which I grow every year. Their snow peas and lettuce blends are...",
@@ -122,5 +144,16 @@
     "score": 10,
     "reason": "The article is a direct review and comparison of potato chip varieties, which falls squarely into the highest relevance category for a dedicated chip website.",
     "category": "reviews"
+  },
+  {
+    "title": "Baker City potato chip project progressing - East Oregonian",
+    "url": "https://eastoregonian.com/2026/09/26/baker-city-potato-chip-project-progressing/",
+    "snippet": "",
+    "published_at": "2026-09-26T07:00:00Z",
+    "source": "East Oregonian",
+    "score": 10,
+    "reason": "The title directly refers to a 'potato chip project', making it highly relevant to a potato chip news website.",
+    "image_url": "https://eastoregonian.com/wp-content/uploads/sites/7/2026/09/20230620_091529.jpg",
+    "category": "business"
   }
 ]
