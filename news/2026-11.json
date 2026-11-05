@@ -1,5 +1,49 @@
 [
   {
+    "title": "Azerbaijan to impose AZN 1 excise tax per kilogram of chips",
+    "url": "https://en.apa.az/energy-and-industry/azerbaijan-to-impose-azn-1-excise-tax-per-kilogram-of-chips-534174",
+    "snippet": "Chips will be classified as excisable goods in Azerbaijan, with an excise tax of AZN 1 imposed per kilogram, APA reports.",
+    "published_at": "2026-11-05T07:01:16Z",
+    "source": "Apa.az",
+    "score": 8,
+    "reason": "The article is about industry business news (an excise tax) specifically targeting the chip category, which falls into the 7-8 range according to the rule for industry business.",
+    "image_url": "https://en.apa.az/storage/news/2026/november/05/big/6aec2fc411c556aec2fc411c5617938636206aec2fc411c536aec2fc411c54.jpg",
+    "category": "business"
+  },
+  {
+    "title": "[Taste Test] Sweet at First Bite, Rich Cheese Flavor... Pocachip's Transformation",
+    "url": "https://www.asiae.co.kr/en/article/2026110314324706121",
+    "snippet": "The moment I opened the bag, the strong aroma of cheese seasoning hit my nose. The cheesy scent made its presence felt before the...",
+    "published_at": "2026-11-04T21:01:03Z",
+    "source": "아시아경제",
+    "score": 10,
+    "reason": "The article is a direct taste test/review of a specific chip brand (Pocachip), which falls under the highest relevance category.",
+    "image_url": "https://cphoto.asiae.co.kr/listimglink/1/2026110314274784894_1793683667.png",
+    "category": "reviews"
+  },
+  {
+    "title": "The One Crunchy Snack Dietitians Recommend for Brain, Heart, and Gut Health",
+    "url": "https://sg.news.yahoo.com/one-crunchy-snack-dietitians-recommend-175108546.html",
+    "snippet": "Roasted chickpeas are a smart swap for chips or pretzels if you want the same salty crunch with more nutritional value.",
+    "published_at": "2026-11-04T18:01:14Z",
+    "source": "Yahoo News Singapore",
+    "score": 7,
+    "reason": "The snippet explicitly mentions 'chips' as the product being compared to chickpeas. According to the rules, mentioning 'chips' in a food context requires a score of 7 or higher.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/22b815663f1d9e74c5381c7eacd473bc0770bf32e64833eb6462a1547d9f9260/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freal_simple_700%2F64acbe35a4f3f4180acf4209a343cd98.jpg",
+    "category": "health"
+  },
+  {
+    "title": "25,000 Bags of Kale and Veggie Chips Recalled Over Toxic Metal That Can Cause Nerve Damage and Hair Loss",
+    "url": "https://www.yahoo.com/news/science/articles/25-000-bags-kale-veggie-130000393.html",
+    "snippet": "Around 25000 bags of Brad's Plant Based kale and veggie chips are being recalled nationwide over concerns that they may contain thallium,...",
+    "published_at": "2026-11-04T13:01:00Z",
+    "source": "Yahoo",
+    "score": 8,
+    "reason": "The article is about a recall of veggie chips, which falls under the 7-8 category for closely related chip/crisp snacks.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/fd624346f6cd45b46b7e0133fa7279531a5d8f82f0872ccc7d456ae87dc980a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstudent_recipes_947%2F1fdb245356256ba82436174d1921a635.jpg",
+    "category": "recalls_safety"
+  },
+  {
     "title": "Taste Testing The New Lays Chips Thanksgiving Flavors – KOLR",
     "url": "https://www.ozarksfirst.com/video/taste-testing-the-new-lays-chips-thanksgiving-flavors/12332071/",
     "snippet": "The latest videos from KOLR - OzarksFirst.com.",
