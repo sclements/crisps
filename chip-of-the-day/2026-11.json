@@ -57,5 +57,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRidbSAzHJr1jH4r4EXkXO3ysEgbFQ6JdkslhAw1g2cYh_Fwxb_Ro23iV-3EFcB8ipbx_AIG9sZdSjiX5m71lrL-9Nxf5ISlijgMHQDJEZHQV7vIJKbk01C",
     "item_name": "Hot Honey"
+  },
+  {
+    "date": "2026-11-08",
+    "description": "Today's pick is Hickory, drawn from the culinary traditions of Maldives.",
+    "event_name": "Culinary traditions (Maldives)",
+    "event_url": "USDA Cache",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTT-o1fyIWPmz_ztQ1Ol6i2Sc4DlG35EEvg2CEWttuNFdVTv14V1zsJI1_WBbCfZssS7oKUY6tvI4uViwDV4Q34ZNcrA2gxIGWYbZa3unGcOfdB80K-d1a4Pw",
+    "item_name": "Hickory"
   }
 ]
