@@ -1,5 +1,27 @@
 [
   {
+    "title": "The owner of St. Bruno Bread is launching a new brand to debut in Baton Rouge grocery stores",
+    "url": "https://www.theadvocate.com/baton_rouge/entertainment_life/food_restaurants/capital-city-chips-baton-rouge-food-news/article_d9dfdcf6-ef80-4284-8a4f-7605274057a4.html",
+    "snippet": "The idea for Capital City Chips Co. was born at a Fourth of July party in 2025, and now its debuting in Baton Rouge grocery stores on...",
+    "published_at": "2026-11-06T20:04:02Z",
+    "source": "The Advocate",
+    "score": 9,
+    "reason": "The article is about the launch of a new brand specifically named 'Capital City Chips Co.', making it direct news about chip brands.",
+    "image_url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/3/36/3365d948-aea3-4a8c-81ce-8b7198d07a79/6aee19402ad75.image.jpg?crop=1290%2C678%2C0%2C306&resize=1200%2C631&order=crop%2Cresize",
+    "category": "business"
+  },
+  {
+    "title": "New local chip brand lets snackers munch with less guilt",
+    "url": "https://www.225batonrouge.com/food-drink/news/new-local-chip-brand",
+    "snippet": "Capital City Chip Co., a seed-oil-free kettle chip brand, launches this Saturday at Southside Produce and Calandro's Supermarket.",
+    "published_at": "2026-11-06T09:19:37Z",
+    "source": "225 Magazine",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new chip brand (Capital City Chip Co.), which falls under the 9-10 category for brand news and chip brands.",
+    "image_url": "https://www.225batonrouge.com/wp-content/uploads/2026/11/5ozCaptiolCityGourpShot.TIFF-scaled-e1793917474267.jpg",
+    "category": "health"
+  },
+  {
     "title": "Pringles India: Building a Premium Imported Snack Brand Before Scaling It",
     "url": "https://www.markhub24.com/post/pringles-india-building-a-premium-imported-snack-brand-before-scaling-it",
     "snippet": "Pringles entered India's snacking landscape through a corporate acquisition, not a local launch. Kellogg's bought Pringles from Procter...",
@@ -231,6 +253,17 @@
     "published_at": "2026-10-19T08:48:07Z",
     "score": 10,
     "reason": "The article is a direct review and comparison of potato chip varieties, which falls squarely into the highest relevance category for a dedicated chip website.",
+    "category": "reviews"
+  },
+  {
+    "title": "I Tried Lay’s New Thanksgiving Potato Chips—and One Flavor Won Me Over by the Handful",
+    "url": "https://www.google.com/goto?url=CAESnAEBxCJF15kcTD_Wr-TxodDZhcCq3gDVCtkSOKu9hEZnP_vmX1N8wUMiU-wcizZphUKAxrtET2ZxckK8ROR9YN9DmqG67J-aJ-gGXhZT2tKdKZ7f7tRib_V7x6rfiZds1DObRxxVGxyCSpli3DYHGAEIO16oj7_ckOJn4k_v2jGPXdF-XrR11gqbHXIgcGgFcKyb8wfuQEyqSBR6t1w",
+    "snippet": "The verdict. Cheddar Scalloped-Style Potatoes was the surprise winner: layered with flavors, satisfying, and much more than a basic Cheddar chip...",
+    "published_at": "2026-10-17T09:19:50Z",
+    "source": "Good Housekeeping",
+    "score": 10,
+    "reason": "The article is a direct review of new Lay's potato chip flavors, which falls into the highest relevance category.",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/00705fb0-2fb3-40c1-bca1-9daf3ae548b1.jpg?crop=0.889xw:1xh;0.096xw,0xh&resize=1200:*",
     "category": "reviews"
   },
   {

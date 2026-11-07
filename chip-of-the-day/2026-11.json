@@ -65,5 +65,18 @@
     "event_url": "USDA Cache",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTT-o1fyIWPmz_ztQ1Ol6i2Sc4DlG35EEvg2CEWttuNFdVTv14V1zsJI1_WBbCfZssS7oKUY6tvI4uViwDV4Q34ZNcrA2gxIGWYbZa3unGcOfdB80K-d1a4Pw",
     "item_name": "Hickory"
+  },
+  {
+    "audience_countries": [
+      "Germany",
+      "Austria",
+      "Switzerland"
+    ],
+    "date": "2026-11-09",
+    "description": "Celebrating the spirit of ingenuity on this Inventors' Day, our Potatoes Mustard chips offer a sharp and clever flavor breakthrough.",
+    "event_name": "Inventors' Day (Germany, Austria, Switzerland)",
+    "event_url": "https://en.wikipedia.org/wiki/November_9",
+    "image_url": "chip-of-the-day/images/2025-12-14.webp",
+    "item_name": "Potatoes Mustard"
   }
 ]
