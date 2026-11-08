@@ -78,5 +78,13 @@
     "event_url": "https://en.wikipedia.org/wiki/November_9",
     "image_url": "chip-of-the-day/images/2025-12-14.webp",
     "item_name": "Potatoes Mustard"
+  },
+  {
+    "date": "2026-11-10",
+    "description": "Today's pick is Sharp, drawn from the culinary traditions of Kosovo.",
+    "event_name": "Culinary traditions (Kosovo)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIQ48VX-09Q6zQv8kE-Y8fHLVb7_gZU6-FNbzoKlhLRPDl_6yOMtoACzp06LZVcNjP_OdsVE4nBlLol7OGngOamzWdy3xq5Q",
+    "item_name": "Sharp"
   }
 ]

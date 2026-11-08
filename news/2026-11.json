@@ -1,5 +1,16 @@
 [
   {
+    "title": "Walkers fans flummoxed by ‘creepy’ new crisp flavour in supermarkets",
+    "url": "https://metro.co.uk/2025/11/21/walkers-fans-flummoxed-creepy-new-crisp-flavour-supermarkets-24768649/",
+    "snippet": "They go on to share that the ingredients include dried tea leaves and rosemary extract but there's no mention of mushrooms, yet somehow the...",
+    "published_at": "2026-11-08T09:01:04Z",
+    "source": "Metro.co.uk",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release from Walkers, a major chip brand, which falls under the highest relevance category.",
+    "image_url": "https://metro.co.uk/wp-content/uploads/2025/11/GettyImages-1250089536-e1763721127729_1763723238.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "category": "reviews"
+  },
+  {
     "title": "The owner of St. Bruno Bread is launching a new brand to debut in Baton Rouge grocery stores",
     "url": "https://www.theadvocate.com/baton_rouge/entertainment_life/food_restaurants/capital-city-chips-baton-rouge-food-news/article_d9dfdcf6-ef80-4284-8a4f-7605274057a4.html",
     "snippet": "The idea for Capital City Chips Co. was born at a Fourth of July party in 2025, and now its debuting in Baton Rouge grocery stores on...",
@@ -9,6 +20,17 @@
     "reason": "The article is about the launch of a new brand specifically named 'Capital City Chips Co.', making it direct news about chip brands.",
     "image_url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/3/36/3365d948-aea3-4a8c-81ce-8b7198d07a79/6aee19402ad75.image.jpg?crop=1290%2C678%2C0%2C306&resize=1200%2C631&order=crop%2Cresize",
     "category": "business"
+  },
+  {
+    "title": "Boy opens a bag of Lay’s Chips, only to find ONE chip: ‘Thanks, Lay’s!’ - We Got This Covered",
+    "url": "https://wegotthiscovered.com/social-media/boy-opens-a-bag-of-lays-chips-only-to-find-one-chip-thanks-lays/",
+    "snippet": "",
+    "published_at": "2026-11-06T12:30:00Z",
+    "source": "We Got This Covered",
+    "score": 9,
+    "reason": "The article is directly about a consumer experience involving Lay's potato chips, which falls under brand-related news.",
+    "image_url": "https://wegotthiscovered.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-145119_1793960127538.jpg",
+    "category": "oddities"
   },
   {
     "title": "New local chip brand lets snackers munch with less guilt",
@@ -97,6 +119,16 @@
     "reason": "The snippet explicitly mentions 'chips' as the product being compared to chickpeas. According to the rules, mentioning 'chips' in a food context requires a score of 7 or higher.",
     "image_url": "https://s.yimg.com/lo/mysterio/api/22b815663f1d9e74c5381c7eacd473bc0770bf32e64833eb6462a1547d9f9260/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freal_simple_700%2F64acbe35a4f3f4180acf4209a343cd98.jpg",
     "category": "health"
+  },
+  {
+    "title": "Nationwide Chips Recall: Company Issues Stop-Eating Alert - DailyVoice.com",
+    "url": "https://dailyvoice.com/article/nationwide-chips-recall-company-issues-stop-eating-alert/",
+    "snippet": "",
+    "published_at": "2026-11-04T14:50:00Z",
+    "source": "DailyVoice.com",
+    "score": 9,
+    "reason": "The article is about a chip recall, which falls directly under the category of relevant news for a potato chip/crisp website.",
+    "category": "recalls_safety"
   },
   {
     "title": "25,000 Bags of Kale and Veggie Chips Recalled Over Toxic Metal That Can Cause Nerve Damage and Hair Loss",
