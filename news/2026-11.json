@@ -1,5 +1,27 @@
 [
   {
+    "title": "Water-Fried Chips, Yogurt Snacks Lead Healthy Trend",
+    "url": "https://www.chosun.com/english/industry-en/2026/11/09/JFQ3COXDHZGOFMJWSO4BIWXDSY/",
+    "snippet": "Potato chips fried with water instead of oil, fruit snack pieces that promote gut health in one go, and matcha lattes enjoyed in capsules…",
+    "published_at": "2026-11-08T21:01:50Z",
+    "source": "조선일보",
+    "score": 9,
+    "reason": "The article is directly about an innovation in potato chip production (water-fried chips), making it highly relevant to a potato chip news website.",
+    "image_url": "https://www.chosun.com/resizer/v2/5U7BB677MRG7BN6QT6HVZQVTZM.jpg?auth=d0f5c784e667fb00178061acf6e7eca05f3157cee47d937e2c8560d00a0134e1&width=1200&height=630&smart=true",
+    "category": "health"
+  },
+  {
+    "title": "We Tried Smash Kitchen’s Chips (& I’m Impressed For One Strange Reason)",
+    "url": "https://sporked.com/article/we-tried-smash-kitchens-chips/",
+    "snippet": "Another Smash Kitchen taste test on the agenda! This time we're trying a few flavors of their chips. Enough tortilla and potato chips to get...",
+    "published_at": "2026-11-08T18:01:50Z",
+    "source": "Sporked",
+    "score": 10,
+    "reason": "The article is a direct review/taste test of potato and tortilla chips, which falls under the highest relevance category.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/10/smash-kitchen-yellow-tortilla-chips.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "Walkers fans flummoxed by ‘creepy’ new crisp flavour in supermarkets",
     "url": "https://metro.co.uk/2025/11/21/walkers-fans-flummoxed-creepy-new-crisp-flavour-supermarkets-24768649/",
     "snippet": "They go on to share that the ingredients include dried tea leaves and rosemary extract but there's no mention of mushrooms, yet somehow the...",
@@ -9,6 +31,16 @@
     "reason": "The article is directly about a new flavor release from Walkers, a major chip brand, which falls under the highest relevance category.",
     "image_url": "https://metro.co.uk/wp-content/uploads/2025/11/GettyImages-1250089536-e1763721127729_1763723238.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
     "category": "reviews"
+  },
+  {
+    "title": "The 'Just One More' Potato Chip Phenomenon",
+    "url": "https://note.com/sagamihara_tana/n/n3e9dd865bd27?hl=en",
+    "snippet": "I only meant to have a little, but I reached the bottom of the bagYou open a bag of potato chips intending to have just a little bit.One chip, then another, and before you know it, the bag is empty.",
+    "published_at": "2026-11-07T02:29:00Z",
+    "score": 9,
+    "reason": "The article is directly about the consumer experience of potato chips, falling into the category of content focused specifically on the product.",
+    "image_url": "https://assets.st-note.com/production/uploads/images/333332052/rectangle_large_type_2_a1ba3fd3c0a47e4c6aff3499a4cd0d18.jpeg?fit=bounds&quality=85&width=1280",
+    "category": "health"
   },
   {
     "title": "The owner of St. Bruno Bread is launching a new brand to debut in Baton Rouge grocery stores",
@@ -44,6 +76,25 @@
     "category": "health"
   },
   {
+    "title": "The State That Makes The Most Potato Chips (Hint, It's Not Idaho)",
+    "url": "https://www.msn.com/en-us/news/other/the-state-that-makes-the-most-potato-chips-hint-its-not-idaho/ar-AA2gU8gy",
+    "snippet": "This state has a reputation for cheesesteak sandwiches and football games, but you might not be familiar with its passionate potato chip scene.",
+    "published_at": "2026-11-06T05:55:00Z",
+    "score": 9,
+    "reason": "The article is directly about the production and industry of potato chips, fitting the highest level of relevance for a specialized website.",
+    "category": "oddities"
+  },
+  {
+    "title": "Emsland Group Pea Flake Nearly Triples Protein in Baked Potato Chip Trial",
+    "url": "https://vegconomist.com/ingredients/emsland-group-pea-flake-nearly-triples-protein-baked-potato-chip-trial/",
+    "snippet": "German ingredient manufacturer Emsland Group has added a whole yellow pea flake to its portfolio. The company says a baked potato chip reformulated with the ...",
+    "published_at": "2026-11-06T05:12:00Z",
+    "score": 9,
+    "reason": "The article is directly about a product trial for baked potato chips, specifically regarding ingredient innovation to enhance the chip's nutritional profile.",
+    "image_url": "https://assets.vegconom.de/media/wp-content/uploads/sites/3/2026/11/06125813/Emsland-Group-Staerke-berndhempen-fotografie-Web-6d5052ce.webp",
+    "category": "health"
+  },
+  {
     "title": "Pringles India: Building a Premium Imported Snack Brand Before Scaling It",
     "url": "https://www.markhub24.com/post/pringles-india-building-a-premium-imported-snack-brand-before-scaling-it",
     "snippet": "Pringles entered India's snacking landscape through a corporate acquisition, not a local launch. Kellogg's bought Pringles from Procter...",
@@ -52,6 +103,15 @@
     "score": 9,
     "reason": "The article is brand news regarding Pringles, a major potato chip brand, making it directly relevant to the website's focus.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Wz-VsU9KYSoYuzUHs4fJaV0Z1AUI4WfxDW2ZAwbERdz4Y3bdF9v7PmFwcPz8SJyJ3sh7AKJ6udww6sUMGhjuvNMkOm59Udhyt91rpVMWe6T3&s",
+    "category": "business"
+  },
+  {
+    "title": "Two crisp flavours could vanish from shelves under EU deal",
+    "url": "https://www.msn.com/en-gb/news/other/two-crisp-flavours-could-vanish-from-shelves-under-eu-deal/ar-AA2gRUsi",
+    "snippet": "Proposed European legislation prohibits the use of \"meaty\" terminology when describing vegetarian food products ...",
+    "published_at": "2026-11-05T23:06:39Z",
+    "score": 7,
+    "reason": "The title mentions 'crisp' in a food context, which triggers the mandatory score of 7+ per the provided rules.",
     "category": "business"
   },
   {
