@@ -1,5 +1,25 @@
 [
   {
+    "title": "Koikeya Smoked-Salmon Chips Launch Online in Japan",
+    "url": "https://www.grocerytradenews.com/koikeya-smoked-salmon-potato-chips/",
+    "snippet": "Koikeya opens orders for smoked-salmon potato chips at ¥1680 per six-bag box. The online-only autumn order window closes on 17 November.",
+    "published_at": "2026-11-09T12:18:22Z",
+    "source": "Grocery Trade News",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new potato chip flavor from an established brand, falling into the highest relevance category.",
+    "image_url": "https://www.grocerytradenews.com/wp-content/uploads/2026/11/koikeya-smoked-salmon-crisps-launch-2026.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Smoky bacon crisps might disappear from UK shelves after new EU deal",
+    "url": "https://www.msn.com/en-gb/food-and-drink/recipes/smoky-bacon-crisps-might-disappear-from-uk-shelves-after-new-eu-deal/ar-AA2h4nxp",
+    "snippet": "The move could also impact many of your favourite snacks ...",
+    "published_at": "2026-11-09T06:53:39Z",
+    "score": 9,
+    "reason": "The article is directly about a specific flavor of crisps and its potential removal from the market, which falls under direct chip/crisp news.",
+    "category": "business"
+  },
+  {
     "title": "Water-Fried Chips, Yogurt Snacks Lead Healthy Trend",
     "url": "https://www.chosun.com/english/industry-en/2026/11/09/JFQ3COXDHZGOFMJWSO4BIWXDSY/",
     "snippet": "Potato chips fried with water instead of oil, fruit snack pieces that promote gut health in one go, and matcha lattes enjoyed in capsules…",
@@ -30,6 +50,16 @@
     "score": 10,
     "reason": "The article is directly about a new flavor release from Walkers, a major chip brand, which falls under the highest relevance category.",
     "image_url": "https://metro.co.uk/wp-content/uploads/2025/11/GettyImages-1250089536-e1763721127729_1763723238.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+    "category": "reviews"
+  },
+  {
+    "title": "[Shohei Ohtani's Favorite] Comparing Tokyo Station's Exclusive Evolved Potato Chips, \"Jaga Boulde\"! Why These Premium 1,200 Yen Chips Are Perfect for Treats and Gifts",
+    "url": "https://note.com/tottiko/n/na87901947fc7?hl=en",
+    "snippet": "There is a snack that became a hot topic after Shohei Ohtani praised it as \"the best potato chips I've ever eaten in my life.\" It is \"Jaga Boulde,\" an evolved potato chip exclusive to Tokyo Station, ...",
+    "published_at": "2026-11-08T05:43:00Z",
+    "score": 10,
+    "reason": "The article is directly about a specific brand of potato chips ('Jaga Boulde'), discussing its quality, price, and popularity. It falls into the highest relevance category.",
+    "image_url": "https://assets.st-note.com/production/uploads/images/333816818/rectangle_large_type_2_7d294cd9d56477af975faef723ea5d6f.jpg?fit=bounds&quality=85&width=1280",
     "category": "reviews"
   },
   {
