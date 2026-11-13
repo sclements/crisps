@@ -1,5 +1,27 @@
 [
   {
+    "title": "Popular Irish crisp flavour could be affected by new EU ban",
+    "url": "https://www.joe.ie/news/popular-irish-crisp-flavour-could-be-affected-by-new-eu-ban-889310",
+    "snippet": "A popular Irish crisp flavour may affected by a new EU food restrictions. Earlier this week, Kerry Inc. lost a legal challenge against the...",
+    "published_at": "2026-11-12T18:26:03Z",
+    "source": "JOE.ie",
+    "score": 9,
+    "reason": "The article is directly about a specific crisp flavor being affected by regulatory changes, which falls into the highest category of relevance for a chip/crisp news site.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmcQGLo3jrruhF5YlO8s5Uc8iJz8_y5LqCADKVoya_MC60lgGSwrNUK_x1TCfAsGeUN9MVtgSk1q1r-PXYlP6wCXUyQqC7j5I6bTMpRVMCOg&s",
+    "category": "recalls_safety"
+  },
+  {
+    "title": "I Buy Bag After Bag of These Crunchy Tortilla Chips (They’re the Absolute Best)",
+    "url": "https://www.thekitchn.com/mi-nina-tortilla-chips-review-23853327?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+    "snippet": "What makes for a truly great chip? Is it the crunch? Is it how much dip it can hold while retaining its structural integrity (read: it...",
+    "published_at": "2026-11-12T17:09:55Z",
+    "source": "The Kitchn",
+    "score": 8,
+    "reason": "The article is a review of tortilla chips, which falls under the 7-8 score range for closely related snack foods that are a kind of chip/crisp.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLqEBiX1HEId6x5itEYl_fO64e4kzHR8Ux_of5tRoYjYEfyIyMbt7vUe9gW-f_AO1IbqM5VcIZA3wacI-mVT-fqcjzTFU6Nx2jubMyC26tVhc&s",
+    "category": "reviews"
+  },
+  {
     "title": "Man Tries Woman's Bizarre Pregnancy-Craving Sandwich To See If It's Actually Any Good, And His Reaction Says It All",
     "url": "https://www.yahoo.com/entertainment/articles/man-tries-womans-bizarre-pregnancy-203430374.html",
     "snippet": "A woman showed off her weird sandwich that she created while pregnant and still loves even after, so a food and nutrition creator decided to follow her instructions, including potato chips, peanut",
@@ -9,6 +31,15 @@
     "reason": "The snippet specifically mentions 'potato chips' as an ingredient. According to the key rules, any mention of 'chips' in a food context requires a score of 7 or higher.",
     "image_url": "https://s.yimg.com/lo/mysterio/api/699bde85c4705d026c665823bcdae2aac46b1739ef698d8363f8d590ea74c78d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F100a7caf1b8b60c505235c7daaae2d1e.jpg",
     "category": "oddities"
+  },
+  {
+    "title": "Calbee Potato Chips Consomme Flavor for Thick Cut",
+    "url": "https://note.com/ryuskey/n/n05113e3f1164?hl=en",
+    "snippet": "I think potato chip enthusiasts each have their own favorite flavors. In my case, when the classics like \"Lightly Salted,\" \"Nori Salt,\" and \"Consomme\" are lined up, I inevitably reach for \"Nori Salt\" ...",
+    "published_at": "2026-11-11T02:58:00Z",
+    "score": 10,
+    "reason": "The article is directly about a specific new flavor of potato chips from the brand Calbee, fitting the highest relevance category.",
+    "category": "reviews"
   },
   {
     "title": "Lay’s Holiday Edition Hits Singapore With Crème Brûlée, Carbonara and Draft Beer Chips - MoneyDigest",
