@@ -1,5 +1,27 @@
 [
   {
+    "title": "Foie gras and filet mignon? With purchasing power in free-fall, maybe it's French chips instead",
+    "url": "https://www.courthousenews.com/foie-gras-and-filet-mignon-with-purchasing-power-in-free-fall-maybe-its-french-chips-instead",
+    "snippet": "The Made in France trade show, which promotes domestic manufacturing, is set to attract over 110000 visitors from Thursday to Sunday.",
+    "published_at": "2026-11-13T16:08:56Z",
+    "source": "Courthouse News",
+    "score": 7,
+    "reason": "The title mentions 'French chips' in a food context, which triggers the rule to score 7 or higher. It is an industry/economic trend piece regarding snack consumption.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lA1VyxfAKa6rIIJoQKo_rN0n5FThDyDi4RAauw9lUkfNAKqUI2jym_SMr1IIivzH181buDkCUm0U2XzJGp_NyCHMELrj05pA9SSdcXxi5HU&s",
+    "category": "business"
+  },
+  {
+    "title": "7 Forgotten Chips And Salty Snacks From The '70s We Miss Dearly",
+    "url": "https://www.tastingtable.com/2312647/forgotten-chips-snacks-70s/",
+    "snippet": "Forgotten chips and salty snacks from the 1970s we miss dearly: Planters chips, Chipos, Pizza Spins, Whistles, Daisy*s, Mister Salty,...",
+    "published_at": "2026-11-13T14:08:56Z",
+    "source": "Tasting Table",
+    "score": 9,
+    "reason": "The article is directly about chip brands and specific snack products, falling into the highest relevance category for a chip-focused news site.",
+    "image_url": "https://www.tastingtable.com/img/gallery/7-forgotten-chips-and-salty-snacks-from-the-70s-we-miss-dearly/l-intro-1794341340.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Popular Irish crisp flavour could be affected by new EU ban",
     "url": "https://www.joe.ie/news/popular-irish-crisp-flavour-could-be-affected-by-new-eu-ban-889310",
     "snippet": "A popular Irish crisp flavour may affected by a new EU food restrictions. Earlier this week, Kerry Inc. lost a legal challenge against the...",
@@ -20,6 +42,17 @@
     "reason": "The article is a review of tortilla chips, which falls under the 7-8 score range for closely related snack foods that are a kind of chip/crisp.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLqEBiX1HEId6x5itEYl_fO64e4kzHR8Ux_of5tRoYjYEfyIyMbt7vUe9gW-f_AO1IbqM5VcIZA3wacI-mVT-fqcjzTFU6Nx2jubMyC26tVhc&s",
     "category": "reviews"
+  },
+  {
+    "title": "M&S apologises after customer ate 'crispy moth' lurking in tortilla chips - Stroud News and Journal",
+    "url": "https://www.stroudnewsandjournal.co.uk/news/national/uk-today/26723032.m-s-apologises-customer-ate-moth-tortilla-chips/",
+    "snippet": "",
+    "published_at": "2026-11-12T11:30:38Z",
+    "source": "Stroud News and Journal",
+    "score": 8,
+    "reason": "The article discusses a food quality issue involving tortilla chips, which falls into the 7-8 category for closely related snack foods.",
+    "image_url": "https://www.stroudnewsandjournal.co.uk/resources/images/20831732.jpg?type=og-image",
+    "category": "recalls_safety"
   },
   {
     "title": "Man Tries Woman's Bizarre Pregnancy-Craving Sandwich To See If It's Actually Any Good, And His Reaction Says It All",
