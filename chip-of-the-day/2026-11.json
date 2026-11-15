@@ -137,5 +137,13 @@
     "event_url": "https://en.wikipedia.org/wiki/November_16",
     "image_url": "chip-of-the-day/images/2025-12-03.webp",
     "item_name": "Fish"
+  },
+  {
+    "date": "2026-11-17",
+    "description": "Today's pick is Herb Onion, drawn from the culinary traditions of Switzerland.",
+    "event_name": "Culinary traditions (Switzerland)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQcS3pKCNSWLcCbVtXX6uM1rUlpGCsBnN0uxoJNWZtkurCEwZNFEEMSOoJDxUzQSXYJuCLUP6JqrCLGp6qEpA4Hw9F6ZPJHQz2f6mcDgw6onkx0-cb2Eexc",
+    "item_name": "Herb Onion"
   }
 ]
