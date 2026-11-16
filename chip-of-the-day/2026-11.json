@@ -145,5 +145,16 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQcS3pKCNSWLcCbVtXX6uM1rUlpGCsBnN0uxoJNWZtkurCEwZNFEEMSOoJDxUzQSXYJuCLUP6JqrCLGp6qEpA4Hw9F6ZPJHQz2f6mcDgw6onkx0-cb2Eexc",
     "item_name": "Herb Onion"
+  },
+  {
+    "audience_countries": [
+      "Oman"
+    ],
+    "date": "2026-11-18",
+    "description": "Celebrating Oman's National Day, these Bakery Cardamom chips capture the aromatic warmth of traditional Omani sweets.",
+    "event_name": "National Day (Oman)",
+    "event_url": "https://en.wikipedia.org/wiki/November_18",
+    "image_url": "chip-of-the-day/images/2026-05-19.webp",
+    "item_name": "Bakery Cardamom"
   }
 ]
