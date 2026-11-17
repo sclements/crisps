@@ -156,5 +156,16 @@
     "event_url": "https://en.wikipedia.org/wiki/November_18",
     "image_url": "chip-of-the-day/images/2026-05-19.webp",
     "item_name": "Bakery Cardamom"
+  },
+  {
+    "audience_countries": [
+      "Belize"
+    ],
+    "date": "2026-11-19",
+    "description": "Honoring Garifuna Settlement Day, our Ceviche Plantain chips capture the bright, tangy coastal flavors of Belizean heritage.",
+    "event_name": "Garifuna Settlement Day (Belize)",
+    "event_url": "https://en.wikipedia.org/wiki/November_19",
+    "image_url": "chip-of-the-day/images/2025-12-09.webp",
+    "item_name": "Ceviche Plantain"
   }
 ]
