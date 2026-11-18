@@ -167,5 +167,16 @@
     "event_url": "https://en.wikipedia.org/wiki/November_19",
     "image_url": "chip-of-the-day/images/2025-12-09.webp",
     "item_name": "Ceviche Plantain"
+  },
+  {
+    "audience_countries": [
+      "Brazil"
+    ],
+    "date": "2026-11-20",
+    "description": "Celebrating Black Awareness Day in Brazil, our Bean Black Bean chips honor the deep and rich flavors of a soulful heritage.",
+    "event_name": "Black Awareness Day (Brazil)",
+    "event_url": "https://en.wikipedia.org/wiki/November_20",
+    "image_url": "chip-of-the-day/images/2025-12-02.webp",
+    "item_name": "Bean Black Bean"
   }
 ]

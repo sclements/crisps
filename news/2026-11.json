@@ -1,5 +1,38 @@
 [
   {
+    "title": "Burton's Fish 'n' Chips gets a festive sharing pack | News",
+    "url": "https://www.thegrocer.co.uk/news/burtons-fish-n-chips-gets-a-festive-sharing-pack/525814.article",
+    "snippet": "",
+    "published_at": "2026-11-18T09:31:52Z",
+    "source": "The Grocer",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which according to the key rules triggers a score of 7+.",
+    "image_url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/3/6/3/85363_FnC-Xmas-Caddy-web.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "16 Gluten-Free BBQ Potato Chips, Ranked",
+    "url": "https://www.tastingtable.com/2317228/bbq-potato-chips-gluten-free-ranked/",
+    "snippet": "",
+    "published_at": "2026-11-17T22:15:54Z",
+    "source": "Tasting Table",
+    "score": 10,
+    "reason": "The article is a direct review and ranking of potato chips, which falls into the highest relevance category.",
+    "image_url": "https://www.tastingtable.com/img/gallery/16-gluten-free-bbq-potato-chips-ranked/l-intro-1794784187.jpg",
+    "category": "reviews"
+  },
+  {
+    "title": "Shoppers Love Fond Regenerative’s Bone Broth. Now It Wants to Conquer the Potato Chip Aisle",
+    "url": "https://www.inc.com/ali-donaldson/fond-regenerative-beef-tallow-potato-chips/91437309",
+    "snippet": "",
+    "published_at": "2026-11-17T22:15:54Z",
+    "source": "Inc.com",
+    "score": 9,
+    "reason": "The article is brand news specifically regarding a company expanding into the potato chip market, which falls under direct chip-related news.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfBaRgaW4RJvxQGbRW1kC0IF42A6J9EalT3dLcm_3_OMjpH-kFB67bpw8cDyv9v6JAaMIAZv2vaEmM41v0cmdMhC8LgUOODfKcKQWucxnI6Ih2&s",
+    "category": "business"
+  },
+  {
     "title": "Modern Malaysian snacks: Turning beancurd skin into a cool new range of crisps",
     "url": "https://www.thestar.com.my/lifestyle/living/2026/11/17/modern-malaysian-snacks-turning-beancurd-skin-into-a-cool-new-range-of-crisps",
     "snippet": "Driven by entrepreneur Sivarajan Gunarajan, snack brand Fupi champions local cottage beancurd skin makers and hopes to go global.",
