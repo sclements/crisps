@@ -178,5 +178,13 @@
     "event_url": "https://en.wikipedia.org/wiki/November_20",
     "image_url": "chip-of-the-day/images/2025-12-02.webp",
     "item_name": "Bean Black Bean"
+  },
+  {
+    "date": "2026-11-21",
+    "description": "Today's pick is Lime, drawn from the culinary traditions of Zimbabwe.",
+    "event_name": "Culinary traditions (Zimbabwe)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhFqUJfEOQgOXxVwML04ktJz8Zzi2LUa_T1u05StwKY534wDjYjP0CPzgsX_cQyqZOzOMm18BopZNnUcacCTDEpHXzAZvC1NWJCp0rgk_7_CQqCP1Jc-aXKg",
+    "item_name": "Lime"
   }
 ]

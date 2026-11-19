@@ -1,5 +1,71 @@
 [
   {
+    "title": "Who Makes Trader Joe's Name-Brand Pita Chips?",
+    "url": "https://www.mashed.com/2314656/who-makes-trader-joes-name-brand-pita-chips/",
+    "snippet": "",
+    "published_at": "2026-11-19T01:00:05Z",
+    "source": "Mashed",
+    "score": 8,
+    "reason": "The article is about pita chips, which falls under closely related snack foods that are a kind of chip/crisp. Per the key rules, mentioning 'chips' in a food context guarantees a 7+ score.",
+    "image_url": "https://www.mashed.com/img/gallery/who-makes-trader-joes-name-brand-pita-chips/l-intro-1794499540.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Pickleman's Gourmet Cafe Launches Proprietary Potato Chip Line Featuring Non-GMO Ingredients, Signature Dill Pickle Flavor, and Partnership with Brave Like McKenna",
+    "url": "https://www.prnewswire.com/news-releases/picklemans-gourmet-cafe-launches-proprietary-potato-chip-line-featuring-non-gmo-ingredients-signature-dill-pickle-flavor-and-partnership-with-brave-like-mckenna-302944508.html",
+    "snippet": "",
+    "published_at": "2026-11-18T22:00:07Z",
+    "source": "PR Newswire",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new potato chip line, which fits the highest relevance category for news regarding new flavors and brand launches.",
+    "image_url": "https://mmx.prnewswire.com/media/MS2039314/Picklemans-chips-kettle-cooked-lineup.jpg?id=OA3090195&p=facebook",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Pectinase Pretreatment Significantly Enhances Crispness and Porosity in Fried Cassava Chips",
+    "url": "https://bioengineer.org/pectinase-pretreatment-significantly-enhances-crispness-and-porosity-in-fried-cassava-chips/",
+    "snippet": "",
+    "published_at": "2026-11-18T18:00:08Z",
+    "source": "Bioengineer.org",
+    "score": 8,
+    "reason": "The article is about veggie chips (cassava), which falls into the 7-8 category. Because it explicitly mentions 'chips' in a food context, it meets the rule for a 7+ score.",
+    "image_url": "https://bioengineer.org/wp-content/uploads/2026/11/stackrss-featured-6485.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "California woman petitions Trader Joe’s to restock Organic White Truffle Chips",
+    "url": "https://www.themarysue.com/california-woman-petitions-trader-joes-to-keep-organic-white-truffle-potato-chips-on-the-shelves-she-says-its-the-one-solid-food-she-could-eat/",
+    "snippet": "",
+    "published_at": "2026-11-18T17:00:05Z",
+    "source": "The Mary Sue",
+    "score": 9,
+    "reason": "The article is directly about a specific chip flavor and brand news regarding the restocking of a product, which falls under the highest relevance category.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNXqCh3GscSu4iR0E6BD7E7yu0kWu3gg2Bz8moVnonb_Fhh-59of1Y932KCPQomW5UCpVSLBh6s--5SkdJFr9ErMhijO4K_th1eU1tm22IvwI&s",
+    "category": "oddities"
+  },
+  {
+    "title": "Country Calendar: Chips from South Island’s Heartland feature on this week’s show",
+    "url": "https://www.thepost.co.nz/culture/361115111/country-calendar-chips-heartland",
+    "snippet": "",
+    "published_at": "2026-11-18T15:00:16Z",
+    "source": "The Post NZ",
+    "score": 9,
+    "reason": "The title directly mentions 'Chips' in a food context, which falls into the top category for being directly about potato chips.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo4L9vAAgI_Rv-9s6vrSVLWsdXIME2xtvHrfoMor_7dr2C2zqYkZB0X2KOYpsUEEVvOKPLTnv31FgaKBYXZDYFfBQrbAJwg8j_PqjNw_KHjuQh&s",
+    "category": "oddities"
+  },
+  {
+    "title": "A Trader Joe’s Thanksgiving Favorite Snack Is Back—But Is the Bag Smaller This Year?",
+    "url": "https://parade.com/food/a-trader-joes-thanksgiving-favorite-snack-is-back-but-is-the-bag-smaller-this-year",
+    "snippet": "",
+    "published_at": "2026-11-18T15:00:08Z",
+    "source": "Parade Magazine",
+    "score": 7,
+    "reason": "The article is about the re-release of a specific snack product from Trader Joe's. While it doesn't explicitly use the word 'chip' in the title, seasonal snack news is highly relevant to a chip/crisp website. If the snack is revealed to be a chip or crisp, it would score even higher (9-10).",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4M7smZ-aOxgmRaBE1-s6zBoSLnfCc9zZh6UaunKkvvSfURNwu33fEuJxMjYSWDBmiUD7UuEE6e0mok3pOTr-3XNZxxDVwwbsaP7NI2YBkv7y&s",
+    "category": "new_flavors"
+  },
+  {
     "title": "Burton's Fish 'n' Chips gets a festive sharing pack | News",
     "url": "https://www.thegrocer.co.uk/news/burtons-fish-n-chips-gets-a-festive-sharing-pack/525814.article",
     "snippet": "",
