@@ -186,5 +186,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhFqUJfEOQgOXxVwML04ktJz8Zzi2LUa_T1u05StwKY534wDjYjP0CPzgsX_cQyqZOzOMm18BopZNnUcacCTDEpHXzAZvC1NWJCp0rgk_7_CQqCP1Jc-aXKg",
     "item_name": "Lime"
+  },
+  {
+    "date": "2026-11-22",
+    "description": "Today's pick is Garlic Hatch Waffle, drawn from the culinary traditions of Nepal.",
+    "event_name": "Culinary traditions (Nepal)",
+    "event_url": "USDA Cache",
+    "image_url": "https://images.heb.com/is/image/HEBGrocery/001878736-1",
+    "item_name": "Garlic Hatch Waffle"
   }
 ]

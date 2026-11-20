@@ -1,5 +1,27 @@
 [
   {
+    "title": "Unique potatoes, dedicated farmers behind one of Australia's longest running chip snacks",
+    "url": "https://www.abc.net.au/news/2021-08-07/dedicated-farmers-growing-unique-potatoes-drive-smiths-chips/100262100",
+    "snippet": "",
+    "published_at": "2026-11-20T09:39:37Z",
+    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+    "score": 9,
+    "reason": "The title directly refers to the production and history of a long-running potato chip brand, making it highly relevant.",
+    "image_url": "https://live-production.wcms.abc-cdn.net.au/891efeeb4181af911720ec84b6915945?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+    "category": "business"
+  },
+  {
+    "title": "Why I’ll Never Open a Bag of Chips Again Without Doing This Brilliant Trick",
+    "url": "https://ca.style.yahoo.com/why-ll-never-open-bag-000000444.html",
+    "snippet": "",
+    "published_at": "2026-11-20T00:03:32Z",
+    "source": "Yahoo Lifestyle Canada",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which according to the rules guarantees a score of 7 or higher. While it is a 'life hack' rather than brand news, it is directly relevant to chip consumers.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/23e624097c9e984a0223e6485c87458e27c390245884e8ab442d7d8c03bc65fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_kitchn_ca_826%2F2103bda2bd2865ffaff86276ec261ff2.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Who Makes Trader Joe's Name-Brand Pita Chips?",
     "url": "https://www.mashed.com/2314656/who-makes-trader-joes-name-brand-pita-chips/",
     "snippet": "",
@@ -656,6 +678,17 @@
     "score": 10,
     "reason": "The article is a direct review/tasting of Calbee potato chips, which falls into the highest category for relevance.",
     "image_url": "https://assets.st-note.com/production/uploads/images/329632175/rectangle_large_type_2_413ac5f8b01b9b4c004f20ff63c203ca.png?fit=bounds&quality=85&width=1280",
+    "category": "reviews"
+  },
+  {
+    "title": "We Tried Aldi’s Maple Sweet Potato Chips",
+    "url": "https://sporked.com/article/we-tried-aldis-maple-sweet-potato-chips/",
+    "snippet": "",
+    "published_at": "2026-10-21T09:03:33Z",
+    "source": "Sporked",
+    "score": 9,
+    "reason": "The article is a product review of sweet potato chips, which falls directly into the top tier for relevance to a chip-focused website.",
+    "image_url": "https://sporked.com/wp-content/uploads/2026/08/aldi-clancys-sweet-potato-chip.jpg",
     "category": "reviews"
   },
   {
