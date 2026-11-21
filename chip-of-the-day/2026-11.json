@@ -73,19 +73,19 @@
       "Switzerland"
     ],
     "date": "2026-11-09",
-    "description": "Celebrating the spirit of ingenuity on this Inventors' Day, our Potatoes Mustard chips offer a sharp and clever flavor breakthrough.",
+    "description": "Celebrating the spirit of ingenuity on this Inventors' Day, our Mustard chips offer a sharp and clever flavor breakthrough.",
     "event_name": "Inventors' Day (Germany, Austria, Switzerland)",
     "event_url": "https://en.wikipedia.org/wiki/November_9",
     "image_url": "chip-of-the-day/images/2025-12-14.webp",
-    "item_name": "Potatoes Mustard"
+    "item_name": "Mustard"
   },
   {
     "date": "2026-11-10",
-    "description": "Today's pick is Sharp, drawn from the culinary traditions of Kosovo.",
-    "event_name": "Culinary traditions (Kosovo)",
+    "description": "Today's pick is Tomato Salsa, drawn from the culinary traditions of Mauritius.",
+    "event_name": "Culinary traditions (Mauritius)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIQ48VX-09Q6zQv8kE-Y8fHLVb7_gZU6-FNbzoKlhLRPDl_6yOMtoACzp06LZVcNjP_OdsVE4nBlLol7OGngOamzWdy3xq5Q",
-    "item_name": "Sharp"
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSe1kHYWi3pWvPXtvqjc7LXfly2b3bnpoJcr3NHSapVqvcKFSTxuEnMLt2CdMcmqPXU9bD1X6qJo8Bl9CxcDwWfwg4nJAsZ",
+    "item_name": "Tomato Salsa"
   },
   {
     "date": "2026-11-11",
@@ -162,37 +162,45 @@
       "Belize"
     ],
     "date": "2026-11-19",
-    "description": "Honoring Garifuna Settlement Day, our Ceviche Plantain chips capture the bright, tangy coastal flavors of Belizean heritage.",
+    "description": "Honoring Garifuna Settlement Day, our Ceviche chips capture the bright, tangy coastal flavors of Belizean heritage.",
     "event_name": "Garifuna Settlement Day (Belize)",
     "event_url": "https://en.wikipedia.org/wiki/November_19",
     "image_url": "chip-of-the-day/images/2025-12-09.webp",
-    "item_name": "Ceviche Plantain"
+    "item_name": "Ceviche"
   },
   {
     "audience_countries": [
       "Brazil"
     ],
     "date": "2026-11-20",
-    "description": "Celebrating Black Awareness Day in Brazil, our Bean Black Bean chips honor the deep and rich flavors of a soulful heritage.",
+    "description": "Celebrating Black Awareness Day in Brazil, our Black Bean chips honor the deep and rich flavors of a soulful heritage.",
     "event_name": "Black Awareness Day (Brazil)",
     "event_url": "https://en.wikipedia.org/wiki/November_20",
     "image_url": "chip-of-the-day/images/2025-12-02.webp",
-    "item_name": "Bean Black Bean"
+    "item_name": "Black Bean"
   },
   {
     "date": "2026-11-21",
-    "description": "Today's pick is Lime, drawn from the culinary traditions of Zimbabwe.",
-    "event_name": "Culinary traditions (Zimbabwe)",
+    "description": "Today's pick is Manchego Cheese, drawn from the culinary traditions of Spain.",
+    "event_name": "Culinary traditions (Spain)",
     "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhFqUJfEOQgOXxVwML04ktJz8Zzi2LUa_T1u05StwKY534wDjYjP0CPzgsX_cQyqZOzOMm18BopZNnUcacCTDEpHXzAZvC1NWJCp0rgk_7_CQqCP1Jc-aXKg",
-    "item_name": "Lime"
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQW4qfLI1css_LbgcDKrgcpz3gkVGnjxjvmUjyJy8kcSHEq422srB9B7-SfPKkcZl7MhRJJ8LGma2magUnBb_SRWsvRmGC5SAMm5Epj9cArfyknPm_YoltX",
+    "item_name": "Manchego Cheese"
   },
   {
     "date": "2026-11-22",
-    "description": "Today's pick is Garlic Hatch Waffle, drawn from the culinary traditions of Nepal.",
-    "event_name": "Culinary traditions (Nepal)",
-    "event_url": "USDA Cache",
-    "image_url": "https://images.heb.com/is/image/HEBGrocery/001878736-1",
-    "item_name": "Garlic Hatch Waffle"
+    "description": "Today's pick is Gravy, drawn from the culinary traditions of Canada.",
+    "event_name": "Culinary traditions (Canada)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgB9bL5PJS4uaKCA3aXYPviO5ZYy8Mwl5mlijxay7M_9kCCV-fCI1Mtbxb24ayEkM-9QaQIp2AmEfdFqNwVhvIenjFpBkCdwjsZSdogzQ6l8lgDzWxkPMy4Q",
+    "item_name": "Gravy"
+  },
+  {
+    "date": "2026-11-23",
+    "description": "Today's pick is Za'atar Thyme, drawn from the culinary traditions of Jordan.",
+    "event_name": "Culinary traditions (Jordan)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUHzLzMQNQjpxeU9Il2U0e1pFWgu0DuFXeHQJxnWKgFSujyjcpTvBv8M47b7-aAGXNDmgqSh3LFiN8KyoMfnzTK_lgHnuS_QgCtEMlye-58LW2VQ1gtFzi",
+    "item_name": "Za'atar Thyme"
   }
 ]

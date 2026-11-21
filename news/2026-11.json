@@ -1,5 +1,49 @@
 [
   {
+    "title": "Snack Report: The battle for least worst 'chip cracker'",
+    "url": "https://thespinoff.co.nz/kai/21-11-2026/snack-report-the-battle-for-least-worst-chip-cracker",
+    "snippet": "",
+    "published_at": "2026-11-21T02:03:03Z",
+    "source": "The Spinoff",
+    "score": 7,
+    "reason": "The title mentions 'chip', which triggers the rule to score 7 or higher. The topic appears to be a comparison of hybrid snack products.",
+    "image_url": "https://images.thespinoff.co.nz/images/01a1e168-72ae-74aa-a641-7dd1892ca733",
+    "category": "reviews"
+  },
+  {
+    "title": "Emeril Lagasse's Favorite Potato Chip Brand Is A Louisiana Legend",
+    "url": "https://www.yahoo.com/entertainment/celebrity/articles/emeril-lagasses-favorite-potato-chip-172500717.html",
+    "snippet": "",
+    "published_at": "2026-11-20T19:03:01Z",
+    "source": "Yahoo",
+    "score": 10,
+    "reason": "The article is directly about a potato chip brand, which falls into the highest relevance category.",
+    "image_url": "https://s.yimg.com/lo/mysterio/api/5ec3228f6f57fa609063075e545aa7143bc915a17d0140e10849b94b5c9bc062/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchowhound_739%2Fc4cf84ff67991ef3f0bea3793e37a18c.jpg",
+    "category": "oddities"
+  },
+  {
+    "title": "Grace adds larger sharing packs and new flavour to plantain chips range",
+    "url": "https://www.talkingretail.com/products-news/crisps-snacks/grace-adds-larger-sharing-packs-and-new-flavour-to-plantain-chips-range-20-11-2026/",
+    "snippet": "",
+    "published_at": "2026-11-20T16:03:11Z",
+    "source": "Talking Retail",
+    "score": 8,
+    "reason": "The article is about plantain chips, which falls under the category of closely related snack foods (veggie/fruit chips) as defined in the 7-8 rubric, and triggers the 'always score 7+' rule for mentioning 'chips' in a food context.",
+    "image_url": "https://cdn.mercury.emap.com/wp-content/uploads/sites/9/2026/11/Grace-Plantain-Chips-Trio_edited-1024x545.webp",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Beef tallow serves as cooking fat in new potato chip line",
+    "url": "https://www.provisioneronline.com/articles/121550-beef-tallow-serves-as-cooking-fat-in-new-potato-chip-line",
+    "snippet": "",
+    "published_at": "2026-11-20T16:03:01Z",
+    "source": "The National Provisioner",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new potato chip product line, which falls into the highest relevance category.",
+    "image_url": "https://www.provisioneronline.com/ext/resources/2026/11/20/DSC01865.jpg?height=635&t=1795193635&width=1200",
+    "category": "new_flavors"
+  },
+  {
     "title": "Unique potatoes, dedicated farmers behind one of Australia's longest running chip snacks",
     "url": "https://www.abc.net.au/news/2021-08-07/dedicated-farmers-growing-unique-potatoes-drive-smiths-chips/100262100",
     "snippet": "",
@@ -8,6 +52,17 @@
     "score": 9,
     "reason": "The title directly refers to the production and history of a long-running potato chip brand, making it highly relevant.",
     "image_url": "https://live-production.wcms.abc-cdn.net.au/891efeeb4181af911720ec84b6915945?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+    "category": "business"
+  },
+  {
+    "title": "Township youth takes on snack giants with new potato chips brand",
+    "url": "https://www.ewn.co.za/2026/11/19/township-youth-takes-on-snack-giants-with-new-potato-chips-brand",
+    "snippet": "",
+    "published_at": "2026-11-20T09:03:15Z",
+    "source": "EWN",
+    "score": 10,
+    "reason": "The article is directly about the launch of a new potato chips brand, which falls under the highest relevance category.",
+    "image_url": "https://media-cache.primedia-service.com/media/wwodyheq/philani-zwane-potato-chips.png?width=1200&height=630",
     "category": "business"
   },
   {
