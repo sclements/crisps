@@ -169,15 +169,12 @@
     "item_name": "Ceviche"
   },
   {
-    "audience_countries": [
-      "Brazil"
-    ],
     "date": "2026-11-20",
-    "description": "Celebrating Black Awareness Day in Brazil, our Black Bean chips honor the deep and rich flavors of a soulful heritage.",
-    "event_name": "Black Awareness Day (Brazil)",
-    "event_url": "https://en.wikipedia.org/wiki/November_20",
-    "image_url": "chip-of-the-day/images/2025-12-02.webp",
-    "item_name": "Black Bean"
+    "description": "Today's pick is Gochujang Bbq, drawn from the culinary traditions of South Korea.",
+    "event_name": "Culinary traditions (South Korea)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRLALOm2kfeKgNu3w4bub6GMhTq-RU5B65rC3QzK-y64i7dFC4LNbTtFnV6vsY0dNahvlNh4RhulC8IF49ufnee87px6Knys8GjyG-Y80T2hd8RgycA8zZt",
+    "item_name": "Gochujang Bbq"
   },
   {
     "date": "2026-11-21",
@@ -210,5 +207,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQZF8-0FzbnXggmYjoahYmrgS1x5j3JZ1O4DMCr1Yab9Nf8zJOmN8dnNj7ZhNiMxKuZZ8VAdLown_YOuSEeaCxCCvzz0Oca-UgoK1AuV4oviUk_cdIz62KwUQ",
     "item_name": "Cinnamon Apple"
+  },
+  {
+    "date": "2026-11-25",
+    "description": "Today's pick is Garlic Butter Irish, drawn from the culinary traditions of Ireland.",
+    "event_name": "Culinary traditions (Ireland)",
+    "event_url": "Google Shopping",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQCkFV_K5dcfCH3FOKET4VfclQgiZrr0QQzm-Wr6z1hN8M_8qIWMBhKuaYk04LLnyytTIJZS52B7n7VxGmksy1aitJ6AvHF8d-cuZyGX6MomJl9DfQEg_yv-A",
+    "item_name": "Garlic Butter Irish"
   }
 ]
