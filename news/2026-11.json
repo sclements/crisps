@@ -1,5 +1,27 @@
 [
   {
+    "title": "Haitai Confectionary's potato chip \"Honey Butter Chip\" tasted spicy for the first time in 12 years.",
+    "url": "https://www.mk.co.kr/en/business/12216981",
+    "snippet": "",
+    "published_at": "2026-11-24T03:00:07Z",
+    "source": "매일경제",
+    "score": 10,
+    "reason": "The article is directly about a new flavor release for a specific potato chip brand, which falls under the highest relevance category.",
+    "image_url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.8ffe666ab22544fa89a0e4fa76c196a6_R.png",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Why is it so hard to stop eating chips? Scientists studied 1,600 Americans to find the reason - The Economic Times",
+    "url": "https://m.economictimes.com/science/why-is-it-so-hard-to-stop-eating-chips-scientists-studied-1600-americans-to-find-the-reason/articleshow/136102362.cms",
+    "snippet": "",
+    "published_at": "2026-11-23T15:00:26Z",
+    "source": "The Economic Times",
+    "score": 7,
+    "reason": "The title mentions 'chips' in a food context, which triggers the rule to score 7+. It is not news about specific brands or flavors (9-10), but it is directly related to the subject matter of chips.",
+    "image_url": "https://img.etimg.com/thumb/msid-136107032,width-1200,height-900,imgsize-72872,overlay-economictimes/articleshow.jpg",
+    "category": "oddities"
+  },
+  {
     "title": "Piattos Snow Cheese? URC CEO shares new limited edition hit snack WATCH: URC president and CEO Irwin Lee shares a bag of Piattos Snow Cheese with the media on Friday, November 20. Lee says the limited edition chips have been \"flying off the shelve",
     "url": "https://www.facebook.com/rapplerdotcom/videos/piattos-snow-cheese-urc-ceo-shares-new-limited-edition-hit-snack-watch-urc-presi/4803987339842266/",
     "snippet": "",
@@ -843,5 +865,15 @@
     "reason": "The title directly refers to a 'potato chip project', making it highly relevant to a potato chip news website.",
     "image_url": "https://eastoregonian.com/wp-content/uploads/sites/7/2026/09/20230620_091529.jpg",
     "category": "business"
+  },
+  {
+    "title": "Pringles Debuts First-of-its-Kind New Chip in Three Unforgettable Flavors: ‘Thicker and Wavier Than Ever’ - Parade Magazine",
+    "url": "https://parade.com/food/pringles-debuts-dippers-in-three-unforgettable",
+    "snippet": "",
+    "published_at": "2026-08-27T07:00:00Z",
+    "source": "Parade Magazine",
+    "score": 10,
+    "reason": "The article is directly about a new product launch from Pringles, involving new chip flavors and branding, which is top-tier relevant content for a potato chip/crisps website.",
+    "category": "new_flavors"
   }
 ]
