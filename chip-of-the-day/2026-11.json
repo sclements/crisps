@@ -217,12 +217,15 @@
     "item_name": "Garlic Butter Irish"
   },
   {
+    "audience_countries": [
+      "United States"
+    ],
     "date": "2026-11-26",
-    "description": "Celebrating Mongolia's Republic Day, these Roast Rib Beef chips capture the bold and hearty spirit of national tradition.",
-    "event_name": "Republic Day (Mongolia)",
-    "event_url": "Google Shopping",
-    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTu_3wthVG0U9p5PySnNPpsrKoond5TCKDELphU6DQmTSh5mCG63dVx1e8pMRhw0nrKJsN0HDK8dWZA9Y-HG23d37E2myrDvS__qW5ZXOL9cVJz8AhPONhf",
-    "item_name": "Roast Rib Beef"
+    "description": "Today is Thanksgiving, a meal featuring ingredients native to the Americas. These Sea Salt Sweet Potato chips honor that tradition.",
+    "event_name": "Thanksgiving (United States)",
+    "event_url": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+    "image_url": "https://sukli.com/cdn/shop/files/Jans-SeaSaltSweetPotatoChips-3OZ_2048x2048.jpg?v=1712171137",
+    "item_name": "Sea Salt Sweet Potato"
   },
   {
     "date": "2026-11-27",
