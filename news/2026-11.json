@@ -1,5 +1,60 @@
 [
   {
+    "title": "Hawaiian Chip Company cooks up plans for Oahu's ultimate snack destination",
+    "url": "https://www.kitv.com/kakou/hustle/hawaiian-chip-company-cooks-up-plans-for-oahus-ultimate-snack-destination/article_950d8466-2ff4-4819-9612-87dfba852c11.html",
+    "snippet": "",
+    "published_at": "2026-11-24T18:00:02Z",
+    "source": "KITV",
+    "score": 8,
+    "reason": "The title mentions a chip brand/company and business expansion news, which is highly relevant to the snack industry.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51Oe_RBinfYPp650_7hp3uyTx-bXjtuOF3jS0i40GZL-yQUrb-KCWJQpkhJm0m5uaEKoZehJd22k5dvVqVovZM5Iw33VfLxDSFlAnhzJzMhlJ&s",
+    "category": "business"
+  },
+  {
+    "title": "Thanksgiving Taste Test: Chips & Soda",
+    "url": "https://www.kcrg.com/video/2026/11/24/thanksgiving-taste-test-chips-soda/",
+    "snippet": "",
+    "published_at": "2026-11-24T17:00:02Z",
+    "source": "KCRG",
+    "score": 9,
+    "reason": "The title explicitly mentions a 'Chips' taste test, which falls under the review category for direct relevance.",
+    "image_url": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-24-2026%2Ft_b21445d743ab41b69f73985341f5ddce_name_file_1280x720_2000_v3_1_.jpg?auth=fb57c9cae3273f36dc8f7f799e0365906d79c3fb411a3c026add6401e99fc58b&width=1200&height=600&smart=true",
+    "category": "reviews"
+  },
+  {
+    "title": "In 1923, two Birmingham grocers began selling potato chips and peanut butter cracker sandwiches from a store basement; 93 years later, Utz bought Golden Flake for $135 million",
+    "url": "https://parade.com/food/potato-chips-peanut-butter-cracker-sandwiches-utz-bought-golden-flake-135-million",
+    "snippet": "",
+    "published_at": "2026-11-24T17:00:02Z",
+    "source": "Parade Magazine",
+    "score": 8,
+    "reason": "The article discusses the history and acquisition of major potato chip brands (Utz and Golden Flake), which falls under snack industry business.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIfKhdZ5Az--c6tO_YCjhyOIYTRukEQUm3PPFgpONrfjLo-ul5iFEKz5wiwoubqv_u3Er1-oL46D7qdPUGIlnW4pCiV39Nyq6fWbsnYglYu5Z&s",
+    "category": "business"
+  },
+  {
+    "title": "How a pasta chip is cracking the snack aisle",
+    "url": "https://www.bakeryandsnacks.com/Article/2026/11/24/how-tantos-puffed-pasta-chips-is-disrupting-the-us-snack-aisle/",
+    "snippet": "",
+    "published_at": "2026-11-24T17:00:02Z",
+    "source": "BakeryAndSnacks.com",
+    "score": 7,
+    "reason": "The article is about 'pasta chips,' which fall under the category of closely related snack foods that are a kind of chip. Per the rules, mentions of 'chip' in a food context require a score of 7 or higher.",
+    "image_url": "https://www.bakeryandsnacks.com/resizer/v2/YFYVIYEMUFGLBOZTNCXP7W4AZE.jpg?auth=691fc9c2293aa985802afbfcd0e09e1d1b00f877b7249686a59890021d20955b&width=1200&height=630&smart=true",
+    "category": "business"
+  },
+  {
+    "title": "Fond Regenerative enters salty snacks category",
+    "url": "https://www.foodbusinessnews.net/articles/31396-fond-regenerative-enters-salty-snacks-category",
+    "snippet": "",
+    "published_at": "2026-11-24T15:00:02Z",
+    "source": "Food Business News",
+    "score": 7,
+    "reason": "This is industry business news regarding a brand entering the snack market. While 'salty snacks' is a broad category that includes non-chip items, it is the primary subject of the article rather than a passing mention, making it highly relevant to a snack-focused news site.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwh0zDtPMGg2N3WDCUGwJWrFQlhs1hpO7Tr1iORZ6q29J8G64scytVvJQYSr7L3Erh1Omr7a-kWdHF8xLkAR5G6BlkakP8RiQdGHrHv_fAMDS&s",
+    "category": "business"
+  },
+  {
     "title": "Haitai Confectionary's potato chip \"Honey Butter Chip\" tasted spicy for the first time in 12 years.",
     "url": "https://www.mk.co.kr/en/business/12216981",
     "snippet": "",
