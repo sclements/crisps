@@ -234,5 +234,13 @@
     "event_url": "Google Shopping",
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHDGVA2Tvyw8EDjSPL72qGX6fcik3MEvrJtFmvnUZsNiieROCMYGlY0WEaRg7Z9DWpbdivctdRbaN3NNzXodCZnObKXndV91YLmKZjo-rN",
     "item_name": "Roasted Seaweed"
+  },
+  {
+    "date": "2026-11-28",
+    "description": "November is Millet and Teff Month, the Whole Grains Council's Grain of the Month, so today's pick is Millet.",
+    "event_name": "Millet and Teff Month, the Whole Grains Council's Grain of the Month (United States)",
+    "event_url": "https://wholegrainscouncil.org/whole-grains-101/grain-of-the-month-calendar",
+    "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1SZ1RxtDtz8X3wkbnaNGE69oi94sr31HhMOLKZP0Jl2-4hLnnOuEla1ZoiGUkNVoI1GhzCFHXbirdFVCFCaRWNGtoNsK_u1njaIsNASk9IhcBtgQOB7VuLA",
+    "item_name": "Millet"
   }
 ]

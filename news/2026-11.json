@@ -1,5 +1,16 @@
 [
   {
+    "title": "The Best Great Value Potato Chips On Store Shelves Outshine Original And BBQ",
+    "url": "https://www.tastingtable.com/2321218/best-great-value-potato-chips-chile-adobo/",
+    "snippet": "",
+    "published_at": "2026-11-25T20:00:03Z",
+    "source": "Tasting Table",
+    "score": 10,
+    "reason": "The article is directly about potato chips, specifically a review/comparison of brands and flavors.",
+    "image_url": "https://www.tastingtable.com/img/gallery/the-best-great-value-potato-chips-on-store-shelves-outshine-original-and-bbq/l-intro-1795027946.jpg",
+    "category": "reviews"
+  },
+  {
     "title": "Hawaiian Chip Company cooks up plans for Oahu's ultimate snack destination",
     "url": "https://www.kitv.com/kakou/hustle/hawaiian-chip-company-cooks-up-plans-for-oahus-ultimate-snack-destination/article_950d8466-2ff4-4819-9612-87dfba852c11.html",
     "snippet": "",
@@ -52,6 +63,26 @@
     "score": 7,
     "reason": "This is industry business news regarding a brand entering the snack market. While 'salty snacks' is a broad category that includes non-chip items, it is the primary subject of the article rather than a passing mention, making it highly relevant to a snack-focused news site.",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwh0zDtPMGg2N3WDCUGwJWrFQlhs1hpO7Tr1iORZ6q29J8G64scytVvJQYSr7L3Erh1Omr7a-kWdHF8xLkAR5G6BlkakP8RiQdGHrHv_fAMDS&s",
+    "category": "business"
+  },
+  {
+    "title": "Crisp-mad mum gets bizarre tattoo in bid to win £500,000 Walkers prize",
+    "url": "https://www.msn.com/en-gb/news/other/crisp-mad-mum-gets-bizarre-tattoo-in-bid-to-win-500-000-walkers-prize/ar-AA2i9CJf",
+    "snippet": "Walkers superfan Becky Dibble has taken her bid to win £500,000 to extraordinary lengths by getting her own crisp flavour tattooed on her leg ahead of the competition deadline.",
+    "published_at": "2026-11-24T09:27:32Z",
+    "score": 9,
+    "reason": "The article is directly related to brand news and a new flavor competition from Walkers, a major potato chip brand.",
+    "category": "oddities"
+  },
+  {
+    "title": "Rocky Mountain Snacks Builds Innovative Snack Food Facility in Wyoming for JD Manufacturing",
+    "url": "https://www.potatopro.com/news/2026/rocky-mountain-snacks-builds-innovative-snack-food-facility-wyoming-jd-manufacturing",
+    "snippet": "",
+    "published_at": "2026-11-24T09:00:06Z",
+    "source": "PotatoPro",
+    "score": 7,
+    "reason": "The article is about business news involving a snack food manufacturer, which falls under the category of snack industry business news regarding brands and makers.",
+    "image_url": "https://media.potatopro.com/rocky-mountain-snacks-facility-1200.jpg",
     "category": "business"
   },
   {
@@ -162,6 +193,15 @@
     "reason": "The article is directly about the launch of a new potato chips brand, which falls under the highest relevance category.",
     "image_url": "https://media-cache.primedia-service.com/media/wwodyheq/philani-zwane-potato-chips.png?width=1200&height=630",
     "category": "business"
+  },
+  {
+    "title": "Chicken chips: Flattened ground chicken baked until crisp",
+    "url": "https://www.msn.com/en-sg/news/other/chicken-chips-flattened-ground-chicken-baked-until-crisp/vi-AA1YHJLM",
+    "snippet": "Honeysuckle flattens seasoned ground chicken, bakes it until crisp and evaluates the resulting snack. The video focuses on taste and texture to see whether the chicken chips work in practice.",
+    "published_at": "2026-11-20T06:15:34Z",
+    "score": 7,
+    "reason": "The article is about 'chicken chips', which falls into the category of protein-based chips/closely related snack foods.",
+    "category": "oddities"
   },
   {
     "title": "Why I’ll Never Open a Bag of Chips Again Without Doing This Brilliant Trick",
