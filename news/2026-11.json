@@ -1,5 +1,38 @@
 [
   {
+    "title": "Kettle Chips launches Sriracha Mayo and Dill Pickle crisps",
+    "url": "https://www.thegrocer.co.uk/news/kettle-chips-launches-sriracha-mayo-and-dill-pickle-crisps/677941.article",
+    "snippet": "",
+    "published_at": "2026-11-27T09:01:24Z",
+    "source": "The Grocer",
+    "score": 10,
+    "reason": "The article is directly about new flavors being launched by a potato chip brand, which falls into the highest relevance category.",
+    "image_url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/4/9/9/290499_kettle_308296_crop.jpg",
+    "category": "new_flavors"
+  },
+  {
+    "title": "Want to find your new favourite crisp? Good Food has it in the bag",
+    "url": "https://www.theage.com.au/goodfood/tips-and-advice/want-to-find-your-new-favourite-crisp-good-food-has-it-in-the-bag-20260317-p5ob6i.html",
+    "snippet": "",
+    "published_at": "2026-11-27T09:01:23Z",
+    "source": "The Age",
+    "score": 9,
+    "reason": "The title directly addresses finding new crisps (potato chips), which falls into the category of product reviews and recommendations.",
+    "image_url": "https://static.ffx.io/images/$zoom_0.1294%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_61/t_crop_custom/q_86%2Cf_auto/t_metro_goodfood_no_label_no_age_social_wm/e64bb6aebe359011c1d570ce028bb56d526b6f28",
+    "category": "reviews"
+  },
+  {
+    "title": "The posh crisp guide — the best nine to buy",
+    "url": "https://www.thetimes.com/life-style/food-drink/article/best-posh-crisps-rated-053s0jrzt",
+    "snippet": "",
+    "published_at": "2026-11-27T05:00:09Z",
+    "source": "The Times",
+    "score": 10,
+    "reason": "The article is a review guide specifically for high-end crisps (potato chips), which falls directly into the top tier of relevance.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXFvYD4fVxRaf8-AAJQ_u_iEK-XpydDwg5l6585x3zjSSet1iEbmAF-5eLPkyW_s6dzakpGZttMcSdkmhwnb5Mupdm1YgPvr-YcQGOz9_Xrwut&s",
+    "category": "reviews"
+  },
+  {
     "title": "The Best Great Value Potato Chips On Store Shelves Outshine Original And BBQ",
     "url": "https://www.tastingtable.com/2321218/best-great-value-potato-chips-chile-adobo/",
     "snippet": "",
