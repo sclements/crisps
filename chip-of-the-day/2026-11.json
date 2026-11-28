@@ -250,5 +250,16 @@
     "event_url": "https://en.wikipedia.org/wiki/Sunday_roast",
     "image_url": "https://us.britishessentials.com/cdn/shop/products/June1241_x700.jpg?v=1623477863",
     "item_name": "Roast Beef"
+  },
+  {
+    "audience_countries": [
+      "United States"
+    ],
+    "date": "2026-11-30",
+    "description": "Today marks the birth of plant explorer Frank N. Meyer, namesake of the hybrid Meyer lemon. These Lemon Basil chips are in his honor.",
+    "event_name": "Frank N. Meyer born (1875), plant explorer the Meyer lemon is named for (United States)",
+    "event_url": "https://en.wikipedia.org/wiki/Frank_Nicholas_Meyer",
+    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjjAj37cUBuvMuqR_f8t4WXWydfTgkvfihgpAPsHDoQY4zOofTe7h8xLzUrPNZCSQ5GWFitdOM-WYHcq8gSHF1ecF4ddZs",
+    "item_name": "Lemon Basil"
   }
 ]

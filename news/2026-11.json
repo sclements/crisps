@@ -1,5 +1,16 @@
 [
   {
+    "title": "More British Crisps coming to the United States: Pipers Crisps Potato Chips",
+    "url": "https://www.potatopro.com/news/2017/more-british-crisps-coming-united-states-pipers-crisps-potato-chips",
+    "snippet": "",
+    "published_at": "2026-11-28T09:01:16Z",
+    "source": "PotatoPro",
+    "score": 10,
+    "reason": "The article is directly about brand news regarding a potato chip company (Pipers Crisps) expanding its market reach.",
+    "image_url": "https://media.potatopro.com/potatopro-4700x2057.png?width=1400",
+    "category": "business"
+  },
+  {
     "title": "Kettle Chips launches Sriracha Mayo and Dill Pickle crisps",
     "url": "https://www.thegrocer.co.uk/news/kettle-chips-launches-sriracha-mayo-and-dill-pickle-crisps/677941.article",
     "snippet": "",
@@ -434,6 +445,17 @@
     "score": 8,
     "reason": "The article is about a business deal involving Utz, a well-known chip brand, which falls under the category of snack industry business regarding chip makers.",
     "image_url": "https://www.grocerytradenews.com/wp-content/uploads/2026/11/utz-intersnack-deal-crisps-gtn.jpg",
+    "category": "business"
+  },
+  {
+    "title": "Plans confirmed to reopen Glens of Antrim Potato crisp factory - BBC",
+    "url": "https://www.bbc.com/news/articles/c893rglg5914o",
+    "snippet": "",
+    "published_at": "2026-11-16T08:00:00Z",
+    "source": "BBC",
+    "score": 9,
+    "reason": "The article is directly about the reopening of a potato crisp factory, which constitutes primary industry and brand news for the chip-focused niche.",
+    "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4487/live/5fc35e20-b664-11f1-b785-7d19738c6de2.jpg",
     "category": "business"
   },
   {
@@ -953,6 +975,17 @@
     "category": "reviews"
   },
   {
+    "title": "Lays Rolls Out 5 Holiday Inspired Potato Chip Flavors Including Turkey And Chocolate - News12 | New Jersey",
+    "url": "https://newjersey.news12.com/2026/10/26/lays-rolls-out-5-holiday-inspired-potato-chip-flavors-including-turkey-and-chocolate/5tfpj9eF6vJNhHvclNMUlK",
+    "snippet": "",
+    "published_at": "2026-10-26T07:00:00Z",
+    "source": "News12 | New Jersey",
+    "score": 10,
+    "reason": "The article is directly about new potato chip flavors from a major brand (Lays), which falls into the highest relevance category.",
+    "image_url": "https://images-cf.news12static.com/3kqcuzntcg31/7r2qtid6pJXyQHxMgrFXkW/30bd7e4a456f4b23ebe6f47ddee863f3/Holi-LAY-S-Group-Shot-2.jpg",
+    "category": "new_flavors"
+  },
+  {
     "title": "We Tried Aldi’s Maple Sweet Potato Chips",
     "url": "https://sporked.com/article/we-tried-aldis-maple-sweet-potato-chips/",
     "snippet": "",
@@ -993,6 +1026,17 @@
     "reason": "The title directly refers to a 'potato chip project', making it highly relevant to a potato chip news website.",
     "image_url": "https://eastoregonian.com/wp-content/uploads/sites/7/2026/09/20230620_091529.jpg",
     "category": "business"
+  },
+  {
+    "title": "Croky comes with a new flavor of our favorite fries - FavorFlav.com",
+    "url": "https://favorflav.com/en/new/croky-comes-with-a-new-flavor-of-our-favorite-fries/",
+    "snippet": "",
+    "published_at": "2026-09-06T05:03:37Z",
+    "source": "FavorFlav.com",
+    "score": 9,
+    "reason": "The article is about a new flavor launch from Croky, a well-known potato chip brand.",
+    "image_url": "https://favorflav.com/images/tempImageCYNZDc.jpg",
+    "category": "reviews"
   },
   {
     "title": "Pringles Debuts First-of-its-Kind New Chip in Three Unforgettable Flavors: ‘Thicker and Wavier Than Ever’ - Parade Magazine",
